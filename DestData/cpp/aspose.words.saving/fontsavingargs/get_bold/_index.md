@@ -1,7 +1,8 @@
 ---
-title: get_Bold
+title: Aspose::Words::Saving::FontSavingArgs::get_Bold method
+linktitle: get_Bold
 second_title: Aspose.Words for C++ API Reference
-description: Indicates whether the current font is bold.
+description: Aspose::Words::Saving::FontSavingArgs::get_Bold method. Indicates whether the current font is bold in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/fontsavingargs/get_bold/
@@ -86,4 +87,4 @@ private:
 
 * Class [FontSavingArgs](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

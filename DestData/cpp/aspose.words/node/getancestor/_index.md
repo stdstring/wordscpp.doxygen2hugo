@@ -1,7 +1,8 @@
 ---
-title: GetAncestor
+title: Aspose::Words::Node::GetAncestor method
+linktitle: GetAncestor
 second_title: Aspose.Words for C++ API Reference
-description: Gets the first ancestor of the specified NodeType.
+description: Aspose::Words::Node::GetAncestor method. Gets the first ancestor of the specified NodeType in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words/node/getancestor/
@@ -98,4 +99,4 @@ static int GetChildTableCount(SharedPtr<Table> table)
 * Enum [NodeType](../../nodetype/)
 * Class [Node](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Italic
+title: Aspose::Words::Drawing::TextPath::get_Italic method
+linktitle: get_Italic
 second_title: Aspose.Words for C++ API Reference
-description: True if the font is formatted as italic.
+description: Aspose::Words::Drawing::TextPath::get_Italic method. True if the font is formatted as italic in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/textpath/get_italic/
@@ -130,4 +131,4 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

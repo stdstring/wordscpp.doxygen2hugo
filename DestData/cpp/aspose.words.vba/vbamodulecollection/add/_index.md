@@ -1,7 +1,8 @@
 ---
-title: Add
+title: Aspose::Words::Vba::VbaModuleCollection::Add method
+linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds a module to the collection.
+description: Aspose::Words::Vba::VbaModuleCollection::Add method. Adds a module to the collection in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.vba/vbamodulecollection/add/
@@ -46,4 +47,4 @@ doc->Save(ArtifactsDir + u"VbaProject.CreateVBAMacros.docm");
 * Class [VbaModule](../../vbamodule/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

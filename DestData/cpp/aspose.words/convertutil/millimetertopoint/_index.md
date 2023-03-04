@@ -1,7 +1,8 @@
 ---
-title: MillimeterToPoint
+title: Aspose::Words::ConvertUtil::MillimeterToPoint method
+linktitle: MillimeterToPoint
 second_title: Aspose.Words for C++ API Reference
-description: Converts millimeters to points.
+description: Aspose::Words::ConvertUtil::MillimeterToPoint method. Converts millimeters to points in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/convertutil/millimetertopoint/
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndMillimeters.docx");
 
 * Class [ConvertUtil](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

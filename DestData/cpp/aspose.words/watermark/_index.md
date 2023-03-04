@@ -1,7 +1,8 @@
 ---
-title: Watermark
+title: Aspose::Words::Watermark class
+linktitle: Watermark
 second_title: Aspose.Words for C++ API Reference
-description: Represents class to work with document watermark. To learn more, visit the  documentation article.
+description: Aspose::Words::Watermark class. Represents class to work with document watermark. To learn more, visit the  documentation article in C++.
 type: docs
 weight: 976
 url: /cpp/aspose.words/watermark/
@@ -29,4 +30,4 @@ class Watermark : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

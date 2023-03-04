@@ -1,7 +1,8 @@
 ---
-title: get_AllowOverlap
+title: Aspose::Words::Drawing::ShapeBase::get_AllowOverlap method
+linktitle: get_AllowOverlap
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value that specifies whether this shape can overlap other shapes.
+description: Aspose::Words::Drawing::ShapeBase::get_AllowOverlap method. Gets or sets a value that specifies whether this shape can overlap other shapes in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/shapebase/get_allowoverlap/
@@ -54,4 +55,4 @@ if (table->get_TextWrapping() == TextWrapping::Around)
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

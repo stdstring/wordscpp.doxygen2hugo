@@ -1,7 +1,8 @@
 ---
-title: get_Characters
+title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Characters method
+linktitle: get_Characters
 second_title: Aspose.Words for C++ API Reference
-description: Represents an estimate of the number of characters in the document.
+description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Characters method. Represents an estimate of the number of characters in the document in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_characters/
@@ -160,4 +161,4 @@ private:
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_LabelValue
+title: Aspose::Words::Lists::ListLabel::get_LabelValue method
+linktitle: get_LabelValue
 second_title: Aspose.Words for C++ API Reference
-description: Gets a numeric value for this label.
+description: Aspose::Words::Lists::ListLabel::get_LabelValue method. Gets a numeric value for this label in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.lists/listlabel/get_labelvalue/
@@ -54,4 +55,4 @@ for (auto paragraph : System::IterateOver(
 
 * Class [ListLabel](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

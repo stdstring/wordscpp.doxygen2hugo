@@ -1,7 +1,8 @@
 ---
-title: set_TempFolder
+title: Aspose::Words::Loading::LoadOptions::set_TempFolder method
+linktitle: set_TempFolder
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Loading::LoadOptions::get_TempFolder.'
+description: Aspose::Words::Loading::LoadOptions::set_TempFolder method. Setter for Aspose::Words::Loading::LoadOptions::get_TempFolder in C++.
 type: docs
 weight: 352
 url: /cpp/aspose.words.loading/loadoptions/set_tempfolder/
@@ -19,4 +20,4 @@ void Aspose::Words::Loading::LoadOptions::set_TempFolder(const System::String &v
 
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

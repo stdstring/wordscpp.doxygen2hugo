@@ -1,7 +1,8 @@
 ---
-title: get_UseAntiAliasing
+title: Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing method
+linktitle: get_UseAntiAliasing
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining whether or not to use anti-aliasing for rendering.
+description: Aspose::Words::Saving::SaveOptions::get_UseAntiAliasing method. Gets or sets a value determining whether or not to use anti-aliasing for rendering in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.saving/saveoptions/get_useantialiasing/
@@ -48,4 +49,4 @@ doc->Save(ArtifactsDir + u"Document.ImageSaveOptions.HighQuality.jpg", options);
 
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

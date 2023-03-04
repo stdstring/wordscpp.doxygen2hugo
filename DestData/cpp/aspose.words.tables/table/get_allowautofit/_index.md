@@ -1,7 +1,8 @@
 ---
-title: get_AllowAutoFit
+title: Aspose::Words::Tables::Table::get_AllowAutoFit method
+linktitle: get_AllowAutoFit
 second_title: Aspose.Words for C++ API Reference
-description: Allows Microsoft Word and Aspose.Words to automatically resize cells in a table to fit their contents.
+description: Aspose::Words::Tables::Table::get_AllowAutoFit method. Allows Microsoft Word and Aspose.Words to automatically resize cells in a table to fit their contents in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.tables/table/get_allowautofit/
@@ -55,4 +56,4 @@ doc->Save(ArtifactsDir + u"Table.AllowAutoFitOnTable.html");
 
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

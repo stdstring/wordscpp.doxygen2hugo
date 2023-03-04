@@ -1,7 +1,8 @@
 ---
-title: ConvertUtil
+title: Aspose::Words::ConvertUtil class
+linktitle: ConvertUtil
 second_title: Aspose.Words for C++ API Reference
-description: Provides helper functions to convert between various measurement units.
+description: Aspose::Words::ConvertUtil class. Provides helper functions to convert between various measurement units in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words/convertutil/
@@ -86,4 +87,4 @@ doc->Save(ArtifactsDir + u"UtilityClasses.PointsAndInches.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

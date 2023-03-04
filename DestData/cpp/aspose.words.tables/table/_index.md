@@ -1,7 +1,8 @@
 ---
-title: Table
+title: Aspose::Words::Tables::Table class
+linktitle: Table
 second_title: Aspose.Words for C++ API Reference
-description: Represents a table in a Word document.
+description: Aspose::Words::Tables::Table class. Represents a table in a Word document in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.tables/table/
@@ -296,4 +297,4 @@ static SharedPtr<Table> CreateTable(SharedPtr<Document> doc, int rowCount, int c
 
 * Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::Tables](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

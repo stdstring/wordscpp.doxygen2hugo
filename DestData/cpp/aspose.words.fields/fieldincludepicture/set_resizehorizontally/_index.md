@@ -1,7 +1,8 @@
 ---
-title: set_ResizeHorizontally
+title: Aspose::Words::Fields::FieldIncludePicture::set_ResizeHorizontally method
+linktitle: set_ResizeHorizontally
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIncludePicture::get_ResizeHorizontally.'
+description: Aspose::Words::Fields::FieldIncludePicture::set_ResizeHorizontally method. Setter for Aspose::Words::Fields::FieldIncludePicture::get_ResizeHorizontally in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldincludepicture/set_resizehorizontally/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIncludePicture::set_ResizeHorizontally(bool val
 
 * Class [FieldIncludePicture](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

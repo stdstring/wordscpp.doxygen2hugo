@@ -1,7 +1,8 @@
 ---
-title: get_Visible
+title: Aspose::Words::Drawing::Fill::get_Visible method
+linktitle: get_Visible
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets value that is true if the formatting applied to this instance, is visible.
+description: Aspose::Words::Drawing::Fill::get_Visible method. Gets or sets value that is true if the formatting applied to this instance, is visible in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.drawing/fill/get_visible/
@@ -93,4 +94,4 @@ doc->Save(ArtifactsDir + u"Drawing.VariousShapes.docx");
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

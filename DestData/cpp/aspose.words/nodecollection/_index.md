@@ -1,7 +1,8 @@
 ---
-title: NodeCollection
+title: Aspose::Words::NodeCollection class
+linktitle: NodeCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of nodes of a specific type.
+description: Aspose::Words::NodeCollection class. Represents a collection of nodes of a specific type in C++.
 type: docs
 weight: 547
 url: /cpp/aspose.words/nodecollection/
@@ -98,4 +99,4 @@ doc->Save(ArtifactsDir + u"Shape.ReplaceTextboxesWithImages.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

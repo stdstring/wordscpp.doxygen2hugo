@@ -1,7 +1,8 @@
 ---
-title: ConvertUtil
+title: Aspose::Words::ConvertUtil::ConvertUtil constructor
+linktitle: ConvertUtil
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use ConvertUtil constructor of Aspose::Words::ConvertUtil class in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/convertutil/convertutil/
@@ -19,4 +20,4 @@ Aspose::Words::ConvertUtil::ConvertUtil()=delete
 
 * Class [ConvertUtil](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

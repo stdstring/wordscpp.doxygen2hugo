@@ -1,7 +1,8 @@
 ---
-title: get_TextWrapping
+title: Aspose::Words::Tables::Table::get_TextWrapping method
+linktitle: get_TextWrapping
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets TextWrapping for table.
+description: Aspose::Words::Tables::Table::get_TextWrapping method. Gets or sets TextWrapping for table in C++.
 type: docs
 weight: 469
 url: /cpp/aspose.words.tables/table/get_textwrapping/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"Table.WrapText.docx");
 * Enum [TextWrapping](../../textwrapping/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

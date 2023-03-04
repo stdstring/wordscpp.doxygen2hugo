@@ -1,7 +1,8 @@
 ---
-title: set_OptimizeOutput
+title: Aspose::Words::Saving::FixedPageSaveOptions::set_OptimizeOutput method
+linktitle: set_OptimizeOutput
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput.'
+description: Aspose::Words::Saving::FixedPageSaveOptions::set_OptimizeOutput method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_optimizeoutput/
@@ -19,4 +20,4 @@ virtual void Aspose::Words::Saving::FixedPageSaveOptions::set_OptimizeOutput(boo
 
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

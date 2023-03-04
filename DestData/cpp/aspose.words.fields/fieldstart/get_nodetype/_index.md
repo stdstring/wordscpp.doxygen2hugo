@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Fields::FieldStart::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns FieldStart.
+description: Aspose::Words::Fields::FieldStart::get_NodeType method. Returns FieldStart in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldstart/get_nodetype/
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [FieldStart](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

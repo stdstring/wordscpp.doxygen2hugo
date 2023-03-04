@@ -1,7 +1,8 @@
 ---
-title: CustomXmlProperty
+title: Aspose::Words::Markup::CustomXmlProperty class
+linktitle: CustomXmlProperty
 second_title: Aspose.Words for C++ API Reference
-description: Represents a single custom XML attribute or a smart tag property.
+description: Aspose::Words::Markup::CustomXmlProperty class. Represents a single custom XML attribute or a smart tag property in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.markup/customxmlproperty/
@@ -126,4 +127,4 @@ public:
 ## See Also
 
 * Namespace [Aspose::Words::Markup](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

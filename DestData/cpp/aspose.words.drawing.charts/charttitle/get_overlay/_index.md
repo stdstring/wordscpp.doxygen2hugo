@@ -1,7 +1,8 @@
 ---
-title: get_Overlay
+title: Aspose::Words::Drawing::Charts::ChartTitle::get_Overlay method
+linktitle: get_Overlay
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether other chart elements shall be allowed to overlap title. By default overlay is false.
+description: Aspose::Words::Drawing::Charts::ChartTitle::get_Overlay method. Determines whether other chart elements shall be allowed to overlap title. By default overlay is false in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/charttitle/get_overlay/
@@ -46,4 +47,4 @@ doc->Save(ArtifactsDir + u"Charts.ChartTitle.docx");
 
 * Class [ChartTitle](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

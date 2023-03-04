@@ -1,7 +1,8 @@
 ---
-title: get_MappedDataFields
+title: Aspose::Words::MailMerging::MailMerge::get_MappedDataFields method
+linktitle: get_MappedDataFields
 second_title: Aspose.Words for C++ API Reference
-description: Returns a collection that represents mapped data fields for the mail merge operation.
+description: Aspose::Words::MailMerging::MailMerge::get_MappedDataFields method. Returns a collection that represents mapped data fields for the mail merge operation in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.mailmerging/mailmerge/get_mappeddatafields/
@@ -24,4 +25,4 @@ Mapped data fields allow to automatically map between names of fields in your da
 * Class [MappedDataFieldCollection](../../mappeddatafieldcollection/)
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

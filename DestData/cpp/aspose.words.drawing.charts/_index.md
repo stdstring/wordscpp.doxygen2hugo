@@ -1,7 +1,8 @@
 ---
-title: 'Aspose::Words::Drawing::Charts'
+title: Aspose::Words::Drawing::Charts namespace
+linktitle: Aspose::Words::Drawing::Charts
 second_title: Aspose.Words for C++ API Reference
-description: The Aspose.Words.Drawing.Charts namespace provides classes that allow to access charts in Microsoft Word documents.
+description: Aspose::Words::Drawing::Charts namespace. The Aspose.Words.Drawing.Charts namespace provides classes that allow to access charts in Microsoft Word documents in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.drawing.charts/

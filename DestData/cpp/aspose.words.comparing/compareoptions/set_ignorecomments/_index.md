@@ -1,7 +1,8 @@
 ---
-title: set_IgnoreComments
+title: Aspose::Words::Comparing::CompareOptions::set_IgnoreComments method
+linktitle: set_IgnoreComments
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreComments.'
+description: Aspose::Words::Comparing::CompareOptions::set_IgnoreComments method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreComments in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.comparing/compareoptions/set_ignorecomments/
@@ -19,4 +20,4 @@ void Aspose::Words::Comparing::CompareOptions::set_IgnoreComments(bool value)
 
 * Class [CompareOptions](../)
 * Namespace [Aspose::Words::Comparing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

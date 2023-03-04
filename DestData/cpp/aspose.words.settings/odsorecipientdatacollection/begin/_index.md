@@ -1,7 +1,8 @@
 ---
-title: begin
+title: Aspose::Words::Settings::OdsoRecipientDataCollection::begin method
+linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use begin method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/begin/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin() con
 * Typedef [const_iterator](../const_iterator/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## OdsoRecipientDataCollection::begin() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin() noexcept
 * Typedef [iterator](../iterator/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

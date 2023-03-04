@@ -1,7 +1,8 @@
 ---
-title: set_Document
+title: Aspose::Words::DocumentBuilder::set_Document method
+linktitle: set_Document
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::DocumentBuilder::get_Document.'
+description: Aspose::Words::DocumentBuilder::set_Document method. Setter for Aspose::Words::DocumentBuilder::get_Document in C++.
 type: docs
 weight: 794
 url: /cpp/aspose.words/documentbuilder/set_document/
@@ -20,4 +21,4 @@ void Aspose::Words::DocumentBuilder::set_Document(const System::SharedPtr<Aspose
 * Class [Document](../../document/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

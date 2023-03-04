@@ -1,7 +1,8 @@
 ---
-title: set_FontFamily
+title: Aspose::Words::Drawing::TextPath::set_FontFamily method
+linktitle: set_FontFamily
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::TextPath::get_FontFamily.'
+description: Aspose::Words::Drawing::TextPath::set_FontFamily method. Setter for Aspose::Words::Drawing::TextPath::get_FontFamily in C++.
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/textpath/set_fontfamily/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::TextPath::set_FontFamily(const System::String &valu
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

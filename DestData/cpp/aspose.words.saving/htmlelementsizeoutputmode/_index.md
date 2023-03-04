@@ -1,7 +1,8 @@
 ---
-title: HtmlElementSizeOutputMode
+title: Aspose::Words::Saving::HtmlElementSizeOutputMode enum
+linktitle: HtmlElementSizeOutputMode
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how Aspose.Words exports element widths and heights to HTML, MHTML and EPUB.
+description: Aspose::Words::Saving::HtmlElementSizeOutputMode enum. Specifies how Aspose.Words exports element widths and heights to HTML, MHTML and EPUB in C++.
 type: docs
 weight: 742
 url: /cpp/aspose.words.saving/htmlelementsizeoutputmode/
@@ -89,4 +90,4 @@ else
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

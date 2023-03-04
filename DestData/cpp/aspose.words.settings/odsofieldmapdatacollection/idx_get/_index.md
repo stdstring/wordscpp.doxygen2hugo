@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::Settings::OdsoFieldMapDataCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets an item in this collection.
+description: Aspose::Words::Settings::OdsoFieldMapDataCollection::idx_get method. Gets or sets an item in this collection in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/idx_get/
@@ -20,4 +21,4 @@ System::SharedPtr<Aspose::Words::Settings::OdsoFieldMapData> Aspose::Words::Sett
 * Class [OdsoFieldMapData](../../odsofieldmapdata/)
 * Class [OdsoFieldMapDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

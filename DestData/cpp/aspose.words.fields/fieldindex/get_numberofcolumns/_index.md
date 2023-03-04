@@ -1,7 +1,8 @@
 ---
-title: get_NumberOfColumns
+title: Aspose::Words::Fields::FieldIndex::get_NumberOfColumns method
+linktitle: get_NumberOfColumns
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the number of columns per page used when building the index.
+description: Aspose::Words::Fields::FieldIndex::get_NumberOfColumns method. Gets or sets the number of columns per page used when building the index in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fieldindex/get_numberofcolumns/
@@ -89,4 +90,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

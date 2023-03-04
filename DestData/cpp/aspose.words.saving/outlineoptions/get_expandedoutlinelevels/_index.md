@@ -1,7 +1,8 @@
 ---
-title: get_ExpandedOutlineLevels
+title: Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels method
+linktitle: get_ExpandedOutlineLevels
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how many levels in the document outline to show expanded when the file is viewed.
+description: Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels method. Specifies how many levels in the document outline to show expanded when the file is viewed in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/outlineoptions/get_expandedoutlinelevels/
@@ -85,4 +86,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 
 * Class [OutlineOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

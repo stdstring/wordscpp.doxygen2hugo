@@ -1,7 +1,8 @@
 ---
-title: Border
+title: Aspose::Words::Border class
+linktitle: Border
 second_title: Aspose.Words for C++ API Reference
-description: Represents a border of an object.
+description: Aspose::Words::Border class. Represents a border of an object in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/border/
@@ -78,4 +79,4 @@ doc->Save(ArtifactsDir + u"Border.ParagraphTopBorder.docx");
 
 * Class [InternableComplexAttr](../internablecomplexattr/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

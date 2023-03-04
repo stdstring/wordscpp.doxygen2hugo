@@ -1,7 +1,8 @@
 ---
-title: Clear
+title: Aspose::Words::Properties::DocumentPropertyCollection::Clear method
+linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Removes all properties from the collection.
+description: Aspose::Words::Properties::DocumentPropertyCollection::Clear method. Removes all properties from the collection in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.properties/documentpropertycollection/clear/
@@ -82,4 +83,4 @@ ASSERT_EQ(0, properties->get_Count());
 
 * Class [DocumentPropertyCollection](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

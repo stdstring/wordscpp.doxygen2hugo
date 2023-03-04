@@ -1,7 +1,8 @@
 ---
-title: get_GradientVariant
+title: Aspose::Words::Drawing::Fill::get_GradientVariant method
+linktitle: get_GradientVariant
 second_title: Aspose.Words for C++ API Reference
-description: Gets the gradient variant GradientVariant for the fill.
+description: Aspose::Words::Drawing::Fill::get_GradientVariant method. Gets the gradient variant GradientVariant for the fill in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.drawing/fill/get_gradientvariant/
@@ -61,4 +62,4 @@ doc->Save(ArtifactsDir + u"Shape.GradientFill.docx", saveOptions);
 * Enum [GradientVariant](../../gradientvariant/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

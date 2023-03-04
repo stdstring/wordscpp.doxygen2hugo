@@ -1,7 +1,8 @@
 ---
-title: get_ChromaKey
+title: Aspose::Words::Drawing::ImageData::get_ChromaKey method
+linktitle: get_ChromaKey
 second_title: Aspose.Words for C++ API Reference
-description: Defines the color value of the image that will be treated as transparent.
+description: Aspose::Words::Drawing::ImageData::get_ChromaKey method. Defines the color value of the image that will be treated as transparent in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/imagedata/get_chromakey/
@@ -85,4 +86,4 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

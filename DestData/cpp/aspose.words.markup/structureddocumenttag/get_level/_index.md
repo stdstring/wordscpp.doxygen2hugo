@@ -1,7 +1,8 @@
 ---
-title: get_Level
+title: Aspose::Words::Markup::StructuredDocumentTag::get_Level method
+linktitle: get_Level
 second_title: Aspose.Words for C++ API Reference
-description: Gets the level at which this SDT occurs in the document tree.
+description: Aspose::Words::Markup::StructuredDocumentTag::get_Level method. Gets the level at which this SDT occurs in the document tree in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.markup/structureddocumenttag/get_level/
@@ -76,4 +77,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 * Enum [MarkupLevel](../../markuplevel/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

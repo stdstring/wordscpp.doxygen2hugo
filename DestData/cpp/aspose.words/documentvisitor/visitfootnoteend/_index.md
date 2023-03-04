@@ -1,7 +1,8 @@
 ---
-title: VisitFootnoteEnd
+title: Aspose::Words::DocumentVisitor::VisitFootnoteEnd method
+linktitle: VisitFootnoteEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a footnote or endnote text has ended.
+description: Aspose::Words::DocumentVisitor::VisitFootnoteEnd method. Called when enumeration of a footnote or endnote text has ended in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words/documentvisitor/visitfootnoteend/
@@ -108,4 +109,4 @@ private:
 * Class [Footnote](../../../aspose.words.notes/footnote/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

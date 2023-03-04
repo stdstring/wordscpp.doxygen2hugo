@@ -1,7 +1,8 @@
 ---
-title: get_IsDeleteRevision
+title: Aspose::Words::Drawing::ShapeBase::get_IsDeleteRevision method
+linktitle: get_IsDeleteRevision
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this object was deleted in Microsoft Word while change tracking was enabled.
+description: Aspose::Words::Drawing::ShapeBase::get_IsDeleteRevision method. Returns true if this object was deleted in Microsoft Word while change tracking was enabled in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words.drawing/shapebase/get_isdeleterevision/
@@ -65,4 +66,4 @@ ASSERT_TRUE(shapes[1]->get_IsInsertRevision());
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

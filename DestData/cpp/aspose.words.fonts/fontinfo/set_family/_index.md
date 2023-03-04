@@ -1,7 +1,8 @@
 ---
-title: set_Family
+title: Aspose::Words::Fonts::FontInfo::set_Family method
+linktitle: set_Family
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fonts::FontInfo::get_Family.'
+description: Aspose::Words::Fonts::FontInfo::set_Family method. Setter for Aspose::Words::Fonts::FontInfo::get_Family in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fonts/fontinfo/set_family/
@@ -20,4 +21,4 @@ void Aspose::Words::Fonts::FontInfo::set_Family(Aspose::Words::Fonts::FontFamily
 * Enum [FontFamily](../../fontfamily/)
 * Class [FontInfo](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

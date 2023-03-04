@@ -1,7 +1,8 @@
 ---
-title: get_Paragraphs
+title: Aspose::Words::Tables::Cell::get_Paragraphs method
+linktitle: get_Paragraphs
 second_title: Aspose.Words for C++ API Reference
-description: Gets a collection of paragraphs that are immediate children of the cell.
+description: Aspose::Words::Tables::Cell::get_Paragraphs method. Gets a collection of paragraphs that are immediate children of the cell in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.tables/cell/get_paragraphs/
@@ -48,4 +49,4 @@ doc->Save(ArtifactsDir + u"Table.KeepTableTogether.docx");
 * Class [ParagraphCollection](../../../aspose.words/paragraphcollection/)
 * Class [Cell](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

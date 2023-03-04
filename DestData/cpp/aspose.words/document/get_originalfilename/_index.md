@@ -1,7 +1,8 @@
 ---
-title: get_OriginalFileName
+title: Aspose::Words::Document::get_OriginalFileName method
+linktitle: get_OriginalFileName
 second_title: Aspose.Words for C++ API Reference
-description: Gets the original file name of the document.
+description: Aspose::Words::Document::get_OriginalFileName method. Gets the original file name of the document in C++.
 type: docs
 weight: 469
 url: /cpp/aspose.words/document/get_originalfilename/
@@ -64,4 +65,4 @@ Shows how to use the [FileFormatUtil](../../fileformatutil/) methods to detect t
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

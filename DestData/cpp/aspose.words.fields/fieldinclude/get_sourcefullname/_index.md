@@ -1,7 +1,8 @@
 ---
-title: get_SourceFullName
+title: Aspose::Words::Fields::FieldInclude::get_SourceFullName method
+linktitle: get_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the location of the document.
+description: Aspose::Words::Fields::FieldInclude::get_SourceFullName method. Gets or sets the location of the document in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldinclude/get_sourcefullname/
@@ -43,4 +44,4 @@ doc->Save(ArtifactsDir + u"Field.INCLUDE.docx");
 
 * Class [FieldInclude](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

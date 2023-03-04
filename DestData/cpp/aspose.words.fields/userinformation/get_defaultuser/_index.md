@@ -1,7 +1,8 @@
 ---
-title: get_DefaultUser
+title: Aspose::Words::Fields::UserInformation::get_DefaultUser method
+linktitle: get_DefaultUser
 second_title: Aspose.Words for C++ API Reference
-description: Default user information.
+description: Aspose::Words::Fields::UserInformation::get_DefaultUser method. Default user information in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/userinformation/get_defaultuser/
@@ -57,4 +58,4 @@ doc->Save(ArtifactsDir + u"FieldOptions.CurrentUser.docx");
 * Class [UserInformation](../)
 * Class [UserInformation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_CrossesAt
+title: Aspose::Words::Drawing::Charts::ChartAxis::set_CrossesAt method
+linktitle: set_CrossesAt
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_CrossesAt.'
+description: Aspose::Words::Drawing::Charts::ChartAxis::set_CrossesAt method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_CrossesAt in C++.
 type: docs
 weight: 391
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_crossesat/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Charts::ChartAxis::set_CrossesAt(double value)
 
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

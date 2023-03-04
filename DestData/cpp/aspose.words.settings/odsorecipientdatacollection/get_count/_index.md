@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::Settings::OdsoRecipientDataCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of elements contained in the collection.
+description: Aspose::Words::Settings::OdsoRecipientDataCollection::get_Count method. Gets the number of elements contained in the collection in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/get_count/
@@ -19,4 +20,4 @@ int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::get_Count()
 
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: LayoutEnumerator
+title: Aspose::Words::Layout::LayoutEnumerator::LayoutEnumerator constructor
+linktitle: LayoutEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Initializes new instance of this class.
+description: Aspose::Words::Layout::LayoutEnumerator::LayoutEnumerator constructor. Initializes new instance of this class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.layout/layoutenumerator/layoutenumerator/
@@ -157,4 +158,4 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 * Class [Document](../../../aspose.words/document/)
 * Class [LayoutEnumerator](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: FieldAutoNumLgl
+title: Aspose::Words::Fields::FieldAutoNumLgl class
+linktitle: FieldAutoNumLgl
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTONUMLGL field.
+description: Aspose::Words::Fields::FieldAutoNumLgl class. Implements the AUTONUMLGL field in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldautonumlgl/
@@ -128,4 +129,4 @@ static void InsertNumberedClause(SharedPtr<DocumentBuilder> builder, String head
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: PdfZoomBehavior
+title: Aspose::Words::Saving::PdfZoomBehavior enum
+linktitle: PdfZoomBehavior
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of zoom applied to a PDF document when it is opened in a PDF viewer.
+description: Aspose::Words::Saving::PdfZoomBehavior enum. Specifies the type of zoom applied to a PDF document when it is opened in a PDF viewer in C++.
 type: docs
 weight: 1028
 url: /cpp/aspose.words.saving/pdfzoombehavior/
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ZoomBehaviour.pdf", options);
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

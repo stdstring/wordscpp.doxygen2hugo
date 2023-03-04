@@ -1,7 +1,8 @@
 ---
-title: get_Text
+title: Aspose::Words::RevisionGroup::get_Text method
+linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Returns inserted/deleted/moved text or description of format change.
+description: Aspose::Words::RevisionGroup::get_Text method. Returns inserted/deleted/moved text or description of format change in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/revisiongroup/get_text/
@@ -38,4 +39,4 @@ for (const auto& group : doc->get_Revisions()->get_Groups())
 
 * Class [RevisionGroup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

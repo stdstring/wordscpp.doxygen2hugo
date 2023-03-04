@@ -1,7 +1,8 @@
 ---
-title: StyleCollection
+title: Aspose::Words::StyleCollection class
+linktitle: StyleCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of Style objects that represent both the built-in and user-defined styles in a document.
+description: Aspose::Words::StyleCollection class. A collection of Style objects that represent both the built-in and user-defined styles in a document in C++.
 type: docs
 weight: 833
 url: /cpp/aspose.words/stylecollection/
@@ -64,4 +65,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

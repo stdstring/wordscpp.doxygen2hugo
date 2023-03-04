@@ -1,7 +1,8 @@
 ---
-title: get_StoryType
+title: Aspose::Words::Comment::get_StoryType method
+linktitle: get_StoryType
 second_title: Aspose.Words for C++ API Reference
-description: Returns StoryType.Comments.
+description: Aspose::Words::Comment::get_StoryType method. Returns StoryType.Comments in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words/comment/get_storytype/
@@ -79,4 +80,4 @@ doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 * Enum [StoryType](../../storytype/)
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

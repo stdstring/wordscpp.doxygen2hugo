@@ -1,7 +1,8 @@
 ---
-title: IndexOfKey
+title: Aspose::Words::Markup::CustomXmlPropertyCollection::IndexOfKey method
+linktitle: IndexOfKey
 second_title: Aspose.Words for C++ API Reference
-description: Returns the zero-based index of the specified property in the collection.
+description: Aspose::Words::Markup::CustomXmlPropertyCollection::IndexOfKey method. Returns the zero-based index of the specified property in the collection in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.markup/customxmlpropertycollection/indexofkey/
@@ -83,4 +84,4 @@ ASSERT_EQ(0, properties->get_Count());
 
 * Class [CustomXmlPropertyCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

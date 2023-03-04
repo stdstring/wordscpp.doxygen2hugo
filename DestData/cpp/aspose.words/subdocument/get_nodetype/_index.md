@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::SubDocument::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.SubDocument
+description: Aspose::Words::SubDocument::get_NodeType method. Returns NodeType.SubDocument in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/subdocument/get_nodetype/
@@ -37,4 +38,4 @@ ASSERT_FALSE(subDocument->get_IsComposite());
 * Enum [NodeType](../../nodetype/)
 * Class [SubDocument](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

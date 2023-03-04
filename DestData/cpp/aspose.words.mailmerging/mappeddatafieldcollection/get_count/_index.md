@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::MailMerging::MappedDataFieldCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of elements contained in the collection.
+description: Aspose::Words::MailMerging::MappedDataFieldCollection::get_Count method. Gets the number of elements contained in the collection in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/get_count/
@@ -19,4 +20,4 @@ int32_t Aspose::Words::MailMerging::MappedDataFieldCollection::get_Count()
 
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Title
+title: Aspose::Words::Drawing::ImageData::get_Title method
+linktitle: get_Title
 second_title: Aspose.Words for C++ API Reference
-description: Defines the title of an image.
+description: Aspose::Words::Drawing::ImageData::get_Title method. Defines the title of an image in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/imagedata/get_title/
@@ -85,4 +86,4 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

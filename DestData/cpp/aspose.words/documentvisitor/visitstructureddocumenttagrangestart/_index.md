@@ -1,7 +1,8 @@
 ---
-title: VisitStructuredDocumentTagRangeStart
+title: Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagRangeStart method
+linktitle: VisitStructuredDocumentTagRangeStart
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use VisitStructuredDocumentTagRangeStart method of Aspose::Words::DocumentVisitor class in C++.
 type: docs
 weight: 586
 url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagrangestart/
@@ -21,4 +22,4 @@ virtual Aspose::Words::VisitorAction Aspose::Words::DocumentVisitor::VisitStruct
 * Class [StructuredDocumentTagRangeStart](../../../aspose.words.markup/structureddocumenttagrangestart/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

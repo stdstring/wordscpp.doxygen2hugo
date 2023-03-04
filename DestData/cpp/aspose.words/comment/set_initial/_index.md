@@ -1,7 +1,8 @@
 ---
-title: set_Initial
+title: Aspose::Words::Comment::set_Initial method
+linktitle: set_Initial
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Comment::get_Initial.'
+description: Aspose::Words::Comment::set_Initial method. Setter for Aspose::Words::Comment::get_Initial in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words/comment/set_initial/
@@ -19,4 +20,4 @@ void Aspose::Words::Comment::set_Initial(const System::String &value)
 
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

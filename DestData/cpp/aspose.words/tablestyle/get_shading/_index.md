@@ -1,7 +1,8 @@
 ---
-title: get_Shading
+title: Aspose::Words::TableStyle::get_Shading method
+linktitle: get_Shading
 second_title: Aspose.Words for C++ API Reference
-description: Gets a Shading object that refers to the shading formatting for table cells.
+description: Aspose::Words::TableStyle::get_Shading method. Gets a Shading object that refers to the shading formatting for table cells in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words/tablestyle/get_shading/
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"Table.TableStyleCreation.docx");
 * Class [Shading](../../shading/)
 * Class [TableStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

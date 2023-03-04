@@ -1,7 +1,8 @@
 ---
-title: get_FitShapeToText
+title: Aspose::Words::Drawing::TextBox::get_FitShapeToText method
+linktitle: get_FitShapeToText
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether Microsoft Word will grow the shape to fit text.
+description: Aspose::Words::Drawing::TextBox::get_FitShapeToText method. Determines whether Microsoft Word will grow the shape to fit text in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/textbox/get_fitshapetotext/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Shape.TextBoxFitShapeToText.docx");
 
 * Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

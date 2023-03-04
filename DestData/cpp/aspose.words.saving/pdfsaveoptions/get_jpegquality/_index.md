@@ -1,7 +1,8 @@
 ---
-title: get_JpegQuality
+title: Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality method
+linktitle: get_JpegQuality
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining the quality of the JPEG images inside PDF document.
+description: Aspose::Words::Saving::PdfSaveOptions::get_JpegQuality method. Gets or sets a value determining the quality of the JPEG images inside PDF document in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_jpegquality/
@@ -61,4 +62,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ImageCompression.pdf", pdfSaveOptions)
 
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: IFieldUpdatingCallback
+title: Aspose::Words::Fields::IFieldUpdatingCallback interface
+linktitle: IFieldUpdatingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Implement this interface if you want to have your own custom methods called during a field update.
+description: Aspose::Words::Fields::IFieldUpdatingCallback interface. Implement this interface if you want to have your own custom methods called during a field update in C++.
 type: docs
 weight: 1574
 url: /cpp/aspose.words.fields/ifieldupdatingcallback/
@@ -83,4 +84,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

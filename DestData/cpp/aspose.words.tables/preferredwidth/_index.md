@@ -1,7 +1,8 @@
 ---
-title: PreferredWidth
+title: Aspose::Words::Tables::PreferredWidth class
+linktitle: PreferredWidth
 second_title: Aspose.Words for C++ API Reference
-description: Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell.
+description: Aspose::Words::Tables::PreferredWidth class. Represents a value and its unit of measure that is used to specify the preferred width of a table or a cell in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.tables/preferredwidth/
@@ -95,4 +96,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertCellsWithPreferredWidths.docx")
 ## See Also
 
 * Namespace [Aspose::Words::Tables](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

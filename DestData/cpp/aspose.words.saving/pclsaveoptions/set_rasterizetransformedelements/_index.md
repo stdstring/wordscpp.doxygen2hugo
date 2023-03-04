@@ -1,7 +1,8 @@
 ---
-title: set_RasterizeTransformedElements
+title: Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements method
+linktitle: set_RasterizeTransformedElements
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements.'
+description: Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements method. Setter for Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.saving/pclsaveoptions/set_rasterizetransformedelements/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements(boo
 
 * Class [PclSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

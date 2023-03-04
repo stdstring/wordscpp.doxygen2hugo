@@ -1,7 +1,8 @@
 ---
-title: get_PageNumberReplacement
+title: Aspose::Words::Fields::FieldXE::get_PageNumberReplacement method
+linktitle: get_PageNumberReplacement
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets text used in place of a page number.
+description: Aspose::Words::Fields::FieldXE::get_PageNumberReplacement method. Gets or sets text used in place of a page number in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldxe/get_pagenumberreplacement/
@@ -67,4 +68,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.CrossReferenceSeparator.docx");
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

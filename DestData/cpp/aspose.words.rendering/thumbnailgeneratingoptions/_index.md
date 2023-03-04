@@ -1,7 +1,8 @@
 ---
-title: ThumbnailGeneratingOptions
+title: Aspose::Words::Rendering::ThumbnailGeneratingOptions class
+linktitle: ThumbnailGeneratingOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when generating thumbnail for a document.
+description: Aspose::Words::Rendering::ThumbnailGeneratingOptions class. Can be used to specify additional options when generating thumbnail for a document in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 ## See Also
 
 * Namespace [Aspose::Words::Rendering](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

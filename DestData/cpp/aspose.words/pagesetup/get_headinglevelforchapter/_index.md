@@ -1,7 +1,8 @@
 ---
-title: get_HeadingLevelForChapter
+title: Aspose::Words::PageSetup::get_HeadingLevelForChapter method
+linktitle: get_HeadingLevelForChapter
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the heading level style that is applied to the chapter titles in the document.
+description: Aspose::Words::PageSetup::get_HeadingLevelForChapter method. Gets or sets the heading level style that is applied to the chapter titles in the document in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words/pagesetup/get_headinglevelforchapter/
@@ -25,4 +26,4 @@ Before you can create page numbers that include chapter numbers, the document he
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

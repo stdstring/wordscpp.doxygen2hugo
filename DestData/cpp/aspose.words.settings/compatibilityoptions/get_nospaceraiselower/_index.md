@@ -1,7 +1,8 @@
 ---
-title: get_NoSpaceRaiseLower
+title: Aspose::Words::Settings::CompatibilityOptions::get_NoSpaceRaiseLower method
+linktitle: get_NoSpaceRaiseLower
 second_title: Aspose.Words for C++ API Reference
-description: Do Not Increase Line Height for Raised/Lowered Text.
+description: Aspose::Words::Settings::CompatibilityOptions::get_NoSpaceRaiseLower method. Do Not Increase Line Height for Raised/Lowered Text in C++.
 type: docs
 weight: 456
 url: /cpp/aspose.words.settings/compatibilityoptions/get_nospaceraiselower/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_NoSpaceRaiseLower()
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_FirstColumn
+title: Aspose::Words::Bookmark::get_FirstColumn method
+linktitle: get_FirstColumn
 second_title: Aspose.Words for C++ API Reference
-description: Gets the zero-based index of the first column of the table column range associated with the bookmark.
+description: Aspose::Words::Bookmark::get_FirstColumn method. Gets the zero-based index of the first column of the table column range associated with the bookmark in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/bookmark/get_firstcolumn/
@@ -47,4 +48,4 @@ for (const auto& bookmark : System::IterateOver(doc->get_Range()->get_Bookmarks(
 
 * Class [Bookmark](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

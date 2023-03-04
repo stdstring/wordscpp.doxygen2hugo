@@ -1,7 +1,8 @@
 ---
-title: get_Color
+title: Aspose::Words::Border::get_Color method
+linktitle: get_Color
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the border color.
+description: Aspose::Words::Border::get_Color method. Gets or sets the border color in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/border/get_color/
@@ -38,4 +39,4 @@ doc->Save(ArtifactsDir + u"Border.FontBorder.docx");
 
 * Class [Border](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

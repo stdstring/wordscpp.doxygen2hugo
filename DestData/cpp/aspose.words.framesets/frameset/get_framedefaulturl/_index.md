@@ -1,7 +1,8 @@
 ---
-title: get_FrameDefaultUrl
+title: Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl method
+linktitle: get_FrameDefaultUrl
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the web page URL or document file name to display in this frame.
+description: Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl method. Gets or sets the web page URL or document file name to display in this frame in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.framesets/frameset/get_framedefaulturl/
@@ -43,4 +44,4 @@ doc->get_Frameset()->get_ChildFramesets()->idx_get(0)->get_ChildFramesets()->idx
 
 * Class [Frameset](../)
 * Namespace [Aspose::Words::Framesets](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

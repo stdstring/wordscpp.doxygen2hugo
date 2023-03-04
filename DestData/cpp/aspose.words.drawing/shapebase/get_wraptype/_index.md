@@ -1,7 +1,8 @@
 ---
-title: get_WrapType
+title: Aspose::Words::Drawing::ShapeBase::get_WrapType method
+linktitle: get_WrapType
 second_title: Aspose.Words for C++ API Reference
-description: Defines whether the shape is inline or floating. For floating shapes defines the wrapping mode for text around the shape.
+description: Aspose::Words::Drawing::ShapeBase::get_WrapType method. Defines whether the shape is inline or floating. For floating shapes defines the wrapping mode for text around the shape in C++.
 type: docs
 weight: 703
 url: /cpp/aspose.words.drawing/shapebase/get_wraptype/
@@ -76,4 +77,4 @@ doc->Save(ArtifactsDir + u"Shape.CreateTextBox.docx");
 * Enum [WrapType](../../wraptype/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_NewParent
+title: Aspose::Words::NodeChangingArgs::get_NewParent method
+linktitle: get_NewParent
 second_title: Aspose.Words for C++ API Reference
-description: Gets the node's parent that will be set after the operation completes.
+description: Aspose::Words::NodeChangingArgs::get_NewParent method. Gets the node's parent that will be set after the operation completes in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/nodechangingargs/get_newparent/
@@ -89,4 +90,4 @@ private:
 * Class [Node](../../node/)
 * Class [NodeChangingArgs](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

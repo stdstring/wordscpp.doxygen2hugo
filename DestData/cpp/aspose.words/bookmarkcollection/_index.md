@@ -1,7 +1,8 @@
 ---
-title: BookmarkCollection
+title: Aspose::Words::BookmarkCollection class
+linktitle: BookmarkCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of Bookmark objects that represent the bookmarks in the specified range.
+description: Aspose::Words::BookmarkCollection class. A collection of Bookmark objects that represent the bookmarks in the specified range in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/bookmarkcollection/
@@ -112,4 +113,4 @@ public:
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

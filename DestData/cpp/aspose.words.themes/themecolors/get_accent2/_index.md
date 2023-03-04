@@ -1,7 +1,8 @@
 ---
-title: get_Accent2
+title: Aspose::Words::Themes::ThemeColors::get_Accent2 method
+linktitle: get_Accent2
 second_title: Aspose.Words for C++ API Reference
-description: Specifies color Accent 2.
+description: Aspose::Words::Themes::ThemeColors::get_Accent2 method. Specifies color Accent 2 in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.themes/themecolors/get_accent2/
@@ -66,4 +67,4 @@ doc->Save(ArtifactsDir + u"Themes.CustomColorsAndFonts.docx");
 
 * Class [ThemeColors](../)
 * Namespace [Aspose::Words::Themes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

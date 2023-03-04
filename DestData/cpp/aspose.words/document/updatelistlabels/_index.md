@@ -1,7 +1,8 @@
 ---
-title: UpdateListLabels
+title: Aspose::Words::Document::UpdateListLabels method
+linktitle: UpdateListLabels
 second_title: Aspose.Words for C++ API Reference
-description: Updates list labels for all list items in the document.
+description: Aspose::Words::Document::UpdateListLabels method. Updates list labels for all list items in the document in C++.
 type: docs
 weight: 1158
 url: /cpp/aspose.words/document/updatelistlabels/
@@ -60,4 +61,4 @@ for (auto paragraph : System::IterateOver(
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

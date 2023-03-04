@@ -1,7 +1,8 @@
 ---
-title: get_InsertHyperlinks
+title: Aspose::Words::Fields::FieldToc::get_InsertHyperlinks method
+linktitle: get_InsertHyperlinks
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to make the table of contents entries hyperlinks.
+description: Aspose::Words::Fields::FieldToc::get_InsertHyperlinks method. Gets or sets whether to make the table of contents entries hyperlinks in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldtoc/get_inserthyperlinks/
@@ -100,4 +101,4 @@ void InsertNewPageWithHeading(SharedPtr<DocumentBuilder> builder, String caption
 
 * Class [FieldToc](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

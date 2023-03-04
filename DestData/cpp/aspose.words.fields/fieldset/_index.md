@@ -1,7 +1,8 @@
 ---
-title: FieldSet
+title: Aspose::Words::Fields::FieldSet class
+linktitle: FieldSet
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SET field.
+description: Aspose::Words::Fields::FieldSet class. Implements the SET field in C++.
 type: docs
 weight: 1184
 url: /cpp/aspose.words.fields/fieldset/
@@ -79,4 +80,4 @@ doc->Save(ArtifactsDir + u"Field.SET.REF.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

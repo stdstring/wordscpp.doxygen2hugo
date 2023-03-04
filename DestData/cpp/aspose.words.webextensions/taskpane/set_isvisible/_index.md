@@ -1,7 +1,8 @@
 ---
-title: set_IsVisible
+title: Aspose::Words::WebExtensions::TaskPane::set_IsVisible method
+linktitle: set_IsVisible
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::WebExtensions::TaskPane::get_IsVisible.'
+description: Aspose::Words::WebExtensions::TaskPane::set_IsVisible method. Setter for Aspose::Words::WebExtensions::TaskPane::get_IsVisible in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.webextensions/taskpane/set_isvisible/
@@ -19,4 +20,4 @@ void Aspose::Words::WebExtensions::TaskPane::set_IsVisible(bool value)
 
 * Class [TaskPane](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

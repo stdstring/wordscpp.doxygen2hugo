@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::NodeList::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves a node at the given index.
+description: Aspose::Words::NodeList::idx_get method. Retrieves a node at the given index in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/nodelist/idx_get/
@@ -35,4 +36,4 @@ If index is negative and its absolute value is greater than the number of items 
 * Class [Node](../../node/)
 * Class [NodeList](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

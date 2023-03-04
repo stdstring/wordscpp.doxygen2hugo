@@ -1,7 +1,8 @@
 ---
-title: set_IncludeCountryOrRegionName
+title: Aspose::Words::Fields::FieldAddressBlock::set_IncludeCountryOrRegionName method
+linktitle: set_IncludeCountryOrRegionName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName.'
+description: Aspose::Words::Fields::FieldAddressBlock::set_IncludeCountryOrRegionName method. Setter for Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldaddressblock/set_includecountryorregionname/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldAddressBlock::set_IncludeCountryOrRegionName(co
 
 * Class [FieldAddressBlock](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

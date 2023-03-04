@@ -1,7 +1,8 @@
 ---
-title: get_AnotherSourceTag
+title: Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag method
+linktitle: get_AnotherSourceTag
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value that mathes the Tag element's value of another source to be included in the citation.
+description: Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag method. Gets or sets a value that mathes the Tag element's value of another source to be included in the citation in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldcitation/get_anothersourcetag/
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

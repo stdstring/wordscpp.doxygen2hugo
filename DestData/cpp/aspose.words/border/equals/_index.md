@@ -1,7 +1,8 @@
 ---
-title: Equals
+title: Aspose::Words::Border::Equals method
+linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the specified border is equal in value to the current border.
+description: Aspose::Words::Border::Equals method. Determines whether the specified border is equal in value to the current border in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/border/equals/
@@ -64,7 +65,7 @@ doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 * Class [Border](../)
 * Class [Border](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Border::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -122,4 +123,4 @@ doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 
 * Class [Border](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

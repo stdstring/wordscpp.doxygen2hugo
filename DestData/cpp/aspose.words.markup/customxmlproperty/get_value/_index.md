@@ -1,7 +1,8 @@
 ---
-title: get_Value
+title: Aspose::Words::Markup::CustomXmlProperty::get_Value method
+linktitle: get_Value
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the value of the custom XML attribute or smart tag property.
+description: Aspose::Words::Markup::CustomXmlProperty::get_Value method. Gets or sets the value of the custom XML attribute or smart tag property in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.markup/customxmlproperty/get_value/
@@ -119,4 +120,4 @@ public:
 
 * Class [CustomXmlProperty](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

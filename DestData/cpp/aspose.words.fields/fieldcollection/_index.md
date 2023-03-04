@@ -1,7 +1,8 @@
 ---
-title: FieldCollection
+title: Aspose::Words::Fields::FieldCollection class
+linktitle: FieldCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of Field objects that represents the fields in the specified range.
+description: Aspose::Words::Fields::FieldCollection class. A collection of Field objects that represents the fields in the specified range in C++.
 type: docs
 weight: 287
 url: /cpp/aspose.words.fields/fieldcollection/
@@ -165,4 +166,4 @@ ASSERT_EQ(0, fields->get_Count());
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

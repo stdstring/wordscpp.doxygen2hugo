@@ -1,7 +1,8 @@
 ---
-title: get_BuiltIn
+title: Aspose::Words::Style::get_BuiltIn method
+linktitle: get_BuiltIn
 second_title: Aspose.Words for C++ API Reference
-description: True if this style is one of the built-in styles in MS Word.
+description: Aspose::Words::Style::get_BuiltIn method. True if this style is one of the built-in styles in MS Word in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/style/get_builtin/
@@ -45,4 +46,4 @@ ASSERT_FALSE(style->get_BuiltIn());
 
 * Class [Style](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

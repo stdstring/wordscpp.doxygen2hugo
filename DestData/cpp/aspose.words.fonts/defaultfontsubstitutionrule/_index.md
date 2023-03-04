@@ -1,7 +1,8 @@
 ---
-title: DefaultFontSubstitutionRule
+title: Aspose::Words::Fonts::DefaultFontSubstitutionRule class
+linktitle: DefaultFontSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
-description: Default font substitution rule.
+description: Aspose::Words::Fonts::DefaultFontSubstitutionRule class. Default font substitution rule in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/defaultfontsubstitutionrule/
@@ -57,4 +58,4 @@ doc->Save(ArtifactsDir + u"FontSettings.DefaultFontSubstitutionRule.pdf");
 
 * Class [FontSubstitutionRule](../fontsubstitutionrule/)
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

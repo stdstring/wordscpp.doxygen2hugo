@@ -1,7 +1,8 @@
 ---
-title: Execute
+title: Aspose::Words::MailMerging::MailMerge::Execute method
+linktitle: Execute
 second_title: Aspose.Words for C++ API Reference
-description: Performs a mail merge operation for a single record.
+description: Aspose::Words::MailMerging::MailMerge::Execute method. Performs a mail merge operation for a single record in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/mailmerge/execute/
@@ -62,7 +63,7 @@ doc->Save(ArtifactsDir + u"MailMergeEvent.ImageFromUrl.docx");
 
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## MailMerge::Execute(const System::SharedPtr\<Aspose::Words::MailMerging::IMailMergeDataSource\>\&) method
 
 
@@ -212,4 +213,4 @@ private:
 * Interface [IMailMergeDataSource](../../imailmergedatasource/)
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

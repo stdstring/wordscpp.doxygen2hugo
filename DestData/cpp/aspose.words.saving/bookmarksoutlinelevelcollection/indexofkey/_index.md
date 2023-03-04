@@ -1,7 +1,8 @@
 ---
-title: IndexOfKey
+title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey method
+linktitle: IndexOfKey
 second_title: Aspose.Words for C++ API Reference
-description: Returns the zero-based index of the specified bookmark in the collection.
+description: Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey method. Returns the zero-based index of the specified bookmark in the collection in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/indexofkey/
@@ -84,4 +85,4 @@ outlineLevels->Clear();
 
 * Class [BookmarksOutlineLevelCollection](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_SpaceAfterAuto
+title: Aspose::Words::ParagraphFormat::get_SpaceAfterAuto method
+linktitle: get_SpaceAfterAuto
 second_title: Aspose.Words for C++ API Reference
-description: True if the amount of spacing after the paragraph is set automatically.
+description: Aspose::Words::ParagraphFormat::get_SpaceAfterAuto method. True if the amount of spacing after the paragraph is set automatically in C++.
 type: docs
 weight: 391
 url: /cpp/aspose.words/paragraphformat/get_spaceafterauto/
@@ -61,4 +62,4 @@ doc->Save(ArtifactsDir + u"ParagraphFormat.ParagraphSpacingAuto.docx");
 
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

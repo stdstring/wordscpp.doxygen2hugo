@@ -1,7 +1,8 @@
 ---
-title: get_StoryType
+title: Aspose::Words::Drawing::Shape::get_StoryType method
+linktitle: get_StoryType
 second_title: Aspose.Words for C++ API Reference
-description: Returns Textbox.
+description: Aspose::Words::Drawing::Shape::get_StoryType method. Returns Textbox in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.drawing/shape/get_storytype/
@@ -135,4 +136,4 @@ private:
 * Enum [StoryType](../../../aspose.words/storytype/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: end
+title: Aspose::Words::Fonts::FontInfoCollection::end method
+linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use end method of Aspose::Words::Fonts::FontInfoCollection class in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontinfocollection/end/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::Fonts::FontInfoCollection::end() const noexcept
 * Typedef [const_iterator](../const_iterator/)
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## FontInfoCollection::end() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::Fonts::FontInfoCollection::end() noexcept
 * Typedef [iterator](../iterator/)
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

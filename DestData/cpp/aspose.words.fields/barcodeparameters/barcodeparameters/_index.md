@@ -1,7 +1,8 @@
 ---
-title: BarcodeParameters
+title: Aspose::Words::Fields::BarcodeParameters::BarcodeParameters constructor
+linktitle: BarcodeParameters
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use BarcodeParameters constructor of Aspose::Words::Fields::BarcodeParameters class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/barcodeparameters/barcodeparameters/
@@ -19,4 +20,4 @@ Aspose::Words::Fields::BarcodeParameters::BarcodeParameters()
 
 * Class [BarcodeParameters](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

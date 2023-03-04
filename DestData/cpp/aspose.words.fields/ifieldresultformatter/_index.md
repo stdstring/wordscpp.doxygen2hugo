@@ -1,7 +1,8 @@
 ---
-title: IFieldResultFormatter
+title: Aspose::Words::Fields::IFieldResultFormatter interface
+linktitle: IFieldResultFormatter
 second_title: Aspose.Words for C++ API Reference
-description: Implement this interface if you want to control how the field result is formatted.
+description: Aspose::Words::Fields::IFieldResultFormatter interface. Implement this interface if you want to control how the field result is formatted in C++.
 type: docs
 weight: 1548
 url: /cpp/aspose.words.fields/ifieldresultformatter/
@@ -215,4 +216,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

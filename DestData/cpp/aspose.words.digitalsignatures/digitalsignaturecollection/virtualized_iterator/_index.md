@@ -1,7 +1,8 @@
 ---
-title: virtualized_iterator
+title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_iterator typedef
+linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_iterator typedef of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/virtualized_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_
 
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

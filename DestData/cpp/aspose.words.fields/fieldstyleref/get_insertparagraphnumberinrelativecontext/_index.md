@@ -1,7 +1,8 @@
 ---
-title: get_InsertParagraphNumberInRelativeContext
+title: Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInRelativeContext method
+linktitle: get_InsertParagraphNumberInRelativeContext
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert the paragraph number of the referenced paragraph in relative context.
+description: Aspose::Words::Fields::FieldStyleRef::get_InsertParagraphNumberInRelativeContext method. Gets or sets whether to insert the paragraph number of the referenced paragraph in relative context in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldstyleref/get_insertparagraphnumberinrelativecontext/
@@ -90,4 +91,4 @@ doc->Save(ArtifactsDir + u"Field.STYLEREF.docx");
 
 * Class [FieldStyleRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

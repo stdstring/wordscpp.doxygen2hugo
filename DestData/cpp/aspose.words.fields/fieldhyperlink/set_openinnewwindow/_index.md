@@ -1,7 +1,8 @@
 ---
-title: set_OpenInNewWindow
+title: Aspose::Words::Fields::FieldHyperlink::set_OpenInNewWindow method
+linktitle: set_OpenInNewWindow
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow.'
+description: Aspose::Words::Fields::FieldHyperlink::set_OpenInNewWindow method. Setter for Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.fields/fieldhyperlink/set_openinnewwindow/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldHyperlink::set_OpenInNewWindow(bool value)
 
 * Class [FieldHyperlink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

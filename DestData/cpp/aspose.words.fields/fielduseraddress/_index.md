@@ -1,7 +1,8 @@
 ---
-title: FieldUserAddress
+title: Aspose::Words::Fields::FieldUserAddress class
+linktitle: FieldUserAddress
 second_title: Aspose.Words for C++ API Reference
-description: Implements the USERADDRESS field.
+description: Aspose::Words::Fields::FieldUserAddress class. Implements the USERADDRESS field in C++.
 type: docs
 weight: 1379
 url: /cpp/aspose.words.fields/fielduseraddress/
@@ -83,4 +84,4 @@ doc->Save(ArtifactsDir + u"Field.USERADDRESS.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_UseTargetMachineFonts
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_UseTargetMachineFonts method
+linktitle: get_UseTargetMachineFonts
 second_title: Aspose.Words for C++ API Reference
-description: Flag indicates whether fonts from target machine must be used to display the document. If this flag is set to true, FontFormat and ExportEmbeddedFonts properties do not have effect, also ResourceSavingCallback is not fired for fonts. Default is false.
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_UseTargetMachineFonts method. Flag indicates whether fonts from target machine must be used to display the document. If this flag is set to true, FontFormat and ExportEmbeddedFonts properties do not have effect, also ResourceSavingCallback is not fired for fonts. Default is false in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_usetargetmachinefonts/
@@ -51,4 +52,4 @@ else
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

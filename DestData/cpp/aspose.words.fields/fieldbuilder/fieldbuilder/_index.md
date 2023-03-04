@@ -1,7 +1,8 @@
 ---
-title: FieldBuilder
+title: Aspose::Words::Fields::FieldBuilder::FieldBuilder constructor
+linktitle: FieldBuilder
 second_title: Aspose.Words for C++ API Reference
-description: Initializes an instance of the FieldBuilder class.
+description: Aspose::Words::Fields::FieldBuilder::FieldBuilder constructor. Initializes an instance of the FieldBuilder class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldbuilder/fieldbuilder/
@@ -51,4 +52,4 @@ doc->Save(ArtifactsDir + u"Field.CreateWithFieldBuilder.docx");
 * Enum [FieldType](../../fieldtype/)
 * Class [FieldBuilder](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

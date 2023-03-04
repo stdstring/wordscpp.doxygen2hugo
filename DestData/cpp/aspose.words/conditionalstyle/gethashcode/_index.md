@@ -1,7 +1,8 @@
 ---
-title: GetHashCode
+title: Aspose::Words::ConditionalStyle::GetHashCode method
+linktitle: GetHashCode
 second_title: Aspose.Words for C++ API Reference
-description: Calculates hash code for this object.
+description: Aspose::Words::ConditionalStyle::GetHashCode method. Calculates hash code for this object in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words/conditionalstyle/gethashcode/
@@ -19,4 +20,4 @@ int32_t Aspose::Words::ConditionalStyle::GetHashCode() const override
 
 * Class [ConditionalStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

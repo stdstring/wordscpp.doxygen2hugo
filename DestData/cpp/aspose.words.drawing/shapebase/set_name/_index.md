@@ -1,7 +1,8 @@
 ---
-title: set_Name
+title: Aspose::Words::Drawing::ShapeBase::set_Name method
+linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_Name.'
+description: Aspose::Words::Drawing::ShapeBase::set_Name method. Setter for Aspose::Words::Drawing::ShapeBase::get_Name in C++.
 type: docs
 weight: 1002
 url: /cpp/aspose.words.drawing/shapebase/set_name/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::ShapeBase::set_Name(const System::String &value)
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

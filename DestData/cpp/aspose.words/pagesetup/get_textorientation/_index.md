@@ -1,7 +1,8 @@
 ---
-title: get_TextOrientation
+title: Aspose::Words::PageSetup::get_TextOrientation method
+linktitle: get_TextOrientation
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify TextOrientation for the whole page. Default value is Horizontal
+description: Aspose::Words::PageSetup::get_TextOrientation method. Allows to specify TextOrientation for the whole page. Default value is Horizontal in C++.
 type: docs
 weight: 547
 url: /cpp/aspose.words/pagesetup/get_textorientation/
@@ -40,4 +41,4 @@ doc->Save(ArtifactsDir + u"PageSetup.SetTextOrientation.docx");
 * Enum [TextOrientation](../../textorientation/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

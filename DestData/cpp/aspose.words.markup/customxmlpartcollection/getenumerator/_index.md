@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Markup::CustomXmlPartCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object that can be used to iterate over all items in the collection.
+description: Aspose::Words::Markup::CustomXmlPartCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all items in the collection in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.markup/customxmlpartcollection/getenumerator/
@@ -86,4 +87,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 * Class [CustomXmlPart](../../customxmlpart/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_IsEndOfCell
+title: Aspose::Words::Paragraph::get_IsEndOfCell method
+linktitle: get_IsEndOfCell
 second_title: Aspose.Words for C++ API Reference
-description: True if this paragraph is the last paragraph in a Cell; false otherwise.
+description: Aspose::Words::Paragraph::get_IsEndOfCell method. True if this paragraph is the last paragraph in a Cell; false otherwise in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/paragraph/get_isendofcell/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Table.KeepTableTogether.docx");
 
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

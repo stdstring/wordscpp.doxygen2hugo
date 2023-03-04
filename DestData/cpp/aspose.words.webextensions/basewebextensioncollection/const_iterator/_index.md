@@ -1,7 +1,8 @@
 ---
-title: const_iterator
+title: Aspose::Words::WebExtensions::BaseWebExtensionCollection::const_iterator typedef
+linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::WebExtensions::BaseWebExtensionCollection::const_iterator typedef of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/const_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::WebExtensions::BaseWebExtensionCollection< T >::const_itera
 
 * Class [BaseWebExtensionCollection](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

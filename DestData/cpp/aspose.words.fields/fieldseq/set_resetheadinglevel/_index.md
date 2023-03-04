@@ -1,7 +1,8 @@
 ---
-title: set_ResetHeadingLevel
+title: Aspose::Words::Fields::FieldSeq::set_ResetHeadingLevel method
+linktitle: set_ResetHeadingLevel
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel.'
+description: Aspose::Words::Fields::FieldSeq::set_ResetHeadingLevel method. Setter for Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldseq/set_resetheadinglevel/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldSeq::set_ResetHeadingLevel(const System::String
 
 * Class [FieldSeq](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

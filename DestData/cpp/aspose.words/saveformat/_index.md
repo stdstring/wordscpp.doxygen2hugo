@@ -1,7 +1,8 @@
 ---
-title: SaveFormat
+title: Aspose::Words::SaveFormat enum
+linktitle: SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Indicates the format in which the document is saved.
+description: Aspose::Words::SaveFormat enum. Indicates the format in which the document is saved in C++.
 type: docs
 weight: 1470
 url: /cpp/aspose.words/saveformat/
@@ -72,4 +73,4 @@ doc->Save(ArtifactsDir + u"Document.ConvertToHtml.html", SaveFormat::Html);
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

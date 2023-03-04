@@ -1,7 +1,8 @@
 ---
-title: virtualizeEndIterator
+title: Aspose::Words::Markup::CustomPartCollection::virtualizeEndIterator method
+linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use virtualizeEndIterator method of Aspose::Words::Markup::CustomPartCollection class in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.markup/custompartcollection/virtualizeenditerator/
@@ -20,4 +21,4 @@ virtualized_iterator * Aspose::Words::Markup::CustomPartCollection::virtualizeEn
 * Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

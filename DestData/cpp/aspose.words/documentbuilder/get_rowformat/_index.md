@@ -1,7 +1,8 @@
 ---
-title: get_RowFormat
+title: Aspose::Words::DocumentBuilder::get_RowFormat method
+linktitle: get_RowFormat
 second_title: Aspose.Words for C++ API Reference
-description: Returns an object that represents current table row formatting properties.
+description: Aspose::Words::DocumentBuilder::get_RowFormat method. Returns an object that represents current table row formatting properties in C++.
 type: docs
 weight: 300
 url: /cpp/aspose.words/documentbuilder/get_rowformat/
@@ -158,4 +159,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.SetRowFormatting.docx");
 * Class [RowFormat](../../../aspose.words.tables/rowformat/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: StyleIdentifier
+title: Aspose::Words::StyleIdentifier enum
+linktitle: StyleIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: Locale independent style identifier.
+description: Aspose::Words::StyleIdentifier enum. Locale independent style identifier in C++.
 type: docs
 weight: 1522
 url: /cpp/aspose.words/styleidentifier/
@@ -444,4 +445,4 @@ doc->Save(ArtifactsDir + u"Font.ChangeStyle.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: VisitBookmarkStart
+title: Aspose::Words::DocumentVisitor::VisitBookmarkStart method
+linktitle: VisitBookmarkStart
 second_title: Aspose.Words for C++ API Reference
-description: Called when a start of a bookmark is encountered in the document.
+description: Aspose::Words::DocumentVisitor::VisitBookmarkStart method. Called when a start of a bookmark is encountered in the document in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words/documentvisitor/visitbookmarkstart/
@@ -111,4 +112,4 @@ public:
 * Class [BookmarkStart](../../bookmarkstart/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

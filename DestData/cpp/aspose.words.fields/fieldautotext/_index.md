@@ -1,7 +1,8 @@
 ---
-title: FieldAutoText
+title: Aspose::Words::Fields::FieldAutoText class
+linktitle: FieldAutoText
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTOTEXT field.
+description: Aspose::Words::Fields::FieldAutoText class. Implements the AUTOTEXT field in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fieldautotext/
@@ -97,4 +98,4 @@ doc->Save(ArtifactsDir + u"Field.AUTOTEXT.GLOSSARY.dotx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

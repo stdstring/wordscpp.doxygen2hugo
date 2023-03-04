@@ -1,7 +1,8 @@
 ---
-title: set_SpellingChecked
+title: Aspose::Words::Document::set_SpellingChecked method
+linktitle: set_SpellingChecked
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Document::get_SpellingChecked.'
+description: Aspose::Words::Document::set_SpellingChecked method. Setter for Aspose::Words::Document::get_SpellingChecked in C++.
 type: docs
 weight: 1054
 url: /cpp/aspose.words/document/set_spellingchecked/
@@ -19,4 +20,4 @@ void Aspose::Words::Document::set_SpellingChecked(bool value)
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

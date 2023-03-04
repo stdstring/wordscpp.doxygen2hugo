@@ -1,7 +1,8 @@
 ---
-title: get_IsClear
+title: Aspose::Words::TabStop::get_IsClear method
+linktitle: get_IsClear
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this tab stop clears any existing tab stops in this position.
+description: Aspose::Words::TabStop::get_IsClear method. Returns true if this tab stop clears any existing tab stops in this position in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/tabstop/get_isclear/
@@ -62,4 +63,4 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 
 * Class [TabStop](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

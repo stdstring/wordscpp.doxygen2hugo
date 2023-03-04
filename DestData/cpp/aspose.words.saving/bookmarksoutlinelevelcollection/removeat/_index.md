@@ -1,7 +1,8 @@
 ---
-title: RemoveAt
+title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::RemoveAt method
+linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Removes a bookmark at the specified index.
+description: Aspose::Words::Saving::BookmarksOutlineLevelCollection::RemoveAt method. Removes a bookmark at the specified index in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/removeat/
@@ -80,4 +81,4 @@ outlineLevels->Clear();
 
 * Class [BookmarksOutlineLevelCollection](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

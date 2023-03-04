@@ -1,7 +1,8 @@
 ---
-title: get_ConditionalStyles
+title: Aspose::Words::TableStyle::get_ConditionalStyles method
+linktitle: get_ConditionalStyles
 second_title: Aspose.Words for C++ API Reference
-description: Collection of conditional styles that may be defined for this table style.
+description: Aspose::Words::TableStyle::get_ConditionalStyles method. Collection of conditional styles that may be defined for this table style in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/tablestyle/get_conditionalstyles/
@@ -94,4 +95,4 @@ doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 * Class [ConditionalStyleCollection](../../conditionalstylecollection/)
 * Class [TableStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

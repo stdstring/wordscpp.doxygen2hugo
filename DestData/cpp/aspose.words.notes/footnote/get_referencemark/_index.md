@@ -1,7 +1,8 @@
 ---
-title: get_ReferenceMark
+title: Aspose::Words::Notes::Footnote::get_ReferenceMark method
+linktitle: get_ReferenceMark
 second_title: Aspose.Words for C++ API Reference
-description: Gets/sets custom reference mark to be used for this footnote. Default value is empty string, meaning auto-numbered footnotes are used.
+description: Aspose::Words::Notes::Footnote::get_ReferenceMark method. Gets/sets custom reference mark to be used for this footnote. Default value is empty string, meaning auto-numbered footnotes are used in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.notes/footnote/get_referencemark/
@@ -72,4 +73,4 @@ doc->Save(ArtifactsDir + u"InlineStory.AddFootnote.docx");
 
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

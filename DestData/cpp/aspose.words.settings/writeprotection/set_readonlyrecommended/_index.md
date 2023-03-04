@@ -1,7 +1,8 @@
 ---
-title: set_ReadOnlyRecommended
+title: Aspose::Words::Settings::WriteProtection::set_ReadOnlyRecommended method
+linktitle: set_ReadOnlyRecommended
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended.'
+description: Aspose::Words::Settings::WriteProtection::set_ReadOnlyRecommended method. Setter for Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.settings/writeprotection/set_readonlyrecommended/
@@ -19,4 +20,4 @@ void Aspose::Words::Settings::WriteProtection::set_ReadOnlyRecommended(bool valu
 
 * Class [WriteProtection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

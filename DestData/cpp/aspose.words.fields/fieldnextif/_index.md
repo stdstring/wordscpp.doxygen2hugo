@@ -1,7 +1,8 @@
 ---
-title: FieldNextIf
+title: Aspose::Words::Fields::FieldNextIf class
+linktitle: FieldNextIf
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NEXTIF field.
+description: Aspose::Words::Fields::FieldNextIf class. Implements the NEXTIF field in C++.
 type: docs
 weight: 911
 url: /cpp/aspose.words.fields/fieldnextif/
@@ -51,4 +52,4 @@ class FieldNextIf : public Aspose::Words::Fields::Field
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: XpsSaveOptions
+title: Aspose::Words::Saving::XpsSaveOptions class
+linktitle: XpsSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Xps format.
+description: Aspose::Words::Saving::XpsSaveOptions class. Can be used to specify additional options when saving a document into the Xps format in C++.
 type: docs
 weight: 482
 url: /cpp/aspose.words.saving/xpssaveoptions/
@@ -127,4 +128,4 @@ doc->Save(ArtifactsDir + u"XpsSaveOptions.OutlineLevels.xps", saveOptions);
 
 * Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

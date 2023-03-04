@@ -1,7 +1,8 @@
 ---
-title: Clone
+title: Aspose::Words::Markup::CustomXmlPartCollection::Clone method
+linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Makes a deep copy of this collection and its items.
+description: Aspose::Words::Markup::CustomXmlPartCollection::Clone method. Makes a deep copy of this collection and its items in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.markup/customxmlpartcollection/clone/
@@ -86,4 +87,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 * Class [CustomXmlPartCollection](../)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

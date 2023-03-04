@@ -1,7 +1,8 @@
 ---
-title: get_XPath
+title: Aspose::Words::Markup::XmlMapping::get_XPath method
+linktitle: get_XPath
 second_title: Aspose.Words for C++ API Reference
-description: Returns the XPath expression, which is evaluated to find the custom XML node that is mapped to the parent structured document tag.
+description: Aspose::Words::Markup::XmlMapping::get_XPath method. Returns the XPath expression, which is evaluated to find the custom XML node that is mapped to the parent structured document tag in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.markup/xmlmapping/get_xpath/
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.XmlMapping.docx");
 
 * Class [XmlMapping](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

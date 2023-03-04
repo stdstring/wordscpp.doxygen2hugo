@@ -1,7 +1,8 @@
 ---
-title: get_ApplyFont
+title: Aspose::Words::Replacing::FindReplaceOptions::get_ApplyFont method
+linktitle: get_ApplyFont
 second_title: Aspose.Words for C++ API Reference
-description: Text formatting applied to new content.
+description: Aspose::Words::Replacing::FindReplaceOptions::get_ApplyFont method. Text formatting applied to new content in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyfont/
@@ -96,4 +97,4 @@ private:
 * Class [Font](../../../aspose.words/font/)
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

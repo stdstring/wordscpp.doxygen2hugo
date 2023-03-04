@@ -1,7 +1,8 @@
 ---
-title: get_LastRow
+title: Aspose::Words::Tables::Table::get_LastRow method
+linktitle: get_LastRow
 second_title: Aspose.Words for C++ API Reference
-description: Returns the last Row node in the table.
+description: Aspose::Words::Tables::Table::get_LastRow method. Returns the last Row node in the table in C++.
 type: docs
 weight: 300
 url: /cpp/aspose.words.tables/table/get_lastrow/
@@ -50,4 +51,4 @@ ASSERT_EQ(2, tables->idx_get(1)->get_Rows()->get_Count());
 * Class [Row](../../row/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

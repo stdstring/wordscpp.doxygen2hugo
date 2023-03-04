@@ -1,7 +1,8 @@
 ---
-title: get_BoundsWithEffects
+title: Aspose::Words::Drawing::ShapeBase::get_BoundsWithEffects method
+linktitle: get_BoundsWithEffects
 second_title: Aspose.Words for C++ API Reference
-description: Gets final extent that this shape object has after applying drawing effects. Value is measured in points.
+description: Aspose::Words::Drawing::ShapeBase::get_BoundsWithEffects method. Gets final extent that this shape object has after applying drawing effects. Value is measured in points in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/shapebase/get_boundswitheffects/
@@ -87,4 +88,4 @@ ASPOSE_ASSERT_EQ(279, shape->get_BoundsWithEffects().get_Height());
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_AllowEmbeddingPostScriptFonts
+title: Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts method
+linktitle: get_AllowEmbeddingPostScriptFonts
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is false.
+description: Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts method. Gets or sets a boolean value indicating whether to allow embedding fonts with PostScript outlines when embedding TrueType fonts in a document upon it is saved. The default value is false in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/saveoptions/get_allowembeddingpostscriptfonts/
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"Document.AllowEmbeddingPostScriptFonts.docx", saveOpt
 
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

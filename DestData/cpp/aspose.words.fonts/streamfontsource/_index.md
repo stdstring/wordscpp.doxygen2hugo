@@ -1,7 +1,8 @@
 ---
-title: StreamFontSource
+title: Aspose::Words::Fonts::StreamFontSource class
+linktitle: StreamFontSource
 second_title: Aspose.Words for C++ API Reference
-description: Base class for user-defined stream font source.
+description: Aspose::Words::Fonts::StreamFontSource class. Base class for user-defined stream font source in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.fonts/streamfontsource/
@@ -74,4 +75,4 @@ protected:
 
 * Class [FontSourceBase](../fontsourcebase/)
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

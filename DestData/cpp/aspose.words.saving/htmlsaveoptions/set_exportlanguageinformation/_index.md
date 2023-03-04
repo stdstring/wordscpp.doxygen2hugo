@@ -1,7 +1,8 @@
 ---
-title: set_ExportLanguageInformation
+title: Aspose::Words::Saving::HtmlSaveOptions::set_ExportLanguageInformation method
+linktitle: set_ExportLanguageInformation
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportLanguageInformation.'
+description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportLanguageInformation method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportLanguageInformation in C++.
 type: docs
 weight: 820
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportlanguageinformation/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::HtmlSaveOptions::set_ExportLanguageInformation(bool 
 
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

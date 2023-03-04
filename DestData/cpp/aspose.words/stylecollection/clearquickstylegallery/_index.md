@@ -1,7 +1,8 @@
 ---
-title: ClearQuickStyleGallery
+title: Aspose::Words::StyleCollection::ClearQuickStyleGallery method
+linktitle: ClearQuickStyleGallery
 second_title: Aspose.Words for C++ API Reference
-description: Removes all styles from the Quick Style Gallery panel.
+description: Aspose::Words::StyleCollection::ClearQuickStyleGallery method. Removes all styles from the Quick Style Gallery panel in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/stylecollection/clearquickstylegallery/
@@ -34,4 +35,4 @@ doc->Save(ArtifactsDir + u"Styles.RemoveStylesFromStyleGallery.docx");
 
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: SetSubstitutes
+title: Aspose::Words::Fonts::TableSubstitutionRule::SetSubstitutes method
+linktitle: SetSubstitutes
 second_title: Aspose.Words for C++ API Reference
-description: Override substitute font names for given original font name.
+description: Aspose::Words::Fonts::TableSubstitutionRule::SetSubstitutes method. Override substitute font names for given original font name in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/setsubstitutes/
@@ -121,4 +122,4 @@ doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 
 * Class [TableSubstitutionRule](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

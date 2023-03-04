@@ -1,7 +1,8 @@
 ---
-title: set_RightPadding
+title: Aspose::Words::ConditionalStyle::set_RightPadding method
+linktitle: set_RightPadding
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::ConditionalStyle::get_RightPadding.'
+description: Aspose::Words::ConditionalStyle::set_RightPadding method. Setter for Aspose::Words::ConditionalStyle::get_RightPadding in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words/conditionalstyle/set_rightpadding/
@@ -19,4 +20,4 @@ void Aspose::Words::ConditionalStyle::set_RightPadding(double value)
 
 * Class [ConditionalStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

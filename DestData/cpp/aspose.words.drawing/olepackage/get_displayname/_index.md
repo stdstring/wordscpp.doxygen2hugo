@@ -1,7 +1,8 @@
 ---
-title: get_DisplayName
+title: Aspose::Words::Drawing::OlePackage::get_DisplayName method
+linktitle: get_DisplayName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets OLE Package display name.
+description: Aspose::Words::Drawing::OlePackage::get_DisplayName method. Gets or sets OLE Package display name in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/olepackage/get_displayname/
@@ -45,4 +46,4 @@ doc->Save(ArtifactsDir + u"Shape.InsertOlePackage.docx");
 
 * Class [OlePackage](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

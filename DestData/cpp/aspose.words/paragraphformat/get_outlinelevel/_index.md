@@ -1,7 +1,8 @@
 ---
-title: get_OutlineLevel
+title: Aspose::Words::ParagraphFormat::get_OutlineLevel method
+linktitle: get_OutlineLevel
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the outline level of the paragraph in the document.
+description: Aspose::Words::ParagraphFormat::get_OutlineLevel method. Specifies the outline level of the paragraph in the document in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words/paragraphformat/get_outlinelevel/
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"ParagraphFormat.ParagraphOutlineLevel.docx");
 * Enum [OutlineLevel](../../outlinelevel/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

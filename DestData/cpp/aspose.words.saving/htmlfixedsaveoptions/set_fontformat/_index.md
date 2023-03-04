@@ -1,7 +1,8 @@
 ---
-title: set_FontFormat
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::set_FontFormat method
+linktitle: set_FontFormat
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_FontFormat.'
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_FontFormat method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_FontFormat in C++.
 type: docs
 weight: 339
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_fontformat/
@@ -20,4 +21,4 @@ void Aspose::Words::Saving::HtmlFixedSaveOptions::set_FontFormat(Aspose::Words::
 * Enum [ExportFontFormat](../../exportfontformat/)
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

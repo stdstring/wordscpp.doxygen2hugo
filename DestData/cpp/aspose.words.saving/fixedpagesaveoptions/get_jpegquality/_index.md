@@ -1,7 +1,8 @@
 ---
-title: get_JpegQuality
+title: Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality method
+linktitle: get_JpegQuality
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining the quality of the JPEG images inside Html document.
+description: Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality method. Gets or sets a value determining the quality of the JPEG images inside Html document in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/get_jpegquality/
@@ -59,4 +60,4 @@ ASSERT_LT(60000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOpti
 
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::ConditionalStyleCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object that can be used to iterate over all conditional styles in the collection.
+description: Aspose::Words::ConditionalStyleCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all conditional styles in the collection in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words/conditionalstylecollection/getenumerator/
@@ -94,4 +95,4 @@ doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 * Class [ConditionalStyle](../../conditionalstyle/)
 * Class [ConditionalStyleCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

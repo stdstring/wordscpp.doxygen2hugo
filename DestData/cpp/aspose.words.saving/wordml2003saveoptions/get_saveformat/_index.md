@@ -1,7 +1,8 @@
 ---
-title: get_SaveFormat
+title: Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat method
+linktitle: get_SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the format in which the document will be saved if this save options object is used. Can only be WordML.
+description: Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat method. Specifies the format in which the document will be saved if this save options object is used. Can only be WordML in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/wordml2003saveoptions/get_saveformat/
@@ -62,4 +63,4 @@ else
 * Enum [SaveFormat](../../../aspose.words/saveformat/)
 * Class [WordML2003SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_SuppressEndnotes
+title: Aspose::Words::PageSetup::set_SuppressEndnotes method
+linktitle: set_SuppressEndnotes
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::PageSetup::get_SuppressEndnotes.'
+description: Aspose::Words::PageSetup::set_SuppressEndnotes method. Setter for Aspose::Words::PageSetup::get_SuppressEndnotes in C++.
 type: docs
 weight: 1054
 url: /cpp/aspose.words/pagesetup/set_suppressendnotes/
@@ -19,4 +20,4 @@ void Aspose::Words::PageSetup::set_SuppressEndnotes(bool value)
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

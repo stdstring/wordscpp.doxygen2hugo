@@ -1,7 +1,8 @@
 ---
-title: get_FitShape
+title: Aspose::Words::Drawing::TextPath::get_FitShape method
+linktitle: get_FitShape
 second_title: Aspose.Words for C++ API Reference
-description: Defines whether the text fits bounding box of a shape.
+description: Aspose::Words::Drawing::TextPath::get_FitShape method. Defines whether the text fits bounding box of a shape in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/textpath/get_fitshape/
@@ -130,4 +131,4 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

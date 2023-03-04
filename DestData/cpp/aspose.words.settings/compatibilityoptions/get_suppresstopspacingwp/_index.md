@@ -1,7 +1,8 @@
 ---
-title: get_SuppressTopSpacingWP
+title: Aspose::Words::Settings::CompatibilityOptions::get_SuppressTopSpacingWP method
+linktitle: get_SuppressTopSpacingWP
 second_title: Aspose.Words for C++ API Reference
-description: Emulate WordPerfect 5.x Line Spacing.
+description: Aspose::Words::Settings::CompatibilityOptions::get_SuppressTopSpacingWP method. Emulate WordPerfect 5.x Line Spacing in C++.
 type: docs
 weight: 664
 url: /cpp/aspose.words.settings/compatibilityoptions/get_suppresstopspacingwp/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_SuppressTopSpacingWP()
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

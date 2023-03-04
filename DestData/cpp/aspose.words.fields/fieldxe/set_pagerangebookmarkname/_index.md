@@ -1,7 +1,8 @@
 ---
-title: set_PageRangeBookmarkName
+title: Aspose::Words::Fields::FieldXE::set_PageRangeBookmarkName method
+linktitle: set_PageRangeBookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName.'
+description: Aspose::Words::Fields::FieldXE::set_PageRangeBookmarkName method. Setter for Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldxe/set_pagerangebookmarkname/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldXE::set_PageRangeBookmarkName(const System::Str
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

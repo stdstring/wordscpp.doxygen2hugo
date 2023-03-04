@@ -1,7 +1,8 @@
 ---
-title: Before
+title: Aspose::Words::TabStopCollection::Before method
+linktitle: Before
 second_title: Aspose.Words for C++ API Reference
-description: Gets a first tab stop to the left of the specified position.
+description: Aspose::Words::TabStopCollection::Before method. Gets a first tab stop to the left of the specified position in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/tabstopcollection/before/
@@ -75,4 +76,4 @@ doc->Save(ArtifactsDir + u"TabStopCollection.TabStopCollection.docx");
 * Class [TabStop](../../tabstop/)
 * Class [TabStopCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

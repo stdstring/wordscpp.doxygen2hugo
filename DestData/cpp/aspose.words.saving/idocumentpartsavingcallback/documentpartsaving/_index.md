@@ -1,7 +1,8 @@
 ---
-title: DocumentPartSaving
+title: Aspose::Words::Saving::IDocumentPartSavingCallback::DocumentPartSaving method
+linktitle: DocumentPartSaving
 second_title: Aspose.Words for C++ API Reference
-description: Called when Aspose.Words is about to save a document part.
+description: Aspose::Words::Saving::IDocumentPartSavingCallback::DocumentPartSaving method. Called when Aspose.Words is about to save a document part in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/idocumentpartsavingcallback/documentpartsaving/
@@ -143,4 +144,4 @@ private:
 * Class [DocumentPartSavingArgs](../../documentpartsavingargs/)
 * Interface [IDocumentPartSavingCallback](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

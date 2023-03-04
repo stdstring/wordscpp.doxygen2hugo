@@ -1,7 +1,8 @@
 ---
-title: InsertBreak
+title: Aspose::Words::DocumentBuilder::InsertBreak method
+linktitle: InsertBreak
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a break of the specified type into the document.
+description: Aspose::Words::DocumentBuilder::InsertBreak method. Inserts a break of the specified type into the document in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words/documentbuilder/insertbreak/
@@ -132,4 +133,4 @@ doc->Save(ArtifactsDir + u"PageSetup.ClearFormatting.docx");
 * Enum [BreakType](../../breaktype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

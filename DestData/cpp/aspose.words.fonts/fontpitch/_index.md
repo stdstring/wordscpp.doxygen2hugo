@@ -1,7 +1,8 @@
 ---
-title: FontPitch
+title: Aspose::Words::Fonts::FontPitch enum
+linktitle: FontPitch
 second_title: Aspose.Words for C++ API Reference
-description: Represents the font pitch.
+description: Aspose::Words::Fonts::FontPitch enum. Represents the font pitch in C++.
 type: docs
 weight: 274
 url: /cpp/aspose.words.fonts/fontpitch/
@@ -64,4 +65,4 @@ while (fontCollectionEnumerator->MoveNext())
 ## See Also
 
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

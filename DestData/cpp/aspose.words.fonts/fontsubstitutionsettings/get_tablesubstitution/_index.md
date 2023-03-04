@@ -1,7 +1,8 @@
 ---
-title: get_TableSubstitution
+title: Aspose::Words::Fonts::FontSubstitutionSettings::get_TableSubstitution method
+linktitle: get_TableSubstitution
 second_title: Aspose.Words for C++ API Reference
-description: Settings related to table substitution rule.
+description: Aspose::Words::Fonts::FontSubstitutionSettings::get_TableSubstitution method. Settings related to table substitution rule in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_tablesubstitution/
@@ -79,4 +80,4 @@ doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 * Class [TableSubstitutionRule](../../tablesubstitutionrule/)
 * Class [FontSubstitutionSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

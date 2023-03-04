@@ -1,7 +1,8 @@
 ---
-title: get_IsLayoutInCell
+title: Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell method
+linktitle: get_IsLayoutInCell
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a flag indicating whether the shape is displayed inside a table or outside of it.
+description: Aspose::Words::Drawing::ShapeBase::get_IsLayoutInCell method. Gets or sets a flag indicating whether the shape is displayed inside a table or outside of it in C++.
 type: docs
 weight: 391
 url: /cpp/aspose.words.drawing/shapebase/get_islayoutincell/
@@ -69,4 +70,4 @@ doc->Save(ArtifactsDir + u"Shape.LayoutInTableCell.docx");
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

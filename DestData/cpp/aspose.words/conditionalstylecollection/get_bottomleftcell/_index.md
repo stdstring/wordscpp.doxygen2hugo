@@ -1,7 +1,8 @@
 ---
-title: get_BottomLeftCell
+title: Aspose::Words::ConditionalStyleCollection::get_BottomLeftCell method
+linktitle: get_BottomLeftCell
 second_title: Aspose.Words for C++ API Reference
-description: Gets the bottom left cell style.
+description: Aspose::Words::ConditionalStyleCollection::get_BottomLeftCell method. Gets the bottom left cell style in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/conditionalstylecollection/get_bottomleftcell/
@@ -94,4 +95,4 @@ doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 * Class [ConditionalStyle](../../conditionalstyle/)
 * Class [ConditionalStyleCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

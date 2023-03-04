@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::Markup::StructuredDocumentTagCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns the structured document tag at the specified index.
+description: Aspose::Words::Markup::StructuredDocumentTagCollection::idx_get method. Returns the structured document tag at the specified index in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/idx_get/
@@ -25,4 +26,4 @@ System::SharedPtr<Aspose::Words::Markup::IStructuredDocumentTag> Aspose::Words::
 * Interface [IStructuredDocumentTag](../../istructureddocumenttag/)
 * Class [StructuredDocumentTagCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

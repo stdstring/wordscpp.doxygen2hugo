@@ -1,7 +1,8 @@
 ---
-title: InsertBefore
+title: Aspose::Words::CompositeNode::InsertBefore method
+linktitle: InsertBefore
 second_title: Aspose.Words for C++ API Reference
-description: Inserts the specified node immediately before the specified reference node.
+description: Aspose::Words::CompositeNode::InsertBefore method. Inserts the specified node immediately before the specified reference node in C++.
 type: docs
 weight: 170
 url: /cpp/aspose.words/compositenode/insertbefore/
@@ -89,4 +90,4 @@ ASSERT_EQ(3, paragraph->GetChildNodes(NodeType::Any, true)->get_Count());
 * Class [Node](../../node/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: FieldAddressBlock
+title: Aspose::Words::Fields::FieldAddressBlock::FieldAddressBlock constructor
+linktitle: FieldAddressBlock
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use FieldAddressBlock constructor of Aspose::Words::Fields::FieldAddressBlock class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldaddressblock/fieldaddressblock/
@@ -19,4 +20,4 @@ Aspose::Words::Fields::FieldAddressBlock::FieldAddressBlock()
 
 * Class [FieldAddressBlock](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

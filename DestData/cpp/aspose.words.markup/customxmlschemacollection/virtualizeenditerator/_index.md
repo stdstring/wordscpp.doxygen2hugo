@@ -1,7 +1,8 @@
 ---
-title: virtualizeEndIterator
+title: Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeEndIterator method
+linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use virtualizeEndIterator method of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.markup/customxmlschemacollection/virtualizeenditerator/
@@ -20,4 +21,4 @@ virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtual
 * Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [CustomXmlSchemaCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

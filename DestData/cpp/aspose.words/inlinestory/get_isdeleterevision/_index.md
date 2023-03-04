@@ -1,7 +1,8 @@
 ---
-title: get_IsDeleteRevision
+title: Aspose::Words::InlineStory::get_IsDeleteRevision method
+linktitle: get_IsDeleteRevision
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this object was deleted in Microsoft Word while change tracking was enabled.
+description: Aspose::Words::InlineStory::get_IsDeleteRevision method. Returns true if this object was deleted in Microsoft Word while change tracking was enabled in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/inlinestory/get_isdeleterevision/
@@ -67,4 +68,4 @@ ASSERT_TRUE(footnotes->idx_get(3)->get_IsDeleteRevision());
 
 * Class [InlineStory](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

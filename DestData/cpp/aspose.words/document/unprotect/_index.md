@@ -1,7 +1,8 @@
 ---
-title: Unprotect
+title: Aspose::Words::Document::Unprotect method
+linktitle: Unprotect
 second_title: Aspose.Words for C++ API Reference
-description: Removes protection from the document regardless of the password.
+description: Aspose::Words::Document::Unprotect method. Removes protection from the document regardless of the password in C++.
 type: docs
 weight: 1132
 url: /cpp/aspose.words/document/unprotect/
@@ -70,7 +71,7 @@ ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Unprotect(const System::String\&) method
 
 
@@ -143,4 +144,4 @@ ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

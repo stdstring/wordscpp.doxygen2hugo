@@ -1,7 +1,8 @@
 ---
-title: set_PageSavingCallback
+title: Aspose::Words::Saving::FixedPageSaveOptions::set_PageSavingCallback method
+linktitle: set_PageSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback.'
+description: Aspose::Words::Saving::FixedPageSaveOptions::set_PageSavingCallback method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback in C++.
 type: docs
 weight: 170
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_pagesavingcallback/
@@ -20,4 +21,4 @@ void Aspose::Words::Saving::FixedPageSaveOptions::set_PageSavingCallback(const S
 * Interface [IPageSavingCallback](../../ipagesavingcallback/)
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

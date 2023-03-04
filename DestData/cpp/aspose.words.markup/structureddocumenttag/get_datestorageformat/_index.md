@@ -1,7 +1,8 @@
 ---
-title: get_DateStorageFormat
+title: Aspose::Words::Markup::StructuredDocumentTag::get_DateStorageFormat method
+linktitle: get_DateStorageFormat
 second_title: Aspose.Words for C++ API Reference
-description: Gets/sets format in which the date for a date SDT is stored when the SDT is bound to an XML node in the document's data store. Default value is DateTime
+description: Aspose::Words::Markup::StructuredDocumentTag::get_DateStorageFormat method. Gets/sets format in which the date for a date SDT is stored when the SDT is bound to an XML node in the document's data store. Default value is DateTime in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.markup/structureddocumenttag/get_datestorageformat/
@@ -62,4 +63,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.Date.docx");
 * Enum [SdtDateStorageFormat](../../sdtdatestorageformat/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

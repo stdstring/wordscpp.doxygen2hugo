@@ -1,7 +1,8 @@
 ---
-title: get_CssClassNamesPrefix
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix method
+linktitle: get_CssClassNamesPrefix
 second_title: Aspose.Words for C++ API Reference
-description: Specifies prefix which is added to all class names in style.css file. Default value is %"aw".
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix method. Specifies prefix which is added to all class names in style.css file. Default value is %"aw" in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_cssclassnamesprefix/
@@ -51,4 +52,4 @@ ASSERT_TRUE(System::Text::RegularExpressions::Regex::Match(outDocContents,
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

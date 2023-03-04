@@ -1,7 +1,8 @@
 ---
-title: VbaModule
+title: Aspose::Words::Vba::VbaModule class
+linktitle: VbaModule
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to VBA project module.
+description: Aspose::Words::Vba::VbaModule class. Provides access to VBA project module in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.vba/vbamodule/
@@ -64,4 +65,4 @@ vbaModules->Remove(vbaModules->idx_get(2));
 ## See Also
 
 * Namespace [Aspose::Words::Vba](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

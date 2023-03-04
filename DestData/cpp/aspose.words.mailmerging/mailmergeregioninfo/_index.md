@@ -1,7 +1,8 @@
 ---
-title: MailMergeRegionInfo
+title: Aspose::Words::MailMerging::MailMergeRegionInfo class
+linktitle: MailMergeRegionInfo
 second_title: Aspose.Words for C++ API Reference
-description: Contains information about a mail merge region.
+description: Aspose::Words::MailMerging::MailMergeRegionInfo class. Contains information about a mail merge region in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/
@@ -73,4 +74,4 @@ ASSERT_EQ(u"TableEnd:NestedRegion1", endFieldMergeField->get_FieldName());
 ## See Also
 
 * Namespace [Aspose::Words::MailMerging](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

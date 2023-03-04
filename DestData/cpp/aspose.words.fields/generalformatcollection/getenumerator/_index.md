@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Fields::GeneralFormatCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object.
+description: Aspose::Words::Fields::GeneralFormatCollection::GetEnumerator method. Returns an enumerator object in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/generalformatcollection/getenumerator/
@@ -87,4 +88,4 @@ ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 * Enum [GeneralFormat](../../generalformat/)
 * Class [GeneralFormatCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_ExportHeadersFootersMode
+title: Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode method
+linktitle: get_ExportHeadersFootersMode
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the way headers and footers are exported to the text formats. Default value is PrimaryOnly.
+description: Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode method. Specifies the way headers and footers are exported to the text formats. Default value is PrimaryOnly in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/get_exportheadersfootersmode/
@@ -82,4 +83,4 @@ case TxtExportHeadersFootersMode::None:
 * Enum [TxtExportHeadersFootersMode](../../txtexportheadersfootersmode/)
 * Class [TxtSaveOptionsBase](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_NumericFormat
+title: Aspose::Words::Fields::FieldFormat::get_NumericFormat method
+linktitle: get_NumericFormat
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a formatting that is applied to a numeric field result. Corresponds to the \# switch.
+description: Aspose::Words::Fields::FieldFormat::get_NumericFormat method. Gets or sets a formatting that is applied to a numeric field result. Corresponds to the \# switch in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldformat/get_numericformat/
@@ -86,4 +87,4 @@ ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 
 * Class [FieldFormat](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

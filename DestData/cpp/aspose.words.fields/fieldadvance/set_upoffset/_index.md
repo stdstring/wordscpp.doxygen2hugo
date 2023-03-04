@@ -1,7 +1,8 @@
 ---
-title: set_UpOffset
+title: Aspose::Words::Fields::FieldAdvance::set_UpOffset method
+linktitle: set_UpOffset
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldAdvance::get_UpOffset.'
+description: Aspose::Words::Fields::FieldAdvance::set_UpOffset method. Setter for Aspose::Words::Fields::FieldAdvance::get_UpOffset in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldadvance/set_upoffset/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldAdvance::set_UpOffset(const System::String &val
 
 * Class [FieldAdvance](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

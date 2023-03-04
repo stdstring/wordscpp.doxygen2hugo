@@ -1,7 +1,8 @@
 ---
-title: Accept
+title: Aspose::Words::SpecialChar::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: Aspose::Words::SpecialChar::Accept method. Accepts a visitor in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/specialchar/accept/
@@ -35,4 +36,4 @@ For more info see the Visitor design pattern.
 * Class [DocumentVisitor](../../documentvisitor/)
 * Class [SpecialChar](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

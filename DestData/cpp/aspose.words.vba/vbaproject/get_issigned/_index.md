@@ -1,7 +1,8 @@
 ---
-title: get_IsSigned
+title: Aspose::Words::Vba::VbaProject::get_IsSigned method
+linktitle: get_IsSigned
 second_title: Aspose.Words for C++ API Reference
-description: Shows whether the VbaProject is signed or not.
+description: Aspose::Words::Vba::VbaProject::get_IsSigned method. Shows whether the VbaProject is signed or not in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.vba/vbaproject/get_issigned/
@@ -53,4 +54,4 @@ vbaModules->Remove(vbaModules->idx_get(2));
 
 * Class [VbaProject](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

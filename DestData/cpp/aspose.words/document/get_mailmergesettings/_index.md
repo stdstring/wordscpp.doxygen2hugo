@@ -1,7 +1,8 @@
 ---
-title: get_MailMergeSettings
+title: Aspose::Words::Document::get_MailMergeSettings method
+linktitle: get_MailMergeSettings
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the object that contains all of the mail merge information for a document.
+description: Aspose::Words::Document::get_MailMergeSettings method. Gets or sets the object that contains all of the mail merge information for a document in C++.
 type: docs
 weight: 443
 url: /cpp/aspose.words/document/get_mailmergesettings/
@@ -26,4 +27,4 @@ This object is never null.
 * Class [MailMergeSettings](../../../aspose.words.settings/mailmergesettings/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

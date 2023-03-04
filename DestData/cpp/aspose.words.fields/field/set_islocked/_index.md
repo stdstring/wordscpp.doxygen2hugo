@@ -1,7 +1,8 @@
 ---
-title: set_IsLocked
+title: Aspose::Words::Fields::Field::set_IsLocked method
+linktitle: set_IsLocked
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::Field::get_IsLocked.'
+description: Aspose::Words::Fields::Field::set_IsLocked method. Setter for Aspose::Words::Fields::Field::get_IsLocked in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.fields/field/set_islocked/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::Field::set_IsLocked(bool value)
 
 * Class [Field](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

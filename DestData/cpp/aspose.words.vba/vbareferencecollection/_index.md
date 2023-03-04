@@ -1,7 +1,8 @@
 ---
-title: VbaReferenceCollection
+title: Aspose::Words::Vba::VbaReferenceCollection class
+linktitle: VbaReferenceCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of VbaReference objects.
+description: Aspose::Words::Vba::VbaReferenceCollection class. Represents a collection of VbaReference objects in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.vba/vbareferencecollection/
@@ -115,4 +116,4 @@ static String GetLibIdProjectPath(String libIdProject)
 ## See Also
 
 * Namespace [Aspose::Words::Vba](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: CustomPart
+title: Aspose::Words::Markup::CustomPart::CustomPart constructor
+linktitle: CustomPart
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use CustomPart constructor of Aspose::Words::Markup::CustomPart class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/custompart/custompart/
@@ -19,4 +20,4 @@ Aspose::Words::Markup::CustomPart::CustomPart()
 
 * Class [CustomPart](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

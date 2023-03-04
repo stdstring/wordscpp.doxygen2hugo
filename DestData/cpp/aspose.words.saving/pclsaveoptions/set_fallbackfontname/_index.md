@@ -1,7 +1,8 @@
 ---
-title: set_FallbackFontName
+title: Aspose::Words::Saving::PclSaveOptions::set_FallbackFontName method
+linktitle: set_FallbackFontName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName.'
+description: Aspose::Words::Saving::PclSaveOptions::set_FallbackFontName method. Setter for Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/pclsaveoptions/set_fallbackfontname/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::PclSaveOptions::set_FallbackFontName(const System::S
 
 * Class [PclSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

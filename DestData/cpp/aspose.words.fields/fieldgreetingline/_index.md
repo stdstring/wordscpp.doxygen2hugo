@@ -1,7 +1,8 @@
 ---
-title: FieldGreetingLine
+title: Aspose::Words::Fields::FieldGreetingLine class
+linktitle: FieldGreetingLine
 second_title: Aspose.Words for C++ API Reference
-description: Implements the GREETINGLINE field.
+description: Aspose::Words::Fields::FieldGreetingLine class. Implements the GREETINGLINE field in C++.
 type: docs
 weight: 664
 url: /cpp/aspose.words.fields/fieldgreetingline/
@@ -55,4 +56,4 @@ class FieldGreetingLine : public Aspose::Words::Fields::Field,
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

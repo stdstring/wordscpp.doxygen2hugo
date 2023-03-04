@@ -1,7 +1,8 @@
 ---
-title: FieldCreateDate
+title: Aspose::Words::Fields::FieldCreateDate class
+linktitle: FieldCreateDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the CREATEDATE field.
+description: Aspose::Words::Fields::FieldCreateDate class. Implements the CREATEDATE field in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words.fields/fieldcreatedate/
@@ -91,4 +92,4 @@ doc->Save(ArtifactsDir + u"Field.CREATEDATE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

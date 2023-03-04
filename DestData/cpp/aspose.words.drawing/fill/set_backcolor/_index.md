@@ -1,7 +1,8 @@
 ---
-title: set_BackColor
+title: Aspose::Words::Drawing::Fill::set_BackColor method
+linktitle: set_BackColor
 second_title: Aspose.Words for C++ API Reference
-description: Sets a Color object that represents the background color for the fill.
+description: Aspose::Words::Drawing::Fill::set_BackColor method. Sets a Color object that represents the background color for the fill in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/fill/set_backcolor/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Fill::set_BackColor(System::Drawing::Color value)
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

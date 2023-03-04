@@ -1,7 +1,8 @@
 ---
-title: set_BarcodeValue
+title: Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeValue method
+linktitle: set_BarcodeValue
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue.'
+description: Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeValue method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_barcodevalue/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeValue(const System::
 
 * Class [FieldDisplayBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

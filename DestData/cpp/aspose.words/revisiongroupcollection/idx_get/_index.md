@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::RevisionGroupCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns a revision group at the specified index.
+description: Aspose::Words::RevisionGroupCollection::idx_get method. Returns a revision group at the specified index in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/revisiongroupcollection/idx_get/
@@ -32,4 +33,4 @@ SharedPtr<RevisionGroup> revisionGroup = doc->get_Revisions()->get_Groups()->idx
 * Class [RevisionGroup](../../revisiongroup/)
 * Class [RevisionGroupCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

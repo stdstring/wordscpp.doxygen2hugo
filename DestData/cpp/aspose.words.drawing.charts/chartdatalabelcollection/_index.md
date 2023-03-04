@@ -1,7 +1,8 @@
 ---
-title: ChartDataLabelCollection
+title: Aspose::Words::Drawing::Charts::ChartDataLabelCollection class
+linktitle: ChartDataLabelCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of ChartDataLabel.
+description: Aspose::Words::Drawing::Charts::ChartDataLabelCollection class. Represents a collection of ChartDataLabel in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/
@@ -121,4 +122,4 @@ static void ApplyDataLabels(SharedPtr<ChartSeries> series, int labelsCount, Stri
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

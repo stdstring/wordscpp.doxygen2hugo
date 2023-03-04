@@ -1,7 +1,8 @@
 ---
-title: PageSavingArgs
+title: Aspose::Words::Saving::PageSavingArgs class
+linktitle: PageSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the PageSaving() event.
+description: Aspose::Words::Saving::PageSavingArgs class. Provides data for the PageSaving() event in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.saving/pagesavingargs/
@@ -86,4 +87,4 @@ public:
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

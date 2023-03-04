@@ -1,7 +1,8 @@
 ---
-title: ChapterPageSeparator
+title: Aspose::Words::ChapterPageSeparator enum
+linktitle: ChapterPageSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Defines the separator character that appears between the chapter and page number.
+description: Aspose::Words::ChapterPageSeparator enum. Defines the separator character that appears between the chapter and page number in C++.
 type: docs
 weight: 1080
 url: /cpp/aspose.words/chapterpageseparator/
@@ -29,4 +30,4 @@ enum class ChapterPageSeparator
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

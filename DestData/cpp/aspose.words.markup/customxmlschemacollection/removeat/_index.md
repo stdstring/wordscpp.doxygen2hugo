@@ -1,7 +1,8 @@
 ---
-title: RemoveAt
+title: Aspose::Words::Markup::CustomXmlSchemaCollection::RemoveAt method
+linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Removes a value at the specified index.
+description: Aspose::Words::Markup::CustomXmlSchemaCollection::RemoveAt method. Removes a value at the specified index in C++.
 type: docs
 weight: 170
 url: /cpp/aspose.words.markup/customxmlschemacollection/removeat/
@@ -70,4 +71,4 @@ ASSERT_EQ(0, schemas->get_Count());
 
 * Class [CustomXmlSchemaCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

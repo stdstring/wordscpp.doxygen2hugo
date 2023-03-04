@@ -1,7 +1,8 @@
 ---
-title: BuildingBlockCollection
+title: Aspose::Words::BuildingBlocks::BuildingBlockCollection class
+linktitle: BuildingBlockCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of BuildingBlock objects in the document.
+description: Aspose::Words::BuildingBlocks::BuildingBlockCollection class. A collection of BuildingBlock objects in the document in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.buildingblocks/buildingblockcollection/
@@ -139,4 +140,4 @@ private:
 
 * Class [NodeCollection](../../aspose.words/nodecollection/)
 * Namespace [Aspose::Words::BuildingBlocks](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

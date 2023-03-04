@@ -1,7 +1,8 @@
 ---
-title: Paragraph
+title: Aspose::Words::Paragraph class
+linktitle: Paragraph
 second_title: Aspose.Words for C++ API Reference
-description: Represents a paragraph of text.
+description: Aspose::Words::Paragraph class. Represents a paragraph of text in C++.
 type: docs
 weight: 599
 url: /cpp/aspose.words/paragraph/
@@ -155,4 +156,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 * Class [CompositeNode](../compositenode/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

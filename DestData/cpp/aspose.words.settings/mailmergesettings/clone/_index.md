@@ -1,7 +1,8 @@
 ---
-title: Clone
+title: Aspose::Words::Settings::MailMergeSettings::Clone method
+linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Returns a deep clone of this object.
+description: Aspose::Words::Settings::MailMergeSettings::Clone method. Returns a deep clone of this object in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.settings/mailmergesettings/clone/
@@ -20,4 +21,4 @@ System::SharedPtr<Aspose::Words::Settings::MailMergeSettings> Aspose::Words::Set
 * Class [MailMergeSettings](../)
 * Class [MailMergeSettings](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

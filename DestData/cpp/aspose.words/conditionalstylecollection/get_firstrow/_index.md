@@ -1,7 +1,8 @@
 ---
-title: get_FirstRow
+title: Aspose::Words::ConditionalStyleCollection::get_FirstRow method
+linktitle: get_FirstRow
 second_title: Aspose.Words for C++ API Reference
-description: Gets the first row style.
+description: Aspose::Words::ConditionalStyleCollection::get_FirstRow method. Gets the first row style in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/conditionalstylecollection/get_firstrow/
@@ -94,4 +95,4 @@ doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 * Class [ConditionalStyle](../../conditionalstyle/)
 * Class [ConditionalStyleCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

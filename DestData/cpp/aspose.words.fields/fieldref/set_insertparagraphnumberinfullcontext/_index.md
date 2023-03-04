@@ -1,7 +1,8 @@
 ---
-title: set_InsertParagraphNumberInFullContext
+title: Aspose::Words::Fields::FieldRef::set_InsertParagraphNumberInFullContext method
+linktitle: set_InsertParagraphNumberInFullContext
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldRef::get_InsertParagraphNumberInFullContext.'
+description: Aspose::Words::Fields::FieldRef::set_InsertParagraphNumberInFullContext method. Setter for Aspose::Words::Fields::FieldRef::get_InsertParagraphNumberInFullContext in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.fields/fieldref/set_insertparagraphnumberinfullcontext/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldRef::set_InsertParagraphNumberInFullContext(boo
 
 * Class [FieldRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_IsAtEndOfParagraph
+title: Aspose::Words::DocumentBuilder::get_IsAtEndOfParagraph method
+linktitle: get_IsAtEndOfParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if the cursor is at the end of the current paragraph.
+description: Aspose::Words::DocumentBuilder::get_IsAtEndOfParagraph method. Returns true if the cursor is at the end of the current paragraph in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words/documentbuilder/get_isatendofparagraph/
@@ -72,4 +73,4 @@ ASSERT_TRUE(builder->get_IsAtStartOfParagraph());
 
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

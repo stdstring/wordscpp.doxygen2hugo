@@ -1,7 +1,8 @@
 ---
-title: ClearHeadersFooters
+title: Aspose::Words::Section::ClearHeadersFooters method
+linktitle: ClearHeadersFooters
 second_title: Aspose.Words for C++ API Reference
-description: Clears the headers and footers of this section.
+description: Aspose::Words::Section::ClearHeadersFooters method. Clears the headers and footers of this section in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words/section/clearheadersfooters/
@@ -58,4 +59,4 @@ ASSERT_EQ(String::Empty, doc->get_FirstSection()->get_HeadersFooters()->idx_get(
 
 * Class [Section](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

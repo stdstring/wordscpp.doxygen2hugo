@@ -1,7 +1,8 @@
 ---
-title: get_UpdateSdtContent
+title: Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent method
+linktitle: get_UpdateSdtContent
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets value determining whether content of StructuredDocumentTag is updated before saving.
+description: Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent method. Gets or sets value determining whether content of StructuredDocumentTag is updated before saving in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.saving/saveoptions/get_updatesdtcontent/
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.UpdateSdtContent.pdf", options)
 
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: IPageLayoutCallback
+title: Aspose::Words::Layout::IPageLayoutCallback interface
+linktitle: IPageLayoutCallback
 second_title: Aspose.Words for C++ API Reference
-description: Implement this interface if you want to have your own custom method called during build and rendering of page layout model.
+description: Aspose::Words::Layout::IPageLayoutCallback interface. Implement this interface if you want to have your own custom method called during build and rendering of page layout model in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.layout/ipagelayoutcallback/
@@ -106,4 +107,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Layout](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

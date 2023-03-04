@@ -1,7 +1,8 @@
 ---
-title: Remove
+title: Aspose::Words::Fields::FieldCollection::Remove method
+linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Removes the specified field from this collection and from the document.
+description: Aspose::Words::Fields::FieldCollection::Remove method. Removes the specified field from this collection and from the document in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldcollection/remove/
@@ -65,4 +66,4 @@ ASSERT_EQ(0, fields->get_Count());
 * Class [Field](../../field/)
 * Class [FieldCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

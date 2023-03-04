@@ -1,7 +1,8 @@
 ---
-title: get_Style
+title: Aspose::Words::ParagraphFormat::get_Style method
+linktitle: get_Style
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the paragraph style applied to this formatting.
+description: Aspose::Words::ParagraphFormat::get_Style method. Gets or sets the paragraph style applied to this formatting in C++.
 type: docs
 weight: 430
 url: /cpp/aspose.words/paragraphformat/get_style/
@@ -51,4 +52,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Styles.ParagraphStyleBulletedList
 * Class [Style](../../style/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

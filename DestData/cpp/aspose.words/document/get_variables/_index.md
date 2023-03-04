@@ -1,7 +1,8 @@
 ---
-title: get_Variables
+title: Aspose::Words::Document::get_Variables method
+linktitle: get_Variables
 second_title: Aspose.Words for C++ API Reference
-description: Returns the collection of variables added to a document or template.
+description: Aspose::Words::Document::get_Variables method. Returns the collection of variables added to a document or template in C++.
 type: docs
 weight: 664
 url: /cpp/aspose.words/document/get_variables/
@@ -91,4 +92,4 @@ ASSERT_EQ(0, variables->get_Count());
 * Class [VariableCollection](../../variablecollection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

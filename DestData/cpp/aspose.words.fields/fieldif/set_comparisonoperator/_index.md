@@ -1,7 +1,8 @@
 ---
-title: set_ComparisonOperator
+title: Aspose::Words::Fields::FieldIf::set_ComparisonOperator method
+linktitle: set_ComparisonOperator
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIf::get_ComparisonOperator.'
+description: Aspose::Words::Fields::FieldIf::set_ComparisonOperator method. Setter for Aspose::Words::Fields::FieldIf::get_ComparisonOperator in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldif/set_comparisonoperator/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIf::set_ComparisonOperator(const System::String
 
 * Class [FieldIf](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

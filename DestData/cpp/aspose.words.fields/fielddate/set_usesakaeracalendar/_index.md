@@ -1,7 +1,8 @@
 ---
-title: set_UseSakaEraCalendar
+title: Aspose::Words::Fields::FieldDate::set_UseSakaEraCalendar method
+linktitle: set_UseSakaEraCalendar
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDate::get_UseSakaEraCalendar.'
+description: Aspose::Words::Fields::FieldDate::set_UseSakaEraCalendar method. Setter for Aspose::Words::Fields::FieldDate::get_UseSakaEraCalendar in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fielddate/set_usesakaeracalendar/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDate::set_UseSakaEraCalendar(bool value)
 
 * Class [FieldDate](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

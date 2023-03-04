@@ -1,7 +1,8 @@
 ---
-title: WatermarkLayout
+title: Aspose::Words::WatermarkLayout enum
+linktitle: WatermarkLayout
 second_title: Aspose.Words for C++ API Reference
-description: Defines layout of the watermark relative to the watermark center.
+description: Aspose::Words::WatermarkLayout enum. Defines layout of the watermark relative to the watermark center in C++.
 type: docs
 weight: 1678
 url: /cpp/aspose.words/watermarklayout/
@@ -57,4 +58,4 @@ if (doc->get_Watermark()->get_Type() == WatermarkType::Text)
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

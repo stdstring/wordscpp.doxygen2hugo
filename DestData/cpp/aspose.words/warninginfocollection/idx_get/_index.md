@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::WarningInfoCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Gets an item at the specified index.
+description: Aspose::Words::WarningInfoCollection::idx_get method. Gets an item at the specified index in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words/warninginfocollection/idx_get/
@@ -25,4 +26,4 @@ System::SharedPtr<Aspose::Words::WarningInfo> Aspose::Words::WarningInfoCollecti
 * Class [WarningInfo](../../warninginfo/)
 * Class [WarningInfoCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

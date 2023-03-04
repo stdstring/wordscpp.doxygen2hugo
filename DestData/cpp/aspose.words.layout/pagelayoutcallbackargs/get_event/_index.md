@@ -1,7 +1,8 @@
 ---
-title: get_Event
+title: Aspose::Words::Layout::PageLayoutCallbackArgs::get_Event method
+linktitle: get_Event
 second_title: Aspose.Words for C++ API Reference
-description: Gets event.
+description: Aspose::Words::Layout::PageLayoutCallbackArgs::get_Event method. Gets event in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_event/
@@ -93,4 +94,4 @@ private:
 * Enum [PageLayoutEvent](../../pagelayoutevent/)
 * Class [PageLayoutCallbackArgs](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

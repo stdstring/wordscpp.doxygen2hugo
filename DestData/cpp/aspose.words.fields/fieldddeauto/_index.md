@@ -1,7 +1,8 @@
 ---
-title: FieldDdeAuto
+title: Aspose::Words::Fields::FieldDdeAuto class
+linktitle: FieldDdeAuto
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DDEAUTO field.
+description: Aspose::Words::Fields::FieldDdeAuto class. Implements the DDEAUTO field in C++.
 type: docs
 weight: 417
 url: /cpp/aspose.words.fields/fieldddeauto/
@@ -246,4 +247,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

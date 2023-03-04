@@ -1,7 +1,8 @@
 ---
-title: get_BookmarkName
+title: Aspose::Words::Fields::FieldSeq::get_BookmarkName method
+linktitle: get_BookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a bookmark name that refers to an item elsewhere in the document rather than in the current location.
+description: Aspose::Words::Fields::FieldSeq::get_BookmarkName method. Gets or sets a bookmark name that refers to an item elsewhere in the document rather than in the current location in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldseq/get_bookmarkname/
@@ -94,4 +95,4 @@ doc->Save(ArtifactsDir + u"Field.SEQ.Bookmark.docx");
 
 * Class [FieldSeq](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

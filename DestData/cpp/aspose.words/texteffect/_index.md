@@ -1,7 +1,8 @@
 ---
-title: TextEffect
+title: Aspose::Words::TextEffect enum
+linktitle: TextEffect
 second_title: Aspose.Words for C++ API Reference
-description: Animation effect for text runs.
+description: Aspose::Words::TextEffect enum. Animation effect for text runs in C++.
 type: docs
 weight: 1587
 url: /cpp/aspose.words/texteffect/
@@ -30,4 +31,4 @@ enum class TextEffect
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

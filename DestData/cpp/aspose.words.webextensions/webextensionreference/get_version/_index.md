@@ -1,7 +1,8 @@
 ---
-title: get_Version
+title: Aspose::Words::WebExtensions::WebExtensionReference::get_Version method
+linktitle: get_Version
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the version of the web extension.
+description: Aspose::Words::WebExtensions::WebExtensionReference::get_Version method. Specifies the version of the web extension in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.webextensions/webextensionreference/get_version/
@@ -63,4 +64,4 @@ ASSERT_EQ(0, doc->get_WebExtensionTaskPanes()->get_Count());
 
 * Class [WebExtensionReference](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

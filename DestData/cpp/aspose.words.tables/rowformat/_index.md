@@ -1,7 +1,8 @@
 ---
-title: RowFormat
+title: Aspose::Words::Tables::RowFormat class
+linktitle: RowFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents all formatting for a table row.
+description: Aspose::Words::Tables::RowFormat class. Represents all formatting for a table row in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.tables/rowformat/
@@ -144,4 +145,4 @@ doc->Save(ArtifactsDir + u"Table.RowFormat.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Tables](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

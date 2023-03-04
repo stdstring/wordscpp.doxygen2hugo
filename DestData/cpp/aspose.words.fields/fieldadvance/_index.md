@@ -1,7 +1,8 @@
 ---
-title: FieldAdvance
+title: Aspose::Words::Fields::FieldAdvance class
+linktitle: FieldAdvance
 second_title: Aspose.Words for C++ API Reference
-description: Implements the ADVANCE field.
+description: Aspose::Words::Fields::FieldAdvance class. Implements the ADVANCE field in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldadvance/
@@ -102,4 +103,4 @@ doc->Save(ArtifactsDir + u"Field.ADVANCE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

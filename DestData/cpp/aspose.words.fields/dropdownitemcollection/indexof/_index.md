@@ -1,7 +1,8 @@
 ---
-title: IndexOf
+title: Aspose::Words::Fields::DropDownItemCollection::IndexOf method
+linktitle: IndexOf
 second_title: Aspose.Words for C++ API Reference
-description: Returns the zero-based index of the specified value in the collection.
+description: Aspose::Words::Fields::DropDownItemCollection::IndexOf method. Returns the zero-based index of the specified value in the collection in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/dropdownitemcollection/indexof/
@@ -84,4 +85,4 @@ dropDownItems->Clear();
 
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

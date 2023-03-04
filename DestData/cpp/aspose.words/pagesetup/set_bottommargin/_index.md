@@ -1,7 +1,8 @@
 ---
-title: set_BottomMargin
+title: Aspose::Words::PageSetup::set_BottomMargin method
+linktitle: set_BottomMargin
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::PageSetup::get_BottomMargin.'
+description: Aspose::Words::PageSetup::set_BottomMargin method. Setter for Aspose::Words::PageSetup::get_BottomMargin in C++.
 type: docs
 weight: 664
 url: /cpp/aspose.words/pagesetup/set_bottommargin/
@@ -19,4 +20,4 @@ void Aspose::Words::PageSetup::set_BottomMargin(double value)
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

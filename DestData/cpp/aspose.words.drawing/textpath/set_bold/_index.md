@@ -1,7 +1,8 @@
 ---
-title: set_Bold
+title: Aspose::Words::Drawing::TextPath::set_Bold method
+linktitle: set_Bold
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::TextPath::get_Bold.'
+description: Aspose::Words::Drawing::TextPath::set_Bold method. Setter for Aspose::Words::Drawing::TextPath::get_Bold in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/textpath/set_bold/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::TextPath::set_Bold(bool value)
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

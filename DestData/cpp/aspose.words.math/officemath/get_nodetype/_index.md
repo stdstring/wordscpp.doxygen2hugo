@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Math::OfficeMath::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.OfficeMath.
+description: Aspose::Words::Math::OfficeMath::get_NodeType method. Returns NodeType.OfficeMath in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.math/officemath/get_nodetype/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 * Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

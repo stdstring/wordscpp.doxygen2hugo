@@ -1,7 +1,8 @@
 ---
-title: set_ShowPercentage
+title: Aspose::Words::Drawing::Charts::ChartDataLabelCollection::set_ShowPercentage method
+linktitle: set_ShowPercentage
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowPercentage.'
+description: Aspose::Words::Drawing::Charts::ChartDataLabelCollection::set_ShowPercentage method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowPercentage in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showpercentage/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Charts::ChartDataLabelCollection::set_ShowPercentag
 
 * Class [ChartDataLabelCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

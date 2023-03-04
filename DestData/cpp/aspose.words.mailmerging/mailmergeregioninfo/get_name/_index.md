@@ -1,7 +1,8 @@
 ---
-title: get_Name
+title: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name method
+linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Returns the name of region.
+description: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name method. Returns the name of region in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_name/
@@ -63,4 +64,4 @@ ASSERT_EQ(u"TableEnd:NestedRegion1", endFieldMergeField->get_FieldName());
 
 * Class [MailMergeRegionInfo](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

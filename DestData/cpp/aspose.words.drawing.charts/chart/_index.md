@@ -1,7 +1,8 @@
 ---
-title: Chart
+title: Aspose::Words::Drawing::Charts::Chart class
+linktitle: Chart
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the chart shape properties.
+description: Aspose::Words::Drawing::Charts::Chart class. Provides access to the chart shape properties in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/chart/
@@ -57,4 +58,4 @@ doc->Save(ArtifactsDir + u"Charts.ChartTitle.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

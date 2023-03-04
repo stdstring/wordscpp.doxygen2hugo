@@ -1,7 +1,8 @@
 ---
-title: virtualizeBeginConstIterator
+title: Aspose::Words::Markup::CustomXmlPartCollection::virtualizeBeginConstIterator method
+linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use virtualizeBeginConstIterator method of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.markup/customxmlpartcollection/virtualizebeginconstiterator/
@@ -20,4 +21,4 @@ virtualized_iterator * Aspose::Words::Markup::CustomXmlPartCollection::virtualiz
 * Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

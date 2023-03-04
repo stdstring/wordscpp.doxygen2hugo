@@ -1,7 +1,8 @@
 ---
-title: set_SaveFontFaceCssSeparately
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::set_SaveFontFaceCssSeparately method
+linktitle: set_SaveFontFaceCssSeparately
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveFontFaceCssSeparately.'
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_SaveFontFaceCssSeparately method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_SaveFontFaceCssSeparately in C++.
 type: docs
 weight: 430
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_savefontfacecssseparately/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::HtmlFixedSaveOptions::set_SaveFontFaceCssSeparately(
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

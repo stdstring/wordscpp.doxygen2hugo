@@ -1,7 +1,8 @@
 ---
-title: FieldAuthor
+title: Aspose::Words::Fields::FieldAuthor class
+linktitle: FieldAuthor
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTHOR field.
+description: Aspose::Words::Fields::FieldAuthor class. Implements the AUTHOR field in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldauthor/
@@ -101,4 +102,4 @@ doc->Save(ArtifactsDir + u"Field.AUTHOR.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Width
+title: Aspose::Words::Drawing::ShapeBase::get_Width method
+linktitle: get_Width
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the width of the containing block of the shape.
+description: Aspose::Words::Drawing::ShapeBase::get_Width method. Gets or sets the width of the containing block of the shape in C++.
 type: docs
 weight: 677
 url: /cpp/aspose.words.drawing/shapebase/get_width/
@@ -103,4 +104,4 @@ doc->Save(ArtifactsDir + u"Image.ScaleImage.docx");
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

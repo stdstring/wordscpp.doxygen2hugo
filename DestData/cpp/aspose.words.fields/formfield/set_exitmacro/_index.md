@@ -1,7 +1,8 @@
 ---
-title: set_ExitMacro
+title: Aspose::Words::Fields::FormField::set_ExitMacro method
+linktitle: set_ExitMacro
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FormField::get_ExitMacro.'
+description: Aspose::Words::Fields::FormField::set_ExitMacro method. Setter for Aspose::Words::Fields::FormField::get_ExitMacro in C++.
 type: docs
 weight: 404
 url: /cpp/aspose.words.fields/formfield/set_exitmacro/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FormField::set_ExitMacro(const System::String &value
 
 * Class [FormField](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

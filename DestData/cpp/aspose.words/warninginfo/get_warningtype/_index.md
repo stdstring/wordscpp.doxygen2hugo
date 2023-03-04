@@ -1,7 +1,8 @@
 ---
-title: get_WarningType
+title: Aspose::Words::WarningInfo::get_WarningType method
+linktitle: get_WarningType
 second_title: Aspose.Words for C++ API Reference
-description: Returns the type of the warning.
+description: Aspose::Words::WarningInfo::get_WarningType method. Returns the type of the warning in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/warninginfo/get_warningtype/
@@ -83,4 +84,4 @@ public:
 * Enum [WarningType](../../warningtype/)
 * Class [WarningInfo](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

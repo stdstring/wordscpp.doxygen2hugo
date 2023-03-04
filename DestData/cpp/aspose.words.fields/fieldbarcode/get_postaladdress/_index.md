@@ -1,7 +1,8 @@
 ---
-title: get_PostalAddress
+title: Aspose::Words::Fields::FieldBarcode::get_PostalAddress method
+linktitle: get_PostalAddress
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the postal address used for generating a barcode or the name of the bookmark that refers to it.
+description: Aspose::Words::Fields::FieldBarcode::get_PostalAddress method. Gets or sets the postal address used for generating a barcode or the name of the bookmark that refers to it in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldbarcode/get_postaladdress/
@@ -61,4 +62,4 @@ doc->Save(ArtifactsDir + u"Field.BARCODE.docx");
 
 * Class [FieldBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

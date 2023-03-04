@@ -1,7 +1,8 @@
 ---
-title: set_ExportEmbeddedSvg
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedSvg method
+linktitle: set_ExportEmbeddedSvg
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedSvg.'
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedSvg method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedSvg in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedsvg/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedSvg(bool val
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

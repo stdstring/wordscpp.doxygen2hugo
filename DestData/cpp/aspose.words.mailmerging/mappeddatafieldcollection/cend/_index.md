@@ -1,7 +1,8 @@
 ---
-title: cend
+title: Aspose::Words::MailMerging::MappedDataFieldCollection::cend method
+linktitle: cend
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use cend method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/cend/
@@ -20,4 +21,4 @@ const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::cend() con
 * Typedef [const_iterator](../const_iterator/)
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_TempFolder
+title: Aspose::Words::Saving::SaveOptions::set_TempFolder method
+linktitle: set_TempFolder
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder.'
+description: Aspose::Words::Saving::SaveOptions::set_TempFolder method. Setter for Aspose::Words::Saving::SaveOptions::get_TempFolder in C++.
 type: docs
 weight: 417
 url: /cpp/aspose.words.saving/saveoptions/set_tempfolder/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::SaveOptions::set_TempFolder(const System::String &va
 
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

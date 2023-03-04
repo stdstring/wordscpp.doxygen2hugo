@@ -1,7 +1,8 @@
 ---
-title: get_DocumentSplitHeadingLevel
+title: Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel method
+linktitle: get_DocumentSplitHeadingLevel
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the maximum level of headings at which to split the document. Default value is %2.
+description: Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel method. Specifies the maximum level of headings at which to split the document. Default value is %2 in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_documentsplitheadinglevel/
@@ -82,4 +83,4 @@ ASSERT_EQ(String(u"Heading #5\r") + u"Heading #6", doc->GetText().Trim());
 
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

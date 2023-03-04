@@ -1,7 +1,8 @@
 ---
-title: MailMergeCheckErrors
+title: Aspose::Words::Settings::MailMergeCheckErrors enum
+linktitle: MailMergeCheckErrors
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how Microsoft Word will report errors detected during mail merge.
+description: Aspose::Words::Settings::MailMergeCheckErrors enum. Specifies how Microsoft Word will report errors detected during mail merge in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.settings/mailmergecheckerrors/
@@ -28,4 +29,4 @@ enum class MailMergeCheckErrors
 ## See Also
 
 * Namespace [Aspose::Words::Settings](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

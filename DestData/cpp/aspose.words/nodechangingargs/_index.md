@@ -1,7 +1,8 @@
 ---
-title: NodeChangingArgs
+title: Aspose::Words::NodeChangingArgs class
+linktitle: NodeChangingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for methods of the INodeChangingCallback interface.
+description: Aspose::Words::NodeChangingArgs class. Provides data for methods of the INodeChangingCallback interface in C++.
 type: docs
 weight: 534
 url: /cpp/aspose.words/nodechangingargs/
@@ -104,4 +105,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

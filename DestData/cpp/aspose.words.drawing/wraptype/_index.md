@@ -1,7 +1,8 @@
 ---
-title: WrapType
+title: Aspose::Words::Drawing::WrapType enum
+linktitle: WrapType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how text is wrapped around a shape or picture.
+description: Aspose::Words::Drawing::WrapType enum. Specifies how text is wrapped around a shape or picture in C++.
 type: docs
 weight: 573
 url: /cpp/aspose.words.drawing/wraptype/
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

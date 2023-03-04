@@ -1,7 +1,8 @@
 ---
-title: get_BackgroundColor
+title: Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor method
+linktitle: get_BackgroundColor
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF].
+description: Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor method. Gets or sets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF] in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fielddisplaybarcode/get_backgroundcolor/
@@ -76,4 +77,4 @@ doc->Save(ArtifactsDir + u"Field.DISPLAYBARCODE.docx");
 
 * Class [FieldDisplayBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

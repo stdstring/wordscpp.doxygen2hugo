@@ -1,7 +1,8 @@
 ---
-title: set_FontName
+title: Aspose::Words::Fields::FieldSymbol::set_FontName method
+linktitle: set_FontName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldSymbol::get_FontName.'
+description: Aspose::Words::Fields::FieldSymbol::set_FontName method. Setter for Aspose::Words::Fields::FieldSymbol::get_FontName in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldsymbol/set_fontname/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldSymbol::set_FontName(const System::String &valu
 
 * Class [FieldSymbol](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

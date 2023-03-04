@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::BorderCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object that can be used to iterate over all borders in the collection.
+description: Aspose::Words::BorderCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all borders in the collection in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words/bordercollection/getenumerator/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"BorderCollection.GetBordersEnumerator.docx");
 * Class [Border](../../border/)
 * Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: AddSubstitutes
+title: Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes method
+linktitle: AddSubstitutes
 second_title: Aspose.Words for C++ API Reference
-description: Adds substitute font names for given original font name.
+description: Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes method. Adds substitute font names for given original font name in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/addsubstitutes/
@@ -135,4 +136,4 @@ doc->Save(ArtifactsDir + u"FontSettings.TableSubstitutionRule.Custom.pdf");
 
 * Class [TableSubstitutionRule](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

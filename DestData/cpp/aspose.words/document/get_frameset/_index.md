@@ -1,7 +1,8 @@
 ---
-title: get_Frameset
+title: Aspose::Words::Document::get_Frameset method
+linktitle: get_Frameset
 second_title: Aspose.Words for C++ API Reference
-description: Returns a Frameset instance if this document represents a frames page.
+description: Aspose::Words::Document::get_Frameset method. Returns a Frameset instance if this document represents a frames page in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words/document/get_frameset/
@@ -44,4 +45,4 @@ doc->get_Frameset()->get_ChildFramesets()->idx_get(0)->get_ChildFramesets()->idx
 * Class [Frameset](../../../aspose.words.framesets/frameset/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

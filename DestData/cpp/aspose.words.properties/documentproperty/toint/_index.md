@@ -1,7 +1,8 @@
 ---
-title: ToInt
+title: Aspose::Words::Properties::DocumentProperty::ToInt method
+linktitle: ToInt
 second_title: Aspose.Words for C++ API Reference
-description: Returns the property value as integer.
+description: Aspose::Words::Properties::DocumentProperty::ToInt method. Returns the property value as integer in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.properties/documentproperty/toint/
@@ -43,4 +44,4 @@ ASPOSE_ASSERT_EQ(123.45, properties->idx_get(u"Authorized Amount")->ToDouble());
 
 * Class [DocumentProperty](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

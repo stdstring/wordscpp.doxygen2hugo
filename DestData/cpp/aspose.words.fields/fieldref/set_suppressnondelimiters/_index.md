@@ -1,7 +1,8 @@
 ---
-title: set_SuppressNonDelimiters
+title: Aspose::Words::Fields::FieldRef::set_SuppressNonDelimiters method
+linktitle: set_SuppressNonDelimiters
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldRef::get_SuppressNonDelimiters.'
+description: Aspose::Words::Fields::FieldRef::set_SuppressNonDelimiters method. Setter for Aspose::Words::Fields::FieldRef::get_SuppressNonDelimiters in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.fields/fieldref/set_suppressnondelimiters/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldRef::set_SuppressNonDelimiters(bool value)
 
 * Class [FieldRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

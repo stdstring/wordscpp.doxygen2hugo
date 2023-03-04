@@ -1,7 +1,8 @@
 ---
-title: cend
+title: Aspose::Words::Markup::CustomXmlPartCollection::cend method
+linktitle: cend
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use cend method of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.markup/customxmlpartcollection/cend/
@@ -20,4 +21,4 @@ const_iterator Aspose::Words::Markup::CustomXmlPartCollection::cend() const noex
 * Typedef [const_iterator](../const_iterator/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

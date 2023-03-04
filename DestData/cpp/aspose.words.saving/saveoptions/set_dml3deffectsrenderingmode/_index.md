@@ -1,7 +1,8 @@
 ---
-title: set_Dml3DEffectsRenderingMode
+title: Aspose::Words::Saving::SaveOptions::set_Dml3DEffectsRenderingMode method
+linktitle: set_Dml3DEffectsRenderingMode
 second_title: Aspose.Words for C++ API Reference
-description: Sets a value determining how 3D effects are rendered.
+description: Aspose::Words::Saving::SaveOptions::set_Dml3DEffectsRenderingMode method. Sets a value determining how 3D effects are rendered in C++.
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/saveoptions/set_dml3deffectsrenderingmode/
@@ -20,4 +21,4 @@ void Aspose::Words::Saving::SaveOptions::set_Dml3DEffectsRenderingMode(Aspose::W
 * Enum [Dml3DEffectsRenderingMode](../../dml3deffectsrenderingmode/)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

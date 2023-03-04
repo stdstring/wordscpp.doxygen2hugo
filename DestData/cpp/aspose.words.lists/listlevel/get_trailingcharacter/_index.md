@@ -1,7 +1,8 @@
 ---
-title: get_TrailingCharacter
+title: Aspose::Words::Lists::ListLevel::get_TrailingCharacter method
+linktitle: get_TrailingCharacter
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the character inserted after the number for the list level.
+description: Aspose::Words::Lists::ListLevel::get_TrailingCharacter method. Returns or sets the character inserted after the number for the list level in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.lists/listlevel/get_trailingcharacter/
@@ -78,4 +79,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateCustomList.docx");
 * Enum [ListTrailingCharacter](../../listtrailingcharacter/)
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

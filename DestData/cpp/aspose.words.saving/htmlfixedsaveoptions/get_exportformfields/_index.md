@@ -1,7 +1,8 @@
 ---
-title: get_ExportFormFields
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportFormFields method
+linktitle: get_ExportFormFields
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets indication of whether form fields are exported as interactive items (as 'input' tag) rather than converted to text or graphics.
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportFormFields method. Gets or sets indication of whether form fields are exported as interactive items (as 'input' tag) rather than converted to text or graphics in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportformfields/
@@ -61,4 +62,4 @@ else
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

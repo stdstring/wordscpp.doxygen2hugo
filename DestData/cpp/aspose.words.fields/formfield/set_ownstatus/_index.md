@@ -1,7 +1,8 @@
 ---
-title: set_OwnStatus
+title: Aspose::Words::Fields::FormField::set_OwnStatus method
+linktitle: set_OwnStatus
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FormField::get_OwnStatus.'
+description: Aspose::Words::Fields::FormField::set_OwnStatus method. Setter for Aspose::Words::Fields::FormField::get_OwnStatus in C++.
 type: docs
 weight: 482
 url: /cpp/aspose.words.fields/formfield/set_ownstatus/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FormField::set_OwnStatus(bool value)
 
 * Class [FormField](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_Pitch
+title: Aspose::Words::Fonts::FontInfo::set_Pitch method
+linktitle: set_Pitch
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fonts::FontInfo::get_Pitch.'
+description: Aspose::Words::Fonts::FontInfo::set_Pitch method. Setter for Aspose::Words::Fonts::FontInfo::get_Pitch in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fonts/fontinfo/set_pitch/
@@ -20,4 +21,4 @@ void Aspose::Words::Fonts::FontInfo::set_Pitch(Aspose::Words::Fonts::FontPitch v
 * Enum [FontPitch](../../fontpitch/)
 * Class [FontInfo](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

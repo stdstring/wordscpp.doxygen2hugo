@@ -1,7 +1,8 @@
 ---
-title: virtualizeBeginIterator
+title: Aspose::Words::Markup::CustomPartCollection::virtualizeBeginIterator method
+linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use virtualizeBeginIterator method of Aspose::Words::Markup::CustomPartCollection class in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.markup/custompartcollection/virtualizebeginiterator/
@@ -20,4 +21,4 @@ virtualized_iterator * Aspose::Words::Markup::CustomPartCollection::virtualizeBe
 * Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

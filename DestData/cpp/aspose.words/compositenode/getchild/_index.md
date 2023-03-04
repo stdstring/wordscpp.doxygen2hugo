@@ -1,7 +1,8 @@
 ---
-title: GetChild
+title: Aspose::Words::CompositeNode::GetChild method
+linktitle: GetChild
 second_title: Aspose.Words for C++ API Reference
-description: Returns an Nth child node that matches the specified type.
+description: Aspose::Words::CompositeNode::GetChild method. Returns an Nth child node that matches the specified type in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/compositenode/getchild/
@@ -113,4 +114,4 @@ for (const auto& child : System::IterateOver(children))
 * Enum [NodeType](../../nodetype/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: ImageFieldMergingArgs
+title: Aspose::Words::MailMerging::ImageFieldMergingArgs class
+linktitle: ImageFieldMergingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the ImageFieldMerging() event.
+description: Aspose::Words::MailMerging::ImageFieldMergingArgs class. Provides data for the ImageFieldMerging() event in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/
@@ -53,4 +54,4 @@ To insert an image mail merge field into a document in Word, select Insert/Field
 
 * Class [FieldMergingArgsBase](../fieldmergingargsbase/)
 * Namespace [Aspose::Words::MailMerging](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

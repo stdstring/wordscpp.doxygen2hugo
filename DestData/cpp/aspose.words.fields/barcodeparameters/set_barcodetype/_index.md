@@ -1,7 +1,8 @@
 ---
-title: set_BarcodeType
+title: Aspose::Words::Fields::BarcodeParameters::set_BarcodeType method
+linktitle: set_BarcodeType
 second_title: Aspose.Words for C++ API Reference
-description: Bar code type.
+description: Aspose::Words::Fields::BarcodeParameters::set_BarcodeType method. Bar code type in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.fields/barcodeparameters/set_barcodetype/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::BarcodeParameters::set_BarcodeType(const System::Str
 
 * Class [BarcodeParameters](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

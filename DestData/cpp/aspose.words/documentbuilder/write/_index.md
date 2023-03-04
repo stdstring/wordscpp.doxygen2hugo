@@ -1,7 +1,8 @@
 ---
-title: Write
+title: Aspose::Words::DocumentBuilder::Write method
+linktitle: Write
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a string into the document at the current insert position.
+description: Aspose::Words::DocumentBuilder::Write method. Inserts a string into the document at the current insert position in C++.
 type: docs
 weight: 885
 url: /cpp/aspose.words/documentbuilder/write/
@@ -168,4 +169,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.BuildTable.docx");
 
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

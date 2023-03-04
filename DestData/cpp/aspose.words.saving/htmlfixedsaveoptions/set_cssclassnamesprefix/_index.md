@@ -1,7 +1,8 @@
 ---
-title: set_CssClassNamesPrefix
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::set_CssClassNamesPrefix method
+linktitle: set_CssClassNamesPrefix
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix.'
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_CssClassNamesPrefix method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_CssClassNamesPrefix in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_cssclassnamesprefix/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::HtmlFixedSaveOptions::set_CssClassNamesPrefix(const 
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

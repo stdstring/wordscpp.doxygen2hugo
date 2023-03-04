@@ -1,7 +1,8 @@
 ---
-title: set_LineUnitBefore
+title: Aspose::Words::ParagraphFormat::set_LineUnitBefore method
+linktitle: set_LineUnitBefore
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::ParagraphFormat::get_LineUnitBefore.'
+description: Aspose::Words::ParagraphFormat::set_LineUnitBefore method. Setter for Aspose::Words::ParagraphFormat::get_LineUnitBefore in C++.
 type: docs
 weight: 768
 url: /cpp/aspose.words/paragraphformat/set_lineunitbefore/
@@ -19,4 +20,4 @@ void Aspose::Words::ParagraphFormat::set_LineUnitBefore(double value)
 
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

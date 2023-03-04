@@ -1,7 +1,8 @@
 ---
-title: FieldIncludePicture
+title: Aspose::Words::Fields::FieldIncludePicture class
+linktitle: FieldIncludePicture
 second_title: Aspose.Words for C++ API Reference
-description: Implements the INCLUDEPICTURE field.
+description: Aspose::Words::Fields::FieldIncludePicture class. Implements the INCLUDEPICTURE field in C++.
 type: docs
 weight: 729
 url: /cpp/aspose.words.fields/fieldincludepicture/
@@ -92,4 +93,4 @@ doc->Save(ArtifactsDir + u"Field.IMPORT.INCLUDEPICTURE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

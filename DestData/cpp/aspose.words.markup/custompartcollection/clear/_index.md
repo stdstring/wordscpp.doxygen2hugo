@@ -1,7 +1,8 @@
 ---
-title: Clear
+title: Aspose::Words::Markup::CustomPartCollection::Clear method
+linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Removes all elements from the collection.
+description: Aspose::Words::Markup::CustomPartCollection::Clear method. Removes all elements from the collection in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.markup/custompartcollection/clear/
@@ -64,4 +65,4 @@ ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

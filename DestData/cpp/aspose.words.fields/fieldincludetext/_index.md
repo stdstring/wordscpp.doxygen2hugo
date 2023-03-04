@@ -1,7 +1,8 @@
 ---
-title: FieldIncludeText
+title: Aspose::Words::Fields::FieldIncludeText class
+linktitle: FieldIncludeText
 second_title: Aspose.Words for C++ API Reference
-description: Implements the INCLUDETEXT field.
+description: Aspose::Words::Fields::FieldIncludeText class. Implements the INCLUDETEXT field in C++.
 type: docs
 weight: 742
 url: /cpp/aspose.words.fields/fieldincludetext/
@@ -107,4 +108,4 @@ SharedPtr<FieldIncludeText> CreateFieldIncludeText(SharedPtr<DocumentBuilder> bu
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

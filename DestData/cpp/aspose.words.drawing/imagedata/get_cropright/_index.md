@@ -1,7 +1,8 @@
 ---
-title: get_CropRight
+title: Aspose::Words::Drawing::ImageData::get_CropRight method
+linktitle: get_CropRight
 second_title: Aspose.Words for C++ API Reference
-description: Defines the fraction of picture removal from the right side.
+description: Aspose::Words::Drawing::ImageData::get_CropRight method. Defines the fraction of picture removal from the right side in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.drawing/imagedata/get_cropright/
@@ -87,4 +88,4 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

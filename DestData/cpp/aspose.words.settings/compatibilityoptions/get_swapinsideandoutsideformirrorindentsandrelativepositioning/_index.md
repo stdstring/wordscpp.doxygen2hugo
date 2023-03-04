@@ -1,7 +1,8 @@
 ---
-title: get_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning
+title: Aspose::Words::Settings::CompatibilityOptions::get_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning method
+linktitle: get_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use get_SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning method of Aspose::Words::Settings::CompatibilityOptions class in C++.
 type: docs
 weight: 690
 url: /cpp/aspose.words.settings/compatibilityoptions/get_swapinsideandoutsideformirrorindentsandrelativepositioning/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_SwapInsideAndOutsideForM
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

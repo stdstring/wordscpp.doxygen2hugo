@@ -1,7 +1,8 @@
 ---
-title: ExportFontFormat
+title: Aspose::Words::Saving::ExportFontFormat enum
+linktitle: ExportFontFormat
 second_title: Aspose.Words for C++ API Reference
-description: Indicates the format that is used to export fonts while rendering to HTML fixed format.
+description: Aspose::Words::Saving::ExportFontFormat enum. Indicates the format that is used to export fonts while rendering to HTML fixed format in C++.
 type: docs
 weight: 690
 url: /cpp/aspose.words.saving/exportfontformat/
@@ -57,4 +58,4 @@ else
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

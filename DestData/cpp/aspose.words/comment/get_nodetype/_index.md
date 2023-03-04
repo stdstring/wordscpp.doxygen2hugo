@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Comment::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Comment.
+description: Aspose::Words::Comment::get_NodeType method. Returns NodeType.Comment in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words/comment/get_nodetype/
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../nodetype/)
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

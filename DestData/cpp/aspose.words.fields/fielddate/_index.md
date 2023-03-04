@@ -1,7 +1,8 @@
 ---
-title: FieldDate
+title: Aspose::Words::Fields::FieldDate class
+linktitle: FieldDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DATE field.
+description: Aspose::Words::Fields::FieldDate class. Implements the DATE field in C++.
 type: docs
 weight: 391
 url: /cpp/aspose.words.fields/fielddate/
@@ -95,4 +96,4 @@ doc->Save(ArtifactsDir + u"Field.DATE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

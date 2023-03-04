@@ -1,7 +1,8 @@
 ---
-title: Equals
+title: Aspose::Words::ConditionalStyle::Equals method
+linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Equals method of Aspose::Words::ConditionalStyle class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/conditionalstyle/equals/
@@ -19,4 +20,4 @@ bool Aspose::Words::ConditionalStyle::Equals(System::SharedPtr<System::Object> o
 
 * Class [ConditionalStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: LoadAndroidSettings
+title: Aspose::Words::Fonts::TableSubstitutionRule::LoadAndroidSettings method
+linktitle: LoadAndroidSettings
 second_title: Aspose.Words for C++ API Reference
-description: Loads predefined table substitution settings for Linux platform.
+description: Aspose::Words::Fonts::TableSubstitutionRule::LoadAndroidSettings method. Loads predefined table substitution settings for Linux platform in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadandroidsettings/
@@ -19,4 +20,4 @@ void Aspose::Words::Fonts::TableSubstitutionRule::LoadAndroidSettings()
 
 * Class [TableSubstitutionRule](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

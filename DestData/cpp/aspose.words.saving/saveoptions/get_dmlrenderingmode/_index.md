@@ -1,7 +1,8 @@
 ---
-title: get_DmlRenderingMode
+title: Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode method
+linktitle: get_DmlRenderingMode
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining how DrawingML shapes are rendered.
+description: Aspose::Words::Saving::SaveOptions::get_DmlRenderingMode method. Gets or sets a value determining how DrawingML shapes are rendered in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/saveoptions/get_dmlrenderingmode/
@@ -69,4 +70,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.DrawingMLFallback.pdf", options);
 * Enum [DmlRenderingMode](../../dmlrenderingmode/)
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

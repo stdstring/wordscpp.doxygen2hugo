@@ -1,7 +1,8 @@
 ---
-title: FieldDisplayBarcode
+title: Aspose::Words::Fields::FieldDisplayBarcode class
+linktitle: FieldDisplayBarcode
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DISPLAYBARCODE field.
+description: Aspose::Words::Fields::FieldDisplayBarcode class. Implements the DISPLAYBARCODE field in C++.
 type: docs
 weight: 430
 url: /cpp/aspose.words.fields/fielddisplaybarcode/
@@ -129,4 +130,4 @@ doc->Save(ArtifactsDir + u"Field.DISPLAYBARCODE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

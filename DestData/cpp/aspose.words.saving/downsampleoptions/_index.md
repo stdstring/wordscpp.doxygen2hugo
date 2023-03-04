@@ -1,7 +1,8 @@
 ---
-title: DownsampleOptions
+title: Aspose::Words::Saving::DownsampleOptions class
+linktitle: DownsampleOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify downsample options.
+description: Aspose::Words::Saving::DownsampleOptions class. Allows to specify downsample options in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/downsampleoptions/
@@ -60,4 +61,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.DownsampleOptions.LowerResolution.pdf"
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

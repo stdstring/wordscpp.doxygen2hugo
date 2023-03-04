@@ -1,7 +1,8 @@
 ---
-title: IDocumentReaderPlugin
+title: Aspose::Words::IDocumentReaderPlugin interface
+linktitle: IDocumentReaderPlugin
 second_title: Aspose.Words for C++ API Reference
-description: Defines an interface for external reader plugins that can read a file into a document.
+description: Aspose::Words::IDocumentReaderPlugin interface. Defines an interface for external reader plugins that can read a file into a document in C++.
 type: docs
 weight: 989
 url: /cpp/aspose.words/idocumentreaderplugin/
@@ -23,4 +24,4 @@ class IDocumentReaderPlugin : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

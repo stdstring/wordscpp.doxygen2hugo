@@ -1,7 +1,8 @@
 ---
-title: get_HasChildNodes
+title: Aspose::Words::CompositeNode::get_HasChildNodes method
+linktitle: get_HasChildNodes
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this node has any child nodes.
+description: Aspose::Words::CompositeNode::get_HasChildNodes method. Returns true if this node has any child nodes in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words/compositenode/get_haschildnodes/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Table.CombineTables.docx");
 
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

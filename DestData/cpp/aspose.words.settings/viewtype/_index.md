@@ -1,7 +1,8 @@
 ---
-title: ViewType
+title: Aspose::Words::Settings::ViewType enum
+linktitle: ViewType
 second_title: Aspose.Words for C++ API Reference
-description: Possible values for the view mode in Microsoft Word.
+description: Aspose::Words::Settings::ViewType enum. Possible values for the view mode in Microsoft Word in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.settings/viewtype/
@@ -49,4 +50,4 @@ doc->Save(ArtifactsDir + u"ViewOptions.SetZoomPercentage.doc");
 ## See Also
 
 * Namespace [Aspose::Words::Settings](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

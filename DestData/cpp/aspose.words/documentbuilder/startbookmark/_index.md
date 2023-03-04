@@ -1,7 +1,8 @@
 ---
-title: StartBookmark
+title: Aspose::Words::DocumentBuilder::StartBookmark method
+linktitle: StartBookmark
 second_title: Aspose.Words for C++ API Reference
-description: Marks the current position in the document as a bookmark start.
+description: Aspose::Words::DocumentBuilder::StartBookmark method. Marks the current position in the document as a bookmark start in C++.
 type: docs
 weight: 833
 url: /cpp/aspose.words/documentbuilder/startbookmark/
@@ -75,4 +76,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHyperlinkToLocalBookmark.docx")
 * Class [BookmarkStart](../../bookmarkstart/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

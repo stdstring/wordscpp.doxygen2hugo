@@ -1,7 +1,8 @@
 ---
-title: get_LinesToDrop
+title: Aspose::Words::ParagraphFormat::get_LinesToDrop method
+linktitle: get_LinesToDrop
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the number of lines of the paragraph text used to calculate the drop cap height.
+description: Aspose::Words::ParagraphFormat::get_LinesToDrop method. Gets or sets the number of lines of the paragraph text used to calculate the drop cap height in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words/paragraphformat/get_linestodrop/
@@ -43,4 +44,4 @@ doc->Save(ArtifactsDir + u"ParagraphFormat.LinesToDrop.odt");
 
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

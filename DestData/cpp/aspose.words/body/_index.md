@@ -1,7 +1,8 @@
 ---
-title: Body
+title: Aspose::Words::Body class
+linktitle: Body
 second_title: Aspose.Words for C++ API Reference
-description: Represents a container for the main text of a section.
+description: Aspose::Words::Body class. Represents a container for the main text of a section in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/body/
@@ -129,4 +130,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 * Class [Story](../story/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

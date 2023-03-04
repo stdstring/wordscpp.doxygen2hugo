@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Drawing::Charts::ChartDataPointCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object.
+description: Aspose::Words::Drawing::Charts::ChartDataPointCollection::GetEnumerator method. Returns an enumerator object in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/getenumerator/
@@ -81,4 +82,4 @@ static void ApplyDataPoints(SharedPtr<ChartSeries> series, int dataPointsCount, 
 * Class [ChartDataPoint](../../chartdatapoint/)
 * Class [ChartDataPointCollection](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

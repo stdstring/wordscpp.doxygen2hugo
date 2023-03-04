@@ -1,7 +1,8 @@
 ---
-title: set_CreatedTime
+title: Aspose::Words::Properties::BuiltInDocumentProperties::set_CreatedTime method
+linktitle: set_CreatedTime
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime.'
+description: Aspose::Words::Properties::BuiltInDocumentProperties::set_CreatedTime method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime in C++.
 type: docs
 weight: 547
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_createdtime/
@@ -19,4 +20,4 @@ void Aspose::Words::Properties::BuiltInDocumentProperties::set_CreatedTime(Syste
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

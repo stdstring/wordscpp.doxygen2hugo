@@ -1,7 +1,8 @@
 ---
-title: get_PostScriptGroup
+title: Aspose::Words::Fields::FieldPrint::get_PostScriptGroup method
+linktitle: get_PostScriptGroup
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the drawing rectangle that the PostScript instructions operate on.
+description: Aspose::Words::Fields::FieldPrint::get_PostScriptGroup method. Gets or sets the drawing rectangle that the PostScript instructions operate on in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldprint/get_postscriptgroup/
@@ -48,4 +49,4 @@ doc->Save(ArtifactsDir + u"Field.PRINT.docx");
 
 * Class [FieldPrint](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

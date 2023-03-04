@@ -1,7 +1,8 @@
 ---
-title: end
+title: Aspose::Words::Vba::VbaModuleCollection::end method
+linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use end method of Aspose::Words::Vba::VbaModuleCollection class in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.vba/vbamodulecollection/end/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::Vba::VbaModuleCollection::end() const noexcept
 * Typedef [const_iterator](../const_iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## VbaModuleCollection::end() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::Vba::VbaModuleCollection::end() noexcept
 * Typedef [iterator](../iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

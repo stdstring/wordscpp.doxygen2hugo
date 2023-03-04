@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::Properties::DocumentPropertyCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns a DocumentProperty object by index.
+description: Aspose::Words::Properties::DocumentPropertyCollection::idx_get method. Returns a DocumentProperty object by index in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.properties/documentpropertycollection/idx_get/
@@ -48,7 +49,7 @@ for (const auto& customDocumentProperty : System::IterateOver(doc->get_CustomDoc
 * Class [DocumentProperty](../../documentproperty/)
 * Class [DocumentPropertyCollection](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentPropertyCollection::idx_get(System::String) method
 
 
@@ -85,4 +86,4 @@ std::cout << "Document authorized on " << doc->get_CustomDocumentProperties()->i
 * Class [DocumentProperty](../../documentproperty/)
 * Class [DocumentPropertyCollection](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

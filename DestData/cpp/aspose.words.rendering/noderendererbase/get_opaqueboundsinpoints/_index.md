@@ -1,7 +1,8 @@
 ---
-title: get_OpaqueBoundsInPoints
+title: Aspose::Words::Rendering::NodeRendererBase::get_OpaqueBoundsInPoints method
+linktitle: get_OpaqueBoundsInPoints
 second_title: Aspose.Words for C++ API Reference
-description: Gets the opaque bounds of the shape in points.
+description: Aspose::Words::Rendering::NodeRendererBase::get_OpaqueBoundsInPoints method. Gets the opaque bounds of the shape in points in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.rendering/noderendererbase/get_opaqueboundsinpoints/
@@ -69,4 +70,4 @@ ASSERT_EQ(30, bounds.get_Height());
 
 * Class [NodeRendererBase](../)
 * Namespace [Aspose::Words::Rendering](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

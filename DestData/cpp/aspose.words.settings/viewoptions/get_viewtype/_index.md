@@ -1,7 +1,8 @@
 ---
-title: get_ViewType
+title: Aspose::Words::Settings::ViewOptions::get_ViewType method
+linktitle: get_ViewType
 second_title: Aspose.Words for C++ API Reference
-description: Controls the view mode in Microsoft Word.
+description: Aspose::Words::Settings::ViewOptions::get_ViewType method. Controls the view mode in Microsoft Word in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.settings/viewoptions/get_viewtype/
@@ -44,4 +45,4 @@ doc->Save(ArtifactsDir + u"ViewOptions.SetZoomPercentage.doc");
 * Enum [ViewType](../../viewtype/)
 * Class [ViewOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

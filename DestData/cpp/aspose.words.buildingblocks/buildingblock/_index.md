@@ -1,7 +1,8 @@
 ---
-title: BuildingBlock
+title: Aspose::Words::BuildingBlocks::BuildingBlock class
+linktitle: BuildingBlock
 second_title: Aspose.Words for C++ API Reference
-description: Represents a glossary document entry such as a Building Block, AutoText or an AutoCorrect entry.
+description: Aspose::Words::BuildingBlocks::BuildingBlock class. Represents a glossary document entry such as a Building Block, AutoText or an AutoCorrect entry in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.buildingblocks/buildingblock/
@@ -186,4 +187,4 @@ private:
 
 * Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::BuildingBlocks](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

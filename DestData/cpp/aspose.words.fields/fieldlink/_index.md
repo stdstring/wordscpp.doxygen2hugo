@@ -1,7 +1,8 @@
 ---
-title: FieldLink
+title: Aspose::Words::Fields::FieldLink class
+linktitle: FieldLink
 second_title: Aspose.Words for C++ API Reference
-description: Implements the LINK field.
+description: Aspose::Words::Fields::FieldLink class. Implements the LINK field in C++.
 type: docs
 weight: 807
 url: /cpp/aspose.words.fields/fieldlink/
@@ -250,4 +251,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

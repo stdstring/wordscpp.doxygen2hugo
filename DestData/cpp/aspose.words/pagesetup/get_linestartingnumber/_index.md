@@ -1,7 +1,8 @@
 ---
-title: get_LineStartingNumber
+title: Aspose::Words::PageSetup::get_LineStartingNumber method
+linktitle: get_LineStartingNumber
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the starting line number.
+description: Aspose::Words::PageSetup::get_LineStartingNumber method. Gets or sets the starting line number in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words/pagesetup/get_linestartingnumber/
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"PageSetup.LineNumbers.docx");
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

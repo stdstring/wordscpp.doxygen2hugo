@@ -1,7 +1,8 @@
 ---
-title: get_PageHeight
+title: Aspose::Words::PageSetup::get_PageHeight method
+linktitle: get_PageHeight
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the height of the page in points.
+description: Aspose::Words::PageSetup::get_PageHeight method. Returns or sets the height of the page in points in C++.
 type: docs
 weight: 391
 url: /cpp/aspose.words/pagesetup/get_pageheight/
@@ -45,4 +46,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertWatermark.docx");
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

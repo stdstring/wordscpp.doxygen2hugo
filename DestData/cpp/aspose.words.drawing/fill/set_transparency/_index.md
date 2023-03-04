@@ -1,7 +1,8 @@
 ---
-title: set_Transparency
+title: Aspose::Words::Drawing::Fill::set_Transparency method
+linktitle: set_Transparency
 second_title: Aspose.Words for C++ API Reference
-description: Sets the degree of transparency of the specified fill as a value between 0.0 (opaque) and 1.0 (clear).
+description: Aspose::Words::Drawing::Fill::set_Transparency method. Sets the degree of transparency of the specified fill as a value between 0.0 (opaque) and 1.0 (clear) in C++.
 type: docs
 weight: 365
 url: /cpp/aspose.words.drawing/fill/set_transparency/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Fill::set_Transparency(double value)
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

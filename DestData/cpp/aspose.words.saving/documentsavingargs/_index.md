@@ -1,7 +1,8 @@
 ---
-title: DocumentSavingArgs
+title: Aspose::Words::Saving::DocumentSavingArgs class
+linktitle: DocumentSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: An argument passed into Notify().
+description: Aspose::Words::Saving::DocumentSavingArgs class. An argument passed into Notify() in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.saving/documentsavingargs/
@@ -23,4 +24,4 @@ class DocumentSavingArgs : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

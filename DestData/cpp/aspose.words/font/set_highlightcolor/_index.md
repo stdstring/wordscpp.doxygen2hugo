@@ -1,7 +1,8 @@
 ---
-title: set_HighlightColor
+title: Aspose::Words::Font::set_HighlightColor method
+linktitle: set_HighlightColor
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Font::get_HighlightColor.'
+description: Aspose::Words::Font::set_HighlightColor method. Setter for Aspose::Words::Font::get_HighlightColor in C++.
 type: docs
 weight: 872
 url: /cpp/aspose.words/font/set_highlightcolor/
@@ -19,4 +20,4 @@ void Aspose::Words::Font::set_HighlightColor(System::Drawing::Color value)
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

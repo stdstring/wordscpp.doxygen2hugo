@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Fields::FormFieldCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object.
+description: Aspose::Words::Fields::FormFieldCollection::GetEnumerator method. Returns an enumerator object in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/formfieldcollection/getenumerator/
@@ -154,4 +155,4 @@ private:
 * Class [FormField](../../formfield/)
 * Class [FormFieldCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

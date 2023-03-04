@@ -1,7 +1,8 @@
 ---
-title: Accept
+title: Aspose::Words::Markup::StructuredDocumentTag::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: Aspose::Words::Markup::StructuredDocumentTag::Accept method. Accepts a visitor in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/structureddocumenttag/accept/
@@ -111,4 +112,4 @@ private:
 * Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

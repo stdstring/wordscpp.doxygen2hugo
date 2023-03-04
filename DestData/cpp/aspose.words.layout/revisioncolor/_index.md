@@ -1,7 +1,8 @@
 ---
-title: RevisionColor
+title: Aspose::Words::Layout::RevisionColor enum
+linktitle: RevisionColor
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify color of document revisions.
+description: Aspose::Words::Layout::RevisionColor enum. Allows to specify color of document revisions in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.layout/revisioncolor/
@@ -68,4 +69,4 @@ doc->Save(ArtifactsDir + u"Document.LayoutOptionsRevisions.pdf");
 ## See Also
 
 * Namespace [Aspose::Words::Layout](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

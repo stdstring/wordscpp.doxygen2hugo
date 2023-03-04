@@ -1,7 +1,8 @@
 ---
-title: ChartSeriesCollection
+title: Aspose::Words::Drawing::Charts::ChartSeriesCollection class
+linktitle: ChartSeriesCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents collection of a ChartSeries.
+description: Aspose::Words::Drawing::Charts::ChartSeriesCollection class. Represents collection of a ChartSeries in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/
@@ -79,4 +80,4 @@ chartData->Clear();
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: set_AllowEmbeddingPostScriptFonts
+title: Aspose::Words::Saving::SaveOptions::set_AllowEmbeddingPostScriptFonts method
+linktitle: set_AllowEmbeddingPostScriptFonts
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts.'
+description: Aspose::Words::Saving::SaveOptions::set_AllowEmbeddingPostScriptFonts method. Setter for Aspose::Words::Saving::SaveOptions::get_AllowEmbeddingPostScriptFonts in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.saving/saveoptions/set_allowembeddingpostscriptfonts/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::SaveOptions::set_AllowEmbeddingPostScriptFonts(bool 
 
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

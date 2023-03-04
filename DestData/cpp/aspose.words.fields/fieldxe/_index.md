@@ -1,7 +1,8 @@
 ---
-title: FieldXE
+title: Aspose::Words::Fields::FieldXE class
+linktitle: FieldXE
 second_title: Aspose.Words for C++ API Reference
-description: Implements the XE field.
+description: Aspose::Words::Fields::FieldXE class. Implements the XE field in C++.
 type: docs
 weight: 1418
 url: /cpp/aspose.words.fields/fieldxe/
@@ -183,4 +184,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: DigitalSignatureUtil
+title: Aspose::Words::DigitalSignatures::DigitalSignatureUtil class
+linktitle: DigitalSignatureUtil
 second_title: Aspose.Words for C++ API Reference
-description: Provides methods for signing document.
+description: Aspose::Words::DigitalSignatures::DigitalSignatureUtil class. Provides methods for signing document in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/
@@ -86,4 +87,4 @@ ASSERT_EQ(0, DigitalSignatureUtil::LoadSignatures(ArtifactsDir + u"DigitalSignat
 ## See Also
 
 * Namespace [Aspose::Words::DigitalSignatures](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

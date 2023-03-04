@@ -1,7 +1,8 @@
 ---
-title: virtualized_iterator
+title: Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator typedef
+linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator typedef of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualized_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator
 
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

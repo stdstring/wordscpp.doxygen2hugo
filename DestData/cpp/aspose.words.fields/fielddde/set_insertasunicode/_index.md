@@ -1,7 +1,8 @@
 ---
-title: set_InsertAsUnicode
+title: Aspose::Words::Fields::FieldDde::set_InsertAsUnicode method
+linktitle: set_InsertAsUnicode
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDde::get_InsertAsUnicode.'
+description: Aspose::Words::Fields::FieldDde::set_InsertAsUnicode method. Setter for Aspose::Words::Fields::FieldDde::get_InsertAsUnicode in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.fields/fielddde/set_insertasunicode/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDde::set_InsertAsUnicode(bool value)
 
 * Class [FieldDde](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

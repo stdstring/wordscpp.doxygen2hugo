@@ -1,7 +1,8 @@
 ---
-title: begin
+title: Aspose::Words::Markup::CustomXmlPartCollection::begin method
+linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use begin method of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/customxmlpartcollection/begin/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::Markup::CustomXmlPartCollection::begin() const noe
 * Typedef [const_iterator](../const_iterator/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## CustomXmlPartCollection::begin() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::Markup::CustomXmlPartCollection::begin() noexcept
 * Typedef [iterator](../iterator/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

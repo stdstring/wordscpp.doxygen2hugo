@@ -1,7 +1,8 @@
 ---
-title: get_ImageSavingCallback
+title: Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback method
+linktitle: get_ImageSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Allows to control how images are saved when a document is saved to Markdown format.
+description: Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback method. Allows to control how images are saved when a document is saved to Markdown format in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/markdownsaveoptions/get_imagesavingcallback/
@@ -76,4 +77,4 @@ private:
 * Interface [IImageSavingCallback](../../iimagesavingcallback/)
 * Class [MarkdownSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

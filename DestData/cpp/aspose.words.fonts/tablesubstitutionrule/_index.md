@@ -1,7 +1,8 @@
 ---
-title: TableSubstitutionRule
+title: Aspose::Words::Fonts::TableSubstitutionRule class
+linktitle: TableSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
-description: Table font substitution rule.
+description: Aspose::Words::Fonts::TableSubstitutionRule class. Table font substitution rule in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/
@@ -71,4 +72,4 @@ ASPOSE_ASSERT_EQ(MakeArray<String>({u"FreeSerif", u"Liberation Serif", u"DejaVu 
 
 * Class [FontSubstitutionRule](../fontsubstitutionrule/)
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

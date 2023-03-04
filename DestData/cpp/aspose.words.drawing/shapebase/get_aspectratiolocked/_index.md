@@ -1,7 +1,8 @@
 ---
-title: get_AspectRatioLocked
+title: Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked method
+linktitle: get_AspectRatioLocked
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether the shape's aspect ratio is locked.
+description: Aspose::Words::Drawing::ShapeBase::get_AspectRatioLocked method. Specifies whether the shape's aspect ratio is locked in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/shapebase/get_aspectratiolocked/
@@ -49,4 +50,4 @@ doc->Save(ArtifactsDir + u"Shape.AspectRatio.docx");
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

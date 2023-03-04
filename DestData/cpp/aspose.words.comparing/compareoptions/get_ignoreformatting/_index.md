@@ -1,7 +1,8 @@
 ---
-title: get_IgnoreFormatting
+title: Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting method
+linktitle: get_IgnoreFormatting
 second_title: Aspose.Words for C++ API Reference
-description: True indicates that formatting is ignored. By default document formatting is not ignored.
+description: Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting method. True indicates that formatting is ignored. By default document formatting is not ignored in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.comparing/compareoptions/get_ignoreformatting/
@@ -116,4 +117,4 @@ docOriginal->Save(ArtifactsDir + u"Document.CompareOptions.docx");
 
 * Class [CompareOptions](../)
 * Namespace [Aspose::Words::Comparing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_GrowAutofit
+title: Aspose::Words::Settings::CompatibilityOptions::get_GrowAutofit method
+linktitle: get_GrowAutofit
 second_title: Aspose.Words for C++ API Reference
-description: Allow Tables to AutoFit Into Page Margins.
+description: Aspose::Words::Settings::CompatibilityOptions::get_GrowAutofit method. Allow Tables to AutoFit Into Page Margins in C++.
 type: docs
 weight: 352
 url: /cpp/aspose.words.settings/compatibilityoptions/get_growautofit/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_GrowAutofit()
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

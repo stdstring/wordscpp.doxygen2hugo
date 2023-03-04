@@ -1,7 +1,8 @@
 ---
-title: get_Reason
+title: Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason method
+linktitle: get_Reason
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the reason for the signing.
+description: Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason method. Gets or sets the reason for the signing in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_reason/
@@ -49,4 +50,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignature.pdf", options);
 
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

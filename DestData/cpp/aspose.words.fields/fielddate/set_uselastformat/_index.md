@@ -1,7 +1,8 @@
 ---
-title: set_UseLastFormat
+title: Aspose::Words::Fields::FieldDate::set_UseLastFormat method
+linktitle: set_UseLastFormat
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDate::get_UseLastFormat.'
+description: Aspose::Words::Fields::FieldDate::set_UseLastFormat method. Setter for Aspose::Words::Fields::FieldDate::get_UseLastFormat in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fielddate/set_uselastformat/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDate::set_UseLastFormat(bool value)
 
 * Class [FieldDate](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

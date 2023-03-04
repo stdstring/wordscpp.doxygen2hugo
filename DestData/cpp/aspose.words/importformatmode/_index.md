@@ -1,7 +1,8 @@
 ---
-title: ImportFormatMode
+title: Aspose::Words::ImportFormatMode enum
+linktitle: ImportFormatMode
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how formatting is merged when importing content from another document.
+description: Aspose::Words::ImportFormatMode enum. Specifies how formatting is merged when importing content from another document in C++.
 type: docs
 weight: 1197
 url: /cpp/aspose.words/importformatmode/
@@ -67,4 +68,4 @@ builder->get_Document()->Save(ArtifactsDir + u"DocumentBuilder.InsertDocument.do
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

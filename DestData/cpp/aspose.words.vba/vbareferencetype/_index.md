@@ -1,7 +1,8 @@
 ---
-title: VbaReferenceType
+title: Aspose::Words::Vba::VbaReferenceType enum
+linktitle: VbaReferenceType
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify the type of a VbaReference object.
+description: Aspose::Words::Vba::VbaReferenceType enum. Allows to specify the type of a VbaReference object in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.vba/vbareferencetype/
@@ -97,4 +98,4 @@ static String GetLibIdProjectPath(String libIdProject)
 ## See Also
 
 * Namespace [Aspose::Words::Vba](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

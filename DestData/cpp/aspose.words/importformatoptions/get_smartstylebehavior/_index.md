@@ -1,7 +1,8 @@
 ---
-title: get_SmartStyleBehavior
+title: Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior method
+linktitle: get_SmartStyleBehavior
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a boolean value that specifies how styles will be imported when they have equal names in source and destination documents. The default value is false.
+description: Aspose::Words::ImportFormatOptions::get_SmartStyleBehavior method. Gets or sets a boolean value that specifies how styles will be imported when they have equal names in source and destination documents. The default value is false in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/importformatoptions/get_smartstylebehavior/
@@ -59,4 +60,4 @@ dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 
 * Class [ImportFormatOptions](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

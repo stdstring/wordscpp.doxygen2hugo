@@ -1,7 +1,8 @@
 ---
-title: Accept
+title: Aspose::Words::BuildingBlocks::BuildingBlock::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: Aspose::Words::BuildingBlocks::BuildingBlock::Accept method. Accepts a visitor in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.buildingblocks/buildingblock/accept/
@@ -134,4 +135,4 @@ private:
 * Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

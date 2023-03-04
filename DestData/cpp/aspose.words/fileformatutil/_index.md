@@ -1,7 +1,8 @@
 ---
-title: FileFormatUtil
+title: Aspose::Words::FileFormatUtil class
+linktitle: FileFormatUtil
 second_title: Aspose.Words for C++ API Reference
-description: Provides utility methods for working with file formats, such as detecting file format or converting file extensions to/from file format enums.
+description: Aspose::Words::FileFormatUtil class. Provides utility methods for working with file formats, such as detecting file format or converting file extensions to/from file format enums in C++.
 type: docs
 weight: 352
 url: /cpp/aspose.words/fileformatutil/
@@ -50,4 +51,4 @@ ASSERT_EQ(1252, info->get_Encoding()->get_CodePage());
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

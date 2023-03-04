@@ -1,7 +1,8 @@
 ---
-title: FieldPageRef
+title: Aspose::Words::Fields::FieldPageRef class
+linktitle: FieldPageRef
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PAGEREF field.
+description: Aspose::Words::Fields::FieldPageRef class. Implements the PAGEREF field in C++.
 type: docs
 weight: 1015
 url: /cpp/aspose.words.fields/fieldpageref/
@@ -111,4 +112,4 @@ static void InsertAndNameBookmark(SharedPtr<DocumentBuilder> builder, String boo
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

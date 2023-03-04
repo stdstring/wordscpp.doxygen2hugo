@@ -1,7 +1,8 @@
 ---
-title: set_SpaceBefore
+title: Aspose::Words::ParagraphFormat::set_SpaceBefore method
+linktitle: set_SpaceBefore
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::ParagraphFormat::get_SpaceBefore.'
+description: Aspose::Words::ParagraphFormat::set_SpaceBefore method. Setter for Aspose::Words::ParagraphFormat::get_SpaceBefore in C++.
 type: docs
 weight: 872
 url: /cpp/aspose.words/paragraphformat/set_spacebefore/
@@ -19,4 +20,4 @@ void Aspose::Words::ParagraphFormat::set_SpaceBefore(double value)
 
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

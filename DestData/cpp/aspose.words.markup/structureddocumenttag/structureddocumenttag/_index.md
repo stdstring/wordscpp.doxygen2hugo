@@ -1,7 +1,8 @@
 ---
-title: StructuredDocumentTag
+title: Aspose::Words::Markup::StructuredDocumentTag::StructuredDocumentTag constructor
+linktitle: StructuredDocumentTag
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Structured document tag class.
+description: Aspose::Words::Markup::StructuredDocumentTag::StructuredDocumentTag constructor. Initializes a new instance of the Structured document tag class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/structureddocumenttag/structureddocumenttag/
@@ -66,4 +67,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.CheckBox.docx");
 * Enum [MarkupLevel](../../markuplevel/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

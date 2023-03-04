@@ -1,7 +1,8 @@
 ---
-title: set_Location
+title: Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Location method
+linktitle: set_Location
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location.'
+description: Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Location method. Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_location/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Location(const Syste
 
 * Class [PdfDigitalSignatureDetails](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

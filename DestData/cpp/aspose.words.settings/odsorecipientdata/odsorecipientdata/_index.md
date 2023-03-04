@@ -1,7 +1,8 @@
 ---
-title: OdsoRecipientData
+title: Aspose::Words::Settings::OdsoRecipientData::OdsoRecipientData constructor
+linktitle: OdsoRecipientData
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use OdsoRecipientData constructor of Aspose::Words::Settings::OdsoRecipientData class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.settings/odsorecipientdata/odsorecipientdata/
@@ -19,4 +20,4 @@ Aspose::Words::Settings::OdsoRecipientData::OdsoRecipientData()
 
 * Class [OdsoRecipientData](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

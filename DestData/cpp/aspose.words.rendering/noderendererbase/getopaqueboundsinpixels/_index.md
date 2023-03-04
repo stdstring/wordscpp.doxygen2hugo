@@ -1,7 +1,8 @@
 ---
-title: GetOpaqueBoundsInPixels
+title: Aspose::Words::Rendering::NodeRendererBase::GetOpaqueBoundsInPixels method
+linktitle: GetOpaqueBoundsInPixels
 second_title: Aspose.Words for C++ API Reference
-description: Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution.
+description: Aspose::Words::Rendering::NodeRendererBase::GetOpaqueBoundsInPixels method. Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.rendering/noderendererbase/getopaqueboundsinpixels/
@@ -78,7 +79,7 @@ ASSERT_EQ(30, bounds.get_Height());
 
 * Class [NodeRendererBase](../)
 * Namespace [Aspose::Words::Rendering](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## NodeRendererBase::GetOpaqueBoundsInPixels(float, float, float) method
 
 
@@ -152,4 +153,4 @@ ASSERT_EQ(30, bounds.get_Height());
 
 * Class [NodeRendererBase](../)
 * Namespace [Aspose::Words::Rendering](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

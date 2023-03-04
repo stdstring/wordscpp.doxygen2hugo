@@ -1,7 +1,8 @@
 ---
-title: set_AutoUpdate
+title: Aspose::Words::Fields::FieldLink::set_AutoUpdate method
+linktitle: set_AutoUpdate
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldLink::get_AutoUpdate.'
+description: Aspose::Words::Fields::FieldLink::set_AutoUpdate method. Setter for Aspose::Words::Fields::FieldLink::get_AutoUpdate in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldlink/set_autoupdate/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldLink::set_AutoUpdate(bool value)
 
 * Class [FieldLink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

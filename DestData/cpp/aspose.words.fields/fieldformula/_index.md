@@ -1,7 +1,8 @@
 ---
-title: FieldFormula
+title: Aspose::Words::Fields::FieldFormula class
+linktitle: FieldFormula
 second_title: Aspose.Words for C++ API Reference
-description: Implements the = (formula) field.
+description: Aspose::Words::Fields::FieldFormula class. Implements the = (formula) field in C++.
 type: docs
 weight: 625
 url: /cpp/aspose.words.fields/fieldformula/
@@ -71,4 +72,4 @@ doc->Save(ArtifactsDir + u"Field.FORMULA.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_LastParagraph
+title: Aspose::Words::Drawing::Shape::get_LastParagraph method
+linktitle: get_LastParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Gets the last paragraph in the shape.
+description: Aspose::Words::Drawing::Shape::get_LastParagraph method. Gets the last paragraph in the shape in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/shape/get_lastparagraph/
@@ -44,4 +45,4 @@ doc->Save(ArtifactsDir + u"Shape.TextBoxLayoutFlow.docx");
 * Class [Paragraph](../../../aspose.words/paragraph/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

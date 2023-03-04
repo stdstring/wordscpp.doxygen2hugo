@@ -1,7 +1,8 @@
 ---
-title: get_EntryName
+title: Aspose::Words::Fields::FieldGlossary::get_EntryName method
+linktitle: get_EntryName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the glossary entry to insert.
+description: Aspose::Words::Fields::FieldGlossary::get_EntryName method. Gets or sets the name of the glossary entry to insert in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldglossary/get_entryname/
@@ -68,4 +69,4 @@ doc->Save(ArtifactsDir + u"Field.AUTOTEXT.GLOSSARY.dotx");
 
 * Class [FieldGlossary](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

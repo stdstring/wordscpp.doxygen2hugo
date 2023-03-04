@@ -1,7 +1,8 @@
 ---
-title: FieldTime
+title: Aspose::Words::Fields::FieldTime class
+linktitle: FieldTime
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TIME field.
+description: Aspose::Words::Fields::FieldTime class. Implements the TIME field in C++.
 type: docs
 weight: 1314
 url: /cpp/aspose.words.fields/fieldtime/
@@ -87,4 +88,4 @@ static SharedPtr<FieldTime> InsertFieldTime(SharedPtr<DocumentBuilder> builder, 
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

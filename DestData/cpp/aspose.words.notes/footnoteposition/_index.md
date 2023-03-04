@@ -1,7 +1,8 @@
 ---
-title: FootnotePosition
+title: Aspose::Words::Notes::FootnotePosition enum
+linktitle: FootnotePosition
 second_title: Aspose.Words for C++ API Reference
-description: Defines the footnote position.
+description: Aspose::Words::Notes::FootnotePosition enum. Defines the footnote position in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.notes/footnoteposition/
@@ -55,4 +56,4 @@ doc->Save(ArtifactsDir + u"InlineStory.PositionFootnote.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Notes](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

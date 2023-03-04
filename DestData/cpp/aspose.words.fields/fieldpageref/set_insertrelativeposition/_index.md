@@ -1,7 +1,8 @@
 ---
-title: set_InsertRelativePosition
+title: Aspose::Words::Fields::FieldPageRef::set_InsertRelativePosition method
+linktitle: set_InsertRelativePosition
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition.'
+description: Aspose::Words::Fields::FieldPageRef::set_InsertRelativePosition method. Setter for Aspose::Words::Fields::FieldPageRef::get_InsertRelativePosition in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldpageref/set_insertrelativeposition/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldPageRef::set_InsertRelativePosition(bool value)
 
 * Class [FieldPageRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

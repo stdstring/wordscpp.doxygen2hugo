@@ -1,7 +1,8 @@
 ---
-title: get_AutoHyphenation
+title: Aspose::Words::Settings::HyphenationOptions::get_AutoHyphenation method
+linktitle: get_AutoHyphenation
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets value determining whether automatic hyphenation is turned on for the document. Default value for this property is false.
+description: Aspose::Words::Settings::HyphenationOptions::get_AutoHyphenation method. Gets or sets value determining whether automatic hyphenation is turned on for the document. Default value for this property is false in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.settings/hyphenationoptions/get_autohyphenation/
@@ -41,4 +42,4 @@ doc->Save(ArtifactsDir + u"Document.HyphenationOptions.docx");
 
 * Class [HyphenationOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

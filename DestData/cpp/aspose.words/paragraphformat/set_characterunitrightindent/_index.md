@@ -1,7 +1,8 @@
 ---
-title: set_CharacterUnitRightIndent
+title: Aspose::Words::ParagraphFormat::set_CharacterUnitRightIndent method
+linktitle: set_CharacterUnitRightIndent
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::ParagraphFormat::get_CharacterUnitRightIndent.'
+description: Aspose::Words::ParagraphFormat::set_CharacterUnitRightIndent method. Setter for Aspose::Words::ParagraphFormat::get_CharacterUnitRightIndent in C++.
 type: docs
 weight: 612
 url: /cpp/aspose.words/paragraphformat/set_characterunitrightindent/
@@ -19,4 +20,4 @@ void Aspose::Words::ParagraphFormat::set_CharacterUnitRightIndent(double value)
 
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

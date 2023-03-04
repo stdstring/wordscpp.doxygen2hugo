@@ -1,7 +1,8 @@
 ---
-title: cend
+title: Aspose::Words::Markup::CustomPartCollection::cend method
+linktitle: cend
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use cend method of Aspose::Words::Markup::CustomPartCollection class in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.markup/custompartcollection/cend/
@@ -20,4 +21,4 @@ const_iterator Aspose::Words::Markup::CustomPartCollection::cend() const noexcep
 * Typedef [const_iterator](../const_iterator/)
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

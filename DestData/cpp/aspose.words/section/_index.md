@@ -1,7 +1,8 @@
 ---
-title: Section
+title: Aspose::Words::Section class
+linktitle: Section
 second_title: Aspose.Words for C++ API Reference
-description: Represents a single section in a document.
+description: Aspose::Words::Section class. Represents a single section in a document in C++.
 type: docs
 weight: 742
 url: /cpp/aspose.words/section/
@@ -139,4 +140,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 * Class [CompositeNode](../compositenode/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_SizeInPoints
+title: Aspose::Words::Drawing::ShapeBase::get_SizeInPoints method
+linktitle: get_SizeInPoints
 second_title: Aspose.Words for C++ API Reference
-description: Gets the size of the shape in points.
+description: Aspose::Words::Drawing::ShapeBase::get_SizeInPoints method. Gets the size of the shape in points in C++.
 type: docs
 weight: 612
 url: /cpp/aspose.words.drawing/shapebase/get_sizeinpoints/
@@ -35,4 +36,4 @@ ASPOSE_ASSERT_EQ(System::Drawing::SizeF(300.0f, 300.0f), shape->get_SizeInPoints
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

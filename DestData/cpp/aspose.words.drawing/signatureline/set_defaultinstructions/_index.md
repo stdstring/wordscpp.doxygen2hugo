@@ -1,7 +1,8 @@
 ---
-title: set_DefaultInstructions
+title: Aspose::Words::Drawing::SignatureLine::set_DefaultInstructions method
+linktitle: set_DefaultInstructions
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::SignatureLine::get_DefaultInstructions.'
+description: Aspose::Words::Drawing::SignatureLine::set_DefaultInstructions method. Setter for Aspose::Words::Drawing::SignatureLine::get_DefaultInstructions in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.drawing/signatureline/set_defaultinstructions/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::SignatureLine::set_DefaultInstructions(bool value)
 
 * Class [SignatureLine](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_NoTabHangInd
+title: Aspose::Words::Settings::CompatibilityOptions::get_NoTabHangInd method
+linktitle: get_NoTabHangInd
 second_title: Aspose.Words for C++ API Reference
-description: Do Not Create Custom Tab Stop for Hanging Indent.
+description: Aspose::Words::Settings::CompatibilityOptions::get_NoTabHangInd method. Do Not Create Custom Tab Stop for Hanging Indent in C++.
 type: docs
 weight: 469
 url: /cpp/aspose.words.settings/compatibilityoptions/get_notabhangind/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_NoTabHangInd()
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

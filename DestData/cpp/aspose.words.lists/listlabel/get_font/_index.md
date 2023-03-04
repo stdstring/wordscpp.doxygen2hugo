@@ -1,7 +1,8 @@
 ---
-title: get_Font
+title: Aspose::Words::Lists::ListLabel::get_Font method
+linktitle: get_Font
 second_title: Aspose.Words for C++ API Reference
-description: Gets the list label font.
+description: Aspose::Words::Lists::ListLabel::get_Font method. Gets the list label font in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.lists/listlabel/get_font/
@@ -20,4 +21,4 @@ System::SharedPtr<Aspose::Words::Font> Aspose::Words::Lists::ListLabel::get_Font
 * Class [Font](../../../aspose.words/font/)
 * Class [ListLabel](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

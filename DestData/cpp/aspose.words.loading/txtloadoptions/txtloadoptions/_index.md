@@ -1,7 +1,8 @@
 ---
-title: TxtLoadOptions
+title: Aspose::Words::Loading::TxtLoadOptions::TxtLoadOptions constructor
+linktitle: TxtLoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of this class with default values.
+description: Aspose::Words::Loading::TxtLoadOptions::TxtLoadOptions constructor. Initializes a new instance of this class with default values in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.loading/txtloadoptions/txtloadoptions/
@@ -19,4 +20,4 @@ Aspose::Words::Loading::TxtLoadOptions::TxtLoadOptions()
 
 * Class [TxtLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

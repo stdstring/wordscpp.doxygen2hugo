@@ -1,7 +1,8 @@
 ---
-title: set_Spacing
+title: Aspose::Words::TextColumnCollection::set_Spacing method
+linktitle: set_Spacing
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::TextColumnCollection::get_Spacing.'
+description: Aspose::Words::TextColumnCollection::set_Spacing method. Setter for Aspose::Words::TextColumnCollection::get_Spacing in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words/textcolumncollection/set_spacing/
@@ -19,4 +20,4 @@ void Aspose::Words::TextColumnCollection::set_Spacing(double value)
 
 * Class [TextColumnCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

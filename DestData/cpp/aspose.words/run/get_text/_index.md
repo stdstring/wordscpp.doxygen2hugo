@@ -1,7 +1,8 @@
 ---
-title: get_Text
+title: Aspose::Words::Run::get_Text method
+linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text of the run.
+description: Aspose::Words::Run::get_Text method. Gets or sets the text of the run in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/run/get_text/
@@ -68,4 +69,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 * Class [Run](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

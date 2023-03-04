@@ -1,7 +1,8 @@
 ---
-title: set_Value
+title: Aspose::Words::Markup::CustomXmlProperty::set_Value method
+linktitle: set_Value
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Markup::CustomXmlProperty::get_Value.'
+description: Aspose::Words::Markup::CustomXmlProperty::set_Value method. Setter for Aspose::Words::Markup::CustomXmlProperty::get_Value in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.markup/customxmlproperty/set_value/
@@ -19,4 +20,4 @@ void Aspose::Words::Markup::CustomXmlProperty::set_Value(const System::String &v
 
 * Class [CustomXmlProperty](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

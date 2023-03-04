@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns the GlossaryDocument value.
+description: Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType method. Returns the GlossaryDocument value in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.buildingblocks/glossarydocument/get_nodetype/
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [GlossaryDocument](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

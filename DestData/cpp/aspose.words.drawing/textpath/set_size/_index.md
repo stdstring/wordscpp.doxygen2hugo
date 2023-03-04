@@ -1,7 +1,8 @@
 ---
-title: set_Size
+title: Aspose::Words::Drawing::TextPath::set_Size method
+linktitle: set_Size
 second_title: Aspose.Words for C++ API Reference
-description: Defines the size of the font in points.
+description: Aspose::Words::Drawing::TextPath::set_Size method. Defines the size of the font in points in C++.
 type: docs
 weight: 404
 url: /cpp/aspose.words.drawing/textpath/set_size/
@@ -23,4 +24,4 @@ The default value is 36.
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

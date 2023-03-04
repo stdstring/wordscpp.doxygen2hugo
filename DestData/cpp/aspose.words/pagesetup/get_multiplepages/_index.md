@@ -1,7 +1,8 @@
 ---
-title: get_MultiplePages
+title: Aspose::Words::PageSetup::get_MultiplePages method
+linktitle: get_MultiplePages
 second_title: Aspose.Words for C++ API Reference
-description: For multiple page documents, gets or sets how a document is printed or rendered so that it can be bound as a booklet.
+description: Aspose::Words::PageSetup::get_MultiplePages method. For multiple page documents, gets or sets how a document is printed or rendered so that it can be bound as a booklet in C++.
 type: docs
 weight: 339
 url: /cpp/aspose.words/pagesetup/get_multiplepages/
@@ -84,4 +85,4 @@ doc->Save(ArtifactsDir + u"PageSetup.Booklet.docx");
 * Enum [MultiplePagesType](../../../aspose.words.settings/multiplepagestype/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

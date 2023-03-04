@@ -1,7 +1,8 @@
 ---
-title: set_TrailingSpacesOptions
+title: Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions method
+linktitle: set_TrailingSpacesOptions
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions.'
+description: Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions method. Setter for Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.loading/txtloadoptions/set_trailingspacesoptions/
@@ -20,4 +21,4 @@ void Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions(Aspose::W
 * Enum [TxtTrailingSpacesOptions](../../txttrailingspacesoptions/)
 * Class [TxtLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

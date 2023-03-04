@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::RevisionCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns a Revision at the specified index.
+description: Aspose::Words::RevisionCollection::idx_get method. Returns a Revision at the specified index in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words/revisioncollection/idx_get/
@@ -116,4 +117,4 @@ ASSERT_EQ(u"This is revision #1. \rThis is revision #2.", doc->GetText().Trim())
 * Class [Revision](../../revision/)
 * Class [RevisionCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

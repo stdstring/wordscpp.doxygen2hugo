@@ -1,7 +1,8 @@
 ---
-title: get_LeftIndent
+title: Aspose::Words::TableStyle::get_LeftIndent method
+linktitle: get_LeftIndent
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the value that represents the left indent of a table.
+description: Aspose::Words::TableStyle::get_LeftIndent method. Gets or sets the value that represents the left indent of a table in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words/tablestyle/get_leftindent/
@@ -62,4 +63,4 @@ doc->Save(ArtifactsDir + u"Table.SetTableAlignment.docx");
 
 * Class [TableStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

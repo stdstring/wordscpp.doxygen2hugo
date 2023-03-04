@@ -1,7 +1,8 @@
 ---
-title: set_ReferenceMark
+title: Aspose::Words::Notes::Footnote::set_ReferenceMark method
+linktitle: set_ReferenceMark
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Notes::Footnote::get_ReferenceMark.'
+description: Aspose::Words::Notes::Footnote::set_ReferenceMark method. Setter for Aspose::Words::Notes::Footnote::get_ReferenceMark in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.notes/footnote/set_referencemark/
@@ -19,4 +20,4 @@ void Aspose::Words::Notes::Footnote::set_ReferenceMark(const System::String &val
 
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

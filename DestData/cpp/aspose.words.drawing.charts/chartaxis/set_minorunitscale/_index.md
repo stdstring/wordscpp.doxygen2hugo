@@ -1,7 +1,8 @@
 ---
-title: set_MinorUnitScale
+title: Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitScale method
+linktitle: set_MinorUnitScale
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale.'
+description: Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitScale method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale in C++.
 type: docs
 weight: 508
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunitscale/
@@ -20,4 +21,4 @@ void Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitScale(Aspose::Words
 * Enum [AxisTimeUnit](../../axistimeunit/)
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

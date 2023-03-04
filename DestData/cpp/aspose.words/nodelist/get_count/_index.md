@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::NodeList::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of nodes in the list.
+description: Aspose::Words::NodeList::get_Count method. Gets the number of nodes in the list in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/nodelist/get_count/
@@ -19,4 +20,4 @@ int32_t Aspose::Words::NodeList::get_Count() const
 
 * Class [NodeList](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

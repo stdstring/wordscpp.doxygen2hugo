@@ -1,7 +1,8 @@
 ---
-title: get_Comments
+title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments method
+linktitle: get_Comments
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the document comments.
+description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments method. Gets or sets the document comments in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_comments/
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"DocumentProperties.Description.docx");
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

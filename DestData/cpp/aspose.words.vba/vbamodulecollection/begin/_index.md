@@ -1,7 +1,8 @@
 ---
-title: begin
+title: Aspose::Words::Vba::VbaModuleCollection::begin method
+linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use begin method of Aspose::Words::Vba::VbaModuleCollection class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbamodulecollection/begin/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::Vba::VbaModuleCollection::begin() const noexcept
 * Typedef [const_iterator](../const_iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## VbaModuleCollection::begin() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::Vba::VbaModuleCollection::begin() noexcept
 * Typedef [iterator](../iterator/)
 * Class [VbaModuleCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

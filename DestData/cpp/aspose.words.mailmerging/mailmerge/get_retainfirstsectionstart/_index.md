@@ -1,7 +1,8 @@
 ---
-title: get_RetainFirstSectionStart
+title: Aspose::Words::MailMerging::MailMerge::get_RetainFirstSectionStart method
+linktitle: get_RetainFirstSectionStart
 second_title: Aspose.Words for C++ API Reference
-description: Gets a value indicating whether the SectionStart of the first document section and its copies for subsequent data source rows are retained during mail merge or updated according to MS Word behaviour.
+description: Aspose::Words::MailMerging::MailMerge::get_RetainFirstSectionStart method. Gets a value indicating whether the SectionStart of the first document section and its copies for subsequent data source rows are retained during mail merge or updated according to MS Word behaviour in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.mailmerging/mailmerge/get_retainfirstsectionstart/
@@ -19,4 +20,4 @@ bool Aspose::Words::MailMerging::MailMerge::get_RetainFirstSectionStart() const
 
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

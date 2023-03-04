@@ -1,7 +1,8 @@
 ---
-title: set_Done
+title: Aspose::Words::Comment::set_Done method
+linktitle: set_Done
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Comment::get_Done.'
+description: Aspose::Words::Comment::set_Done method. Setter for Aspose::Words::Comment::get_Done in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words/comment/set_done/
@@ -19,4 +20,4 @@ void Aspose::Words::Comment::set_Done(bool value)
 
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: TextOrientation
+title: Aspose::Words::TextOrientation enum
+linktitle: TextOrientation
 second_title: Aspose.Words for C++ API Reference
-description: Specifies orientation of text on a page, in a table cell or a text frame.
+description: Aspose::Words::TextOrientation enum. Specifies orientation of text on a page, in a table cell or a text frame in C++.
 type: docs
 weight: 1600
 url: /cpp/aspose.words/textorientation/
@@ -74,4 +75,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.BuildTable.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

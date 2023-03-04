@@ -1,7 +1,8 @@
 ---
-title: Equals
+title: Aspose::Words::Lists::List::Equals method
+linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Compares with the specified list.
+description: Aspose::Words::Lists::List::Equals method. Compares with the specified list in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.lists/list/equals/
@@ -20,7 +21,7 @@ bool Aspose::Words::Lists::List::Equals(const System::SharedPtr<Aspose::Words::L
 * Class [List](../)
 * Class [List](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## List::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -34,4 +35,4 @@ bool Aspose::Words::Lists::List::Equals(System::SharedPtr<System::Object> obj) o
 
 * Class [List](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

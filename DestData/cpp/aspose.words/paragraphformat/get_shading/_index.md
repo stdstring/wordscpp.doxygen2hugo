@@ -1,7 +1,8 @@
 ---
-title: get_Shading
+title: Aspose::Words::ParagraphFormat::get_Shading method
+linktitle: get_Shading
 second_title: Aspose.Words for C++ API Reference
-description: Returns a Shading object that refers to the shading formatting for the paragraph.
+description: Aspose::Words::ParagraphFormat::get_Shading method. Returns a Shading object that refers to the shading formatting for the paragraph in C++.
 type: docs
 weight: 352
 url: /cpp/aspose.words/paragraphformat/get_shading/
@@ -46,4 +47,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 * Class [Shading](../../shading/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

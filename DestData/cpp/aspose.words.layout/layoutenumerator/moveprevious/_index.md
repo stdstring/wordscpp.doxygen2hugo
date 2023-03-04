@@ -1,7 +1,8 @@
 ---
-title: MovePrevious
+title: Aspose::Words::Layout::LayoutEnumerator::MovePrevious method
+linktitle: MovePrevious
 second_title: Aspose.Words for C++ API Reference
-description: Moves to the previous sibling entity.
+description: Aspose::Words::Layout::LayoutEnumerator::MovePrevious method. Moves to the previous sibling entity in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.layout/layoutenumerator/moveprevious/
@@ -146,4 +147,4 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 
 * Class [LayoutEnumerator](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

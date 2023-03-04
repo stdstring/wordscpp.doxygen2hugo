@@ -1,7 +1,8 @@
 ---
-title: iterator
+title: Aspose::Words::Lists::ListCollection::iterator typedef
+linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::Lists::ListCollection::iterator typedef of Aspose::Words::Lists::ListCollection class in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.lists/listcollection/iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::Lists::ListCollection::iterator =  typename iterator_holder
 
 * Class [ListCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_Justification
+title: Aspose::Words::Math::OfficeMath::set_Justification method
+linktitle: set_Justification
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Math::OfficeMath::get_Justification.'
+description: Aspose::Words::Math::OfficeMath::set_Justification method. Setter for Aspose::Words::Math::OfficeMath::get_Justification in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.math/officemath/set_justification/
@@ -20,4 +21,4 @@ void Aspose::Words::Math::OfficeMath::set_Justification(Aspose::Words::Math::Off
 * Enum [OfficeMathJustification](../../officemathjustification/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

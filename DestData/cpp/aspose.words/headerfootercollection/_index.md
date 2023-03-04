@@ -1,7 +1,8 @@
 ---
-title: HeaderFooterCollection
+title: Aspose::Words::HeaderFooterCollection class
+linktitle: HeaderFooterCollection
 second_title: Aspose.Words for C++ API Reference
-description: Provides typed access to HeaderFooter nodes of a Section.
+description: Aspose::Words::HeaderFooterCollection class. Provides typed access to HeaderFooter nodes of a Section in C++.
 type: docs
 weight: 404
 url: /cpp/aspose.words/headerfootercollection/
@@ -118,4 +119,4 @@ doc->Save(ArtifactsDir + u"HeaderFooter.RemoveFooters.docx");
 
 * Class [NodeCollection](../nodecollection/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

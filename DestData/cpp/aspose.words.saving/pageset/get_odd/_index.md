@@ -1,7 +1,8 @@
 ---
-title: get_Odd
+title: Aspose::Words::Saving::PageSet::get_Odd method
+linktitle: get_Odd
 second_title: Aspose.Words for C++ API Reference
-description: Gets a set with all the odd pages of the document in their original order.
+description: Aspose::Words::Saving::PageSet::get_Odd method. Gets a set with all the odd pages of the document in their original order in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/pageset/get_odd/
@@ -20,4 +21,4 @@ static System::SharedPtr<Aspose::Words::Saving::PageSet> Aspose::Words::Saving::
 * Class [PageSet](../)
 * Class [PageSet](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

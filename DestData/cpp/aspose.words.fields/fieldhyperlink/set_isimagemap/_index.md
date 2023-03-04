@@ -1,7 +1,8 @@
 ---
-title: set_IsImageMap
+title: Aspose::Words::Fields::FieldHyperlink::set_IsImageMap method
+linktitle: set_IsImageMap
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldHyperlink::get_IsImageMap.'
+description: Aspose::Words::Fields::FieldHyperlink::set_IsImageMap method. Setter for Aspose::Words::Fields::FieldHyperlink::get_IsImageMap in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldhyperlink/set_isimagemap/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldHyperlink::set_IsImageMap(bool value)
 
 * Class [FieldHyperlink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

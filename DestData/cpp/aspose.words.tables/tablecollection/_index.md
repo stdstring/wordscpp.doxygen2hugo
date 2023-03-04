@@ -1,7 +1,8 @@
 ---
-title: TableCollection
+title: Aspose::Words::Tables::TableCollection class
+linktitle: TableCollection
 second_title: Aspose.Words for C++ API Reference
-description: Provides typed access to a collection of Table nodes.
+description: Aspose::Words::Tables::TableCollection class. Provides typed access to a collection of Table nodes in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.tables/tablecollection/
@@ -129,4 +130,4 @@ static int GetChildTableCount(SharedPtr<Table> table)
 
 * Class [NodeCollection](../../aspose.words/nodecollection/)
 * Namespace [Aspose::Words::Tables](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

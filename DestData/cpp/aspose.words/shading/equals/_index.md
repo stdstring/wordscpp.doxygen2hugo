@@ -1,7 +1,8 @@
 ---
-title: Equals
+title: Aspose::Words::Shading::Equals method
+linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the specified Shading is equal in value to the current Shading.
+description: Aspose::Words::Shading::Equals method. Determines whether the specified Shading is equal in value to the current Shading in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/shading/equals/
@@ -20,7 +21,7 @@ bool Aspose::Words::Shading::Equals(const System::SharedPtr<Aspose::Words::Shadi
 * Class [Shading](../)
 * Class [Shading](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Shading::Equals(System::SharedPtr\<System::Object\>) method
 
 
@@ -34,4 +35,4 @@ bool Aspose::Words::Shading::Equals(System::SharedPtr<System::Object> obj) overr
 
 * Class [Shading](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

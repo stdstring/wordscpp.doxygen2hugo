@@ -1,7 +1,8 @@
 ---
-title: get_Position
+title: Aspose::Words::Notes::EndnoteOptions::get_Position method
+linktitle: get_Position
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the endnotes position.
+description: Aspose::Words::Notes::EndnoteOptions::get_Position method. Specifies the endnotes position in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.notes/endnoteoptions/get_position/
@@ -52,4 +53,4 @@ doc->Save(ArtifactsDir + u"InlineStory.PositionEndnote.docx");
 * Enum [EndnotePosition](../../endnoteposition/)
 * Class [EndnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Type
+title: Aspose::Words::Fields::Field::get_Type method
+linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
-description: Gets the Microsoft Word field type.
+description: Aspose::Words::Fields::Field::get_Type method. Gets the Microsoft Word field type in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/field/get_type/
@@ -39,4 +40,4 @@ ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - Syst
 * Enum [FieldType](../../fieldtype/)
 * Class [Field](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

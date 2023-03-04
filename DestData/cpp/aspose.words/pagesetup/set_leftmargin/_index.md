@@ -1,7 +1,8 @@
 ---
-title: set_LeftMargin
+title: Aspose::Words::PageSetup::set_LeftMargin method
+linktitle: set_LeftMargin
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::PageSetup::get_LeftMargin.'
+description: Aspose::Words::PageSetup::set_LeftMargin method. Setter for Aspose::Words::PageSetup::get_LeftMargin in C++.
 type: docs
 weight: 794
 url: /cpp/aspose.words/pagesetup/set_leftmargin/
@@ -19,4 +20,4 @@ void Aspose::Words::PageSetup::set_LeftMargin(double value)
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

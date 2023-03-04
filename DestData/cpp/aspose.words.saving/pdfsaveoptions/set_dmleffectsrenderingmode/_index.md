@@ -1,7 +1,8 @@
 ---
-title: set_DmlEffectsRenderingMode
+title: Aspose::Words::Saving::PdfSaveOptions::set_DmlEffectsRenderingMode method
+linktitle: set_DmlEffectsRenderingMode
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode.'
+description: Aspose::Words::Saving::PdfSaveOptions::set_DmlEffectsRenderingMode method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode in C++.
 type: docs
 weight: 508
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_dmleffectsrenderingmode/
@@ -20,4 +21,4 @@ void Aspose::Words::Saving::PdfSaveOptions::set_DmlEffectsRenderingMode(Aspose::
 * Enum [DmlEffectsRenderingMode](../../dmleffectsrenderingmode/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

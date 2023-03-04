@@ -1,7 +1,8 @@
 ---
-title: ClearFormatting
+title: Aspose::Words::Font::ClearFormatting method
+linktitle: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Resets to default font formatting.
+description: Aspose::Words::Font::ClearFormatting method. Resets to default font formatting in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/font/clearformatting/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHyperlink.docx");
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

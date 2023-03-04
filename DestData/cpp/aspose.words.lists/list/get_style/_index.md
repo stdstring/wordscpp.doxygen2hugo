@@ -1,7 +1,8 @@
 ---
-title: get_Style
+title: Aspose::Words::Lists::List::get_Style method
+linktitle: get_Style
 second_title: Aspose.Words for C++ API Reference
-description: Gets the list style that this list references or defines.
+description: Aspose::Words::Lists::List::get_Style method. Gets the list style that this list references or defines in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.lists/list/get_style/
@@ -88,4 +89,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateAndUseListStyle.docx"
 * Class [Style](../../../aspose.words/style/)
 * Class [List](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

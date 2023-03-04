@@ -1,7 +1,8 @@
 ---
-title: get_EmbedFullFonts
+title: Aspose::Words::Saving::PdfSaveOptions::get_EmbedFullFonts method
+linktitle: get_EmbedFullFonts
 second_title: Aspose.Words for C++ API Reference
-description: Controls how fonts are embedded into the resulting PDF documents.
+description: Aspose::Words::Saving::PdfSaveOptions::get_EmbedFullFonts method. Controls how fonts are embedded into the resulting PDF documents in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_embedfullfonts/
@@ -78,4 +79,4 @@ FontSettings::get_DefaultInstance()->SetFontsSources(originalFontsSources);
 
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_VolumeNumber
+title: Aspose::Words::Fields::FieldCitation::get_VolumeNumber method
+linktitle: get_VolumeNumber
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a volume number associated with the citation.
+description: Aspose::Words::Fields::FieldCitation::get_VolumeNumber method. Gets or sets a volume number associated with the citation in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldcitation/get_volumenumber/
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

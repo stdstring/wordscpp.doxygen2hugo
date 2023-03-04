@@ -1,7 +1,8 @@
 ---
-title: FieldBibliography
+title: Aspose::Words::Fields::FieldBibliography class
+linktitle: FieldBibliography
 second_title: Aspose.Words for C++ API Reference
-description: Implements the BIBLIOGRAPHY field.
+description: Aspose::Words::Fields::FieldBibliography class. Implements the BIBLIOGRAPHY field in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.fields/fieldbibliography/
@@ -102,4 +103,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

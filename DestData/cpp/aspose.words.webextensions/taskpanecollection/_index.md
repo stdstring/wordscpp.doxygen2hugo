@@ -1,7 +1,8 @@
 ---
-title: TaskPaneCollection
+title: Aspose::Words::WebExtensions::TaskPaneCollection class
+linktitle: TaskPaneCollection
 second_title: Aspose.Words for C++ API Reference
-description: Specifies a list of persisted task pane objects.
+description: Aspose::Words::WebExtensions::TaskPaneCollection class. Specifies a list of persisted task pane objects in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.webextensions/taskpanecollection/
@@ -68,4 +69,4 @@ ASSERT_EQ(0, doc->get_WebExtensionTaskPanes()->get_Count());
 
 * Class [BaseWebExtensionCollection](../basewebextensioncollection/)
 * Namespace [Aspose::Words::WebExtensions](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

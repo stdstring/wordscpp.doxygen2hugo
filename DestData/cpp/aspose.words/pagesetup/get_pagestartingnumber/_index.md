@@ -1,7 +1,8 @@
 ---
-title: get_PageStartingNumber
+title: Aspose::Words::PageSetup::get_PageStartingNumber method
+linktitle: get_PageStartingNumber
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the starting page number of the section.
+description: Aspose::Words::PageSetup::get_PageStartingNumber method. Gets or sets the starting page number of the section in C++.
 type: docs
 weight: 417
 url: /cpp/aspose.words/pagesetup/get_pagestartingnumber/
@@ -75,4 +76,4 @@ doc->Save(ArtifactsDir + u"PageSetup.PageNumbering.docx");
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

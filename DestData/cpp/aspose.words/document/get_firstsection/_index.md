@@ -1,7 +1,8 @@
 ---
-title: get_FirstSection
+title: Aspose::Words::Document::get_FirstSection method
+linktitle: get_FirstSection
 second_title: Aspose.Words for C++ API Reference
-description: Gets the first section in the document.
+description: Aspose::Words::Document::get_FirstSection method. Gets the first section in the document in C++.
 type: docs
 weight: 287
 url: /cpp/aspose.words/document/get_firstsection/
@@ -117,4 +118,4 @@ for (const auto& node : System::IterateOver(section))
 * Class [Section](../../section/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

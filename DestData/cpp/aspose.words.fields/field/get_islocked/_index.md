@@ -1,7 +1,8 @@
 ---
-title: get_IsLocked
+title: Aspose::Words::Fields::Field::get_IsLocked method
+linktitle: get_IsLocked
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether the field is locked (should not recalculate its result).
+description: Aspose::Words::Fields::Field::get_IsLocked method. Gets or sets whether the field is locked (should not recalculate its result) in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/field/get_islocked/
@@ -49,4 +50,4 @@ field->Update();
 
 * Class [Field](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

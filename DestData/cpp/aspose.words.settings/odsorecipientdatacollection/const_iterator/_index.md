@@ -1,7 +1,8 @@
 ---
-title: const_iterator
+title: Aspose::Words::Settings::OdsoRecipientDataCollection::const_iterator typedef
+linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::Settings::OdsoRecipientDataCollection::const_iterator typedef of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/const_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::Settings::OdsoRecipientDataCollection::const_iterator =  ty
 
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

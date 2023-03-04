@@ -1,7 +1,8 @@
 ---
-title: set_Comments
+title: Aspose::Words::DigitalSignatures::SignOptions::set_Comments method
+linktitle: set_Comments
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::DigitalSignatures::SignOptions::get_Comments.'
+description: Aspose::Words::DigitalSignatures::SignOptions::set_Comments method. Setter for Aspose::Words::DigitalSignatures::SignOptions::get_Comments in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.digitalsignatures/signoptions/set_comments/
@@ -19,4 +20,4 @@ void Aspose::Words::DigitalSignatures::SignOptions::set_Comments(const System::S
 
 * Class [SignOptions](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

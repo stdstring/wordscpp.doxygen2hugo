@@ -1,7 +1,8 @@
 ---
-title: get_CommentDisplayMode
+title: Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode method
+linktitle: get_CommentDisplayMode
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the way comments are rendered. Default value is ShowInBalloons.
+description: Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode method. Gets or sets the way comments are rendered. Default value is ShowInBalloons in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.layout/layoutoptions/get_commentdisplaymode/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"Document.ShowCommentsInBalloons.pdf");
 * Enum [CommentDisplayMode](../../commentdisplaymode/)
 * Class [LayoutOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

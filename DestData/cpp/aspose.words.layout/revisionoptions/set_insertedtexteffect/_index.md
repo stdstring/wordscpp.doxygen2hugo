@@ -1,7 +1,8 @@
 ---
-title: set_InsertedTextEffect
+title: Aspose::Words::Layout::RevisionOptions::set_InsertedTextEffect method
+linktitle: set_InsertedTextEffect
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Layout::RevisionOptions::get_InsertedTextEffect.'
+description: Aspose::Words::Layout::RevisionOptions::set_InsertedTextEffect method. Setter for Aspose::Words::Layout::RevisionOptions::get_InsertedTextEffect in C++.
 type: docs
 weight: 300
 url: /cpp/aspose.words.layout/revisionoptions/set_insertedtexteffect/
@@ -20,4 +21,4 @@ void Aspose::Words::Layout::RevisionOptions::set_InsertedTextEffect(Aspose::Word
 * Enum [RevisionTextEffect](../../revisiontexteffect/)
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

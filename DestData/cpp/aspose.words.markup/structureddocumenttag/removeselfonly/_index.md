@@ -1,7 +1,8 @@
 ---
-title: RemoveSelfOnly
+title: Aspose::Words::Markup::StructuredDocumentTag::RemoveSelfOnly method
+linktitle: RemoveSelfOnly
 second_title: Aspose.Words for C++ API Reference
-description: Removes just this SDT node itself, but keeps the content of it inside the document tree.
+description: Aspose::Words::Markup::StructuredDocumentTag::RemoveSelfOnly method. Removes just this SDT node itself, but keeps the content of it inside the document tree in C++.
 type: docs
 weight: 430
 url: /cpp/aspose.words.markup/structureddocumenttag/removeselfonly/
@@ -75,4 +76,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

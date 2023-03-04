@@ -1,7 +1,8 @@
 ---
-title: set_IsHidden
+title: Aspose::Words::Drawing::Charts::ChartLegendEntry::set_IsHidden method
+linktitle: set_IsHidden
 second_title: Aspose.Words for C++ API Reference
-description: Sets a value indicating whether this entry is hidden in the chart legend. The default value is false.
+description: Aspose::Words::Drawing::Charts::ChartLegendEntry::set_IsHidden method. Sets a value indicating whether this entry is hidden in the chart legend. The default value is false in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.drawing.charts/chartlegendentry/set_ishidden/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Charts::ChartLegendEntry::set_IsHidden(bool value)
 
 * Class [ChartLegendEntry](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

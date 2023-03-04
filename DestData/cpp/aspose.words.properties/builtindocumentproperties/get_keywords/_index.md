@@ -1,7 +1,8 @@
 ---
-title: get_Keywords
+title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords method
+linktitle: get_Keywords
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the document keywords.
+description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Keywords method. Gets or sets the document keywords in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_keywords/
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"DocumentProperties.Description.docx");
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

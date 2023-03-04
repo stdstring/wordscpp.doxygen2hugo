@@ -1,7 +1,8 @@
 ---
-title: TableAlignment
+title: Aspose::Words::Tables::TableAlignment enum
+linktitle: TableAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies alignment for an inline table.
+description: Aspose::Words::Tables::TableAlignment enum. Specifies alignment for an inline table in C++.
 type: docs
 weight: 170
 url: /cpp/aspose.words.tables/tablealignment/
@@ -55,4 +56,4 @@ doc->Save(ArtifactsDir + u"Table.SetOutlineBorders.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Tables](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

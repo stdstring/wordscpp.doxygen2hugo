@@ -1,7 +1,8 @@
 ---
-title: set_Engrave
+title: Aspose::Words::Font::set_Engrave method
+linktitle: set_Engrave
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Font::get_Engrave.'
+description: Aspose::Words::Font::set_Engrave method. Setter for Aspose::Words::Font::get_Engrave in C++.
 type: docs
 weight: 846
 url: /cpp/aspose.words/font/set_engrave/
@@ -19,4 +20,4 @@ void Aspose::Words::Font::set_Engrave(bool value)
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

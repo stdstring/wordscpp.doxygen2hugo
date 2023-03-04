@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use GetEnumerator method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/getenumerator/
@@ -19,4 +20,4 @@ System::SharedPtr<System::Collections::Generic::IEnumerator<System::Collections:
 
 * Class [BookmarksOutlineLevelCollection](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

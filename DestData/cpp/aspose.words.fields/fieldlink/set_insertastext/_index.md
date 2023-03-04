@@ -1,7 +1,8 @@
 ---
-title: set_InsertAsText
+title: Aspose::Words::Fields::FieldLink::set_InsertAsText method
+linktitle: set_InsertAsText
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldLink::get_InsertAsText.'
+description: Aspose::Words::Fields::FieldLink::set_InsertAsText method. Setter for Aspose::Words::Fields::FieldLink::get_InsertAsText in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.fields/fieldlink/set_insertastext/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldLink::set_InsertAsText(bool value)
 
 * Class [FieldLink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

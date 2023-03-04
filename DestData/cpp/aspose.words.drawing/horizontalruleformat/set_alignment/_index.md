@@ -1,7 +1,8 @@
 ---
-title: set_Alignment
+title: Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment method
+linktitle: set_Alignment
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment.'
+description: Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment method. Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_alignment/
@@ -20,4 +21,4 @@ void Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment(Aspose::Words::
 * Enum [HorizontalRuleAlignment](../../horizontalrulealignment/)
 * Class [HorizontalRuleFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

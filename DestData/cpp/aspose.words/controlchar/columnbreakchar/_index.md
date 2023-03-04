@@ -1,7 +1,8 @@
 ---
-title: ColumnBreakChar
+title: Aspose::Words::ControlChar::ColumnBreakChar field
+linktitle: ColumnBreakChar
 second_title: Aspose.Words for C++ API Reference
-description: 'End of column character: (char)14.'
+description: Aspose::Words::ControlChar::ColumnBreakChar field. End of column character: (char)14 in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words/controlchar/columnbreakchar/
@@ -90,4 +91,4 @@ ASPOSE_ASSERT_EQ(System::Convert::ToChar(ControlChar::ColumnBreak()), ControlCha
 
 * Class [ControlChar](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

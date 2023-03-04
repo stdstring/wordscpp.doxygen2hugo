@@ -1,7 +1,8 @@
 ---
-title: get_RestartRule
+title: Aspose::Words::Notes::FootnoteOptions::get_RestartRule method
+linktitle: get_RestartRule
 second_title: Aspose.Words for C++ API Reference
-description: Determines when automatic numbering restarts.
+description: Aspose::Words::Notes::FootnoteOptions::get_RestartRule method. Determines when automatic numbering restarts in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.notes/footnoteoptions/get_restartrule/
@@ -74,4 +75,4 @@ doc->Save(ArtifactsDir + u"InlineStory.NumberingRule.docx");
 * Enum [FootnoteNumberingRule](../../footnotenumberingrule/)
 * Class [FootnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

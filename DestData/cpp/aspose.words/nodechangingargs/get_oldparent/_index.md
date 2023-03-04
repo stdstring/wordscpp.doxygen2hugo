@@ -1,7 +1,8 @@
 ---
-title: get_OldParent
+title: Aspose::Words::NodeChangingArgs::get_OldParent method
+linktitle: get_OldParent
 second_title: Aspose.Words for C++ API Reference
-description: Gets the node's parent before the operation began.
+description: Aspose::Words::NodeChangingArgs::get_OldParent method. Gets the node's parent before the operation began in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/nodechangingargs/get_oldparent/
@@ -89,4 +90,4 @@ private:
 * Class [Node](../../node/)
 * Class [NodeChangingArgs](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

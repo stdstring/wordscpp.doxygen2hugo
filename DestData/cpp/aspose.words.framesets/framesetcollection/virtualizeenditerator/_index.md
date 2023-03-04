@@ -1,7 +1,8 @@
 ---
-title: virtualizeEndIterator
+title: Aspose::Words::Framesets::FramesetCollection::virtualizeEndIterator method
+linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use virtualizeEndIterator method of Aspose::Words::Framesets::FramesetCollection class in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.framesets/framesetcollection/virtualizeenditerator/
@@ -20,4 +21,4 @@ virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeE
 * Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [FramesetCollection](../)
 * Namespace [Aspose::Words::Framesets](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

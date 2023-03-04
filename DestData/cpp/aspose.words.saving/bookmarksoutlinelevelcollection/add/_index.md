@@ -1,7 +1,8 @@
 ---
-title: Add
+title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add method
+linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds a bookmark to the collection.
+description: Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add method. Adds a bookmark to the collection in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/add/
@@ -81,4 +82,4 @@ outlineLevels->Clear();
 
 * Class [BookmarksOutlineLevelCollection](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

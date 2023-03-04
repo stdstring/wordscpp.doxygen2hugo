@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::StyleCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of styles in the collection.
+description: Aspose::Words::StyleCollection::get_Count method. Gets the number of styles in the collection in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/stylecollection/get_count/
@@ -43,4 +44,4 @@ ASPOSE_ASSERT_EQ(15.0, styles->idx_get(u"MyStyle")->get_ParagraphFormat()->get_F
 
 * Class [StyleCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

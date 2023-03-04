@@ -1,7 +1,8 @@
 ---
-title: VisitShapeEnd
+title: Aspose::Words::DocumentVisitor::VisitShapeEnd method
+linktitle: VisitShapeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a shape has ended.
+description: Aspose::Words::DocumentVisitor::VisitShapeEnd method. Called when enumeration of a shape has ended in C++.
 type: docs
 weight: 495
 url: /cpp/aspose.words/documentvisitor/visitshapeend/
@@ -114,4 +115,4 @@ private:
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

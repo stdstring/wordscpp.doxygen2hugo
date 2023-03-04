@@ -1,7 +1,8 @@
 ---
-title: set_IsBold
+title: Aspose::Words::Fields::FieldTA::set_IsBold method
+linktitle: set_IsBold
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldTA::get_IsBold.'
+description: Aspose::Words::Fields::FieldTA::set_IsBold method. Setter for Aspose::Words::Fields::FieldTA::get_IsBold in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldta/set_isbold/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldTA::set_IsBold(bool value)
 
 * Class [FieldTA](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

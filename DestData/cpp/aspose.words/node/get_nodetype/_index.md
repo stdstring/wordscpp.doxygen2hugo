@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Node::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Gets the type of this node.
+description: Aspose::Words::Node::get_NodeType method. Gets the type of this node in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/node/get_nodetype/
@@ -105,4 +106,4 @@ for (SharedPtr<Node> node = doc->get_FirstSection()->get_Body()->get_FirstChild(
 * Enum [NodeType](../../nodetype/)
 * Class [Node](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

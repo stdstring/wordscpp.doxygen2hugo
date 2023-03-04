@@ -1,7 +1,8 @@
 ---
-title: set_Bounds
+title: Aspose::Words::Drawing::ShapeBase::set_Bounds method
+linktitle: set_Bounds
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_Bounds.'
+description: Aspose::Words::Drawing::ShapeBase::set_Bounds method. Setter for Aspose::Words::Drawing::ShapeBase::get_Bounds in C++.
 type: docs
 weight: 820
 url: /cpp/aspose.words.drawing/shapebase/set_bounds/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::ShapeBase::set_Bounds(System::Drawing::RectangleF v
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

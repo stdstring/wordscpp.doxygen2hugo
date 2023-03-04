@@ -1,7 +1,8 @@
 ---
-title: virtualized_iterator
+title: Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator typedef
+linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator typedef of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualized_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterato
 
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: InsertOnlineVideo
+title: Aspose::Words::DocumentBuilder::InsertOnlineVideo method
+linktitle: InsertOnlineVideo
 second_title: Aspose.Words for C++ API Reference
-description: Inserts an online video object into the document and scales it to the specified size.
+description: Aspose::Words::DocumentBuilder::InsertOnlineVideo method. Inserts an online video object into the document and scales it to the specified size in C++.
 type: docs
 weight: 521
 url: /cpp/aspose.words/documentbuilder/insertonlinevideo/
@@ -74,7 +75,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideo.docx");
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -152,7 +153,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertOnlineVideo(const System::String\&, const System::String\&, const System::ArrayPtr\<uint8_t\>\&, double, double) method
 
 
@@ -222,7 +223,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertOnlineVideoCustomThumbnail.docx
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertOnlineVideo(const System::String\&, double, double) method
 
 
@@ -278,4 +279,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertVideoWithUrl.docx");
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::BorderCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of borders in the collection.
+description: Aspose::Words::BorderCollection::get_Count method. Gets the number of borders in the collection in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words/bordercollection/get_count/
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 
 * Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

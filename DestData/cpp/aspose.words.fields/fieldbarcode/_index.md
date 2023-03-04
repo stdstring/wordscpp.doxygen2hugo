@@ -1,7 +1,8 @@
 ---
-title: FieldBarcode
+title: Aspose::Words::Fields::FieldBarcode class
+linktitle: FieldBarcode
 second_title: Aspose.Words for C++ API Reference
-description: Implements the BARCODE field.
+description: Aspose::Words::Fields::FieldBarcode class. Implements the BARCODE field in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.fields/fieldbarcode/
@@ -96,4 +97,4 @@ doc->Save(ArtifactsDir + u"Field.BARCODE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

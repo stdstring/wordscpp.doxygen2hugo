@@ -1,7 +1,8 @@
 ---
-title: set_SourceFullName
+title: Aspose::Words::Drawing::OleFormat::set_SourceFullName method
+linktitle: set_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::OleFormat::get_SourceFullName.'
+description: Aspose::Words::Drawing::OleFormat::set_SourceFullName method. Setter for Aspose::Words::Drawing::OleFormat::get_SourceFullName in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/oleformat/set_sourcefullname/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::OleFormat::set_SourceFullName(const System::String 
 
 * Class [OleFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_FieldType
+title: Aspose::Words::Fields::FieldChar::get_FieldType method
+linktitle: get_FieldType
 second_title: Aspose.Words for C++ API Reference
-description: Returns the type of the field.
+description: Aspose::Words::Fields::FieldChar::get_FieldType method. Returns the type of the field in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldchar/get_fieldtype/
@@ -50,4 +51,4 @@ field->Update();
 * Enum [FieldType](../../fieldtype/)
 * Class [FieldChar](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

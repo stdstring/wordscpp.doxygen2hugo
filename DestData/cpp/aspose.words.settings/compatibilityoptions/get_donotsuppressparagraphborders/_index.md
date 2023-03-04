@@ -1,7 +1,8 @@
 ---
-title: get_DoNotSuppressParagraphBorders
+title: Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressParagraphBorders method
+linktitle: get_DoNotSuppressParagraphBorders
 second_title: Aspose.Words for C++ API Reference
-description: Do Not Suppress Paragraph Borders Next To Frames.
+description: Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressParagraphBorders method. Do Not Suppress Paragraph Borders Next To Frames in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsuppressparagraphborders/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressParagraphBo
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

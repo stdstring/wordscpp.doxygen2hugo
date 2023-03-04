@@ -1,7 +1,8 @@
 ---
-title: get_Address
+title: Aspose::Words::Fields::UserInformation::get_Address method
+linktitle: get_Address
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the user's postal address.
+description: Aspose::Words::Fields::UserInformation::get_Address method. Gets or sets the user's postal address in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/userinformation/get_address/
@@ -56,4 +57,4 @@ doc->Save(ArtifactsDir + u"FieldOptions.CurrentUser.docx");
 
 * Class [UserInformation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Font
+title: Aspose::Words::Drawing::ShapeBase::get_Font method
+linktitle: get_Font
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the font formatting of this object.
+description: Aspose::Words::Drawing::ShapeBase::get_Font method. Provides access to the font formatting of this object in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.drawing/shapebase/get_font/
@@ -57,4 +58,4 @@ doc->Save(ArtifactsDir + u"Shape.Font.docx");
 * Class [Font](../../../aspose.words/font/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

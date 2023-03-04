@@ -1,7 +1,8 @@
 ---
-title: get_MimeType
+title: Aspose::Words::Fields::FieldIncludeText::get_MimeType method
+linktitle: get_MimeType
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the MIME type of the referenced file.
+description: Aspose::Words::Fields::FieldIncludeText::get_MimeType method. Gets or sets the MIME type of the referenced file in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldincludetext/get_mimetype/
@@ -61,4 +62,4 @@ SharedPtr<FieldIncludeText> CreateFieldIncludeText(SharedPtr<DocumentBuilder> bu
 
 * Class [FieldIncludeText](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

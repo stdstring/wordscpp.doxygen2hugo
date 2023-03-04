@@ -1,7 +1,8 @@
 ---
-title: set_EntrySeparator
+title: Aspose::Words::Fields::FieldToa::set_EntrySeparator method
+linktitle: set_EntrySeparator
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator.'
+description: Aspose::Words::Fields::FieldToa::set_EntrySeparator method. Setter for Aspose::Words::Fields::FieldToa::get_EntrySeparator in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldtoa/set_entryseparator/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldToa::set_EntrySeparator(const System::String &v
 
 * Class [FieldToa](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

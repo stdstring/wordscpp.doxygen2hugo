@@ -1,7 +1,8 @@
 ---
-title: get_FieldName
+title: Aspose::Words::MailMerging::FieldMergingArgsBase::get_FieldName method
+linktitle: get_FieldName
 second_title: Aspose.Words for C++ API Reference
-description: Gets the name of the merge field in the data source.
+description: Aspose::Words::MailMerging::FieldMergingArgsBase::get_FieldName method. Gets the name of the merge field in the data source in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_fieldname/
@@ -25,4 +26,4 @@ If you specified a field name prefix, for example "Image:MyFieldName" in the doc
 
 * Class [FieldMergingArgsBase](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

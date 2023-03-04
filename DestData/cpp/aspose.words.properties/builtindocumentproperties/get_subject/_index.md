@@ -1,7 +1,8 @@
 ---
-title: get_Subject
+title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject method
+linktitle: get_Subject
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the subject of the document.
+description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject method. Gets or sets the subject of the document in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_subject/
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"DocumentProperties.Description.docx");
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

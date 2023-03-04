@@ -1,7 +1,8 @@
 ---
-title: get_RunSubentriesOnSameLine
+title: Aspose::Words::Fields::FieldIndex::get_RunSubentriesOnSameLine method
+linktitle: get_RunSubentriesOnSameLine
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether run subentries into the same line as the main entry.
+description: Aspose::Words::Fields::FieldIndex::get_RunSubentriesOnSameLine method. Gets or sets whether run subentries into the same line as the main entry in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/fieldindex/get_runsubentriesonsameline/
@@ -79,4 +80,4 @@ doc->Save(ArtifactsDir + String::Format(u"Field.INDEX.XE.Subheading.docx"));
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

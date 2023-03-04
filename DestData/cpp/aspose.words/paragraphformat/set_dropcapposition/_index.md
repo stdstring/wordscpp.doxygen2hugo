@@ -1,7 +1,8 @@
 ---
-title: set_DropCapPosition
+title: Aspose::Words::ParagraphFormat::set_DropCapPosition method
+linktitle: set_DropCapPosition
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::ParagraphFormat::get_DropCapPosition.'
+description: Aspose::Words::ParagraphFormat::set_DropCapPosition method. Setter for Aspose::Words::ParagraphFormat::get_DropCapPosition in C++.
 type: docs
 weight: 625
 url: /cpp/aspose.words/paragraphformat/set_dropcapposition/
@@ -20,4 +21,4 @@ void Aspose::Words::ParagraphFormat::set_DropCapPosition(Aspose::Words::DropCapP
 * Enum [DropCapPosition](../../dropcapposition/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

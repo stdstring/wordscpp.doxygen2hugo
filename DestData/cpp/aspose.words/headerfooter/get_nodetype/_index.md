@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::HeaderFooter::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.HeaderFooter.
+description: Aspose::Words::HeaderFooter::get_NodeType method. Returns NodeType.HeaderFooter in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words/headerfooter/get_nodetype/
@@ -67,4 +68,4 @@ for (const auto& node : System::IterateOver(section))
 * Enum [NodeType](../../nodetype/)
 * Class [HeaderFooter](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

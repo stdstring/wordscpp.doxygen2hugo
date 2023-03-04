@@ -1,7 +1,8 @@
 ---
-title: get_SupportVml
+title: Aspose::Words::Loading::HtmlLoadOptions::get_SupportVml method
+linktitle: get_SupportVml
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value indicating whether to support VML images.
+description: Aspose::Words::Loading::HtmlLoadOptions::get_SupportVml method. Gets or sets a value indicating whether to support VML images in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.loading/htmlloadoptions/get_supportvml/
@@ -47,4 +48,4 @@ else
 
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

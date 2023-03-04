@@ -1,7 +1,8 @@
 ---
-title: Document
+title: Aspose::Words::Document class
+linktitle: Document
 second_title: Aspose.Words for C++ API Reference
-description: Represents a Word document. To learn more, visit the  documentation article.
+description: Aspose::Words::Document class. Represents a Word document. To learn more, visit the  documentation article in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words/document/
@@ -222,4 +223,4 @@ In Microsoft Word, a valid document needs to have at least one section.
 
 * Class [DocumentBase](../documentbase/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

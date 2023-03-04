@@ -1,7 +1,8 @@
 ---
-title: get_Bookmark
+title: Aspose::Words::BookmarkStart::get_Bookmark method
+linktitle: get_Bookmark
 second_title: Aspose.Words for C++ API Reference
-description: Gets the facade object that encapsulates this bookmark start and end.
+description: Aspose::Words::BookmarkStart::get_Bookmark method. Gets the facade object that encapsulates this bookmark start and end in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/bookmarkstart/get_bookmark/
@@ -102,4 +103,4 @@ public:
 * Class [Bookmark](../../bookmark/)
 * Class [BookmarkStart](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

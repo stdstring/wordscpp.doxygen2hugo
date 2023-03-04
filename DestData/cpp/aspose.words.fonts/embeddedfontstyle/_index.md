@@ -1,7 +1,8 @@
 ---
-title: EmbeddedFontStyle
+title: Aspose::Words::Fonts::EmbeddedFontStyle enum
+linktitle: EmbeddedFontStyle
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the style of an embedded font inside a FontInfo object.
+description: Aspose::Words::Fonts::EmbeddedFontStyle enum. Specifies the style of an embedded font inside a FontInfo object in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.fonts/embeddedfontstyle/
@@ -57,4 +58,4 @@ System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf
 ## See Also
 
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

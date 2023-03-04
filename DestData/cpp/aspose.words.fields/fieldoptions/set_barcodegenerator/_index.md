@@ -1,7 +1,8 @@
 ---
-title: set_BarcodeGenerator
+title: Aspose::Words::Fields::FieldOptions::set_BarcodeGenerator method
+linktitle: set_BarcodeGenerator
 second_title: Aspose.Words for C++ API Reference
-description: Gets or set custom barcode generator.
+description: Aspose::Words::Fields::FieldOptions::set_BarcodeGenerator method. Gets or set custom barcode generator in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.fields/fieldoptions/set_barcodegenerator/
@@ -20,4 +21,4 @@ void Aspose::Words::Fields::FieldOptions::set_BarcodeGenerator(const System::Sha
 * Interface [IBarcodeGenerator](../../ibarcodegenerator/)
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: FieldInfo
+title: Aspose::Words::Fields::FieldInfo class
+linktitle: FieldInfo
 second_title: Aspose.Words for C++ API Reference
-description: Implements the INFO field.
+description: Aspose::Words::Fields::FieldInfo class. Implements the INFO field in C++.
 type: docs
 weight: 768
 url: /cpp/aspose.words.fields/fieldinfo/
@@ -85,4 +86,4 @@ doc->Save(ArtifactsDir + u"Field.INFO.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

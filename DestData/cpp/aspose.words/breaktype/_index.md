@@ -1,7 +1,8 @@
 ---
-title: BreakType
+title: Aspose::Words::BreakType enum
+linktitle: BreakType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies type of a break inside a document.
+description: Aspose::Words::BreakType enum. Specifies type of a break inside a document in C++.
 type: docs
 weight: 1054
 url: /cpp/aspose.words/breaktype/
@@ -140,4 +141,4 @@ doc->Save(ArtifactsDir + u"PageSetup.ClearFormatting.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

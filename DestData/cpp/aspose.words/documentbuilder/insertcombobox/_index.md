@@ -1,7 +1,8 @@
 ---
-title: InsertComboBox
+title: Aspose::Words::DocumentBuilder::InsertComboBox method
+linktitle: InsertComboBox
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a combobox form field at the current position.
+description: Aspose::Words::DocumentBuilder::InsertComboBox method. Inserts a combobox form field at the current position in C++.
 type: docs
 weight: 378
 url: /cpp/aspose.words/documentbuilder/insertcombobox/
@@ -71,4 +72,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertComboBox.docx");
 * Class [FormField](../../../aspose.words.fields/formfield/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

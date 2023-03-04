@@ -1,7 +1,8 @@
 ---
-title: set_TableOfFiguresLabel
+title: Aspose::Words::Fields::FieldToc::set_TableOfFiguresLabel method
+linktitle: set_TableOfFiguresLabel
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel.'
+description: Aspose::Words::Fields::FieldToc::set_TableOfFiguresLabel method. Setter for Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel in C++.
 type: docs
 weight: 430
 url: /cpp/aspose.words.fields/fieldtoc/set_tableoffigureslabel/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldToc::set_TableOfFiguresLabel(const System::Stri
 
 * Class [FieldToc](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

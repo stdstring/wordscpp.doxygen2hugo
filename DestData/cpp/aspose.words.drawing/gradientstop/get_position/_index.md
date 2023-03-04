@@ -1,7 +1,8 @@
 ---
-title: get_Position
+title: Aspose::Words::Drawing::GradientStop::get_Position method
+linktitle: get_Position
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value representing the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0.
+description: Aspose::Words::Drawing::GradientStop::get_Position method. Gets or sets a value representing the position of a stop within the gradient expressed as a percent in range 0.0 to 1.0 in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/gradientstop/get_position/
@@ -72,4 +73,4 @@ doc->Save(ArtifactsDir + u"Shape.GradientStops.docx", saveOptions);
 
 * Class [GradientStop](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

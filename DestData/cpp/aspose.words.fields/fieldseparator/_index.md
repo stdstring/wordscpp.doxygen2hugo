@@ -1,7 +1,8 @@
 ---
-title: FieldSeparator
+title: Aspose::Words::Fields::FieldSeparator class
+linktitle: FieldSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Represents a Word field separator that separates the field code from the field result.
+description: Aspose::Words::Fields::FieldSeparator class. Represents a Word field separator that separates the field code from the field result in C++.
 type: docs
 weight: 1158
 url: /cpp/aspose.words.fields/fieldseparator/
@@ -158,4 +159,4 @@ private:
 
 * Class [FieldChar](../fieldchar/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

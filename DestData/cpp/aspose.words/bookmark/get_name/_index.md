@@ -1,7 +1,8 @@
 ---
-title: get_Name
+title: Aspose::Words::Bookmark::get_Name method
+linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the bookmark.
+description: Aspose::Words::Bookmark::get_Name method. Gets or sets the name of the bookmark in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words/bookmark/get_name/
@@ -121,4 +122,4 @@ public:
 
 * Class [Bookmark](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

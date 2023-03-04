@@ -1,7 +1,8 @@
 ---
-title: SetImage
+title: Aspose::Words::Drawing::Fill::SetImage method
+linktitle: SetImage
 second_title: Aspose.Words for C++ API Reference
-description: Changes the fill type to single image.
+description: Aspose::Words::Drawing::Fill::SetImage method. Changes the fill type to single image in C++.
 type: docs
 weight: 391
 url: /cpp/aspose.words.drawing/fill/setimage/
@@ -24,7 +25,7 @@ void Aspose::Words::Drawing::Fill::SetImage(const System::ArrayPtr<uint8_t> &ima
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Fill::SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -43,7 +44,7 @@ void Aspose::Words::Drawing::Fill::SetImage(const System::SharedPtr<System::IO::
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Fill::SetImage(const System::String\&) method
 
 
@@ -62,4 +63,4 @@ void Aspose::Words::Drawing::Fill::SetImage(const System::String &fileName)
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

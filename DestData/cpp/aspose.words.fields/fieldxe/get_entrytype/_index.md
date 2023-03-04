@@ -1,7 +1,8 @@
 ---
-title: get_EntryType
+title: Aspose::Words::Fields::FieldXE::get_EntryType method
+linktitle: get_EntryType
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets an index entry type.
+description: Aspose::Words::Fields::FieldXE::get_EntryType method. Gets or sets an index entry type in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldxe/get_entrytype/
@@ -76,4 +77,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Filtering.docx");
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

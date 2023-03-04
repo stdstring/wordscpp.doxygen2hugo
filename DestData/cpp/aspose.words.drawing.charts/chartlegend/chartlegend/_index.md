@@ -1,7 +1,8 @@
 ---
-title: ChartLegend
+title: Aspose::Words::Drawing::Charts::ChartLegend::ChartLegend constructor
+linktitle: ChartLegend
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use ChartLegend constructor of Aspose::Words::Drawing::Charts::ChartLegend class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chartlegend/chartlegend/
@@ -19,4 +20,4 @@ Aspose::Words::Drawing::Charts::ChartLegend::ChartLegend()
 
 * Class [ChartLegend](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

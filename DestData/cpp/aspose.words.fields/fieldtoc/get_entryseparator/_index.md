@@ -1,7 +1,8 @@
 ---
-title: get_EntrySeparator
+title: Aspose::Words::Fields::FieldToc::get_EntrySeparator method
+linktitle: get_EntrySeparator
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a sequence of characters that separate an entry and its page number.
+description: Aspose::Words::Fields::FieldToc::get_EntrySeparator method. Gets or sets a sequence of characters that separate an entry and its page number in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldtoc/get_entryseparator/
@@ -100,4 +101,4 @@ void InsertNewPageWithHeading(SharedPtr<DocumentBuilder> builder, String caption
 
 * Class [FieldToc](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

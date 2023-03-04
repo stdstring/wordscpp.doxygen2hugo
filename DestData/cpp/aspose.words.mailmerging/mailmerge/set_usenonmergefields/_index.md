@@ -1,7 +1,8 @@
 ---
-title: set_UseNonMergeFields
+title: Aspose::Words::MailMerging::MailMerge::set_UseNonMergeFields method
+linktitle: set_UseNonMergeFields
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields.'
+description: Aspose::Words::MailMerging::MailMerge::set_UseNonMergeFields method. Setter for Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields in C++.
 type: docs
 weight: 469
 url: /cpp/aspose.words.mailmerging/mailmerge/set_usenonmergefields/
@@ -19,4 +20,4 @@ void Aspose::Words::MailMerging::MailMerge::set_UseNonMergeFields(bool value)
 
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

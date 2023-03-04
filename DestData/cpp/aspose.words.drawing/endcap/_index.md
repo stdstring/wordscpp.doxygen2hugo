@@ -1,7 +1,8 @@
 ---
-title: EndCap
+title: Aspose::Words::Drawing::EndCap enum
+linktitle: EndCap
 second_title: Aspose.Words for C++ API Reference
-description: Specifies line cap style.
+description: Aspose::Words::Drawing::EndCap enum. Specifies line cap style in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.drawing/endcap/
@@ -101,4 +102,4 @@ doc->Save(ArtifactsDir + u"Drawing.VariousShapes.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

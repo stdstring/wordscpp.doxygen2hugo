@@ -1,7 +1,8 @@
 ---
-title: Shape
+title: Aspose::Words::Drawing::Shape::Shape constructor
+linktitle: Shape
 second_title: Aspose.Words for C++ API Reference
-description: Creates a new shape object.
+description: Aspose::Words::Drawing::Shape::Shape constructor. Creates a new shape object in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/shape/shape/
@@ -81,4 +82,4 @@ doc->Save(ArtifactsDir + u"Shape.CreateTextBox.docx");
 * Enum [ShapeType](../../shapetype/)
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

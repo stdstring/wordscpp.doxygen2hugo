@@ -1,7 +1,8 @@
 ---
-title: get_ResourceSavingCallback
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourceSavingCallback method
+linktitle: get_ResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Allows to control how resources (images, fonts and css) are saved when a document is exported to fixed page Html format.
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourceSavingCallback method. Allows to control how resources (images, fonts and css) are saved when a document is exported to fixed page Html format in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_resourcesavingcallback/
@@ -99,4 +100,4 @@ private:
 * Interface [IResourceSavingCallback](../../iresourcesavingcallback/)
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

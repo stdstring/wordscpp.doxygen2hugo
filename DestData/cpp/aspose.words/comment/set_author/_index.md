@@ -1,7 +1,8 @@
 ---
-title: set_Author
+title: Aspose::Words::Comment::set_Author method
+linktitle: set_Author
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Comment::get_Author.'
+description: Aspose::Words::Comment::set_Author method. Setter for Aspose::Words::Comment::get_Author in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words/comment/set_author/
@@ -19,4 +20,4 @@ void Aspose::Words::Comment::set_Author(const System::String &value)
 
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

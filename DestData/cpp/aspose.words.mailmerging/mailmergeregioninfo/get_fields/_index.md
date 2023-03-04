@@ -1,7 +1,8 @@
 ---
-title: get_Fields
+title: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Fields method
+linktitle: get_Fields
 second_title: Aspose.Words for C++ API Reference
-description: Returns a list of child fields.
+description: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Fields method. Returns a list of child fields in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_fields/
@@ -64,4 +65,4 @@ ASSERT_EQ(u"TableEnd:NestedRegion1", endFieldMergeField->get_FieldName());
 * Class [Field](../../../aspose.words.fields/field/)
 * Class [MailMergeRegionInfo](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

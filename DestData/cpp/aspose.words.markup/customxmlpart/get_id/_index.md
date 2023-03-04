@@ -1,7 +1,8 @@
 ---
-title: get_Id
+title: Aspose::Words::Markup::CustomXmlPart::get_Id method
+linktitle: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the string that identifies this custom XML part within an OOXML document.
+description: Aspose::Words::Markup::CustomXmlPart::get_Id method. Gets or sets the string that identifies this custom XML part within an OOXML document in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.markup/customxmlpart/get_id/
@@ -93,4 +94,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 
 * Class [CustomXmlPart](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

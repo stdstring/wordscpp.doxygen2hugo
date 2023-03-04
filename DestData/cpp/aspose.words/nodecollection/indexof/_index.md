@@ -1,7 +1,8 @@
 ---
-title: IndexOf
+title: Aspose::Words::NodeCollection::IndexOf method
+linktitle: IndexOf
 second_title: Aspose.Words for C++ API Reference
-description: Returns the zero-based index of the specified node.
+description: Aspose::Words::NodeCollection::IndexOf method. Returns the zero-based index of the specified node in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/nodecollection/indexof/
@@ -55,4 +56,4 @@ ASSERT_EQ(4, row->IndexOf(cell));
 * Class [Node](../../node/)
 * Class [NodeCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

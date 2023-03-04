@@ -1,7 +1,8 @@
 ---
-title: const_iterator
+title: Aspose::Words::Fields::DropDownItemCollection::const_iterator typedef
+linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::Fields::DropDownItemCollection::const_iterator typedef of Aspose::Words::Fields::DropDownItemCollection class in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.fields/dropdownitemcollection/const_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::Fields::DropDownItemCollection::const_iterator =  typename 
 
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

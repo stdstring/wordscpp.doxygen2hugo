@@ -1,7 +1,8 @@
 ---
-title: set_SymbolRotation
+title: Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolRotation method
+linktitle: set_SymbolRotation
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation.'
+description: Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolRotation method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_symbolrotation/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolRotation(const System
 
 * Class [FieldDisplayBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

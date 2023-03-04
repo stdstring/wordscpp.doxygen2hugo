@@ -1,7 +1,8 @@
 ---
-title: set_SourceTag
+title: Aspose::Words::Fields::FieldCitation::set_SourceTag method
+linktitle: set_SourceTag
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldCitation::get_SourceTag.'
+description: Aspose::Words::Fields::FieldCitation::set_SourceTag method. Setter for Aspose::Words::Fields::FieldCitation::get_SourceTag in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fieldcitation/set_sourcetag/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldCitation::set_SourceTag(const System::String &v
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

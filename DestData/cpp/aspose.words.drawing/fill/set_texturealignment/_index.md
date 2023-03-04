@@ -1,7 +1,8 @@
 ---
-title: set_TextureAlignment
+title: Aspose::Words::Drawing::Fill::set_TextureAlignment method
+linktitle: set_TextureAlignment
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Fill::get_TextureAlignment.'
+description: Aspose::Words::Drawing::Fill::set_TextureAlignment method. Setter for Aspose::Words::Drawing::Fill::get_TextureAlignment in C++.
 type: docs
 weight: 352
 url: /cpp/aspose.words.drawing/fill/set_texturealignment/
@@ -20,4 +21,4 @@ void Aspose::Words::Drawing::Fill::set_TextureAlignment(Aspose::Words::Drawing::
 * Enum [TextureAlignment](../../texturealignment/)
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

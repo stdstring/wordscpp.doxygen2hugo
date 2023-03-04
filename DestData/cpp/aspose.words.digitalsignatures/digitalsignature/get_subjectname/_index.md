@@ -1,7 +1,8 @@
 ---
-title: get_SubjectName
+title: Aspose::Words::DigitalSignatures::DigitalSignature::get_SubjectName method
+linktitle: get_SubjectName
 second_title: Aspose.Words for C++ API Reference
-description: Returns the subject distinguished name of the certificate that was used to sign the document.
+description: Aspose::Words::DigitalSignatures::DigitalSignature::get_SubjectName method. Returns the subject distinguished name of the certificate that was used to sign the document in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_subjectname/
@@ -63,4 +64,4 @@ ASSERT_EQ(u"CN=Morzal.Me", signedDoc->get_DigitalSignatures()->idx_get(0)->get_S
 
 * Class [DigitalSignature](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

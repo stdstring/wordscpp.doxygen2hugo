@@ -1,7 +1,8 @@
 ---
-title: get_IsEncrypted
+title: Aspose::Words::FileFormatInfo::get_IsEncrypted method
+linktitle: get_IsEncrypted
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if the document is encrypted and requires a password to open.
+description: Aspose::Words::FileFormatInfo::get_IsEncrypted method. Returns true if the document is encrypted and requires a password to open in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/fileformatinfo/get_isencrypted/
@@ -46,4 +47,4 @@ ASSERT_TRUE(info->get_IsEncrypted());
 
 * Class [FileFormatInfo](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

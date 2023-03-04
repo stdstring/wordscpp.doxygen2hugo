@@ -1,7 +1,8 @@
 ---
-title: Add
+title: Aspose::Words::Markup::CustomPartCollection::Add method
+linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds an item to the collection.
+description: Aspose::Words::Markup::CustomPartCollection::Add method. Adds an item to the collection in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/custompartcollection/add/
@@ -69,4 +70,4 @@ ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 * Class [CustomPart](../../custompart/)
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

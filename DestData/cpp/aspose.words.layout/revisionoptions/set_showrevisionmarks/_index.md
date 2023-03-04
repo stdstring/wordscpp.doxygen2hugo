@@ -1,7 +1,8 @@
 ---
-title: set_ShowRevisionMarks
+title: Aspose::Words::Layout::RevisionOptions::set_ShowRevisionMarks method
+linktitle: set_ShowRevisionMarks
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Layout::RevisionOptions::get_ShowRevisionMarks.'
+description: Aspose::Words::Layout::RevisionOptions::set_ShowRevisionMarks method. Setter for Aspose::Words::Layout::RevisionOptions::get_ShowRevisionMarks in C++.
 type: docs
 weight: 482
 url: /cpp/aspose.words.layout/revisionoptions/set_showrevisionmarks/
@@ -19,4 +20,4 @@ void Aspose::Words::Layout::RevisionOptions::set_ShowRevisionMarks(bool value)
 
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

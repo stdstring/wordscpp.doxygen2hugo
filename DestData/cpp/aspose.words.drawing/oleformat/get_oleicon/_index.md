@@ -1,7 +1,8 @@
 ---
-title: get_OleIcon
+title: Aspose::Words::Drawing::OleFormat::get_OleIcon method
+linktitle: get_OleIcon
 second_title: Aspose.Words for C++ API Reference
-description: Gets the draw aspect of the OLE object. When true, the OLE object is displayed as an icon. When false, the OLE object is displayed as content.
+description: Aspose::Words::Drawing::OleFormat::get_OleIcon method. Gets the draw aspect of the OLE object. When true, the OLE object is displayed as an icon. When false, the OLE object is displayed as content in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.drawing/oleformat/get_oleicon/
@@ -77,4 +78,4 @@ doc->Save(ArtifactsDir + u"Shape.OleLinks.docx");
 
 * Class [OleFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

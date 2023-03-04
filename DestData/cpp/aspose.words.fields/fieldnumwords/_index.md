@@ -1,7 +1,8 @@
 ---
-title: FieldNumWords
+title: Aspose::Words::Fields::FieldNumWords class
+linktitle: FieldNumWords
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NUMWORDS field.
+description: Aspose::Words::Fields::FieldNumWords class. Implements the NUMWORDS field in C++.
 type: docs
 weight: 963
 url: /cpp/aspose.words.fields/fieldnumwords/
@@ -87,4 +88,4 @@ doc->Save(ArtifactsDir + u"Field.NUMCHARS.NUMWORDS.NUMPAGES.PAGE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: Clear
+title: Aspose::Words::Fields::DropDownItemCollection::Clear method
+linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Removes all elements from the collection.
+description: Aspose::Words::Fields::DropDownItemCollection::Clear method. Removes all elements from the collection in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/dropdownitemcollection/clear/
@@ -76,4 +77,4 @@ dropDownItems->Clear();
 
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

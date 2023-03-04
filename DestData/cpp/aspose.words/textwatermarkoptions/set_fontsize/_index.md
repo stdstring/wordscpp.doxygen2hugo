@@ -1,7 +1,8 @@
 ---
-title: set_FontSize
+title: Aspose::Words::TextWatermarkOptions::set_FontSize method
+linktitle: set_FontSize
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::TextWatermarkOptions::get_FontSize.'
+description: Aspose::Words::TextWatermarkOptions::set_FontSize method. Setter for Aspose::Words::TextWatermarkOptions::get_FontSize in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words/textwatermarkoptions/set_fontsize/
@@ -19,4 +20,4 @@ void Aspose::Words::TextWatermarkOptions::set_FontSize(float value)
 
 * Class [TextWatermarkOptions](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

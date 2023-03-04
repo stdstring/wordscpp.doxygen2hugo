@@ -1,7 +1,8 @@
 ---
-title: ExtractPages
+title: Aspose::Words::Document::ExtractPages method
+linktitle: ExtractPages
 second_title: Aspose.Words for C++ API Reference
-description: Returns the Document object representing specified range of pages.
+description: Aspose::Words::Document::ExtractPages method. Returns the Document object representing specified range of pages in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words/document/extractpages/
@@ -39,4 +40,4 @@ doc->Save(ArtifactsDir + u"Document.ExtractPages.docx");
 * Class [Document](../)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

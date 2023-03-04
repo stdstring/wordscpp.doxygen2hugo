@@ -1,7 +1,8 @@
 ---
-title: set_CellSpacing
+title: Aspose::Words::TableStyle::set_CellSpacing method
+linktitle: set_CellSpacing
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::TableStyle::get_CellSpacing.'
+description: Aspose::Words::TableStyle::set_CellSpacing method. Setter for Aspose::Words::TableStyle::get_CellSpacing in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words/tablestyle/set_cellspacing/
@@ -19,4 +20,4 @@ void Aspose::Words::TableStyle::set_CellSpacing(double value)
 
 * Class [TableStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

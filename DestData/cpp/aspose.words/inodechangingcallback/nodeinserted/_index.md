@@ -1,7 +1,8 @@
 ---
-title: NodeInserted
+title: Aspose::Words::INodeChangingCallback::NodeInserted method
+linktitle: NodeInserted
 second_title: Aspose.Words for C++ API Reference
-description: Called when a node belonging to this document has been inserted into another node.
+description: Aspose::Words::INodeChangingCallback::NodeInserted method. Called when a node belonging to this document has been inserted into another node in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/inodechangingcallback/nodeinserted/
@@ -98,4 +99,4 @@ private:
 * Class [NodeChangingArgs](../../nodechangingargs/)
 * Interface [INodeChangingCallback](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

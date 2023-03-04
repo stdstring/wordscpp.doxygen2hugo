@@ -1,7 +1,8 @@
 ---
-title: set_Resolution
+title: Aspose::Words::Saving::DownsampleOptions::set_Resolution method
+linktitle: set_Resolution
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::DownsampleOptions::get_Resolution.'
+description: Aspose::Words::Saving::DownsampleOptions::set_Resolution method. Setter for Aspose::Words::Saving::DownsampleOptions::get_Resolution in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/downsampleoptions/set_resolution/
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::DownsampleOptions::set_Resolution(int32_t value)
 
 * Class [DownsampleOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

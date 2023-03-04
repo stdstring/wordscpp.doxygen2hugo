@@ -1,7 +1,8 @@
 ---
-title: FieldEmbed
+title: Aspose::Words::Fields::FieldEmbed class
+linktitle: FieldEmbed
 second_title: Aspose.Words for C++ API Reference
-description: Implements the EMBED field.
+description: Aspose::Words::Fields::FieldEmbed class. Implements the EMBED field in C++.
 type: docs
 weight: 482
 url: /cpp/aspose.words.fields/fieldembed/
@@ -82,4 +83,4 @@ ASSERT_EQ(ShapeType::OleObject, shape->get_ShapeType());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

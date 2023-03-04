@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::Markup::CustomPartCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of elements contained in the collection.
+description: Aspose::Words::Markup::CustomPartCollection::get_Count method. Gets the number of elements contained in the collection in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.markup/custompartcollection/get_count/
@@ -64,4 +65,4 @@ ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 
 * Class [CustomPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

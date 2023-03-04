@@ -1,7 +1,8 @@
 ---
-title: set_BarcodeValue
+title: Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeValue method
+linktitle: set_BarcodeValue
 second_title: Aspose.Words for C++ API Reference
-description: Sets the barcode value.
+description: Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeValue method. Sets the barcode value in C++.
 type: docs
 weight: 248
 url: /cpp/aspose.words.fields/fieldmergebarcode/set_barcodevalue/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeValue(const System::St
 
 * Class [FieldMergeBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

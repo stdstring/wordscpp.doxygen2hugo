@@ -1,7 +1,8 @@
 ---
-title: GetEmbeddedFont
+title: Aspose::Words::Fonts::FontInfo::GetEmbeddedFont method
+linktitle: GetEmbeddedFont
 second_title: Aspose.Words for C++ API Reference
-description: Gets a specific embedded font file.
+description: Aspose::Words::Fonts::FontInfo::GetEmbeddedFont method. Gets a specific embedded font file in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fonts/fontinfo/getembeddedfont/
@@ -60,4 +61,4 @@ System::IO::File::WriteAllBytes(ArtifactsDir + u"Alte DIN 1451 Mittelschrift.otf
 * Enum [EmbeddedFontStyle](../../embeddedfontstyle/)
 * Class [FontInfo](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_UnusedBuiltinStyles
+title: Aspose::Words::CleanupOptions::set_UnusedBuiltinStyles method
+linktitle: set_UnusedBuiltinStyles
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles.'
+description: Aspose::Words::CleanupOptions::set_UnusedBuiltinStyles method. Setter for Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words/cleanupoptions/set_unusedbuiltinstyles/
@@ -19,4 +20,4 @@ void Aspose::Words::CleanupOptions::set_UnusedBuiltinStyles(bool value)
 
 * Class [CleanupOptions](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

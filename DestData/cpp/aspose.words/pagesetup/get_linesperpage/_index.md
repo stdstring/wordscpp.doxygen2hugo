@@ -1,7 +1,8 @@
 ---
-title: get_LinesPerPage
+title: Aspose::Words::PageSetup::get_LinesPerPage method
+linktitle: get_LinesPerPage
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the number of lines per page in the document grid.
+description: Aspose::Words::PageSetup::get_LinesPerPage method. Gets or sets the number of lines per page in the document grid in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words/pagesetup/get_linesperpage/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"PageSetup.LinesPerPage.docx");
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

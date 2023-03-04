@@ -1,7 +1,8 @@
 ---
-title: get_IgnoreCaseChanges
+title: Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges method
+linktitle: get_IgnoreCaseChanges
 second_title: Aspose.Words for C++ API Reference
-description: True indicates that documents comparison is case insensitive. By default comparison is case sensitive.
+description: Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges method. True indicates that documents comparison is case insensitive. By default comparison is case sensitive in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorecasechanges/
@@ -116,4 +117,4 @@ docOriginal->Save(ArtifactsDir + u"Document.CompareOptions.docx");
 
 * Class [CompareOptions](../)
 * Namespace [Aspose::Words::Comparing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

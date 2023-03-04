@@ -1,7 +1,8 @@
 ---
-title: get_ProtectionType
+title: Aspose::Words::Document::get_ProtectionType method
+linktitle: get_ProtectionType
 second_title: Aspose.Words for C++ API Reference
-description: Gets the currently active document protection type.
+description: Aspose::Words::Document::get_ProtectionType method. Gets the currently active document protection type in C++.
 type: docs
 weight: 521
 url: /cpp/aspose.words/document/get_protectiontype/
@@ -73,4 +74,4 @@ ASSERT_EQ(ProtectionType::NoProtection, doc->get_ProtectionType());
 * Enum [ProtectionType](../../protectiontype/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

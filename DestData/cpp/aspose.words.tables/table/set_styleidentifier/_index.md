@@ -1,7 +1,8 @@
 ---
-title: set_StyleIdentifier
+title: Aspose::Words::Tables::Table::set_StyleIdentifier method
+linktitle: set_StyleIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Tables::Table::get_StyleIdentifier.'
+description: Aspose::Words::Tables::Table::set_StyleIdentifier method. Setter for Aspose::Words::Tables::Table::get_StyleIdentifier in C++.
 type: docs
 weight: 742
 url: /cpp/aspose.words.tables/table/set_styleidentifier/
@@ -20,4 +21,4 @@ void Aspose::Words::Tables::Table::set_StyleIdentifier(Aspose::Words::StyleIdent
 * Enum [StyleIdentifier](../../../aspose.words/styleidentifier/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

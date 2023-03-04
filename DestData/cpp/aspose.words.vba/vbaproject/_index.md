@@ -1,7 +1,8 @@
 ---
-title: VbaProject
+title: Aspose::Words::Vba::VbaProject class
+linktitle: VbaProject
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to VBA project information. A VBA project inside the document is defined as a collection of VBA modules.
+description: Aspose::Words::Vba::VbaProject class. Provides access to VBA project information. A VBA project inside the document is defined as a collection of VBA modules in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.vba/vbaproject/
@@ -64,4 +65,4 @@ vbaModules->Remove(vbaModules->idx_get(2));
 ## See Also
 
 * Namespace [Aspose::Words::Vba](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

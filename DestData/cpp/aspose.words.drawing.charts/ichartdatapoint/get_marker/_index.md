@@ -1,7 +1,8 @@
 ---
-title: get_Marker
+title: Aspose::Words::Drawing::Charts::IChartDataPoint::get_Marker method
+linktitle: get_Marker
 second_title: Aspose.Words for C++ API Reference
-description: Specifies a data marker. Marker is automatically created when requested.
+description: Aspose::Words::Drawing::Charts::IChartDataPoint::get_Marker method. Specifies a data marker. Marker is automatically created when requested in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/get_marker/
@@ -81,4 +82,4 @@ static void ApplyDataPoints(SharedPtr<ChartSeries> series, int dataPointsCount, 
 * Class [ChartMarker](../../chartmarker/)
 * Interface [IChartDataPoint](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

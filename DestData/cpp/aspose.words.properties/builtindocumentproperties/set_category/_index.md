@@ -1,7 +1,8 @@
 ---
-title: set_Category
+title: Aspose::Words::Properties::BuiltInDocumentProperties::set_Category method
+linktitle: set_Category
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Category.'
+description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Category method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Category in C++.
 type: docs
 weight: 456
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_category/
@@ -19,4 +20,4 @@ void Aspose::Words::Properties::BuiltInDocumentProperties::set_Category(const Sy
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: Accept
+title: Aspose::Words::Paragraph::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: Aspose::Words::Paragraph::Accept method. Accepts a visitor in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/paragraph/accept/
@@ -214,4 +215,4 @@ public:
 * Class [DocumentVisitor](../../documentvisitor/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

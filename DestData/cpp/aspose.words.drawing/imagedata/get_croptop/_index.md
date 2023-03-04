@@ -1,7 +1,8 @@
 ---
-title: get_CropTop
+title: Aspose::Words::Drawing::ImageData::get_CropTop method
+linktitle: get_CropTop
 second_title: Aspose.Words for C++ API Reference
-description: Defines the fraction of picture removal from the top side.
+description: Aspose::Words::Drawing::ImageData::get_CropTop method. Defines the fraction of picture removal from the top side in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.drawing/imagedata/get_croptop/
@@ -87,4 +88,4 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

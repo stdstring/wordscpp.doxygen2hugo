@@ -1,7 +1,8 @@
 ---
-title: set_FontSize
+title: Aspose::Words::Fields::FieldSymbol::set_FontSize method
+linktitle: set_FontSize
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldSymbol::get_FontSize.'
+description: Aspose::Words::Fields::FieldSymbol::set_FontSize method. Setter for Aspose::Words::Fields::FieldSymbol::get_FontSize in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.fields/fieldsymbol/set_fontsize/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldSymbol::set_FontSize(const System::String &valu
 
 * Class [FieldSymbol](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_LegendEntry
+title: Aspose::Words::Drawing::Charts::ChartSeries::get_LegendEntry method
+linktitle: get_LegendEntry
 second_title: Aspose.Words for C++ API Reference
-description: Gets a legend entry for this chart series.
+description: Aspose::Words::Drawing::Charts::ChartSeries::get_LegendEntry method. Gets a legend entry for this chart series in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.drawing.charts/chartseries/get_legendentry/
@@ -20,4 +21,4 @@ System::SharedPtr<Aspose::Words::Drawing::Charts::ChartLegendEntry> Aspose::Word
 * Class [ChartLegendEntry](../../chartlegendentry/)
 * Class [ChartSeries](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

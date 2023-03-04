@@ -1,7 +1,8 @@
 ---
-title: FieldEQ
+title: Aspose::Words::Fields::FieldEQ class
+linktitle: FieldEQ
 second_title: Aspose.Words for C++ API Reference
-description: Implements the EQ field.
+description: Aspose::Words::Fields::FieldEQ class. Implements the EQ field in C++.
 type: docs
 weight: 508
 url: /cpp/aspose.words.fields/fieldeq/
@@ -125,4 +126,4 @@ static SharedPtr<FieldEQ> InsertFieldEQ(SharedPtr<DocumentBuilder> builder, Stri
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

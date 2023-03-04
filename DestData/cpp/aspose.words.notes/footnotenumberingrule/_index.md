@@ -1,7 +1,8 @@
 ---
-title: FootnoteNumberingRule
+title: Aspose::Words::Notes::FootnoteNumberingRule enum
+linktitle: FootnoteNumberingRule
 second_title: Aspose.Words for C++ API Reference
-description: Determines when automatic footnote or endnote numbering restarts.
+description: Aspose::Words::Notes::FootnoteNumberingRule enum. Determines when automatic footnote or endnote numbering restarts in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.notes/footnotenumberingrule/
@@ -81,4 +82,4 @@ doc->Save(ArtifactsDir + u"InlineStory.NumberingRule.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Notes](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

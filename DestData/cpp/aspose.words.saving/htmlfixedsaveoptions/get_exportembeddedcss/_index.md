@@ -1,7 +1,8 @@
 ---
-title: get_ExportEmbeddedCss
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedCss method
+linktitle: get_ExportEmbeddedCss
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether the CSS (Cascading Style Sheet) should be embedded into Html document.
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedCss method. Specifies whether the CSS (Cascading Style Sheet) should be embedded into Html document in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportembeddedcss/
@@ -55,4 +56,4 @@ else
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

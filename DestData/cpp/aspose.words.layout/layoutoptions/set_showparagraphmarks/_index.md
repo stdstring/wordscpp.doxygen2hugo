@@ -1,7 +1,8 @@
 ---
-title: set_ShowParagraphMarks
+title: Aspose::Words::Layout::LayoutOptions::set_ShowParagraphMarks method
+linktitle: set_ShowParagraphMarks
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks.'
+description: Aspose::Words::Layout::LayoutOptions::set_ShowParagraphMarks method. Setter for Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.layout/layoutoptions/set_showparagraphmarks/
@@ -19,4 +20,4 @@ void Aspose::Words::Layout::LayoutOptions::set_ShowParagraphMarks(bool value)
 
 * Class [LayoutOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

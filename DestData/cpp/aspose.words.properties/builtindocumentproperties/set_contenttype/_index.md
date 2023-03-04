@@ -1,7 +1,8 @@
 ---
-title: set_ContentType
+title: Aspose::Words::Properties::BuiltInDocumentProperties::set_ContentType method
+linktitle: set_ContentType
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType.'
+description: Aspose::Words::Properties::BuiltInDocumentProperties::set_ContentType method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType in C++.
 type: docs
 weight: 534
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_contenttype/
@@ -19,4 +20,4 @@ void Aspose::Words::Properties::BuiltInDocumentProperties::set_ContentType(const
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

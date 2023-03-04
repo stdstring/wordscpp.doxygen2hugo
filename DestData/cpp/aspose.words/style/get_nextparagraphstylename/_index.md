@@ -1,7 +1,8 @@
 ---
-title: get_NextParagraphStyleName
+title: Aspose::Words::Style::get_NextParagraphStyleName method
+linktitle: get_NextParagraphStyleName
 second_title: Aspose.Words for C++ API Reference
-description: Gets/sets the name of the style to be applied automatically to a new paragraph inserted after a paragraph formatted with the specified style.
+description: Aspose::Words::Style::get_NextParagraphStyleName method. Gets/sets the name of the style to be applied automatically to a new paragraph inserted after a paragraph formatted with the specified style in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words/style/get_nextparagraphstylename/
@@ -46,4 +47,4 @@ ASSERT_EQ(4, doc->get_Styles()->get_Count());
 
 * Class [Style](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

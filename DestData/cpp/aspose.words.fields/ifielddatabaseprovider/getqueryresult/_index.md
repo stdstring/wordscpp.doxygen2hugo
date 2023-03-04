@@ -1,7 +1,8 @@
 ---
-title: GetQueryResult
+title: Aspose::Words::Fields::IFieldDatabaseProvider::GetQueryResult method
+linktitle: GetQueryResult
 second_title: Aspose.Words for C++ API Reference
-description: Returns query result.
+description: Aspose::Words::Fields::IFieldDatabaseProvider::GetQueryResult method. Returns query result in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/ifielddatabaseprovider/getqueryresult/
@@ -33,4 +34,4 @@ The [FieldDatabaseDataTable](../../fielddatabasedatatable/) instance that should
 * Class [FieldDatabase](../../fielddatabase/)
 * Interface [IFieldDatabaseProvider](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: OfficeMathDisplayType
+title: Aspose::Words::Math::OfficeMathDisplayType enum
+linktitle: OfficeMathDisplayType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the display format type of the equation.
+description: Aspose::Words::Math::OfficeMathDisplayType enum. Specifies the display format type of the equation in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.math/officemathdisplaytype/
@@ -52,4 +53,4 @@ doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Math](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

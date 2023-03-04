@@ -1,7 +1,8 @@
 ---
-title: TxtSaveOptions
+title: Aspose::Words::Saving::TxtSaveOptions class
+linktitle: TxtSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Text format.
+description: Aspose::Words::Saving::TxtSaveOptions class. Can be used to specify additional options when saving a document into the Text format in C++.
 type: docs
 weight: 417
 url: /cpp/aspose.words.saving/txtsaveoptions/
@@ -114,4 +115,4 @@ ASSERT_EQ(String(u"Paragraph 1. End of paragraph.\n\n\t") + u"Paragraph 2. End o
 
 * Class [TxtSaveOptionsBase](../txtsaveoptionsbase/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

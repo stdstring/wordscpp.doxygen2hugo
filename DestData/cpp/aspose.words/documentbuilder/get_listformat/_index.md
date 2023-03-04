@@ -1,7 +1,8 @@
 ---
-title: get_ListFormat
+title: Aspose::Words::DocumentBuilder::get_ListFormat method
+linktitle: get_ListFormat
 second_title: Aspose.Words for C++ API Reference
-description: Returns an object that represents current list formatting properties.
+description: Aspose::Words::DocumentBuilder::get_ListFormat method. Returns an object that represents current list formatting properties in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words/documentbuilder/get_listformat/
@@ -104,4 +105,4 @@ doc->Save(ArtifactsDir + u"Lists.ApplyDefaultBulletsAndNumbers.docx");
 * Class [ListFormat](../../../aspose.words.lists/listformat/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

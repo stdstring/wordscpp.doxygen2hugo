@@ -1,7 +1,8 @@
 ---
-title: get_CustomTimeZoneInfo
+title: Aspose::Words::Saving::SaveOptions::get_CustomTimeZoneInfo method
+linktitle: get_CustomTimeZoneInfo
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use get_CustomTimeZoneInfo method of Aspose::Words::Saving::SaveOptions class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/saveoptions/get_customtimezoneinfo/
@@ -19,4 +20,4 @@ System::SharedPtr<System::TimeZoneInfo> Aspose::Words::Saving::SaveOptions::get_
 
 * Class [SaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

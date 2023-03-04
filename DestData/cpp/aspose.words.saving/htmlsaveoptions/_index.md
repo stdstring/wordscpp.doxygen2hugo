@@ -1,7 +1,8 @@
 ---
-title: HtmlSaveOptions
+title: Aspose::Words::Saving::HtmlSaveOptions class
+linktitle: HtmlSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Html, Mhtml, Epub or Azw3 format.
+description: Aspose::Words::Saving::HtmlSaveOptions class. Can be used to specify additional options when saving a document into the Html, Mhtml, Epub or Azw3 format in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.saving/htmlsaveoptions/
@@ -322,4 +323,4 @@ private:
 
 * Class [SaveOptions](../saveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

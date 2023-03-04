@@ -1,7 +1,8 @@
 ---
-title: IndexOf
+title: Aspose::Words::CompositeNode::IndexOf method
+linktitle: IndexOf
 second_title: Aspose.Words for C++ API Reference
-description: Returns the index of the specified child node in the child node array.
+description: Aspose::Words::CompositeNode::IndexOf method. Returns the index of the specified child node in the child node array in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words/compositenode/indexof/
@@ -35,4 +36,4 @@ ASSERT_EQ(24, body->get_ChildNodes()->IndexOf(body->get_LastParagraph()));
 * Class [Node](../../node/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

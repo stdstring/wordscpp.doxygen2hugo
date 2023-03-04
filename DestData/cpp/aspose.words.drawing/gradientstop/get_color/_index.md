@@ -1,7 +1,8 @@
 ---
-title: get_Color
+title: Aspose::Words::Drawing::GradientStop::get_Color method
+linktitle: get_Color
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value representing the color of the gradient stop.
+description: Aspose::Words::Drawing::GradientStop::get_Color method. Gets or sets a value representing the color of the gradient stop in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.drawing/gradientstop/get_color/
@@ -72,4 +73,4 @@ doc->Save(ArtifactsDir + u"Shape.GradientStops.docx", saveOptions);
 
 * Class [GradientStop](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

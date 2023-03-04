@@ -1,7 +1,8 @@
 ---
-title: set_BehindText
+title: Aspose::Words::Drawing::ShapeBase::set_BehindText method
+linktitle: set_BehindText
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_BehindText.'
+description: Aspose::Words::Drawing::ShapeBase::set_BehindText method. Setter for Aspose::Words::Drawing::ShapeBase::get_BehindText in C++.
 type: docs
 weight: 807
 url: /cpp/aspose.words.drawing/shapebase/set_behindtext/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::ShapeBase::set_BehindText(bool value)
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

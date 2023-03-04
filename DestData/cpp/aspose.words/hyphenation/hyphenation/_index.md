@@ -1,7 +1,8 @@
 ---
-title: Hyphenation
+title: Aspose::Words::Hyphenation::Hyphenation constructor
+linktitle: Hyphenation
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Hyphenation constructor of Aspose::Words::Hyphenation class in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/hyphenation/hyphenation/
@@ -19,4 +20,4 @@ Aspose::Words::Hyphenation::Hyphenation()=delete
 
 * Class [Hyphenation](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

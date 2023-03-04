@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::VariableCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of elements contained in the collection.
+description: Aspose::Words::VariableCollection::get_Count method. Gets the number of elements contained in the collection in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/variablecollection/get_count/
@@ -90,4 +91,4 @@ ASSERT_EQ(0, variables->get_Count());
 
 * Class [VariableCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

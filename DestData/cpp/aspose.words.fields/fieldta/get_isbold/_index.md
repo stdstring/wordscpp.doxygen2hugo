@@ -1,7 +1,8 @@
 ---
-title: get_IsBold
+title: Aspose::Words::Fields::FieldTA::get_IsBold method
+linktitle: get_IsBold
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to apply bold formatting to the page number for the entry.
+description: Aspose::Words::Fields::FieldTA::get_IsBold method. Gets or sets whether to apply bold formatting to the page number for the entry in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldta/get_isbold/
@@ -141,4 +142,4 @@ static SharedPtr<FieldTA> InsertToaEntry(SharedPtr<DocumentBuilder> builder, Str
 
 * Class [FieldTA](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

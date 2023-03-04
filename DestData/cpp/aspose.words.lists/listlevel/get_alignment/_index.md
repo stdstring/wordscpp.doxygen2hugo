@@ -1,7 +1,8 @@
 ---
-title: get_Alignment
+title: Aspose::Words::Lists::ListLevel::get_Alignment method
+linktitle: get_Alignment
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the justification of the actual number of the list item.
+description: Aspose::Words::Lists::ListLevel::get_Alignment method. Gets or sets the justification of the actual number of the list item in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.lists/listlevel/get_alignment/
@@ -82,4 +83,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.CreateCustomList.docx");
 * Enum [ListLevelAlignment](../../listlevelalignment/)
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

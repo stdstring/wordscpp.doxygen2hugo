@@ -1,7 +1,8 @@
 ---
-title: get_BiLevel
+title: Aspose::Words::Drawing::ImageData::get_BiLevel method
+linktitle: get_BiLevel
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether an image will be displayed in black and white.
+description: Aspose::Words::Drawing::ImageData::get_BiLevel method. Determines whether an image will be displayed in black and white in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/imagedata/get_bilevel/
@@ -85,4 +86,4 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

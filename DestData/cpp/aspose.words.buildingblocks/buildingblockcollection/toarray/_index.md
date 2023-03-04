@@ -1,7 +1,8 @@
 ---
-title: ToArray
+title: Aspose::Words::BuildingBlocks::BuildingBlockCollection::ToArray method
+linktitle: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Copies all building blocks from the collection to a new array of building blocks.
+description: Aspose::Words::BuildingBlocks::BuildingBlockCollection::ToArray method. Copies all building blocks from the collection to a new array of building blocks in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.buildingblocks/buildingblockcollection/toarray/
@@ -125,4 +126,4 @@ private:
 * Class [BuildingBlock](../../buildingblock/)
 * Class [BuildingBlockCollection](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

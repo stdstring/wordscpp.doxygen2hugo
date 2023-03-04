@@ -1,7 +1,8 @@
 ---
-title: Replacing
+title: Aspose::Words::Replacing::IReplacingCallback::Replacing method
+linktitle: Replacing
 second_title: Aspose.Words for C++ API Reference
-description: A user defined method that is called during a replace operation for each match found just before a replace is made.
+description: Aspose::Words::Replacing::IReplacingCallback::Replacing method. A user defined method that is called during a replace operation for each match found just before a replace is made in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.replacing/ireplacingcallback/replacing/
@@ -153,4 +154,4 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 * Class [ReplacingArgs](../../replacingargs/)
 * Interface [IReplacingCallback](../)
 * Namespace [Aspose::Words::Replacing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

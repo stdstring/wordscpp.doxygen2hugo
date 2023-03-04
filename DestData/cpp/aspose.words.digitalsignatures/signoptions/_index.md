@@ -1,7 +1,8 @@
 ---
-title: SignOptions
+title: Aspose::Words::DigitalSignatures::SignOptions class
+linktitle: SignOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify options for document signing.
+description: Aspose::Words::DigitalSignatures::SignOptions class. Allows to specify options for document signing in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.digitalsignatures/signoptions/
@@ -35,4 +36,4 @@ class SignOptions : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words::DigitalSignatures](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

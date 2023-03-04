@@ -1,7 +1,8 @@
 ---
-title: LayoutCollector
+title: Aspose::Words::Layout::LayoutCollector class
+linktitle: LayoutCollector
 second_title: Aspose.Words for C++ API Reference
-description: This class allows to compute page numbers of document nodes.
+description: Aspose::Words::Layout::LayoutCollector class. This class allows to compute page numbers of document nodes in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.layout/layoutcollector/
@@ -96,4 +97,4 @@ ASSERT_EQ(u"¶", layoutEnumerator->get_Text());
 ## See Also
 
 * Namespace [Aspose::Words::Layout](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

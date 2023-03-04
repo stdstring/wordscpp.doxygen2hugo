@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Fields::FormField::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.FormField.
+description: Aspose::Words::Fields::FormField::get_NodeType method. Returns NodeType.FormField in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/formfield/get_nodetype/
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [FormField](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

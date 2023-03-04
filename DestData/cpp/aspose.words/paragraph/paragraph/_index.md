@@ -1,7 +1,8 @@
 ---
-title: Paragraph
+title: Aspose::Words::Paragraph::Paragraph constructor
+linktitle: Paragraph
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of the Paragraph class.
+description: Aspose::Words::Paragraph::Paragraph constructor. Initializes a new instance of the Paragraph class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/paragraph/paragraph/
@@ -79,4 +80,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 * Class [DocumentBase](../../documentbase/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

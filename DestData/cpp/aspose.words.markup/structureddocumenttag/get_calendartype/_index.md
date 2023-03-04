@@ -1,7 +1,8 @@
 ---
-title: get_CalendarType
+title: Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType method
+linktitle: get_CalendarType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of calendar for this SDT. Default is Default
+description: Aspose::Words::Markup::StructuredDocumentTag::get_CalendarType method. Specifies the type of calendar for this SDT. Default is Default in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.markup/structureddocumenttag/get_calendartype/
@@ -62,4 +63,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.Date.docx");
 * Enum [SdtCalendarType](../../sdtcalendartype/)
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

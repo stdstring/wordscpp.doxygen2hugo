@@ -1,7 +1,8 @@
 ---
-title: FieldOcx
+title: Aspose::Words::Fields::FieldOcx class
+linktitle: FieldOcx
 second_title: Aspose.Words for C++ API Reference
-description: Implements the OCX field.
+description: Aspose::Words::Fields::FieldOcx class. Implements the OCX field in C++.
 type: docs
 weight: 976
 url: /cpp/aspose.words.fields/fieldocx/
@@ -60,4 +61,4 @@ ASSERT_EQ(u" OCX ", field->GetFieldCode());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

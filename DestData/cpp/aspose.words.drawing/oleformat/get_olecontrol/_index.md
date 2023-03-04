@@ -1,7 +1,8 @@
 ---
-title: get_OleControl
+title: Aspose::Words::Drawing::OleFormat::get_OleControl method
+linktitle: get_OleControl
 second_title: Aspose.Words for C++ API Reference
-description: Gets OleControl objects if this OLE object is an ActiveX control. Otherwise this property is null.
+description: Aspose::Words::Drawing::OleFormat::get_OleControl method. Gets OleControl objects if this OLE object is an ActiveX control. Otherwise this property is null in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.drawing/oleformat/get_olecontrol/
@@ -44,4 +45,4 @@ if (oleControl->get_IsForms2OleControl())
 
 * Class [OleFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

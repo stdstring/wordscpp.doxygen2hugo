@@ -1,7 +1,8 @@
 ---
-title: get_HighlightColor
+title: Aspose::Words::Font::get_HighlightColor method
+linktitle: get_HighlightColor
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the highlight (marker) color.
+description: Aspose::Words::Font::get_HighlightColor method. Gets or sets the highlight (marker) color in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words/font/get_highlightcolor/
@@ -38,4 +39,4 @@ doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

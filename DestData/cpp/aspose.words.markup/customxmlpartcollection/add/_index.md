@@ -1,7 +1,8 @@
 ---
-title: Add
+title: Aspose::Words::Markup::CustomXmlPartCollection::Add method
+linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds an item to the collection.
+description: Aspose::Words::Markup::CustomXmlPartCollection::Add method. Adds an item to the collection in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/customxmlpartcollection/add/
@@ -90,7 +91,7 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 * Class [CustomXmlPart](../../customxmlpart/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## CustomXmlPartCollection::Add(const System::String\&, const System::String\&) method
 
 
@@ -180,4 +181,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.CustomXml.docx");
 * Class [CustomXmlPart](../../customxmlpart/)
 * Class [CustomXmlPartCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

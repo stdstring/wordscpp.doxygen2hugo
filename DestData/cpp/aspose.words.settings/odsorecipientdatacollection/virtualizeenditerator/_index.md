@@ -1,7 +1,8 @@
 ---
-title: virtualizeEndIterator
+title: Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeEndIterator method
+linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use virtualizeEndIterator method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizeenditerator/
@@ -20,4 +21,4 @@ virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::vir
 * Typedef [virtualized_iterator](../virtualized_iterator/)
 * Class [OdsoRecipientDataCollection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

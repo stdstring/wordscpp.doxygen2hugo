@@ -1,7 +1,8 @@
 ---
-title: get_LegacyMode
+title: Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode method
+linktitle: get_LegacyMode
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a boolean value indicating that old find/replace algorithm is used.
+description: Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode method. Gets or sets a boolean value indicating that old find/replace algorithm is used in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_legacymode/
@@ -44,4 +45,4 @@ ASSERT_EQ(doc->GetText(), u"Paul took money from Jason.\f");
 
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

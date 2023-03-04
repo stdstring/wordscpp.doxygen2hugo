@@ -1,7 +1,8 @@
 ---
-title: get_LastColumn
+title: Aspose::Words::ConditionalStyleCollection::get_LastColumn method
+linktitle: get_LastColumn
 second_title: Aspose.Words for C++ API Reference
-description: Gets the last column style.
+description: Aspose::Words::ConditionalStyleCollection::get_LastColumn method. Gets the last column style in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words/conditionalstylecollection/get_lastcolumn/
@@ -94,4 +95,4 @@ doc->Save(ArtifactsDir + u"Table.ConditionalStyles.docx");
 * Class [ConditionalStyle](../../conditionalstyle/)
 * Class [ConditionalStyleCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

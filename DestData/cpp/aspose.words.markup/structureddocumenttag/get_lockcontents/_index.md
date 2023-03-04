@@ -1,7 +1,8 @@
 ---
-title: get_LockContents
+title: Aspose::Words::Markup::StructuredDocumentTag::get_LockContents method
+linktitle: get_LockContents
 second_title: Aspose.Words for C++ API Reference
-description: When set to true, this property will prohibit a user from editing the contents of this SDT.
+description: Aspose::Words::Markup::StructuredDocumentTag::get_LockContents method. When set to true, this property will prohibit a user from editing the contents of this SDT in C++.
 type: docs
 weight: 274
 url: /cpp/aspose.words.markup/structureddocumenttag/get_lockcontents/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.Lock.docx");
 
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

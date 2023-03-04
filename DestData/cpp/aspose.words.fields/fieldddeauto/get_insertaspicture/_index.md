@@ -1,7 +1,8 @@
 ---
-title: get_InsertAsPicture
+title: Aspose::Words::Fields::FieldDdeAuto::get_InsertAsPicture method
+linktitle: get_InsertAsPicture
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert the linked object as a picture.
+description: Aspose::Words::Fields::FieldDdeAuto::get_InsertAsPicture method. Gets or sets whether to insert the linked object as a picture in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldddeauto/get_insertaspicture/
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldDdeAuto](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

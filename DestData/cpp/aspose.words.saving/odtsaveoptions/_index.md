@@ -1,7 +1,8 @@
 ---
-title: OdtSaveOptions
+title: Aspose::Words::Saving::OdtSaveOptions class
+linktitle: OdtSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Odt or Ott format.
+description: Aspose::Words::Saving::OdtSaveOptions class. Can be used to specify additional options when saving a document into the Odt or Ott format in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.saving/odtsaveoptions/
@@ -110,4 +111,4 @@ doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
 
 * Class [SaveOptions](../saveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

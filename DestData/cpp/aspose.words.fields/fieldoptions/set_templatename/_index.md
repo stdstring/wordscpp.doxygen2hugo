@@ -1,7 +1,8 @@
 ---
-title: set_TemplateName
+title: Aspose::Words::Fields::FieldOptions::set_TemplateName method
+linktitle: set_TemplateName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldOptions::get_TemplateName.'
+description: Aspose::Words::Fields::FieldOptions::set_TemplateName method. Setter for Aspose::Words::Fields::FieldOptions::get_TemplateName in C++.
 type: docs
 weight: 469
 url: /cpp/aspose.words.fields/fieldoptions/set_templatename/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldOptions::set_TemplateName(const System::String 
 
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_CaseCodeStyle
+title: Aspose::Words::Fields::FieldDisplayBarcode::set_CaseCodeStyle method
+linktitle: set_CaseCodeStyle
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle.'
+description: Aspose::Words::Fields::FieldDisplayBarcode::set_CaseCodeStyle method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_casecodestyle/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDisplayBarcode::set_CaseCodeStyle(const System:
 
 * Class [FieldDisplayBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_TypeIdentifier
+title: Aspose::Words::Fields::FieldTC::get_TypeIdentifier method
+linktitle: get_TypeIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a type identifier for this field (which is typically a letter).
+description: Aspose::Words::Fields::FieldTC::get_TypeIdentifier method. Gets or sets a type identifier for this field (which is typically a letter) in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldtc/get_typeidentifier/
@@ -67,4 +68,4 @@ void InsertTocEntry(SharedPtr<DocumentBuilder> builder, String text, String type
 
 * Class [FieldTC](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

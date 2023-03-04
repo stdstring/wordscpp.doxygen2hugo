@@ -1,7 +1,8 @@
 ---
-title: IsFontConfigAvailable
+title: Aspose::Words::Fonts::FontConfigSubstitutionRule::IsFontConfigAvailable method
+linktitle: IsFontConfigAvailable
 second_title: Aspose.Words for C++ API Reference
-description: Check if fontconfig utility is available or not.
+description: Aspose::Words::Fonts::FontConfigSubstitutionRule::IsFontConfigAvailable method. Check if fontconfig utility is available or not in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/isfontconfigavailable/
@@ -53,4 +54,4 @@ if (isLinuxOrMac)
 
 * Class [FontConfigSubstitutionRule](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

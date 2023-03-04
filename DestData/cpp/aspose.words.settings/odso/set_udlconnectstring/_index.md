@@ -1,7 +1,8 @@
 ---
-title: set_UdlConnectString
+title: Aspose::Words::Settings::Odso::set_UdlConnectString method
+linktitle: set_UdlConnectString
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string.
+description: Aspose::Words::Settings::Odso::set_UdlConnectString method. Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.settings/odso/set_udlconnectstring/
@@ -19,4 +20,4 @@ void Aspose::Words::Settings::Odso::set_UdlConnectString(const System::String &v
 
 * Class [Odso](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

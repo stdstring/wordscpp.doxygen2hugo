@@ -1,7 +1,8 @@
 ---
-title: set_ZOrder
+title: Aspose::Words::Drawing::ShapeBase::set_ZOrder method
+linktitle: set_ZOrder
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_ZOrder.'
+description: Aspose::Words::Drawing::ShapeBase::set_ZOrder method. Setter for Aspose::Words::Drawing::ShapeBase::get_ZOrder in C++.
 type: docs
 weight: 1158
 url: /cpp/aspose.words.drawing/shapebase/set_zorder/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::ShapeBase::set_ZOrder(int32_t value)
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

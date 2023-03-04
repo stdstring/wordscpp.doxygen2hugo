@@ -1,7 +1,8 @@
 ---
-title: get_Count
+title: Aspose::Words::NodeCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets the number of nodes in the collection.
+description: Aspose::Words::NodeCollection::get_Count method. Gets the number of nodes in the collection in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/nodecollection/get_count/
@@ -136,4 +137,4 @@ static int GetChildTableCount(SharedPtr<Table> table)
 
 * Class [NodeCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

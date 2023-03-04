@@ -1,7 +1,8 @@
 ---
-title: get_Text
+title: Aspose::Words::Fields::FieldShape::get_Text method
+linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text to retrieve.
+description: Aspose::Words::Fields::FieldShape::get_Text method. Gets or sets the text to retrieve in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldshape/get_text/
@@ -87,4 +88,4 @@ ASSERT_EQ(ShapeType::OleObject, shape->get_ShapeType());
 
 * Class [FieldShape](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

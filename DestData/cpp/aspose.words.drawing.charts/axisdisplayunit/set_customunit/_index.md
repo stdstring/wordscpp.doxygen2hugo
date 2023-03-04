@@ -1,7 +1,8 @@
 ---
-title: set_CustomUnit
+title: Aspose::Words::Drawing::Charts::AxisDisplayUnit::set_CustomUnit method
+linktitle: set_CustomUnit
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit.'
+description: Aspose::Words::Drawing::Charts::AxisDisplayUnit::set_CustomUnit method. Setter for Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/set_customunit/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Charts::AxisDisplayUnit::set_CustomUnit(double valu
 
 * Class [AxisDisplayUnit](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

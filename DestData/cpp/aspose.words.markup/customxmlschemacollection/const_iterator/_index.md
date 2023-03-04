@@ -1,7 +1,8 @@
 ---
-title: const_iterator
+title: Aspose::Words::Markup::CustomXmlSchemaCollection::const_iterator typedef
+linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::Markup::CustomXmlSchemaCollection::const_iterator typedef of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.markup/customxmlschemacollection/const_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::Markup::CustomXmlSchemaCollection::const_iterator =  typena
 
 * Class [CustomXmlSchemaCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

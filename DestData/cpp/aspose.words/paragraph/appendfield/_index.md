@@ -1,7 +1,8 @@
 ---
-title: AppendField
+title: Aspose::Words::Paragraph::AppendField method
+linktitle: AppendField
 second_title: Aspose.Words for C++ API Reference
-description: Appends a field to this paragraph.
+description: Aspose::Words::Paragraph::AppendField method. Appends a field to this paragraph in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/paragraph/appendfield/
@@ -60,7 +61,7 @@ doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 * Enum [FieldType](../../../aspose.words.fields/fieldtype/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Paragraph::AppendField(const System::String\&) method
 
 
@@ -113,7 +114,7 @@ doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 * Class [Field](../../../aspose.words.fields/field/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Paragraph::AppendField(const System::String\&, const System::String\&) method
 
 
@@ -167,4 +168,4 @@ doc->Save(ArtifactsDir + u"Paragraph.AppendField.docx");
 * Class [Field](../../../aspose.words.fields/field/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

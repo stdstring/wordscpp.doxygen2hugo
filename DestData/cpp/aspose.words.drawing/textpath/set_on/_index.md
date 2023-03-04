@@ -1,7 +1,8 @@
 ---
-title: set_On
+title: Aspose::Words::Drawing::TextPath::set_On method
+linktitle: set_On
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::TextPath::get_On.'
+description: Aspose::Words::Drawing::TextPath::set_On method. Setter for Aspose::Words::Drawing::TextPath::get_On in C++.
 type: docs
 weight: 339
 url: /cpp/aspose.words.drawing/textpath/set_on/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::TextPath::set_On(bool value)
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

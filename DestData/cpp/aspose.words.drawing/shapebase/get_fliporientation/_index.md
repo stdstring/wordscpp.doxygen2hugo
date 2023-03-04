@@ -1,7 +1,8 @@
 ---
-title: get_FlipOrientation
+title: Aspose::Words::Drawing::ShapeBase::get_FlipOrientation method
+linktitle: get_FlipOrientation
 second_title: Aspose.Words for C++ API Reference
-description: Switches the orientation of a shape.
+description: Aspose::Words::Drawing::ShapeBase::get_FlipOrientation method. Switches the orientation of a shape in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.drawing/shapebase/get_fliporientation/
@@ -68,4 +69,4 @@ doc->Save(ArtifactsDir + u"Shape.FlipShapeOrientation.docx");
 * Enum [FlipOrientation](../../fliporientation/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: Footnote
+title: Aspose::Words::Notes::Footnote::Footnote constructor
+linktitle: Footnote
 second_title: Aspose.Words for C++ API Reference
-description: Initializes an instance of the Footnote class.
+description: Aspose::Words::Notes::Footnote::Footnote constructor. Initializes an instance of the Footnote class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.notes/footnote/footnote/
@@ -79,4 +80,4 @@ doc->Save(ArtifactsDir + u"InlineStory.AddFootnote.docx");
 * Enum [FootnoteType](../../footnotetype/)
 * Class [Footnote](../)
 * Namespace [Aspose::Words::Notes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

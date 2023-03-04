@@ -1,7 +1,8 @@
 ---
-title: get_UseSakaEraCalendar
+title: Aspose::Words::Fields::FieldSaveDate::get_UseSakaEraCalendar method
+linktitle: get_UseSakaEraCalendar
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to use the Saka Era calendar.
+description: Aspose::Words::Fields::FieldSaveDate::get_UseSakaEraCalendar method. Gets or sets whether to use the Saka Era calendar in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldsavedate/get_usesakaeracalendar/
@@ -64,4 +65,4 @@ doc->Save(ArtifactsDir + u"Field.SAVEDATE.docx");
 
 * Class [FieldSaveDate](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

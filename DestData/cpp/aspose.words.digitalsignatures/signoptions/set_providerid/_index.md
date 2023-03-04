@@ -1,7 +1,8 @@
 ---
-title: set_ProviderId
+title: Aspose::Words::DigitalSignatures::SignOptions::set_ProviderId method
+linktitle: set_ProviderId
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId.'
+description: Aspose::Words::DigitalSignatures::SignOptions::set_ProviderId method. Setter for Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.digitalsignatures/signoptions/set_providerid/
@@ -19,4 +20,4 @@ void Aspose::Words::DigitalSignatures::SignOptions::set_ProviderId(System::Guid 
 
 * Class [SignOptions](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

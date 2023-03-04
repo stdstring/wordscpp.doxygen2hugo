@@ -1,7 +1,8 @@
 ---
-title: AddEditingLanguages
+title: Aspose::Words::Loading::LanguagePreferences::AddEditingLanguages method
+linktitle: AddEditingLanguages
 second_title: Aspose.Words for C++ API Reference
-description: Adds additional editing languages.
+description: Aspose::Words::Loading::LanguagePreferences::AddEditingLanguages method. Adds additional editing languages in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.loading/languagepreferences/addeditinglanguages/
@@ -20,4 +21,4 @@ void Aspose::Words::Loading::LanguagePreferences::AddEditingLanguages(const Syst
 * Enum [EditingLanguage](../../editinglanguage/)
 * Class [LanguagePreferences](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

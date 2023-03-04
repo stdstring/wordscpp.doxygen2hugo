@@ -1,7 +1,8 @@
 ---
-title: get_Range
+title: Aspose::Words::Node::get_Range method
+linktitle: get_Range
 second_title: Aspose.Words for C++ API Reference
-description: Returns a Range object that represents the portion of a document that is contained in this node.
+description: Aspose::Words::Node::get_Range method. Returns a Range object that represents the portion of a document that is contained in this node in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words/node/get_range/
@@ -45,4 +46,4 @@ ASSERT_EQ(u"Section 2.", doc->GetText().Trim());
 * Class [Range](../../range/)
 * Class [Node](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

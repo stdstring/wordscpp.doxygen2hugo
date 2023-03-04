@@ -1,7 +1,8 @@
 ---
-title: ToArray
+title: Aspose::Words::RunCollection::ToArray method
+linktitle: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Copies all runs from the collection to a new array of runs.
+description: Aspose::Words::RunCollection::ToArray method. Copies all runs from the collection to a new array of runs in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/runcollection/toarray/
@@ -79,4 +80,4 @@ ASSERT_TRUE(runs->idx_get(5)->get_IsDeleteRevision());
 * Class [Run](../../run/)
 * Class [RunCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

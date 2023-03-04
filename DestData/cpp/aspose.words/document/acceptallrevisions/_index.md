@@ -1,7 +1,8 @@
 ---
-title: AcceptAllRevisions
+title: Aspose::Words::Document::AcceptAllRevisions method
+linktitle: AcceptAllRevisions
 second_title: Aspose.Words for C++ API Reference
-description: Accepts all tracked changes in the document.
+description: Aspose::Words::Document::AcceptAllRevisions method. Accepts all tracked changes in the document in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/document/acceptallrevisions/
@@ -46,4 +47,4 @@ ASSERT_EQ(u"Hello world! Hello again! This is another revision.", doc->GetText()
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

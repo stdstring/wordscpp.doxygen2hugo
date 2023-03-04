@@ -1,7 +1,8 @@
 ---
-title: get_IsInCell
+title: Aspose::Words::Paragraph::get_IsInCell method
+linktitle: get_IsInCell
 second_title: Aspose.Words for C++ API Reference
-description: True if this paragraph is an immediate child of Cell; false otherwise.
+description: Aspose::Words::Paragraph::get_IsInCell method. True if this paragraph is an immediate child of Cell; false otherwise in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words/paragraph/get_isincell/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Table.KeepTableTogether.docx");
 
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

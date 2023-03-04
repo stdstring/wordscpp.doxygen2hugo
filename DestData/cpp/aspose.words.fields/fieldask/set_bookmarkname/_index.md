@@ -1,7 +1,8 @@
 ---
-title: set_BookmarkName
+title: Aspose::Words::Fields::FieldAsk::set_BookmarkName method
+linktitle: set_BookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: Sets the name of the bookmark.
+description: Aspose::Words::Fields::FieldAsk::set_BookmarkName method. Sets the name of the bookmark in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/fieldask/set_bookmarkname/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldAsk::set_BookmarkName(const System::String &val
 
 * Class [FieldAsk](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

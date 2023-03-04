@@ -1,7 +1,8 @@
 ---
-title: get_Text
+title: Aspose::Words::Fields::FieldQuote::get_Text method
+linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text to retrieve.
+description: Aspose::Words::Fields::FieldQuote::get_Text method. Gets or sets the text to retrieve in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldquote/get_text/
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"Field.QUOTE.docx");
 
 * Class [FieldQuote](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

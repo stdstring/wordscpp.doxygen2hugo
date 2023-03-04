@@ -1,7 +1,8 @@
 ---
-title: get_ShowRevisionBars
+title: Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars method
+linktitle: get_ShowRevisionBars
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify whether revision bars should be rendered near lines containing revised content. Default value is True.
+description: Aspose::Words::Layout::RevisionOptions::get_ShowRevisionBars method. Allows to specify whether revision bars should be rendered near lines containing revised content. Default value is True in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.layout/revisionoptions/get_showrevisionbars/
@@ -43,4 +44,4 @@ doc->Save(ArtifactsDir + u"Document.LayoutOptionsRevisions.pdf");
 
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

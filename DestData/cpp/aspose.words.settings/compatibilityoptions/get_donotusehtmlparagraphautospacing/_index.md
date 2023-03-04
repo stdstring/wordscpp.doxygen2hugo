@@ -1,7 +1,8 @@
 ---
-title: get_DoNotUseHTMLParagraphAutoSpacing
+title: Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseHTMLParagraphAutoSpacing method
+linktitle: get_DoNotUseHTMLParagraphAutoSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Use Fixed Paragraph Spacing for HTML Auto Setting.
+description: Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseHTMLParagraphAutoSpacing method. Use Fixed Paragraph Spacing for HTML Auto Setting in C++.
 type: docs
 weight: 261
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotusehtmlparagraphautospacing/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseHTMLParagraphAut
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

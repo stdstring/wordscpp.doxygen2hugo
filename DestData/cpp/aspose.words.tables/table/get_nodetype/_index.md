@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Tables::Table::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Table.
+description: Aspose::Words::Tables::Table::get_NodeType method. Returns NodeType.Table in C++.
 type: docs
 weight: 339
 url: /cpp/aspose.words.tables/table/get_nodetype/
@@ -127,4 +128,4 @@ static int GetChildTableCount(SharedPtr<Table> table)
 * Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

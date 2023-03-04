@@ -1,7 +1,8 @@
 ---
-title: FieldRef
+title: Aspose::Words::Fields::FieldRef class
+linktitle: FieldRef
 second_title: Aspose.Words for C++ API Reference
-description: Implements the REF field.
+description: Aspose::Words::Fields::FieldRef class. Implements the REF field in C++.
 type: docs
 weight: 1093
 url: /cpp/aspose.words.fields/fieldref/
@@ -179,4 +180,4 @@ doc->Save(ArtifactsDir + u"Field.SET.REF.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

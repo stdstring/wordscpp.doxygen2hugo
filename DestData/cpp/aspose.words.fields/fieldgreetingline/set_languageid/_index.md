@@ -1,7 +1,8 @@
 ---
-title: set_LanguageId
+title: Aspose::Words::Fields::FieldGreetingLine::set_LanguageId method
+linktitle: set_LanguageId
 second_title: Aspose.Words for C++ API Reference
-description: Sets the language id used to format the name.
+description: Aspose::Words::Fields::FieldGreetingLine::set_LanguageId method. Sets the language id used to format the name in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldgreetingline/set_languageid/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldGreetingLine::set_LanguageId(const System::Stri
 
 * Class [FieldGreetingLine](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

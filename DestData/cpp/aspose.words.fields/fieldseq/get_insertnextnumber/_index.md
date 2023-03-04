@@ -1,7 +1,8 @@
 ---
-title: get_InsertNextNumber
+title: Aspose::Words::Fields::FieldSeq::get_InsertNextNumber method
+linktitle: get_InsertNextNumber
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert the next sequence number for the specified item.
+description: Aspose::Words::Fields::FieldSeq::get_InsertNextNumber method. Gets or sets whether to insert the next sequence number for the specified item in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldseq/get_insertnextnumber/
@@ -82,4 +83,4 @@ doc->Save(ArtifactsDir + u"Field.SEQ.ResetNumbering.docx");
 
 * Class [FieldSeq](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

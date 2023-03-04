@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::NodeList::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Provides a simple "foreach" style iteration over the collection of nodes.
+description: Aspose::Words::NodeList::GetEnumerator method. Provides a simple "foreach" style iteration over the collection of nodes in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/nodelist/getenumerator/
@@ -25,4 +26,4 @@ An IEnumerator.
 * Class [Node](../../node/)
 * Class [NodeList](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

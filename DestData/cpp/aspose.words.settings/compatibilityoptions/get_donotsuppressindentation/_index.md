@@ -1,7 +1,8 @@
 ---
-title: get_DoNotSuppressIndentation
+title: Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressIndentation method
+linktitle: get_DoNotSuppressIndentation
 second_title: Aspose.Words for C++ API Reference
-description: Do Not Ignore Floating Objects When Calculating Paragraph Indentation.
+description: Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressIndentation method. Do Not Ignore Floating Objects When Calculating Paragraph Indentation in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotsuppressindentation/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_DoNotSuppressIndentation
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

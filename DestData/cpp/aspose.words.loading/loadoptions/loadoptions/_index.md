@@ -1,7 +1,8 @@
 ---
-title: LoadOptions
+title: Aspose::Words::Loading::LoadOptions::LoadOptions constructor
+linktitle: LoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Initializes a new instance of this class with default values.
+description: Aspose::Words::Loading::LoadOptions::LoadOptions constructor. Initializes a new instance of this class with default values in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.loading/loadoptions/loadoptions/
@@ -45,7 +46,7 @@ Shows how to open an HTML document with images from a stream using a base URI.
 
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## LoadOptions::LoadOptions(Aspose::Words::LoadFormat, const System::String\&, const System::String\&) constructor
 
 
@@ -112,7 +113,7 @@ doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 * Enum [LoadFormat](../../../aspose.words/loadformat/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## LoadOptions::LoadOptions(const System::String\&) constructor
 
 
@@ -156,4 +157,4 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

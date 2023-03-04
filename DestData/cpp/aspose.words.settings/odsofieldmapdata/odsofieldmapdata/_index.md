@@ -1,7 +1,8 @@
 ---
-title: OdsoFieldMapData
+title: Aspose::Words::Settings::OdsoFieldMapData::OdsoFieldMapData constructor
+linktitle: OdsoFieldMapData
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use OdsoFieldMapData constructor of Aspose::Words::Settings::OdsoFieldMapData class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.settings/odsofieldmapdata/odsofieldmapdata/
@@ -19,4 +20,4 @@ Aspose::Words::Settings::OdsoFieldMapData::OdsoFieldMapData()
 
 * Class [OdsoFieldMapData](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

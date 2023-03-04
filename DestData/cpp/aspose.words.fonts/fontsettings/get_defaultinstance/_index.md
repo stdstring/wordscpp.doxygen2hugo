@@ -1,7 +1,8 @@
 ---
-title: get_DefaultInstance
+title: Aspose::Words::Fonts::FontSettings::get_DefaultInstance method
+linktitle: get_DefaultInstance
 second_title: Aspose.Words for C++ API Reference
-description: Static default font settings.
+description: Aspose::Words::Fonts::FontSettings::get_DefaultInstance method. Static default font settings in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fonts/fontsettings/get_defaultinstance/
@@ -98,4 +99,4 @@ public:
 * Class [FontSettings](../)
 * Class [FontSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

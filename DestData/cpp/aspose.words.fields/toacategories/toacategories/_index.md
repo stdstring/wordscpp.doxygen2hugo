@@ -1,7 +1,8 @@
 ---
-title: ToaCategories
+title: Aspose::Words::Fields::ToaCategories::ToaCategories constructor
+linktitle: ToaCategories
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use ToaCategories constructor of Aspose::Words::Fields::ToaCategories class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/toacategories/toacategories/
@@ -19,4 +20,4 @@ Aspose::Words::Fields::ToaCategories::ToaCategories()
 
 * Class [ToaCategories](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

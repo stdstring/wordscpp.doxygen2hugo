@@ -1,7 +1,8 @@
 ---
-title: Unlink
+title: Aspose::Words::Fields::Field::Unlink method
+linktitle: Unlink
 second_title: Aspose.Words for C++ API Reference
-description: Performs the field unlink.
+description: Aspose::Words::Fields::Field::Unlink method. Performs the field unlink in C++.
 type: docs
 weight: 235
 url: /cpp/aspose.words.fields/field/unlink/
@@ -40,4 +41,4 @@ doc->get_Range()->get_Fields()->idx_get(1)->Unlink();
 
 * Class [Field](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

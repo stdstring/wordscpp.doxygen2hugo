@@ -1,7 +1,8 @@
 ---
-title: set_ApplyBreakingRules
+title: Aspose::Words::Settings::CompatibilityOptions::set_ApplyBreakingRules method
+linktitle: set_ApplyBreakingRules
 second_title: Aspose.Words for C++ API Reference
-description: Use Legacy Ethiopic and Amharic Line Breaking Rules.
+description: Aspose::Words::Settings::CompatibilityOptions::set_ApplyBreakingRules method. Use Legacy Ethiopic and Amharic Line Breaking Rules in C++.
 type: docs
 weight: 976
 url: /cpp/aspose.words.settings/compatibilityoptions/set_applybreakingrules/
@@ -19,4 +20,4 @@ void Aspose::Words::Settings::CompatibilityOptions::set_ApplyBreakingRules(bool 
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

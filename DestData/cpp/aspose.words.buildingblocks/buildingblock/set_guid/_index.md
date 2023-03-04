@@ -1,7 +1,8 @@
 ---
-title: set_Guid
+title: Aspose::Words::BuildingBlocks::BuildingBlock::set_Guid method
+linktitle: set_Guid
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid.'
+description: Aspose::Words::BuildingBlocks::BuildingBlock::set_Guid method. Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Guid in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_guid/
@@ -19,4 +20,4 @@ void Aspose::Words::BuildingBlocks::BuildingBlock::set_Guid(System::Guid value)
 
 * Class [BuildingBlock](../)
 * Namespace [Aspose::Words::BuildingBlocks](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

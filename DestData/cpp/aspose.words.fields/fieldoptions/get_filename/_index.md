@@ -1,7 +1,8 @@
 ---
-title: get_FileName
+title: Aspose::Words::Fields::FieldOptions::get_FileName method
+linktitle: get_FileName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the file name of the document.
+description: Aspose::Words::Fields::FieldOptions::get_FileName method. Gets or sets the file name of the document in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.fields/fieldoptions/get_filename/
@@ -65,4 +66,4 @@ doc->Save(ArtifactsDir + doc->get_FieldOptions()->get_FileName());
 
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

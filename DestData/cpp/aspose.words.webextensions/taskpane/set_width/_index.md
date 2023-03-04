@@ -1,7 +1,8 @@
 ---
-title: set_Width
+title: Aspose::Words::WebExtensions::TaskPane::set_Width method
+linktitle: set_Width
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::WebExtensions::TaskPane::get_Width.'
+description: Aspose::Words::WebExtensions::TaskPane::set_Width method. Setter for Aspose::Words::WebExtensions::TaskPane::get_Width in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.webextensions/taskpane/set_width/
@@ -19,4 +20,4 @@ void Aspose::Words::WebExtensions::TaskPane::set_Width(double value)
 
 * Class [TaskPane](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

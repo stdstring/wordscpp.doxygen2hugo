@@ -1,7 +1,8 @@
 ---
-title: get_IsGroup
+title: Aspose::Words::Drawing::ShapeBase::get_IsGroup method
+linktitle: get_IsGroup
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if this is a group shape.
+description: Aspose::Words::Drawing::ShapeBase::get_IsGroup method. Returns true if this is a group shape in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words.drawing/shapebase/get_isgroup/
@@ -104,4 +105,4 @@ private:
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

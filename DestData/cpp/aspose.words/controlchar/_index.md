@@ -1,7 +1,8 @@
 ---
-title: ControlChar
+title: Aspose::Words::ControlChar class
+linktitle: ControlChar
 second_title: Aspose.Words for C++ API Reference
-description: Control characters often encountered in documents.
+description: Aspose::Words::ControlChar class. Control characters often encountered in documents in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words/controlchar/
@@ -79,4 +80,4 @@ ASSERT_EQ(String::Format(u"Hello world!{0}", ControlChar::Cr()) + u"Hello again!
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

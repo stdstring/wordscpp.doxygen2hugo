@@ -1,7 +1,8 @@
 ---
-title: set_ExcludedCountryOrRegionName
+title: Aspose::Words::Fields::FieldAddressBlock::set_ExcludedCountryOrRegionName method
+linktitle: set_ExcludedCountryOrRegionName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName.'
+description: Aspose::Words::Fields::FieldAddressBlock::set_ExcludedCountryOrRegionName method. Setter for Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldaddressblock/set_excludedcountryorregionname/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldAddressBlock::set_ExcludedCountryOrRegionName(c
 
 * Class [FieldAddressBlock](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

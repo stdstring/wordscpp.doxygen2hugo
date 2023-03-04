@@ -1,7 +1,8 @@
 ---
-title: GetStartPageIndex
+title: Aspose::Words::Layout::LayoutCollector::GetStartPageIndex method
+linktitle: GetStartPageIndex
 second_title: Aspose.Words for C++ API Reference
-description: Gets 1-based index of the page where node begins. Returns 0 if node cannot be mapped to a page.
+description: Aspose::Words::Layout::LayoutCollector::GetStartPageIndex method. Gets 1-based index of the page where node begins. Returns 0 if node cannot be mapped to a page in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.layout/layoutcollector/getstartpageindex/
@@ -78,4 +79,4 @@ ASSERT_EQ(u"¶", layoutEnumerator->get_Text());
 * Class [Node](../../../aspose.words/node/)
 * Class [LayoutCollector](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

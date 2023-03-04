@@ -1,7 +1,8 @@
 ---
-title: DocumentSplitCriteria
+title: Aspose::Words::Saving::DocumentSplitCriteria enum
+linktitle: DocumentSplitCriteria
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.
+description: Aspose::Words::Saving::DocumentSplitCriteria enum. Specifies how the document is split into parts when saving to Html, Epub or Azw3 format in C++.
 type: docs
 weight: 664
 url: /cpp/aspose.words.saving/documentsplitcriteria/
@@ -60,4 +61,4 @@ doc->Save(ArtifactsDir + u"HtmlSaveOptions.Doc2EpubSaveOptions.epub", saveOption
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

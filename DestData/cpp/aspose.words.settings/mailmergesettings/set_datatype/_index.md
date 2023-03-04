@@ -1,7 +1,8 @@
 ---
-title: set_DataType
+title: Aspose::Words::Settings::MailMergeSettings::set_DataType method
+linktitle: set_DataType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the type of the mail-merge data source and the method of data access. The default value is Default.
+description: Aspose::Words::Settings::MailMergeSettings::set_DataType method. Specifies the type of the mail-merge data source and the method of data access. The default value is Default in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words.settings/mailmergesettings/set_datatype/
@@ -20,4 +21,4 @@ void Aspose::Words::Settings::MailMergeSettings::set_DataType(Aspose::Words::Set
 * Enum [MailMergeDataType](../../mailmergedatatype/)
 * Class [MailMergeSettings](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

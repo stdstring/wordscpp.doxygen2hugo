@@ -1,7 +1,8 @@
 ---
-title: FieldUpdateCultureSource
+title: Aspose::Words::Fields::FieldUpdateCultureSource enum
+linktitle: FieldUpdateCultureSource
 second_title: Aspose.Words for C++ API Reference
-description: Indicates what culture to use during field update.
+description: Aspose::Words::Fields::FieldUpdateCultureSource enum. Indicates what culture to use during field update in C++.
 type: docs
 weight: 1665
 url: /cpp/aspose.words.fields/fieldupdateculturesource/
@@ -25,4 +26,4 @@ enum class FieldUpdateCultureSource
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: SetPassword
+title: Aspose::Words::Settings::WriteProtection::SetPassword method
+linktitle: SetPassword
 second_title: Aspose.Words for C++ API Reference
-description: Sets the write protection password for the document.
+description: Aspose::Words::Settings::WriteProtection::SetPassword method. Sets the write protection password for the document in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.settings/writeprotection/setpassword/
@@ -58,4 +59,4 @@ ASSERT_EQ(String(u"Hello world! This document is protected.") + u"\rWriting text
 
 * Class [WriteProtection](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

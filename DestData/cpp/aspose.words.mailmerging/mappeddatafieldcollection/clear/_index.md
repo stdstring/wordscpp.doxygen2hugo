@@ -1,7 +1,8 @@
 ---
-title: Clear
+title: Aspose::Words::MailMerging::MappedDataFieldCollection::Clear method
+linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Removes all elements from the collection.
+description: Aspose::Words::MailMerging::MappedDataFieldCollection::Clear method. Removes all elements from the collection in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/clear/
@@ -19,4 +20,4 @@ void Aspose::Words::MailMerging::MappedDataFieldCollection::Clear()
 
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_PreProcessCulture
+title: Aspose::Words::Fields::FieldOptions::get_PreProcessCulture method
+linktitle: get_PreProcessCulture
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the culture to preprocess field values.
+description: Aspose::Words::Fields::FieldOptions::get_PreProcessCulture method. Gets or sets the culture to preprocess field values in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fieldoptions/get_preprocessculture/
@@ -51,4 +52,4 @@ ASSERT_TRUE(System::Text::RegularExpressions::Regex::Match(field->get_Result(), 
 
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

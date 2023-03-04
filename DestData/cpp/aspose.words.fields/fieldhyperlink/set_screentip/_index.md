@@ -1,7 +1,8 @@
 ---
-title: set_ScreenTip
+title: Aspose::Words::Fields::FieldHyperlink::set_ScreenTip method
+linktitle: set_ScreenTip
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldHyperlink::get_ScreenTip.'
+description: Aspose::Words::Fields::FieldHyperlink::set_ScreenTip method. Setter for Aspose::Words::Fields::FieldHyperlink::get_ScreenTip in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldhyperlink/set_screentip/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldHyperlink::set_ScreenTip(const System::String &
 
 * Class [FieldHyperlink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

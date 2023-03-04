@@ -1,7 +1,8 @@
 ---
-title: get_OverrideTableStyleFontSizeAndJustification
+title: Aspose::Words::Settings::CompatibilityOptions::get_OverrideTableStyleFontSizeAndJustification method
+linktitle: get_OverrideTableStyleFontSizeAndJustification
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how the style hierarchy of the document is evaluated.
+description: Aspose::Words::Settings::CompatibilityOptions::get_OverrideTableStyleFontSizeAndJustification method. Specifies how the style hierarchy of the document is evaluated in C++.
 type: docs
 weight: 482
 url: /cpp/aspose.words.settings/compatibilityoptions/get_overridetablestylefontsizeandjustification/
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_OverrideTableStyleFontSi
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

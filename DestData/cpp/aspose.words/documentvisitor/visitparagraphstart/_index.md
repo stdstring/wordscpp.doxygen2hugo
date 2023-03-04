@@ -1,7 +1,8 @@
 ---
-title: VisitParagraphStart
+title: Aspose::Words::DocumentVisitor::VisitParagraphStart method
+linktitle: VisitParagraphStart
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a paragraph has started.
+description: Aspose::Words::DocumentVisitor::VisitParagraphStart method. Called when enumeration of a paragraph has started in C++.
 type: docs
 weight: 417
 url: /cpp/aspose.words/documentvisitor/visitparagraphstart/
@@ -340,4 +341,4 @@ public:
 * Class [Paragraph](../../paragraph/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_IsMapped
+title: Aspose::Words::Markup::XmlMapping::get_IsMapped method
+linktitle: get_IsMapped
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if the parent structured document tag is successfully mapped to XML data.
+description: Aspose::Words::Markup::XmlMapping::get_IsMapped method. Returns true if the parent structured document tag is successfully mapped to XML data in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/xmlmapping/get_ismapped/
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.XmlMapping.docx");
 
 * Class [XmlMapping](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: begin
+title: Aspose::Words::MailMerging::MappedDataFieldCollection::begin method
+linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use begin method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() co
 * Typedef [const_iterator](../const_iterator/)
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## MappedDataFieldCollection::begin() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin() noexcept
 * Typedef [iterator](../iterator/)
 * Class [MappedDataFieldCollection](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

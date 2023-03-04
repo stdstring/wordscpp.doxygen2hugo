@@ -1,7 +1,8 @@
 ---
-title: set_BorderAppliesTo
+title: Aspose::Words::PageSetup::set_BorderAppliesTo method
+linktitle: set_BorderAppliesTo
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::PageSetup::get_BorderAppliesTo.'
+description: Aspose::Words::PageSetup::set_BorderAppliesTo method. Setter for Aspose::Words::PageSetup::get_BorderAppliesTo in C++.
 type: docs
 weight: 612
 url: /cpp/aspose.words/pagesetup/set_borderappliesto/
@@ -20,4 +21,4 @@ void Aspose::Words::PageSetup::set_BorderAppliesTo(Aspose::Words::PageBorderAppl
 * Enum [PageBorderAppliesTo](../../pageborderappliesto/)
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

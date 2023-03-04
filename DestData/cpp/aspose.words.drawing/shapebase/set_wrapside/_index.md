@@ -1,7 +1,8 @@
 ---
-title: set_WrapSide
+title: Aspose::Words::Drawing::ShapeBase::set_WrapSide method
+linktitle: set_WrapSide
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_WrapSide.'
+description: Aspose::Words::Drawing::ShapeBase::set_WrapSide method. Setter for Aspose::Words::Drawing::ShapeBase::get_WrapSide in C++.
 type: docs
 weight: 1132
 url: /cpp/aspose.words.drawing/shapebase/set_wrapside/
@@ -20,4 +21,4 @@ void Aspose::Words::Drawing::ShapeBase::set_WrapSide(Aspose::Words::Drawing::Wra
 * Enum [WrapSide](../../wrapside/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

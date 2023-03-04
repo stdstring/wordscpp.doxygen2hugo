@@ -1,7 +1,8 @@
 ---
-title: get_DefaultCategories
+title: Aspose::Words::Fields::ToaCategories::get_DefaultCategories method
+linktitle: get_DefaultCategories
 second_title: Aspose.Words for C++ API Reference
-description: Gets the default table of authorities categories.
+description: Aspose::Words::Fields::ToaCategories::get_DefaultCategories method. Gets the default table of authorities categories in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/toacategories/get_defaultcategories/
@@ -67,4 +68,4 @@ doc->Save(ArtifactsDir + u"FieldOptions.TOA.Categories.docx");
 * Class [ToaCategories](../)
 * Class [ToaCategories](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: GeneralFormatCollection
+title: Aspose::Words::Fields::GeneralFormatCollection class
+linktitle: GeneralFormatCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a typed collection of general formats.
+description: Aspose::Words::Fields::GeneralFormatCollection class. Represents a typed collection of general formats in C++.
 type: docs
 weight: 1457
 url: /cpp/aspose.words.fields/generalformatcollection/
@@ -95,4 +96,4 @@ ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Target
+title: Aspose::Words::Fields::FieldHyperlink::get_Target method
+linktitle: get_Target
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the target to which the link should be redirected.
+description: Aspose::Words::Fields::FieldHyperlink::get_Target method. Gets or sets the target to which the link should be redirected in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldhyperlink/get_target/
@@ -52,4 +53,4 @@ doc->Save(ArtifactsDir + u"Field.HYPERLINK.docx");
 
 * Class [FieldHyperlink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

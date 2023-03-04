@@ -1,7 +1,8 @@
 ---
-title: CellVerticalAlignment
+title: Aspose::Words::Tables::CellVerticalAlignment enum
+linktitle: CellVerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies vertical justification of text inside a table cell.
+description: Aspose::Words::Tables::CellVerticalAlignment enum. Specifies vertical justification of text inside a table cell in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.tables/cellverticalalignment/
@@ -71,4 +72,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.BuildTable.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Tables](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

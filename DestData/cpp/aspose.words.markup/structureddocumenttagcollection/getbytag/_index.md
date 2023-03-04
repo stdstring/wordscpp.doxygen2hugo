@@ -1,7 +1,8 @@
 ---
-title: GetByTag
+title: Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTag method
+linktitle: GetByTag
 second_title: Aspose.Words for C++ API Reference
-description: Returns the first structured document tag encountered in the collection with the specified tag.
+description: Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTag method. Returns the first structured document tag encountered in the collection with the specified tag in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbytag/
@@ -29,4 +30,4 @@ Returns null if the structured document tag with the specified tag cannot be fou
 * Interface [IStructuredDocumentTag](../../istructureddocumenttag/)
 * Class [StructuredDocumentTagCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

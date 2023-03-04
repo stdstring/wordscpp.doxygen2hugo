@@ -1,7 +1,8 @@
 ---
-title: FieldMergingArgsBase
+title: Aspose::Words::MailMerging::FieldMergingArgsBase class
+linktitle: FieldMergingArgsBase
 second_title: Aspose.Words for C++ API Reference
-description: Base class for FieldMergingArgs and ImageFieldMergingArgs.
+description: Aspose::Words::MailMerging::FieldMergingArgsBase class. Base class for FieldMergingArgs and ImageFieldMergingArgs in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/
@@ -84,4 +85,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::MailMerging](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

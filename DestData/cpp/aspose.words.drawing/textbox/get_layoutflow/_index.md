@@ -1,7 +1,8 @@
 ---
-title: get_LayoutFlow
+title: Aspose::Words::Drawing::TextBox::get_LayoutFlow method
+linktitle: get_LayoutFlow
 second_title: Aspose.Words for C++ API Reference
-description: Determines the flow of the text layout in a shape.
+description: Aspose::Words::Drawing::TextBox::get_LayoutFlow method. Determines the flow of the text layout in a shape in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.drawing/textbox/get_layoutflow/
@@ -48,4 +49,4 @@ doc->Save(ArtifactsDir + u"Shape.TextBoxLayoutFlow.docx");
 * Enum [LayoutFlow](../../layoutflow/)
 * Class [TextBox](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

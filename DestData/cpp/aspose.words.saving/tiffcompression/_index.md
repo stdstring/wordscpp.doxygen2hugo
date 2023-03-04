@@ -1,7 +1,8 @@
 ---
-title: TiffCompression
+title: Aspose::Words::Saving::TiffCompression enum
+linktitle: TiffCompression
 second_title: Aspose.Words for C++ API Reference
-description: Specifies what type of compression to apply when saving page images into a TIFF file.
+description: Aspose::Words::Saving::TiffCompression enum. Specifies what type of compression to apply when saving page images into a TIFF file in C++.
 type: docs
 weight: 1067
 url: /cpp/aspose.words.saving/tiffcompression/
@@ -78,4 +79,4 @@ case TiffCompression::Ccitt4:
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

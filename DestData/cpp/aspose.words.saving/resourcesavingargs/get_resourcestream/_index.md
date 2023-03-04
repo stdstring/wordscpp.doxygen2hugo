@@ -1,7 +1,8 @@
 ---
-title: get_ResourceStream
+title: Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream method
+linktitle: get_ResourceStream
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify the stream where the resource will be saved to.
+description: Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream method. Allows to specify the stream where the resource will be saved to in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.saving/resourcesavingargs/get_resourcestream/
@@ -106,4 +107,4 @@ private:
 
 * Class [ResourceSavingArgs](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

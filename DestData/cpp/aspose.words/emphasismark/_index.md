@@ -1,7 +1,8 @@
 ---
-title: EmphasisMark
+title: Aspose::Words::EmphasisMark enum
+linktitle: EmphasisMark
 second_title: Aspose.Words for C++ API Reference
-description: Specifies possible types of emphasis mark.
+description: Aspose::Words::EmphasisMark enum. Specifies possible types of emphasis mark in C++.
 type: docs
 weight: 1145
 url: /cpp/aspose.words/emphasismark/
@@ -49,4 +50,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Fonts.SetEmphasisMark.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

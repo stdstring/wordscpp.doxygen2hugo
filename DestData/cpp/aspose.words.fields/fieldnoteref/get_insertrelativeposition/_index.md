@@ -1,7 +1,8 @@
 ---
-title: get_InsertRelativePosition
+title: Aspose::Words::Fields::FieldNoteRef::get_InsertRelativePosition method
+linktitle: get_InsertRelativePosition
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert a relative position of the bookmarked paragraph.
+description: Aspose::Words::Fields::FieldNoteRef::get_InsertRelativePosition method. Gets or sets whether to insert a relative position of the bookmarked paragraph in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldnoteref/get_insertrelativeposition/
@@ -81,4 +82,4 @@ static void InsertBookmarkWithFootnote(SharedPtr<DocumentBuilder> builder, Strin
 
 * Class [FieldNoteRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

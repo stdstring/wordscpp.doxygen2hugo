@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Markup::CustomXmlPropertyCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Returns an enumerator object that can be used to iterate over all items in the collection.
+description: Aspose::Words::Markup::CustomXmlPropertyCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all items in the collection in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.markup/customxmlpropertycollection/getenumerator/
@@ -76,4 +77,4 @@ ASSERT_EQ(0, properties->get_Count());
 * Class [CustomXmlProperty](../../customxmlproperty/)
 * Class [CustomXmlPropertyCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

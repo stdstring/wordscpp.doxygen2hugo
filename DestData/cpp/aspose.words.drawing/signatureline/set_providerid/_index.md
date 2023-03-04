@@ -1,7 +1,8 @@
 ---
-title: set_ProviderId
+title: Aspose::Words::Drawing::SignatureLine::set_ProviderId method
+linktitle: set_ProviderId
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::SignatureLine::get_ProviderId.'
+description: Aspose::Words::Drawing::SignatureLine::set_ProviderId method. Setter for Aspose::Words::Drawing::SignatureLine::get_ProviderId in C++.
 type: docs
 weight: 209
 url: /cpp/aspose.words.drawing/signatureline/set_providerid/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::SignatureLine::set_ProviderId(System::Guid value)
 
 * Class [SignatureLine](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

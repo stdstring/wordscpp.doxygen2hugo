@@ -1,7 +1,8 @@
 ---
-title: Clone
+title: Aspose::Words::Settings::Odso::Clone method
+linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Returns a deep clone of this object.
+description: Aspose::Words::Settings::Odso::Clone method. Returns a deep clone of this object in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.settings/odso/clone/
@@ -20,4 +21,4 @@ System::SharedPtr<Aspose::Words::Settings::Odso> Aspose::Words::Settings::Odso::
 * Class [Odso](../)
 * Class [Odso](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

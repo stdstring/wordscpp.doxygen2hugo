@@ -1,7 +1,8 @@
 ---
-title: TextBox
+title: Aspose::Words::Drawing::TextBox class
+linktitle: TextBox
 second_title: Aspose.Words for C++ API Reference
-description: Defines attributes that specify how a text is displayed inside a shape.
+description: Aspose::Words::Drawing::TextBox class. Defines attributes that specify how a text is displayed inside a shape in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/textbox/
@@ -112,4 +113,4 @@ doc->Save(ArtifactsDir + u"Shape.TextBoxMargins.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

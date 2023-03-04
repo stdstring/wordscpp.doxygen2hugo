@@ -1,7 +1,8 @@
 ---
-title: FindReplaceOptions
+title: Aspose::Words::Replacing::FindReplaceOptions class
+linktitle: FindReplaceOptions
 second_title: Aspose.Words for C++ API Reference
-description: Specifies options for find/replace operations.
+description: Aspose::Words::Replacing::FindReplaceOptions class. Specifies options for find/replace operations in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.replacing/findreplaceoptions/
@@ -100,4 +101,4 @@ ASSERT_EQ(findWholeWordsOnly ? String(u"Louis will meet you in Jacksonville.") :
 ## See Also
 
 * Namespace [Aspose::Words::Replacing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

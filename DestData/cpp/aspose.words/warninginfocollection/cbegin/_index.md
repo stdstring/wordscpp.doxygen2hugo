@@ -1,7 +1,8 @@
 ---
-title: cbegin
+title: Aspose::Words::WarningInfoCollection::cbegin method
+linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use cbegin method of Aspose::Words::WarningInfoCollection class in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/warninginfocollection/cbegin/
@@ -20,4 +21,4 @@ const_iterator Aspose::Words::WarningInfoCollection::cbegin() const noexcept
 * Typedef [const_iterator](../const_iterator/)
 * Class [WarningInfoCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

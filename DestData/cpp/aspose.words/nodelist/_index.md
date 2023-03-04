@@ -1,7 +1,8 @@
 ---
-title: NodeList
+title: Aspose::Words::NodeList class
+linktitle: NodeList
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of nodes matching an XPath query executed using the SelectNodes() method.
+description: Aspose::Words::NodeList class. Represents a collection of nodes matching an XPath query executed using the SelectNodes() method in C++.
 type: docs
 weight: 573
 url: /cpp/aspose.words/nodelist/
@@ -255,4 +256,4 @@ public:
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

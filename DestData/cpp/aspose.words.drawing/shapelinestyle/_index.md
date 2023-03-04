@@ -1,7 +1,8 @@
 ---
-title: ShapeLineStyle
+title: Aspose::Words::Drawing::ShapeLineStyle enum
+linktitle: ShapeLineStyle
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the compound line style of a Shape.
+description: Aspose::Words::Drawing::ShapeLineStyle enum. Specifies the compound line style of a Shape in C++.
 type: docs
 weight: 456
 url: /cpp/aspose.words.drawing/shapelinestyle/
@@ -60,4 +61,4 @@ doc->Save(ArtifactsDir + u"Shape.Stroke.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

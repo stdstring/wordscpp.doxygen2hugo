@@ -1,7 +1,8 @@
 ---
-title: InsertTextInput
+title: Aspose::Words::DocumentBuilder::InsertTextInput method
+linktitle: InsertTextInput
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a text form field at the current position.
+description: Aspose::Words::DocumentBuilder::InsertTextInput method. Inserts a text form field at the current position in C++.
 type: docs
 weight: 599
 url: /cpp/aspose.words/documentbuilder/inserttextinput/
@@ -89,4 +90,4 @@ doc->Save(ArtifactsDir + u"FormFields.TextInput.html");
 * Enum [TextFormFieldType](../../../aspose.words.fields/textformfieldtype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

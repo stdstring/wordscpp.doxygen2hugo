@@ -1,7 +1,8 @@
 ---
-title: Fill
+title: Aspose::Words::Drawing::Fill class
+linktitle: Fill
 second_title: Aspose.Words for C++ API Reference
-description: Represents fill formatting for an object.
+description: Aspose::Words::Drawing::Fill class. Represents fill formatting for an object in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/fill/
@@ -99,4 +100,4 @@ doc->Save(ArtifactsDir + u"Shape.Fill.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

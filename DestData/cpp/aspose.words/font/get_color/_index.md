@@ -1,7 +1,8 @@
 ---
-title: get_Color
+title: Aspose::Words::Font::get_Color method
+linktitle: get_Color
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the color of the font.
+description: Aspose::Words::Font::get_Color method. Gets or sets the color of the font in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/font/get_color/
@@ -60,4 +61,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHyperlink.docx");
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

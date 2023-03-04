@@ -1,7 +1,8 @@
 ---
-title: VerticalAlignment
+title: Aspose::Words::Drawing::VerticalAlignment enum
+linktitle: VerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Specifies vertical alignment of a floating shape, text frame or a floating table.
+description: Aspose::Words::Drawing::VerticalAlignment enum. Specifies vertical alignment of a floating shape, text frame or a floating table in C++.
 type: docs
 weight: 547
 url: /cpp/aspose.words.drawing/verticalalignment/
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

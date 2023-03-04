@@ -1,7 +1,8 @@
 ---
-title: TableContentAlignment
+title: Aspose::Words::Saving::TableContentAlignment enum
+linktitle: TableContentAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify the alignment of the content of the table to be used when exporting into Markdown format.
+description: Aspose::Words::Saving::TableContentAlignment enum. Allows to specify the alignment of the content of the table to be used when exporting into Markdown format in C++.
 type: docs
 weight: 1054
 url: /cpp/aspose.words.saving/tablecontentalignment/
@@ -27,4 +28,4 @@ enum class TableContentAlignment
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

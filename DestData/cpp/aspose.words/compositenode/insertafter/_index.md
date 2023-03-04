@@ -1,7 +1,8 @@
 ---
-title: InsertAfter
+title: Aspose::Words::CompositeNode::InsertAfter method
+linktitle: InsertAfter
 second_title: Aspose.Words for C++ API Reference
-description: Inserts the specified node immediately after the specified reference node.
+description: Aspose::Words::CompositeNode::InsertAfter method. Inserts the specified node immediately after the specified reference node in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words/compositenode/insertafter/
@@ -137,4 +138,4 @@ doc->Save(ArtifactsDir + u"Shape.ReplaceTextboxesWithImages.docx");
 * Class [Node](../../node/)
 * Class [CompositeNode](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

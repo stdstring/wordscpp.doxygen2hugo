@@ -1,7 +1,8 @@
 ---
-title: set_BackgroundColor
+title: Aspose::Words::Fields::FieldDisplayBarcode::set_BackgroundColor method
+linktitle: set_BackgroundColor
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor.'
+description: Aspose::Words::Fields::FieldDisplayBarcode::set_BackgroundColor method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_backgroundcolor/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldDisplayBarcode::set_BackgroundColor(const Syste
 
 * Class [FieldDisplayBarcode](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

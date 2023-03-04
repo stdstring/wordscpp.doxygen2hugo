@@ -1,7 +1,8 @@
 ---
-title: AddPrinterFont
+title: Aspose::Words::Saving::PclSaveOptions::AddPrinterFont method
+linktitle: AddPrinterFont
 second_title: Aspose.Words for C++ API Reference
-description: Adds information about font that is uploaded to the printer by manufacturer.
+description: Aspose::Words::Saving::PclSaveOptions::AddPrinterFont method. Adds information about font that is uploaded to the printer by manufacturer in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/pclsaveoptions/addprinterfont/
@@ -45,4 +46,4 @@ doc->Save(ArtifactsDir + u"PclSaveOptions.AddPrinterFont.pcl", saveOptions);
 
 * Class [PclSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

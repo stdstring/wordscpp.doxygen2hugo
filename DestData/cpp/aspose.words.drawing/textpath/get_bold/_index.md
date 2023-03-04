@@ -1,7 +1,8 @@
 ---
-title: get_Bold
+title: Aspose::Words::Drawing::TextPath::get_Bold method
+linktitle: get_Bold
 second_title: Aspose.Words for C++ API Reference
-description: True if the font is formatted as bold.
+description: Aspose::Words::Drawing::TextPath::get_Bold method. True if the font is formatted as bold in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing/textpath/get_bold/
@@ -130,4 +131,4 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 
 * Class [TextPath](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: GetRawData
+title: Aspose::Words::Drawing::OleFormat::GetRawData method
+linktitle: GetRawData
 second_title: Aspose.Words for C++ API Reference
-description: Gets OLE object raw data.
+description: Aspose::Words::Drawing::OleFormat::GetRawData method. Gets OLE object raw data in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.drawing/oleformat/getrawdata/
@@ -41,4 +42,4 @@ for (const auto& shape : System::IterateOver(doc->GetChildNodes(NodeType::Shape,
 
 * Class [OleFormat](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: GetFieldNames
+title: Aspose::Words::Fields::FieldAddressBlock::GetFieldNames method
+linktitle: GetFieldNames
 second_title: Aspose.Words for C++ API Reference
-description: Returns a collection of mail merge field names used by the field.
+description: Aspose::Words::Fields::FieldAddressBlock::GetFieldNames method. Returns a collection of mail merge field names used by the field in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldaddressblock/getfieldnames/
@@ -35,4 +36,4 @@ ArrayPtr<String> addressBlockFieldNames = addressBlockField->GetFieldNames();
 
 * Class [FieldAddressBlock](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

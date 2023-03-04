@@ -1,7 +1,8 @@
 ---
-title: FieldNoteRef
+title: Aspose::Words::Fields::FieldNoteRef class
+linktitle: FieldNoteRef
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NOTEREF field.
+description: Aspose::Words::Fields::FieldNoteRef class. Implements the NOTEREF field in C++.
 type: docs
 weight: 924
 url: /cpp/aspose.words.fields/fieldnoteref/
@@ -116,4 +117,4 @@ static void InsertBookmarkWithFootnote(SharedPtr<DocumentBuilder> builder, Strin
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

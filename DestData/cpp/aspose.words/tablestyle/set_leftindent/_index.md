@@ -1,7 +1,8 @@
 ---
-title: set_LeftIndent
+title: Aspose::Words::TableStyle::set_LeftIndent method
+linktitle: set_LeftIndent
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::TableStyle::get_LeftIndent.'
+description: Aspose::Words::TableStyle::set_LeftIndent method. Setter for Aspose::Words::TableStyle::get_LeftIndent in C++.
 type: docs
 weight: 274
 url: /cpp/aspose.words/tablestyle/set_leftindent/
@@ -19,4 +20,4 @@ void Aspose::Words::TableStyle::set_LeftIndent(double value)
 
 * Class [TableStyle](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

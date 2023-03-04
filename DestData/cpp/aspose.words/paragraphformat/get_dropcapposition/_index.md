@@ -1,7 +1,8 @@
 ---
-title: get_DropCapPosition
+title: Aspose::Words::ParagraphFormat::get_DropCapPosition method
+linktitle: get_DropCapPosition
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the position for a drop cap text.
+description: Aspose::Words::ParagraphFormat::get_DropCapPosition method. Gets or sets the position for a drop cap text in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words/paragraphformat/get_dropcapposition/
@@ -73,4 +74,4 @@ builder->get_Document()->Save(ArtifactsDir + u"Lists.NestedLists.docx");
 * Enum [DropCapPosition](../../dropcapposition/)
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

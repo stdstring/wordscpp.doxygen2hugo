@@ -1,7 +1,8 @@
 ---
-title: WebExtensionReference
+title: Aspose::Words::WebExtensions::WebExtensionReference class
+linktitle: WebExtensionReference
 second_title: Aspose.Words for C++ API Reference
-description: Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension.
+description: Aspose::Words::WebExtensions::WebExtensionReference class. Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.webextensions/webextensionreference/
@@ -31,4 +32,4 @@ class WebExtensionReference : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words::WebExtensions](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

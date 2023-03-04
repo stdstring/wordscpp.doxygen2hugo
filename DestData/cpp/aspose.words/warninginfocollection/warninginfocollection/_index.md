@@ -1,7 +1,8 @@
 ---
-title: WarningInfoCollection
+title: Aspose::Words::WarningInfoCollection::WarningInfoCollection constructor
+linktitle: WarningInfoCollection
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use WarningInfoCollection constructor of Aspose::Words::WarningInfoCollection class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/warninginfocollection/warninginfocollection/
@@ -19,4 +20,4 @@ Aspose::Words::WarningInfoCollection::WarningInfoCollection()
 
 * Class [WarningInfoCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

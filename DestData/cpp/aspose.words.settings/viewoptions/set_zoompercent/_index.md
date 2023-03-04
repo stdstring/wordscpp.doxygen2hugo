@@ -1,7 +1,8 @@
 ---
-title: set_ZoomPercent
+title: Aspose::Words::Settings::ViewOptions::set_ZoomPercent method
+linktitle: set_ZoomPercent
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Settings::ViewOptions::get_ZoomPercent.'
+description: Aspose::Words::Settings::ViewOptions::set_ZoomPercent method. Setter for Aspose::Words::Settings::ViewOptions::get_ZoomPercent in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words.settings/viewoptions/set_zoompercent/
@@ -19,4 +20,4 @@ void Aspose::Words::Settings::ViewOptions::set_ZoomPercent(int32_t value)
 
 * Class [ViewOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

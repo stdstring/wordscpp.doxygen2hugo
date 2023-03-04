@@ -1,7 +1,8 @@
 ---
-title: set_IsLinked
+title: Aspose::Words::Fields::FieldIncludePicture::set_IsLinked method
+linktitle: set_IsLinked
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIncludePicture::get_IsLinked.'
+description: Aspose::Words::Fields::FieldIncludePicture::set_IsLinked method. Setter for Aspose::Words::Fields::FieldIncludePicture::get_IsLinked in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.fields/fieldincludepicture/set_islinked/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIncludePicture::set_IsLinked(bool value)
 
 * Class [FieldIncludePicture](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: FieldAutoTextList
+title: Aspose::Words::Fields::FieldAutoTextList class
+linktitle: FieldAutoTextList
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTOTEXTLIST field.
+description: Aspose::Words::Fields::FieldAutoTextList class. Implements the AUTOTEXTLIST field in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.fields/fieldautotextlist/
@@ -103,4 +104,4 @@ static void AppendAutoTextEntry(SharedPtr<GlossaryDocument> glossaryDoc, String 
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_PromptOnceOnMailMerge
+title: Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge method
+linktitle: get_PromptOnceOnMailMerge
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether the user response should be recieved once per a mail merge operation.
+description: Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge method. Gets or sets whether the user response should be recieved once per a mail merge operation in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldfillin/get_promptonceonmailmerge/
@@ -65,4 +66,4 @@ public:
 
 * Class [FieldFillIn](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

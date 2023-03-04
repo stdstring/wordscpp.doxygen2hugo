@@ -1,7 +1,8 @@
 ---
-title: get_ImageBytes
+title: Aspose::Words::Drawing::Stroke::get_ImageBytes method
+linktitle: get_ImageBytes
 second_title: Aspose.Words for C++ API Reference
-description: Defines the image for a stroke image or pattern fill.
+description: Aspose::Words::Drawing::Stroke::get_ImageBytes method. Defines the image for a stroke image or pattern fill in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.drawing/stroke/get_imagebytes/
@@ -39,4 +40,4 @@ System::IO::File::WriteAllBytes(ArtifactsDir + u"Drawing.StrokePattern.png", str
 
 * Class [Stroke](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

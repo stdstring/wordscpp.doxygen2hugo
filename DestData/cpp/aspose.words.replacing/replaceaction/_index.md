@@ -1,7 +1,8 @@
 ---
-title: ReplaceAction
+title: Aspose::Words::Replacing::ReplaceAction enum
+linktitle: ReplaceAction
 second_title: Aspose.Words for C++ API Reference
-description: Allows the user to specify what happens to the current match during a replace operation.
+description: Aspose::Words::Replacing::ReplaceAction enum. Allows the user to specify what happens to the current match during a replace operation in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.replacing/replaceaction/
@@ -100,4 +101,4 @@ static void InsertDocument(SharedPtr<Node> insertionDestination, SharedPtr<Docum
 ## See Also
 
 * Namespace [Aspose::Words::Replacing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

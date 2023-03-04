@@ -1,7 +1,8 @@
 ---
-title: SpecialChar
+title: Aspose::Words::SpecialChar class
+linktitle: SpecialChar
 second_title: Aspose.Words for C++ API Reference
-description: Base class for special characters in the document.
+description: Aspose::Words::SpecialChar class. Base class for special characters in the document in C++.
 type: docs
 weight: 794
 url: /cpp/aspose.words/specialchar/
@@ -238,4 +239,4 @@ public:
 
 * Class [Inline](../inline/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

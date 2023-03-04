@@ -1,7 +1,8 @@
 ---
-title: SectionBreak
+title: Aspose::Words::ControlChar::SectionBreak method
+linktitle: SectionBreak
 second_title: Aspose.Words for C++ API Reference
-description: 'End of section character: "\x000c" or "\f". Note it has the same value as PageBreak.'
+description: Aspose::Words::ControlChar::SectionBreak method. End of section character: "\x000c" or "\f". Note it has the same value as PageBreak in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words/controlchar/sectionbreak/
@@ -90,4 +91,4 @@ ASPOSE_ASSERT_EQ(System::Convert::ToChar(ControlChar::ColumnBreak()), ControlCha
 
 * Class [ControlChar](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

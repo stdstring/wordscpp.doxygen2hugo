@@ -1,7 +1,8 @@
 ---
-title: Accept
+title: Aspose::Words::Markup::SmartTag::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: Aspose::Words::Markup::SmartTag::Accept method. Accepts a visitor in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.markup/smarttag/accept/
@@ -128,4 +129,4 @@ public:
 * Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [SmartTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

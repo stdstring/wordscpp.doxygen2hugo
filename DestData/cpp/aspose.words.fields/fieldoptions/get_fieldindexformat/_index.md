@@ -1,7 +1,8 @@
 ---
-title: get_FieldIndexFormat
+title: Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat method
+linktitle: get_FieldIndexFormat
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a FieldIndexFormat that represents the formatting for the FieldIndex fields in the document.
+description: Aspose::Words::Fields::FieldOptions::get_FieldIndexFormat method. Gets or sets a FieldIndexFormat that represents the formatting for the FieldIndex fields in the document in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldoptions/get_fieldindexformat/
@@ -42,4 +43,4 @@ doc->Save(ArtifactsDir + u"Field.SetFieldIndexFormat.docx");
 * Enum [FieldIndexFormat](../../fieldindexformat/)
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

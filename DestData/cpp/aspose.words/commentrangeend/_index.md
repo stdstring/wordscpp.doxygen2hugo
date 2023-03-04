@@ -1,7 +1,8 @@
 ---
-title: CommentRangeEnd
+title: Aspose::Words::CommentRangeEnd class
+linktitle: CommentRangeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Denotes the end of a region of text that has a comment associated with it.
+description: Aspose::Words::CommentRangeEnd class. Denotes the end of a region of text that has a comment associated with it in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words/commentrangeend/
@@ -196,4 +197,4 @@ private:
 
 * Class [Node](../node/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

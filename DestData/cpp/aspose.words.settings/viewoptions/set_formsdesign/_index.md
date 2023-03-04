@@ -1,7 +1,8 @@
 ---
-title: set_FormsDesign
+title: Aspose::Words::Settings::ViewOptions::set_FormsDesign method
+linktitle: set_FormsDesign
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Settings::ViewOptions::get_FormsDesign.'
+description: Aspose::Words::Settings::ViewOptions::set_FormsDesign method. Setter for Aspose::Words::Settings::ViewOptions::get_FormsDesign in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.settings/viewoptions/set_formsdesign/
@@ -19,4 +20,4 @@ void Aspose::Words::Settings::ViewOptions::set_FormsDesign(bool value)
 
 * Class [ViewOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

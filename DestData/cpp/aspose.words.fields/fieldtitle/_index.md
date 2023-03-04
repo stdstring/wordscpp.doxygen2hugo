@@ -1,7 +1,8 @@
 ---
-title: FieldTitle
+title: Aspose::Words::Fields::FieldTitle class
+linktitle: FieldTitle
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TITLE field.
+description: Aspose::Words::Fields::FieldTitle class. Implements the TITLE field in C++.
 type: docs
 weight: 1327
 url: /cpp/aspose.words.fields/fieldtitle/
@@ -82,4 +83,4 @@ doc->Save(ArtifactsDir + u"Field.TITLE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

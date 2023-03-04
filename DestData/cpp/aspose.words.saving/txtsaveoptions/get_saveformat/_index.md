@@ -1,7 +1,8 @@
 ---
-title: get_SaveFormat
+title: Aspose::Words::Saving::TxtSaveOptions::get_SaveFormat method
+linktitle: get_SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the format in which the document will be saved if this save options object is used. Can only be Text.
+description: Aspose::Words::Saving::TxtSaveOptions::get_SaveFormat method. Specifies the format in which the document will be saved if this save options object is used. Can only be Text in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/txtsaveoptions/get_saveformat/
@@ -50,4 +51,4 @@ ASSERT_EQ(String(u"Paragraph 1. End of paragraph.\n\n\t") + u"Paragraph 2. End o
 * Enum [SaveFormat](../../../aspose.words/saveformat/)
 * Class [TxtSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: Equals
+title: Aspose::Words::Saving::FixedPageSaveOptions::Equals method
+linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the specified object is equal in value to the current object.
+description: Aspose::Words::Saving::FixedPageSaveOptions::Equals method. Determines whether the specified object is equal in value to the current object in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/equals/
@@ -19,4 +20,4 @@ bool Aspose::Words::Saving::FixedPageSaveOptions::Equals(System::SharedPtr<Syste
 
 * Class [FixedPageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

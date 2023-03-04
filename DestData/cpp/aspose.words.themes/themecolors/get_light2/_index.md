@@ -1,7 +1,8 @@
 ---
-title: get_Light2
+title: Aspose::Words::Themes::ThemeColors::get_Light2 method
+linktitle: get_Light2
 second_title: Aspose.Words for C++ API Reference
-description: Specifies color Light 2.
+description: Aspose::Words::Themes::ThemeColors::get_Light2 method. Specifies color Light 2 in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.themes/themecolors/get_light2/
@@ -66,4 +67,4 @@ doc->Save(ArtifactsDir + u"Themes.CustomColorsAndFonts.docx");
 
 * Class [ThemeColors](../)
 * Namespace [Aspose::Words::Themes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

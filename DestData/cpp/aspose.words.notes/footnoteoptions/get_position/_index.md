@@ -1,7 +1,8 @@
 ---
-title: get_Position
+title: Aspose::Words::Notes::FootnoteOptions::get_Position method
+linktitle: get_Position
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the footnotes position.
+description: Aspose::Words::Notes::FootnoteOptions::get_Position method. Specifies the footnotes position in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.notes/footnoteoptions/get_position/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"InlineStory.PositionFootnote.docx");
 * Enum [FootnotePosition](../../footnoteposition/)
 * Class [FootnoteOptions](../)
 * Namespace [Aspose::Words::Notes](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

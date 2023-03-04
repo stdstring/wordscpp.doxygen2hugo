@@ -1,7 +1,8 @@
 ---
-title: get_Author
+title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Author method
+linktitle: get_Author
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the document's author.
+description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Author method. Gets or sets the name of the document's author in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_author/
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"DocumentProperties.Description.docx");
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

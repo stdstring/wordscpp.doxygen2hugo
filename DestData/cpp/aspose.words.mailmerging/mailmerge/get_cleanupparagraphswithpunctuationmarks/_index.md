@@ -1,7 +1,8 @@
 ---
-title: get_CleanupParagraphsWithPunctuationMarks
+title: Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks method
+linktitle: get_CleanupParagraphsWithPunctuationMarks
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value indicating whether paragraphs with punctuation marks are considered as empty and should be removed if the RemoveEmptyParagraphs option is specified.
+description: Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks method. Gets or sets a value indicating whether paragraphs with punctuation marks are considered as empty and should be removed if the RemoveEmptyParagraphs option is specified in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.mailmerging/mailmerge/get_cleanupparagraphswithpunctuationmarks/
@@ -67,4 +68,4 @@ doc->Save(ArtifactsDir + u"MailMerge.RemoveColonBetweenEmptyMergeFields.docx");
 
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

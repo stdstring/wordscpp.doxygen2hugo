@@ -1,7 +1,8 @@
 ---
-title: get_SuppressTitle
+title: Aspose::Words::Fields::FieldCitation::get_SuppressTitle method
+linktitle: get_SuppressTitle
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether the title information is suppressed from the citation.
+description: Aspose::Words::Fields::FieldCitation::get_SuppressTitle method. Gets or sets whether the title information is suppressed from the citation in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.fields/fieldcitation/get_suppresstitle/
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

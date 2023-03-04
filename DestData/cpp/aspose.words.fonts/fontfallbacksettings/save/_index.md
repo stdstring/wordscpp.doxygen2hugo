@@ -1,7 +1,8 @@
 ---
-title: Save
+title: Aspose::Words::Fonts::FontFallbackSettings::Save method
+linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Saves the current fallback settings to stream.
+description: Aspose::Words::Fonts::FontFallbackSettings::Save method. Saves the current fallback settings to stream in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fonts/fontfallbacksettings/save/
@@ -50,7 +51,7 @@ doc->Save(ArtifactsDir + u"FontSettings.LoadFontFallbackSettingsFromStream.pdf")
 
 * Class [FontFallbackSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## FontFallbackSettings::Save(const System::String\&) method
 
 
@@ -88,7 +89,7 @@ doc->get_FontSettings()->get_FallbackSettings()->Save(ArtifactsDir + u"FallbackS
 
 * Class [FontFallbackSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## FontFallbackSettings::Save(std::basic_ostream\<CharType, Traits\>\&) method
 
 
@@ -102,4 +103,4 @@ template<typename CharType,typename Traits> void Aspose::Words::Fonts::FontFallb
 
 * Class [FontFallbackSettings](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

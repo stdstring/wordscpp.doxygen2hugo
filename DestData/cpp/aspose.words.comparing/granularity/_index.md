@@ -1,7 +1,8 @@
 ---
-title: Granularity
+title: Aspose::Words::Comparing::Granularity enum
+linktitle: Granularity
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the granularity of changes to track when comparing two documents.
+description: Aspose::Words::Comparing::Granularity enum. Specifies the granularity of changes to track when comparing two documents in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.comparing/granularity/
@@ -52,4 +53,4 @@ ASSERT_EQ(5, groups->get_Count());
 ## See Also
 
 * Namespace [Aspose::Words::Comparing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

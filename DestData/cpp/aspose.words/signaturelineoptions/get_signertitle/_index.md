@@ -1,7 +1,8 @@
 ---
-title: get_SignerTitle
+title: Aspose::Words::SignatureLineOptions::get_SignerTitle method
+linktitle: get_SignerTitle
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets suggested signer's title. Default value for this property is empty string.
+description: Aspose::Words::SignatureLineOptions::get_SignerTitle method. Gets or sets suggested signer's title. Default value for this property is empty string in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words/signaturelineoptions/get_signertitle/
@@ -153,4 +154,4 @@ static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCust
 
 * Class [SignatureLineOptions](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

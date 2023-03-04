@@ -1,7 +1,8 @@
 ---
-title: get_OpenInNewWindow
+title: Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow method
+linktitle: get_OpenInNewWindow
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to open the destination site in a new web browser window.
+description: Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow method. Gets or sets whether to open the destination site in a new web browser window in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.fields/fieldhyperlink/get_openinnewwindow/
@@ -52,4 +53,4 @@ doc->Save(ArtifactsDir + u"Field.HYPERLINK.docx");
 
 * Class [FieldHyperlink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_NumberStyle
+title: Aspose::Words::Lists::ListLevel::get_NumberStyle method
+linktitle: get_NumberStyle
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the number style for this list level.
+description: Aspose::Words::Lists::ListLevel::get_NumberStyle method. Returns or sets the number style for this list level in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.lists/listlevel/get_numberstyle/
@@ -139,4 +140,4 @@ doc->Save(ArtifactsDir + u"Lists.CreateListRestartAfterHigher.docx");
 * Enum [NumberStyle](../../../aspose.words/numberstyle/)
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

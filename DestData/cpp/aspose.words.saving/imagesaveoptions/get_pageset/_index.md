@@ -1,7 +1,8 @@
 ---
-title: get_PageSet
+title: Aspose::Words::Saving::ImageSaveOptions::get_PageSet method
+linktitle: get_PageSet
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the pages to render. Default is all the pages in the document.
+description: Aspose::Words::Saving::ImageSaveOptions::get_PageSet method. Gets or sets the pages to render. Default is all the pages in the document in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.saving/imagesaveoptions/get_pageset/
@@ -123,4 +124,4 @@ doc->Save(ArtifactsDir + u"ImageSaveOptions.ExportVariousPageRanges.tiff", image
 * Class [PageSet](../../pageset/)
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: CssStyleSheetType
+title: Aspose::Words::Saving::CssStyleSheetType enum
+linktitle: CssStyleSheetType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how CSS (Cascading Style Sheet) styles are exported to HTML.
+description: Aspose::Words::Saving::CssStyleSheetType enum. Specifies how CSS (Cascading Style Sheet) styles are exported to HTML in C++.
 type: docs
 weight: 612
 url: /cpp/aspose.words.saving/cssstylesheettype/
@@ -85,4 +86,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

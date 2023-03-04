@@ -1,7 +1,8 @@
 ---
-title: FieldLastSavedBy
+title: Aspose::Words::Fields::FieldLastSavedBy class
+linktitle: FieldLastSavedBy
 second_title: Aspose.Words for C++ API Reference
-description: Implements the LASTSAVEDBY field.
+description: Aspose::Words::Fields::FieldLastSavedBy class. Implements the LASTSAVEDBY field in C++.
 type: docs
 weight: 794
 url: /cpp/aspose.words.fields/fieldlastsavedby/
@@ -68,4 +69,4 @@ doc->Save(ArtifactsDir + u"Field.LASTSAVEDBY.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

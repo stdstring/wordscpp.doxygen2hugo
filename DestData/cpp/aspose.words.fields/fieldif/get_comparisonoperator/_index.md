@@ -1,7 +1,8 @@
 ---
-title: get_ComparisonOperator
+title: Aspose::Words::Fields::FieldIf::get_ComparisonOperator method
+linktitle: get_ComparisonOperator
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the comparison operator.
+description: Aspose::Words::Fields::FieldIf::get_ComparisonOperator method. Gets or sets the comparison operator in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldif/get_comparisonoperator/
@@ -64,4 +65,4 @@ doc->Save(ArtifactsDir + u"Field.IF.docx");
 
 * Class [FieldIf](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_FirstRowContainsColumnNames
+title: Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames method
+linktitle: get_FirstRowContainsColumnNames
 second_title: Aspose.Words for C++ API Reference
-description: Specifies that a hosting application shall treat the first row of data in the specified external data source as a header row containing the names of each column in the data source. The default value is false.
+description: Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames method. Specifies that a hosting application shall treat the first row of data in the specified external data source as a header row containing the names of each column in the data source. The default value is false in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.settings/odso/get_firstrowcontainscolumnnames/
@@ -23,4 +24,4 @@ RK I have never seen this in use.
 
 * Class [Odso](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

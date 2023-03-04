@@ -1,7 +1,8 @@
 ---
-title: HeaderFooterBookmarksExportMode
+title: Aspose::Words::Saving::HeaderFooterBookmarksExportMode enum
+linktitle: HeaderFooterBookmarksExportMode
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how bookmarks in headers/footers are exported.
+description: Aspose::Words::Saving::HeaderFooterBookmarksExportMode enum. Specifies how bookmarks in headers/footers are exported in C++.
 type: docs
 weight: 729
 url: /cpp/aspose.words.saving/headerfooterbookmarksexportmode/
@@ -57,4 +58,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.HeaderFooterBookmarksExportMode.pdf", 
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

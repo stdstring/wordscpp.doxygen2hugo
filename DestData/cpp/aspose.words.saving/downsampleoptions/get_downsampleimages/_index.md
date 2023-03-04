@@ -1,7 +1,8 @@
 ---
-title: get_DownsampleImages
+title: Aspose::Words::Saving::DownsampleOptions::get_DownsampleImages method
+linktitle: get_DownsampleImages
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether images should be downsampled.
+description: Aspose::Words::Saving::DownsampleOptions::get_DownsampleImages method. Specifies whether images should be downsampled in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/downsampleoptions/get_downsampleimages/
@@ -50,4 +51,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.DownsampleOptions.LowerResolution.pdf"
 
 * Class [DownsampleOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

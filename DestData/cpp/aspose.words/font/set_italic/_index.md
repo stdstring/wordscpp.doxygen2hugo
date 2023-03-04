@@ -1,7 +1,8 @@
 ---
-title: set_Italic
+title: Aspose::Words::Font::set_Italic method
+linktitle: set_Italic
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Font::get_Italic.'
+description: Aspose::Words::Font::set_Italic method. Setter for Aspose::Words::Font::get_Italic in C++.
 type: docs
 weight: 885
 url: /cpp/aspose.words/font/set_italic/
@@ -19,4 +20,4 @@ void Aspose::Words::Font::set_Italic(bool value)
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

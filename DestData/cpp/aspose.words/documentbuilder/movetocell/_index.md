@@ -1,7 +1,8 @@
 ---
-title: MoveToCell
+title: Aspose::Words::DocumentBuilder::MoveToCell method
+linktitle: MoveToCell
 second_title: Aspose.Words for C++ API Reference
-description: Moves the cursor to a table cell in the current section.
+description: Aspose::Words::DocumentBuilder::MoveToCell method. Moves the cursor to a table cell in the current section in C++.
 type: docs
 weight: 638
 url: /cpp/aspose.words/documentbuilder/movetocell/
@@ -62,4 +63,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.MoveToCell.docx");
 
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

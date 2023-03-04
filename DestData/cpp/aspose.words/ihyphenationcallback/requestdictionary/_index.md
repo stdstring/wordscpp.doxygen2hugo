@@ -1,7 +1,8 @@
 ---
-title: RequestDictionary
+title: Aspose::Words::IHyphenationCallback::RequestDictionary method
+linktitle: RequestDictionary
 second_title: Aspose.Words for C++ API Reference
-description: Notifies application that hyphenation dictionary for the specified language wasn't found and may need to be registered. Implementation should find a dictionary and register it using RegisterDictionary() methods. If dictionary is unavailable for the specified language implementation can opt out of further calls for the same language using RegisterDictionary() with null value.
+description: Aspose::Words::IHyphenationCallback::RequestDictionary method. Notifies application that hyphenation dictionary for the specified language wasn't found and may need to be registered. Implementation should find a dictionary and register it using RegisterDictionary() methods. If dictionary is unavailable for the specified language implementation can opt out of further calls for the same language using RegisterDictionary() with null value in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/ihyphenationcallback/requestdictionary/
@@ -96,4 +97,4 @@ private:
 
 * Interface [IHyphenationCallback](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

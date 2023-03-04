@@ -1,7 +1,8 @@
 ---
-title: ImportFormatOptions
+title: Aspose::Words::ImportFormatOptions class
+linktitle: ImportFormatOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify various import options to format output.
+description: Aspose::Words::ImportFormatOptions class. Allows to specify various import options to format output in C++.
 type: docs
 weight: 443
 url: /cpp/aspose.words/importformatoptions/
@@ -69,4 +70,4 @@ dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

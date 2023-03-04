@@ -1,7 +1,8 @@
 ---
-title: get_SmartParagraphBreakReplacement
+title: Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement method
+linktitle: get_SmartParagraphBreakReplacement
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a boolean value indicating either it is allowed to replace paragraph break when there is no next sibling paragraph. The default value is false.
+description: Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement method. Gets or sets a boolean value indicating either it is allowed to replace paragraph break when there is no next sibling paragraph. The default value is false in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_smartparagraphbreakreplacement/
@@ -49,4 +50,4 @@ doc->Save(ArtifactsDir + u"Table.RemoveParagraphTextAndMark.docx");
 
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

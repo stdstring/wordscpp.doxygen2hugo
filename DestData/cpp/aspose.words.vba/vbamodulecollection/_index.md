@@ -1,7 +1,8 @@
 ---
-title: VbaModuleCollection
+title: Aspose::Words::Vba::VbaModuleCollection class
+linktitle: VbaModuleCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of VbaModule objects.
+description: Aspose::Words::Vba::VbaModuleCollection class. Represents a collection of VbaModule objects in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbamodulecollection/
@@ -80,4 +81,4 @@ vbaModules->Remove(vbaModules->idx_get(2));
 ## See Also
 
 * Namespace [Aspose::Words::Vba](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

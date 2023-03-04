@@ -1,7 +1,8 @@
 ---
-title: ListTemplate
+title: Aspose::Words::Lists::ListTemplate enum
+linktitle: ListTemplate
 second_title: Aspose.Words for C++ API Reference
-description: Specifies one of the predefined list formats available in Microsoft Word.
+description: Aspose::Words::Lists::ListTemplate enum. Specifies one of the predefined list formats available in Microsoft Word in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.lists/listtemplate/
@@ -186,4 +187,4 @@ static void AddOutlineHeadingParagraphs(SharedPtr<DocumentBuilder> builder, Shar
 ## See Also
 
 * Namespace [Aspose::Words::Lists](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

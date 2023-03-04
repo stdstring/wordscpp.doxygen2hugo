@@ -1,7 +1,8 @@
 ---
-title: FixedPageSaveOptions
+title: Aspose::Words::Saving::FixedPageSaveOptions class
+linktitle: FixedPageSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc).
+description: Aspose::Words::Saving::FixedPageSaveOptions class. Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc) in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/
@@ -138,4 +139,4 @@ for (int i = 0; i < doc->get_PageCount(); i++)
 
 * Class [SaveOptions](../saveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

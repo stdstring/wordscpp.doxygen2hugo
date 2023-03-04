@@ -1,7 +1,8 @@
 ---
-title: get_UseYomi
+title: Aspose::Words::Fields::FieldIndex::get_UseYomi method
+linktitle: get_UseYomi
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to enable the use of yomi text for index entries.
+description: Aspose::Words::Fields::FieldIndex::get_UseYomi method. Gets or sets whether to enable the use of yomi text for index entries in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.fields/fieldindex/get_useyomi/
@@ -80,4 +81,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Yomi.docx");
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

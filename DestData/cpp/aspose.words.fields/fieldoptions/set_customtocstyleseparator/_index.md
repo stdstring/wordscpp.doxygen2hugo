@@ -1,7 +1,8 @@
 ---
-title: set_CustomTocStyleSeparator
+title: Aspose::Words::Fields::FieldOptions::set_CustomTocStyleSeparator method
+linktitle: set_CustomTocStyleSeparator
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator.'
+description: Aspose::Words::Fields::FieldOptions::set_CustomTocStyleSeparator method. Setter for Aspose::Words::Fields::FieldOptions::get_CustomTocStyleSeparator in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words.fields/fieldoptions/set_customtocstyleseparator/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldOptions::set_CustomTocStyleSeparator(const Syst
 
 * Class [FieldOptions](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

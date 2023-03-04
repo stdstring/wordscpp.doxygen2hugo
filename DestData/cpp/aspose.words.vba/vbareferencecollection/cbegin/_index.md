@@ -1,7 +1,8 @@
 ---
-title: cbegin
+title: Aspose::Words::Vba::VbaReferenceCollection::cbegin method
+linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use cbegin method of Aspose::Words::Vba::VbaReferenceCollection class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.vba/vbareferencecollection/cbegin/
@@ -20,4 +21,4 @@ const_iterator Aspose::Words::Vba::VbaReferenceCollection::cbegin() const noexce
 * Typedef [const_iterator](../const_iterator/)
 * Class [VbaReferenceCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

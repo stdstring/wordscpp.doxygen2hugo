@@ -1,7 +1,8 @@
 ---
-title: FieldToa
+title: Aspose::Words::Fields::FieldToa class
+linktitle: FieldToa
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TOA field.
+description: Aspose::Words::Fields::FieldToa class. Implements the TOA field in C++.
 type: docs
 weight: 1340
 url: /cpp/aspose.words.fields/fieldtoa/
@@ -188,4 +189,4 @@ static SharedPtr<FieldTA> InsertToaEntry(SharedPtr<DocumentBuilder> builder, Str
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

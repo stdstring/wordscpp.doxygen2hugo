@@ -1,7 +1,8 @@
 ---
-title: get_Type
+title: Aspose::Words::Layout::LayoutEnumerator::get_Type method
+linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
-description: Gets the type of the current entity.
+description: Aspose::Words::Layout::LayoutEnumerator::get_Type method. Gets the type of the current entity in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.layout/layoutenumerator/get_type/
@@ -147,4 +148,4 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 * Enum [LayoutEntityType](../../layoutentitytype/)
 * Class [LayoutEnumerator](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

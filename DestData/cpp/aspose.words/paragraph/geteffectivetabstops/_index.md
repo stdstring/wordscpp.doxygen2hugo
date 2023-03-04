@@ -1,7 +1,8 @@
 ---
-title: GetEffectiveTabStops
+title: Aspose::Words::Paragraph::GetEffectiveTabStops method
+linktitle: GetEffectiveTabStops
 second_title: Aspose.Words for C++ API Reference
-description: Returns array of all tab stops applied to this paragraph, including applied indirectly by styles or lists.
+description: Aspose::Words::Paragraph::GetEffectiveTabStops method. Returns array of all tab stops applied to this paragraph, including applied indirectly by styles or lists in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words/paragraph/geteffectivetabstops/
@@ -52,4 +53,4 @@ doc->Save(ArtifactsDir + u"Paragraph.TabStops.docx");
 * Class [TabStop](../../tabstop/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: StructuredDocumentTagCollection
+title: Aspose::Words::Markup::StructuredDocumentTagCollection class
+linktitle: StructuredDocumentTagCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of IStructuredDocumentTag instances that represent the structured document tags in the specified range.
+description: Aspose::Words::Markup::StructuredDocumentTagCollection class. A collection of IStructuredDocumentTag instances that represent the structured document tags in the specified range in C++.
 type: docs
 weight: 144
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/
@@ -30,4 +31,4 @@ class StructuredDocumentTagCollection : public System::Collections::Generic::IEn
 ## See Also
 
 * Namespace [Aspose::Words::Markup](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,7 +1,8 @@
 ---
-title: get_ExportEmbeddedImages
+title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages method
+linktitle: get_ExportEmbeddedImages
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether images should be embedded into Html document in Base64 format. Note setting this flag can significantly increase size of output Html file.
+description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedImages method. Specifies whether images should be embedded into Html document in Base64 format. Note setting this flag can significantly increase size of output Html file in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportembeddedimages/
@@ -58,4 +59,4 @@ else
 
 * Class [HtmlFixedSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

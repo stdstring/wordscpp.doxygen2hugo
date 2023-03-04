@@ -1,7 +1,8 @@
 ---
-title: begin
+title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin method
+linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use begin method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/begin/
@@ -20,7 +21,7 @@ const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::beg
 * Typedef [const_iterator](../const_iterator/)
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DigitalSignatureCollection::begin() method
 
 
@@ -35,4 +36,4 @@ iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin() n
 * Typedef [iterator](../iterator/)
 * Class [DigitalSignatureCollection](../)
 * Namespace [Aspose::Words::DigitalSignatures](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_ShortCitation
+title: Aspose::Words::Fields::FieldTA::get_ShortCitation method
+linktitle: get_ShortCitation
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the short citation for the entry.
+description: Aspose::Words::Fields::FieldTA::get_ShortCitation method. Gets or sets the short citation for the entry in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.fields/fieldta/get_shortcitation/
@@ -141,4 +142,4 @@ static SharedPtr<FieldTA> InsertToaEntry(SharedPtr<DocumentBuilder> builder, Str
 
 * Class [FieldTA](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: ThemeFont
+title: Aspose::Words::Themes::ThemeFont enum
+linktitle: ThemeFont
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the types of theme font names for document themes.
+description: Aspose::Words::Themes::ThemeFont enum. Specifies the types of theme font names for document themes in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.themes/themefont/
@@ -130,4 +131,4 @@ builder->Writeln(u"Text with themed style");
 ## See Also
 
 * Namespace [Aspose::Words::Themes](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

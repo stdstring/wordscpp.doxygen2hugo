@@ -1,7 +1,8 @@
 ---
-title: get_ConsecutiveHyphenLimit
+title: Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit method
+linktitle: get_ConsecutiveHyphenLimit
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the maximum number of consecutive lines that can end with hyphens. Default value for this property is 0.
+description: Aspose::Words::Settings::HyphenationOptions::get_ConsecutiveHyphenLimit method. Gets or sets the maximum number of consecutive lines that can end with hyphens. Default value for this property is 0 in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.settings/hyphenationoptions/get_consecutivehyphenlimit/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Document.HyphenationOptions.docx");
 
 * Class [HyphenationOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

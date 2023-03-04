@@ -1,7 +1,8 @@
 ---
-title: get_Compliance
+title: Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance method
+linktitle: get_Compliance
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the OOXML version for the output document. The default value is Ecma376_2006.
+description: Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance method. Specifies the OOXML version for the output document. The default value is Ecma376_2006 in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/get_compliance/
@@ -105,4 +106,4 @@ doc->Save(ArtifactsDir + u"Shape.ShapeInsertion.docx", saveOptions);
 * Enum [OoxmlCompliance](../../ooxmlcompliance/)
 * Class [OoxmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

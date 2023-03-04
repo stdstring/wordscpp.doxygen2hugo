@@ -1,7 +1,8 @@
 ---
-title: FieldFileSize
+title: Aspose::Words::Fields::FieldFileSize class
+linktitle: FieldFileSize
 second_title: Aspose.Words for C++ API Reference
-description: Implements the FILESIZE field.
+description: Aspose::Words::Fields::FieldFileSize class. Implements the FILESIZE field in C++.
 type: docs
 weight: 534
 url: /cpp/aspose.words.fields/fieldfilesize/
@@ -103,4 +104,4 @@ doc->Save(ArtifactsDir + u"Field.FILESIZE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

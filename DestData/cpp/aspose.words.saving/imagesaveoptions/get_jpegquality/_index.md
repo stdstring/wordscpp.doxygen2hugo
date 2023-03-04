@@ -1,7 +1,8 @@
 ---
-title: get_JpegQuality
+title: Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality method
+linktitle: get_JpegQuality
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining the quality of the generated JPEG images.
+description: Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality method. Gets or sets a value determining the quality of the generated JPEG images in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.saving/imagesaveoptions/get_jpegquality/
@@ -59,4 +60,4 @@ ASSERT_LT(60000, MakeObject<System::IO::FileInfo>(ArtifactsDir + u"ImageSaveOpti
 
 * Class [ImageSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

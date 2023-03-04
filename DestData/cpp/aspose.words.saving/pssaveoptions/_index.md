@@ -1,7 +1,8 @@
 ---
-title: PsSaveOptions
+title: Aspose::Words::Saving::PsSaveOptions class
+linktitle: PsSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Ps format.
+description: Aspose::Words::Saving::PsSaveOptions class. Can be used to specify additional options when saving a document into the Ps format in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words.saving/pssaveoptions/
@@ -113,4 +114,4 @@ doc->Save(ArtifactsDir + u"PsSaveOptions.UseBookFoldPrintingSettings.ps", saveOp
 
 * Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

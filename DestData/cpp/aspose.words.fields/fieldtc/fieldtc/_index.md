@@ -1,7 +1,8 @@
 ---
-title: FieldTC
+title: Aspose::Words::Fields::FieldTC::FieldTC constructor
+linktitle: FieldTC
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use FieldTC constructor of Aspose::Words::Fields::FieldTC class in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/fieldtc/fieldtc/
@@ -19,4 +20,4 @@ Aspose::Words::Fields::FieldTC::FieldTC()
 
 * Class [FieldTC](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

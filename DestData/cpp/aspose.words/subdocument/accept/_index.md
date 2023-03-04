@@ -1,7 +1,8 @@
 ---
-title: Accept
+title: Aspose::Words::SubDocument::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: Aspose::Words::SubDocument::Accept method. Accepts a visitor in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/subdocument/accept/
@@ -169,4 +170,4 @@ private:
 * Class [DocumentVisitor](../../documentvisitor/)
 * Class [SubDocument](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

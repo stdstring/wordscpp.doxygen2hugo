@@ -1,7 +1,8 @@
 ---
-title: get_WarningCallback
+title: Aspose::Words::Loading::LoadOptions::get_WarningCallback method
+linktitle: get_WarningCallback
 second_title: Aspose.Words for C++ API Reference
-description: Called during a load operation, when an issue is detected that might result in data or formatting fidelity loss.
+description: Aspose::Words::Loading::LoadOptions::get_WarningCallback method. Called during a load operation, when an issue is detected that might result in data or formatting fidelity loss in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.loading/loadoptions/get_warningcallback/
@@ -67,4 +68,4 @@ private:
 * Interface [IWarningCallback](../../../aspose.words/iwarningcallback/)
 * Class [LoadOptions](../)
 * Namespace [Aspose::Words::Loading](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: VisitGroupShapeEnd
+title: Aspose::Words::DocumentVisitor::VisitGroupShapeEnd method
+linktitle: VisitGroupShapeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a group shape has ended.
+description: Aspose::Words::DocumentVisitor::VisitGroupShapeEnd method. Called when enumeration of a group shape has ended in C++.
 type: docs
 weight: 326
 url: /cpp/aspose.words/documentvisitor/visitgroupshapeend/
@@ -114,4 +115,4 @@ private:
 * Class [GroupShape](../../../aspose.words.drawing/groupshape/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

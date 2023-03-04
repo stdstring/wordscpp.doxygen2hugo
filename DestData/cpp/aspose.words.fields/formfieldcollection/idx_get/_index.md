@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::Fields::FormFieldCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Returns a form field by bookmark name.
+description: Aspose::Words::Fields::FormFieldCollection::idx_get method. Returns a form field by bookmark name in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/formfieldcollection/idx_get/
@@ -158,7 +159,7 @@ private:
 * Class [FormField](../../formfield/)
 * Class [FormFieldCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## FormFieldCollection::idx_get(int32_t) method
 
 
@@ -321,4 +322,4 @@ private:
 * Class [FormField](../../formfield/)
 * Class [FormFieldCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

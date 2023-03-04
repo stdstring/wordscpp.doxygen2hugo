@@ -1,7 +1,8 @@
 ---
-title: get_DeletedTextColor
+title: Aspose::Words::Layout::RevisionOptions::get_DeletedTextColor method
+linktitle: get_DeletedTextColor
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify the color to be used for deleted content Deletion. Default value is ByAuthor.
+description: Aspose::Words::Layout::RevisionOptions::get_DeletedTextColor method. Allows to specify the color to be used for deleted content Deletion. Default value is ByAuthor in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.layout/revisionoptions/get_deletedtextcolor/
@@ -70,4 +71,4 @@ doc->Save(ArtifactsDir + u"Revision.RevisionOptions.pdf");
 * Enum [RevisionColor](../../revisioncolor/)
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

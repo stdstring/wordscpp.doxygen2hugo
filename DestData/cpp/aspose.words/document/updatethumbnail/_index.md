@@ -1,7 +1,8 @@
 ---
-title: UpdateThumbnail
+title: Aspose::Words::Document::UpdateThumbnail method
+linktitle: UpdateThumbnail
 second_title: Aspose.Words for C++ API Reference
-description: Updates Thumbnail of the document using default options.
+description: Aspose::Words::Document::UpdateThumbnail method. Updates Thumbnail of the document using default options in C++.
 type: docs
 weight: 1197
 url: /cpp/aspose.words/document/updatethumbnail/
@@ -46,7 +47,7 @@ doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::UpdateThumbnail(const System::SharedPtr\<Aspose::Words::Rendering::ThumbnailGeneratingOptions\>\&) method
 
 
@@ -92,4 +93,4 @@ doc->Save(ArtifactsDir + u"Document.UpdateThumbnail.FirstImage.epub");
 * Class [ThumbnailGeneratingOptions](../../../aspose.words.rendering/thumbnailgeneratingoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

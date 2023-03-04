@@ -1,7 +1,8 @@
 ---
-title: FieldDocProperty
+title: Aspose::Words::Fields::FieldDocProperty class
+linktitle: FieldDocProperty
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DOCPROPERTY field.
+description: Aspose::Words::Fields::FieldDocProperty class. Implements the DOCPROPERTY field in C++.
 type: docs
 weight: 443
 url: /cpp/aspose.words.fields/fielddocproperty/
@@ -83,4 +84,4 @@ doc->Save(ArtifactsDir + u"Field.DOCPROPERTY.DOCVARIABLE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

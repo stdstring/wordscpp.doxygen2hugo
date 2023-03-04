@@ -1,7 +1,8 @@
 ---
-title: Remove
+title: Aspose::Words::Fields::FormFieldCollection::Remove method
+linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Removes a form field with the specified name.
+description: Aspose::Words::Fields::FormFieldCollection::Remove method. Removes a form field with the specified name in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.fields/formfieldcollection/remove/
@@ -157,4 +158,4 @@ private:
 
 * Class [FormFieldCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

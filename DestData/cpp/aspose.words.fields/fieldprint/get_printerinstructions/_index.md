@@ -1,7 +1,8 @@
 ---
-title: get_PrinterInstructions
+title: Aspose::Words::Fields::FieldPrint::get_PrinterInstructions method
+linktitle: get_PrinterInstructions
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the printer-specific control code characters or PostScript instructions.
+description: Aspose::Words::Fields::FieldPrint::get_PrinterInstructions method. Gets or sets the printer-specific control code characters or PostScript instructions in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words.fields/fieldprint/get_printerinstructions/
@@ -48,4 +49,4 @@ doc->Save(ArtifactsDir + u"Field.PRINT.docx");
 
 * Class [FieldPrint](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

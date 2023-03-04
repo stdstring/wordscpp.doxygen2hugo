@@ -1,7 +1,8 @@
 ---
-title: get_LastSection
+title: Aspose::Words::Document::get_LastSection method
+linktitle: get_LastSection
 second_title: Aspose.Words for C++ API Reference
-description: Gets the last section in the document.
+description: Aspose::Words::Document::get_LastSection method. Gets the last section in the document in C++.
 type: docs
 weight: 404
 url: /cpp/aspose.words/document/get_lastsection/
@@ -56,4 +57,4 @@ doc->Save(ArtifactsDir + u"Section.Create.docx");
 * Class [Section](../../section/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

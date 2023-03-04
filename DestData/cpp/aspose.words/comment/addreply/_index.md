@@ -1,7 +1,8 @@
 ---
-title: AddReply
+title: Aspose::Words::Comment::AddReply method
+linktitle: AddReply
 second_title: Aspose.Words for C++ API Reference
-description: Adds a reply to this comment.
+description: Aspose::Words::Comment::AddReply method. Adds a reply to this comment in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words/comment/addreply/
@@ -64,4 +65,4 @@ doc->Save(ArtifactsDir + u"Comment.AddCommentWithReply.docx");
 * Class [Comment](../)
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

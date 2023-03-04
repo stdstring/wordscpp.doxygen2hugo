@@ -1,7 +1,8 @@
 ---
-title: VisitCommentRangeEnd
+title: Aspose::Words::DocumentVisitor::VisitCommentRangeEnd method
+linktitle: VisitCommentRangeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when the end of a commented range of text is encountered.
+description: Aspose::Words::DocumentVisitor::VisitCommentRangeEnd method. Called when the end of a commented range of text is encountered in C++.
 type: docs
 weight: 131
 url: /cpp/aspose.words/documentvisitor/visitcommentrangeend/
@@ -127,4 +128,4 @@ private:
 * Class [CommentRangeEnd](../../commentrangeend/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

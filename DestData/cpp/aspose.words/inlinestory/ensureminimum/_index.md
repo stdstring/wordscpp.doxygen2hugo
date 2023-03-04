@@ -1,7 +1,8 @@
 ---
-title: EnsureMinimum
+title: Aspose::Words::InlineStory::EnsureMinimum method
+linktitle: EnsureMinimum
 second_title: Aspose.Words for C++ API Reference
-description: If the last child is not a paragraph, creates and appends one empty paragraph.
+description: Aspose::Words::InlineStory::EnsureMinimum method. If the last child is not a paragraph, creates and appends one empty paragraph in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/inlinestory/ensureminimum/
@@ -78,4 +79,4 @@ doc->Save(ArtifactsDir + u"InlineStory.InsertInlineStoryNodes.docx");
 
 * Class [InlineStory](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

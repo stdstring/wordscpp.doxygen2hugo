@@ -1,7 +1,8 @@
 ---
-title: VisitFieldEnd
+title: Aspose::Words::DocumentVisitor::VisitFieldEnd method
+linktitle: VisitFieldEnd
 second_title: Aspose.Words for C++ API Reference
-description: Called when a field ends in the document.
+description: Aspose::Words::DocumentVisitor::VisitFieldEnd method. Called when a field ends in the document in C++.
 type: docs
 weight: 222
 url: /cpp/aspose.words/documentvisitor/visitfieldend/
@@ -119,4 +120,4 @@ private:
 * Class [FieldEnd](../../../aspose.words.fields/fieldend/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

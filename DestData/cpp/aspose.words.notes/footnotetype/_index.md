@@ -1,7 +1,8 @@
 ---
-title: FootnoteType
+title: Aspose::Words::Notes::FootnoteType enum
+linktitle: FootnoteType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies whether this is a footnote or an endnote.
+description: Aspose::Words::Notes::FootnoteType enum. Specifies whether this is a footnote or an endnote in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.notes/footnotetype/
@@ -102,4 +103,4 @@ doc->Save(ArtifactsDir + u"InlineStory.AddFootnote.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Notes](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

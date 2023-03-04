@@ -1,7 +1,8 @@
 ---
-title: Equals
+title: Aspose::Words::BorderCollection::Equals method
+linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Compares collections of borders.
+description: Aspose::Words::BorderCollection::Equals method. Compares collections of borders in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/bordercollection/equals/
@@ -64,4 +65,4 @@ doc->Save(ArtifactsDir + u"Border.SharedElements.docx");
 * Class [BorderCollection](../)
 * Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

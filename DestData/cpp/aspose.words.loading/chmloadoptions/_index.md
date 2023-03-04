@@ -1,7 +1,8 @@
 ---
-title: ChmLoadOptions
+title: Aspose::Words::Loading::ChmLoadOptions class
+linktitle: ChmLoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify additional options when loading CHM document into a Document object.
+description: Aspose::Words::Loading::ChmLoadOptions class. Allows to specify additional options when loading CHM document into a Document object in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.loading/chmloadoptions/
@@ -58,4 +59,4 @@ class ChmLoadOptions : public Aspose::Words::Loading::LoadOptions
 
 * Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

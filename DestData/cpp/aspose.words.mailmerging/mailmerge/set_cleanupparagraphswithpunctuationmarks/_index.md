@@ -1,7 +1,8 @@
 ---
-title: set_CleanupParagraphsWithPunctuationMarks
+title: Aspose::Words::MailMerging::MailMerge::set_CleanupParagraphsWithPunctuationMarks method
+linktitle: set_CleanupParagraphsWithPunctuationMarks
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks.'
+description: Aspose::Words::MailMerging::MailMerge::set_CleanupParagraphsWithPunctuationMarks method. Setter for Aspose::Words::MailMerging::MailMerge::get_CleanupParagraphsWithPunctuationMarks in C++.
 type: docs
 weight: 313
 url: /cpp/aspose.words.mailmerging/mailmerge/set_cleanupparagraphswithpunctuationmarks/
@@ -19,4 +20,4 @@ void Aspose::Words::MailMerging::MailMerge::set_CleanupParagraphsWithPunctuation
 
 * Class [MailMerge](../)
 * Namespace [Aspose::Words::MailMerging](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

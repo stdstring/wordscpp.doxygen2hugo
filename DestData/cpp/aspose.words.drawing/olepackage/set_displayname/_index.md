@@ -1,7 +1,8 @@
 ---
-title: set_DisplayName
+title: Aspose::Words::Drawing::OlePackage::set_DisplayName method
+linktitle: set_DisplayName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::OlePackage::get_DisplayName.'
+description: Aspose::Words::Drawing::OlePackage::set_DisplayName method. Setter for Aspose::Words::Drawing::OlePackage::get_DisplayName in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.drawing/olepackage/set_displayname/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::OlePackage::set_DisplayName(System::String value)
 
 * Class [OlePackage](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

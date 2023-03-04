@@ -1,7 +1,8 @@
 ---
-title: get_VbaProject
+title: Aspose::Words::Document::get_VbaProject method
+linktitle: get_VbaProject
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a VbaProject.
+description: Aspose::Words::Document::get_VbaProject method. Gets or sets a VbaProject in C++.
 type: docs
 weight: 677
 url: /cpp/aspose.words/document/get_vbaproject/
@@ -54,4 +55,4 @@ vbaModules->Remove(vbaModules->idx_get(2));
 * Class [VbaProject](../../../aspose.words.vba/vbaproject/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

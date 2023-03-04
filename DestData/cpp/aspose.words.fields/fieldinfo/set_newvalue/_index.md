@@ -1,7 +1,8 @@
 ---
-title: set_NewValue
+title: Aspose::Words::Fields::FieldInfo::set_NewValue method
+linktitle: set_NewValue
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldInfo::get_NewValue.'
+description: Aspose::Words::Fields::FieldInfo::set_NewValue method. Setter for Aspose::Words::Fields::FieldInfo::get_NewValue in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fields/fieldinfo/set_newvalue/
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldInfo::set_NewValue(const System::String &value)
 
 * Class [FieldInfo](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: VisitGroupShapeStart
+title: Aspose::Words::DocumentVisitor::VisitGroupShapeStart method
+linktitle: VisitGroupShapeStart
 second_title: Aspose.Words for C++ API Reference
-description: Called when enumeration of a group shape has started.
+description: Aspose::Words::DocumentVisitor::VisitGroupShapeStart method. Called when enumeration of a group shape has started in C++.
 type: docs
 weight: 339
 url: /cpp/aspose.words/documentvisitor/visitgroupshapestart/
@@ -290,4 +291,4 @@ public:
 * Class [GroupShape](../../../aspose.words.drawing/groupshape/)
 * Class [DocumentVisitor](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

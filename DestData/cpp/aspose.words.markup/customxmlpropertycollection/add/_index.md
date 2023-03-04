@@ -1,7 +1,8 @@
 ---
-title: Add
+title: Aspose::Words::Markup::CustomXmlPropertyCollection::Add method
+linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds a property to the collection.
+description: Aspose::Words::Markup::CustomXmlPropertyCollection::Add method. Adds a property to the collection in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.markup/customxmlpropertycollection/add/
@@ -80,4 +81,4 @@ ASSERT_EQ(0, properties->get_Count());
 * Class [CustomXmlProperty](../../customxmlproperty/)
 * Class [CustomXmlPropertyCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

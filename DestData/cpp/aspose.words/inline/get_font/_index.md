@@ -1,7 +1,8 @@
 ---
-title: get_Font
+title: Aspose::Words::Inline::get_Font method
+linktitle: get_Font
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the font formatting of this object.
+description: Aspose::Words::Inline::get_Font method. Provides access to the font formatting of this object in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/inline/get_font/
@@ -69,4 +70,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 * Class [Font](../../font/)
 * Class [Inline](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_Theme
+title: Aspose::Words::Document::get_Theme method
+linktitle: get_Theme
 second_title: Aspose.Words for C++ API Reference
-description: Gets the Theme object for this document.
+description: Aspose::Words::Document::get_Theme method. Gets the Theme object for this document in C++.
 type: docs
 weight: 638
 url: /cpp/aspose.words/document/get_theme/
@@ -67,4 +68,4 @@ doc->Save(ArtifactsDir + u"Themes.CustomColorsAndFonts.docx");
 * Class [Theme](../../../aspose.words.themes/theme/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

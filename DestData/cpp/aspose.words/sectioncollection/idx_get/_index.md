@@ -1,7 +1,8 @@
 ---
-title: idx_get
+title: Aspose::Words::SectionCollection::idx_get method
+linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves a section at the given index.
+description: Aspose::Words::SectionCollection::idx_get method. Retrieves a section at the given index in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/sectioncollection/idx_get/
@@ -86,4 +87,4 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 * Class [Section](../../section/)
 * Class [SectionCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

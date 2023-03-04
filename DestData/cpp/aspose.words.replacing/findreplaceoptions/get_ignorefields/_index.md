@@ -1,7 +1,8 @@
 ---
-title: get_IgnoreFields
+title: Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields method
+linktitle: get_IgnoreFields
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a boolean value indicating either to ignore text inside fields. The default value is false.
+description: Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields method. Gets or sets a boolean value indicating either to ignore text inside fields. The default value is false in C++.
 type: docs
 weight: 92
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignorefields/
@@ -54,4 +55,4 @@ ASSERT_EQ(ignoreTextInsideFields ? String(u"Greetings world!\r\u0013QUOTE\u0014H
 
 * Class [FindReplaceOptions](../)
 * Namespace [Aspose::Words::Replacing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

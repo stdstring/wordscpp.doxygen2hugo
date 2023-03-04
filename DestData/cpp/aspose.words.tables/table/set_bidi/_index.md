@@ -1,7 +1,8 @@
 ---
-title: set_Bidi
+title: Aspose::Words::Tables::Table::set_Bidi method
+linktitle: set_Bidi
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Tables::Table::get_Bidi.'
+description: Aspose::Words::Tables::Table::set_Bidi method. Setter for Aspose::Words::Tables::Table::get_Bidi in C++.
 type: docs
 weight: 586
 url: /cpp/aspose.words.tables/table/set_bidi/
@@ -19,4 +20,4 @@ void Aspose::Words::Tables::Table::set_Bidi(bool value)
 
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

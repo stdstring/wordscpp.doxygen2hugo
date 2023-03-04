@@ -1,7 +1,8 @@
 ---
-title: get_ParentStory
+title: Aspose::Words::Paragraph::get_ParentStory method
+linktitle: get_ParentStory
 second_title: Aspose.Words for C++ API Reference
-description: Retrieves the parent section-level story that can be Body or HeaderFooter.
+description: Aspose::Words::Paragraph::get_ParentStory method. Retrieves the parent section-level story that can be Body or HeaderFooter in C++.
 type: docs
 weight: 287
 url: /cpp/aspose.words/paragraph/get_parentstory/
@@ -56,4 +57,4 @@ doc->Save(ArtifactsDir + u"HeaderFooter.Create.docx");
 * Class [Story](../../story/)
 * Class [Paragraph](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

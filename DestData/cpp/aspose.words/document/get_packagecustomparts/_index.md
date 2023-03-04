@@ -1,7 +1,8 @@
 ---
-title: get_PackageCustomParts
+title: Aspose::Words::Document::get_PackageCustomParts method
+linktitle: get_PackageCustomParts
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the collection of custom parts (arbitrary content) that are linked to the OOXML package using "unknown relationships".
+description: Aspose::Words::Document::get_PackageCustomParts method. Gets or sets the collection of custom parts (arbitrary content) that are linked to the OOXML package using "unknown relationships" in C++.
 type: docs
 weight: 495
 url: /cpp/aspose.words/document/get_packagecustomparts/
@@ -75,4 +76,4 @@ ASSERT_EQ(0, doc->get_PackageCustomParts()->get_Count());
 * Class [CustomPartCollection](../../../aspose.words.markup/custompartcollection/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

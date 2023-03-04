@@ -1,7 +1,8 @@
 ---
-title: set_Hidden
+title: Aspose::Words::Drawing::Charts::ChartAxis::set_Hidden method
+linktitle: set_Hidden
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden.'
+description: Aspose::Words::Drawing::Charts::ChartAxis::set_Hidden method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden in C++.
 type: docs
 weight: 404
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_hidden/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Charts::ChartAxis::set_Hidden(bool value)
 
 * Class [ChartAxis](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

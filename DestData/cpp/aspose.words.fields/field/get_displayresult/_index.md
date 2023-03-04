@@ -1,7 +1,8 @@
 ---
-title: get_DisplayResult
+title: Aspose::Words::Fields::Field::get_DisplayResult method
+linktitle: get_DisplayResult
 second_title: Aspose.Words for C++ API Reference
-description: Gets the text that represents the displayed field result.
+description: Aspose::Words::Fields::Field::get_DisplayResult method. Gets the text that represents the displayed field result in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.fields/field/get_displayresult/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Field.DisplayResult.docx");
 
 * Class [Field](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

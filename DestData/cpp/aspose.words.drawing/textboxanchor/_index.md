@@ -1,7 +1,8 @@
 ---
-title: TextBoxAnchor
+title: Aspose::Words::Drawing::TextBoxAnchor enum
+linktitle: TextBoxAnchor
 second_title: Aspose.Words for C++ API Reference
-description: Specifies values used for shape text vertical alignment.
+description: Aspose::Words::Drawing::TextBoxAnchor enum. Specifies values used for shape text vertical alignment in C++.
 type: docs
 weight: 495
 url: /cpp/aspose.words.drawing/textboxanchor/
@@ -61,4 +62,4 @@ doc->Save(ArtifactsDir + u"Shape.VerticalAnchor.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

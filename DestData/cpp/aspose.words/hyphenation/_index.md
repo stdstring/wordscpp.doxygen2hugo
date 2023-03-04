@@ -1,7 +1,8 @@
 ---
-title: Hyphenation
+title: Aspose::Words::Hyphenation class
+linktitle: Hyphenation
 second_title: Aspose.Words for C++ API Reference
-description: Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated. To learn more, visit the  documentation article.
+description: Aspose::Words::Hyphenation class. Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated. To learn more, visit the  documentation article in C++.
 type: docs
 weight: 417
 url: /cpp/aspose.words/hyphenation/
@@ -105,4 +106,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

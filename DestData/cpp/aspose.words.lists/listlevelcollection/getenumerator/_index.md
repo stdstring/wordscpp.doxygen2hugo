@@ -1,7 +1,8 @@
 ---
-title: GetEnumerator
+title: Aspose::Words::Lists::ListLevelCollection::GetEnumerator method
+linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Gets the enumerator object that will enumerate levels in this list.
+description: Aspose::Words::Lists::ListLevelCollection::GetEnumerator method. Gets the enumerator object that will enumerate levels in this list in C++.
 type: docs
 weight: 66
 url: /cpp/aspose.words.lists/listlevelcollection/getenumerator/
@@ -85,4 +86,4 @@ doc->Save(ArtifactsDir + u"Lists.CreateListRestartAfterHigher.docx");
 * Class [ListLevel](../../listlevel/)
 * Class [ListLevelCollection](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

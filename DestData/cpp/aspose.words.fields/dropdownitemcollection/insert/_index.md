@@ -1,7 +1,8 @@
 ---
-title: Insert
+title: Aspose::Words::Fields::DropDownItemCollection::Insert method
+linktitle: Insert
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a string into the collection at the specified index.
+description: Aspose::Words::Fields::DropDownItemCollection::Insert method. Inserts a string into the collection at the specified index in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.fields/dropdownitemcollection/insert/
@@ -81,4 +82,4 @@ dropDownItems->Clear();
 
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: TextPath
+title: Aspose::Words::Drawing::TextPath class
+linktitle: TextPath
 second_title: Aspose.Words for C++ API Reference
-description: Defines the text and formatting of the text path (of a WordArt object).
+description: Aspose::Words::Drawing::TextPath class. Defines the text and formatting of the text path (of a WordArt object) in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.drawing/textpath/
@@ -173,4 +174,4 @@ static SharedPtr<Shape> AppendWordArt(SharedPtr<Document> doc, String text, Stri
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

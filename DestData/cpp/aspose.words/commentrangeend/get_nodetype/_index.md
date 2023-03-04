@@ -1,7 +1,8 @@
 ---
-title: get_NodeType
+title: Aspose::Words::CommentRangeEnd::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns CommentRangeEnd.
+description: Aspose::Words::CommentRangeEnd::get_NodeType method. Returns CommentRangeEnd in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words/commentrangeend/get_nodetype/
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../nodetype/)
 * Class [CommentRangeEnd](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

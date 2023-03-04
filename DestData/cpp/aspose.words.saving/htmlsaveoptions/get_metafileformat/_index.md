@@ -1,7 +1,8 @@
 ---
-title: get_MetafileFormat
+title: Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat method
+linktitle: get_MetafileFormat
 second_title: Aspose.Words for C++ API Reference
-description: Specifies in what format metafiles are saved when exporting to HTML, MHTML, or EPUB. Default value is Png, meaning that metafiles are rendered to raster PNG images.
+description: Aspose::Words::Saving::HtmlSaveOptions::get_MetafileFormat method. Specifies in what format metafiles are saved when exporting to HTML, MHTML, or EPUB. Default value is Png, meaning that metafiles are rendered to raster PNG images in C++.
 type: docs
 weight: 495
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_metafileformat/
@@ -83,4 +84,4 @@ case HtmlMetafileFormat::EmfOrWmf:
 * Enum [HtmlMetafileFormat](../../htmlmetafileformat/)
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_AlternativeText
+title: Aspose::Words::Drawing::ShapeBase::set_AlternativeText method
+linktitle: set_AlternativeText
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::ShapeBase::get_AlternativeText.'
+description: Aspose::Words::Drawing::ShapeBase::set_AlternativeText method. Setter for Aspose::Words::Drawing::ShapeBase::get_AlternativeText in C++.
 type: docs
 weight: 768
 url: /cpp/aspose.words.drawing/shapebase/set_alternativetext/
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::ShapeBase::set_AlternativeText(const System::String
 
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

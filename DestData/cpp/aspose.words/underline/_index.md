@@ -1,7 +1,8 @@
 ---
-title: Underline
+title: Aspose::Words::Underline enum
+linktitle: Underline
 second_title: Aspose.Words for C++ API Reference
-description: Indicates type of the underline applied to a font.
+description: Aspose::Words::Underline enum. Indicates type of the underline applied to a font in C++.
 type: docs
 weight: 1626
 url: /cpp/aspose.words/underline/
@@ -65,4 +66,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.InsertHyperlink.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

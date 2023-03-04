@@ -1,7 +1,8 @@
 ---
-title: get_StartAt
+title: Aspose::Words::Lists::ListLevel::get_StartAt method
+linktitle: get_StartAt
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the starting number for this list level.
+description: Aspose::Words::Lists::ListLevel::get_StartAt method. Returns or sets the starting number for this list level in C++.
 type: docs
 weight: 170
 url: /cpp/aspose.words.lists/listlevel/get_startat/
@@ -120,4 +121,4 @@ doc->Save(ArtifactsDir + u"Lists.RestartNumberingUsingListCopy.docx");
 
 * Class [ListLevel](../)
 * Namespace [Aspose::Words::Lists](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_ExtrusionEnabled
+title: Aspose::Words::Drawing::Shape::get_ExtrusionEnabled method
+linktitle: get_ExtrusionEnabled
 second_title: Aspose.Words for C++ API Reference
-description: Returns true if an extrusion effect is enabled.
+description: Aspose::Words::Drawing::Shape::get_ExtrusionEnabled method. Returns true if an extrusion effect is enabled in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.drawing/shape/get_extrusionenabled/
@@ -134,4 +135,4 @@ private:
 
 * Class [Shape](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

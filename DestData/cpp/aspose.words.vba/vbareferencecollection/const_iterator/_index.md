@@ -1,7 +1,8 @@
 ---
-title: const_iterator
+title: Aspose::Words::Vba::VbaReferenceCollection::const_iterator typedef
+linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: How to use Aspose::Words::Vba::VbaReferenceCollection::const_iterator typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.
 type: docs
 weight: 157
 url: /cpp/aspose.words.vba/vbareferencecollection/const_iterator/
@@ -19,4 +20,4 @@ using Aspose::Words::Vba::VbaReferenceCollection::const_iterator =  typename ite
 
 * Class [VbaReferenceCollection](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

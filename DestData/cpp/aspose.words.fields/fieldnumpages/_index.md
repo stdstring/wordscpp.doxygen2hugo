@@ -1,7 +1,8 @@
 ---
-title: FieldNumPages
+title: Aspose::Words::Fields::FieldNumPages class
+linktitle: FieldNumPages
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NUMPAGES field.
+description: Aspose::Words::Fields::FieldNumPages class. Implements the NUMPAGES field in C++.
 type: docs
 weight: 950
 url: /cpp/aspose.words.fields/fieldnumpages/
@@ -87,4 +88,4 @@ doc->Save(ArtifactsDir + u"Field.NUMCHARS.NUMWORDS.NUMPAGES.PAGE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

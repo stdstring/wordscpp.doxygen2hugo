@@ -1,7 +1,8 @@
 ---
-title: get_Title
+title: Aspose::Words::Tables::Table::get_Title method
+linktitle: get_Title
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets title of this table. It provides an alternative text representation of the information contained in the table.
+description: Aspose::Words::Tables::Table::get_Title method. Gets or sets title of this table. It provides an alternative text representation of the information contained in the table in C++.
 type: docs
 weight: 482
 url: /cpp/aspose.words.tables/table/get_title/
@@ -77,4 +78,4 @@ static SharedPtr<Table> CreateTable(SharedPtr<Document> doc, int rowCount, int c
 
 * Class [Table](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

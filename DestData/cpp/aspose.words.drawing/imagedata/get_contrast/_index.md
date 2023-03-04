@@ -1,7 +1,8 @@
 ---
-title: get_Contrast
+title: Aspose::Words::Drawing::ImageData::get_Contrast method
+linktitle: get_Contrast
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the contrast for the specified picture. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast).
+description: Aspose::Words::Drawing::ImageData::get_Contrast method. Gets or sets the contrast for the specified picture. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast) in C++.
 type: docs
 weight: 53
 url: /cpp/aspose.words.drawing/imagedata/get_contrast/
@@ -85,4 +86,4 @@ dstDoc->Save(ArtifactsDir + u"Drawing.ImageData.docx");
 
 * Class [ImageData](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

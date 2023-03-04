@@ -1,7 +1,8 @@
 ---
-title: set_UnderlineColor
+title: Aspose::Words::Font::set_UnderlineColor method
+linktitle: set_UnderlineColor
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Font::get_UnderlineColor.'
+description: Aspose::Words::Font::set_UnderlineColor method. Setter for Aspose::Words::Font::get_UnderlineColor in C++.
 type: docs
 weight: 1353
 url: /cpp/aspose.words/font/set_underlinecolor/
@@ -19,4 +20,4 @@ void Aspose::Words::Font::set_UnderlineColor(System::Drawing::Color value)
 
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

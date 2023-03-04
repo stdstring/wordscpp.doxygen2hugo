@@ -1,7 +1,8 @@
 ---
-title: SetLicense
+title: Aspose::Words::License::SetLicense method
+linktitle: SetLicense
 second_title: Aspose.Words for C++ API Reference
-description: Licenses the component.
+description: Aspose::Words::License::SetLicense method. Licenses the component in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/license/setlicense/
@@ -42,7 +43,7 @@ Shows how to initialize a license for Aspose.Words from a stream.
 
 * Class [License](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## License::SetLicense(const System::String\&) method
 
 
@@ -93,7 +94,7 @@ license->SetLicense(u"Aspose.Words.Cpp.lic");
 
 * Class [License](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## License::SetLicense(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -107,4 +108,4 @@ template<typename CharType,typename Traits> void Aspose::Words::License::SetLice
 
 * Class [License](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

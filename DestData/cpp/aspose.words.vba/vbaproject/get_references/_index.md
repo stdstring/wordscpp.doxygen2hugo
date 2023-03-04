@@ -1,7 +1,8 @@
 ---
-title: get_References
+title: Aspose::Words::Vba::VbaProject::get_References method
+linktitle: get_References
 second_title: Aspose.Words for C++ API Reference
-description: Gets a collection of VBA project references.
+description: Aspose::Words::Vba::VbaProject::get_References method. Gets a collection of VBA project references in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.vba/vbaproject/get_references/
@@ -20,4 +21,4 @@ System::SharedPtr<Aspose::Words::Vba::VbaReferenceCollection> Aspose::Words::Vba
 * Class [VbaReferenceCollection](../../vbareferencecollection/)
 * Class [VbaProject](../)
 * Namespace [Aspose::Words::Vba](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

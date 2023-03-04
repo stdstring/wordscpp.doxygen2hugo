@@ -1,7 +1,8 @@
 ---
-title: EditorType
+title: Aspose::Words::EditorType enum
+linktitle: EditorType
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the set of possible aliases (or editing groups) which can be used as aliases to determine if the current user shall be allowed to edit a single range defined by an editable range within a document.
+description: Aspose::Words::EditorType enum. Specifies the set of possible aliases (or editing groups) which can be used as aliases to determine if the current user shall be allowed to edit a single range defined by an editable range within a document in C++.
 type: docs
 weight: 1132
 url: /cpp/aspose.words/editortype/
@@ -139,4 +140,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

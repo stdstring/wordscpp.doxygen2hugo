@@ -1,7 +1,8 @@
 ---
-title: FieldAutoNumOut
+title: Aspose::Words::Fields::FieldAutoNumOut class
+linktitle: FieldAutoNumOut
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTONUMOUT field.
+description: Aspose::Words::Fields::FieldAutoNumOut class. Implements the AUTONUMOUT field in C++.
 type: docs
 weight: 170
 url: /cpp/aspose.words.fields/fieldautonumout/
@@ -77,4 +78,4 @@ doc->Save(ArtifactsDir + u"Field.AUTONUMOUT.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

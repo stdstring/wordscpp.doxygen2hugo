@@ -1,7 +1,8 @@
 ---
-title: get_AxisX
+title: Aspose::Words::Drawing::Charts::Chart::get_AxisX method
+linktitle: get_AxisX
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to properties of the X axis of the chart.
+description: Aspose::Words::Drawing::Charts::Chart::get_AxisX method. Provides access to properties of the X axis of the chart in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words.drawing.charts/chart/get_axisx/
@@ -71,4 +72,4 @@ doc->Save(ArtifactsDir + u"Charts.AxisProperties.docx");
 * Class [ChartAxis](../../chartaxis/)
 * Class [Chart](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

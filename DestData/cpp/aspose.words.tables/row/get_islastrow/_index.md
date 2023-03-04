@@ -1,7 +1,8 @@
 ---
-title: get_IsLastRow
+title: Aspose::Words::Tables::Row::get_IsLastRow method
+linktitle: get_IsLastRow
 second_title: Aspose.Words for C++ API Reference
-description: True if this is the last row in a table; false otherwise.
+description: Aspose::Words::Tables::Row::get_IsLastRow method. True if this is the last row in a table; false otherwise in C++.
 type: docs
 weight: 79
 url: /cpp/aspose.words.tables/row/get_islastrow/
@@ -47,4 +48,4 @@ doc->Save(ArtifactsDir + u"Table.KeepTableTogether.docx");
 
 * Class [Row](../)
 * Namespace [Aspose::Words::Tables](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

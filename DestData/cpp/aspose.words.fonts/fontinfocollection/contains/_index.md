@@ -1,7 +1,8 @@
 ---
-title: Contains
+title: Aspose::Words::Fonts::FontInfoCollection::Contains method
+linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
-description: Determines whether the collection contains a font with the given name.
+description: Aspose::Words::Fonts::FontInfoCollection::Contains method. Determines whether the collection contains a font with the given name in C++.
 type: docs
 weight: 40
 url: /cpp/aspose.words.fonts/fontinfocollection/contains/
@@ -47,4 +48,4 @@ ASSERT_TRUE(doc->get_FontInfos()->Contains(u"Arial"));
 
 * Class [FontInfoCollection](../)
 * Namespace [Aspose::Words::Fonts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: set_RevisionBarsWidth
+title: Aspose::Words::Layout::RevisionOptions::set_RevisionBarsWidth method
+linktitle: set_RevisionBarsWidth
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth.'
+description: Aspose::Words::Layout::RevisionOptions::set_RevisionBarsWidth method. Setter for Aspose::Words::Layout::RevisionOptions::get_RevisionBarsWidth in C++.
 type: docs
 weight: 430
 url: /cpp/aspose.words.layout/revisionoptions/set_revisionbarswidth/
@@ -19,4 +20,4 @@ void Aspose::Words::Layout::RevisionOptions::set_RevisionBarsWidth(float value)
 
 * Class [RevisionOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

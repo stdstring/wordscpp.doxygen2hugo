@@ -1,7 +1,8 @@
 ---
-title: ClearFormatting
+title: Aspose::Words::BorderCollection::ClearFormatting method
+linktitle: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Removes all borders of an object.
+description: Aspose::Words::BorderCollection::ClearFormatting method. Removes all borders of an object in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/bordercollection/clearformatting/
@@ -51,4 +52,4 @@ doc->Save(ArtifactsDir + u"BorderCollection.RemoveAllBorders.docx");
 
 * Class [BorderCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

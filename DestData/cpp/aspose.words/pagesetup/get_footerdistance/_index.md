@@ -1,7 +1,8 @@
 ---
-title: get_FooterDistance
+title: Aspose::Words::PageSetup::get_FooterDistance method
+linktitle: get_FooterDistance
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets the distance (in points) between the footer and the bottom of the page.
+description: Aspose::Words::PageSetup::get_FooterDistance method. Returns or sets the distance (in points) between the footer and the bottom of the page in C++.
 type: docs
 weight: 183
 url: /cpp/aspose.words/pagesetup/get_footerdistance/
@@ -43,4 +44,4 @@ doc->Save(ArtifactsDir + u"PageSetup.PageMargins.docx");
 
 * Class [PageSetup](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

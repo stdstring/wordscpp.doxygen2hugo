@@ -1,7 +1,8 @@
 ---
-title: get_SourceItem
+title: Aspose::Words::Fields::FieldDdeAuto::get_SourceItem method
+linktitle: get_SourceItem
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the portion of the source file that's being linked.
+description: Aspose::Words::Fields::FieldDdeAuto::get_SourceItem method. Gets or sets the portion of the source file that's being linked in C++.
 type: docs
 weight: 118
 url: /cpp/aspose.words.fields/fieldddeauto/get_sourceitem/
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldDdeAuto](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

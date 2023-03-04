@@ -1,7 +1,8 @@
 ---
-title: get_ContentType
+title: Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType method
+linktitle: get_ContentType
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the ContentStatus of the document.
+description: Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentType method. Gets or sets the ContentStatus of the document in C++.
 type: docs
 weight: 105
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_contenttype/
@@ -125,4 +126,4 @@ private:
 
 * Class [BuiltInDocumentProperties](../)
 * Namespace [Aspose::Words::Properties](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

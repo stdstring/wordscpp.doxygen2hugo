@@ -1,7 +1,8 @@
 ---
-title: get_Id
+title: Aspose::Words::Markup::StructuredDocumentTag::get_Id method
+linktitle: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Specifies a unique read-only persistent numerical Id for this SDT.
+description: Aspose::Words::Markup::StructuredDocumentTag::get_Id method. Specifies a unique read-only persistent numerical Id for this SDT in C++.
 type: docs
 weight: 196
 url: /cpp/aspose.words.markup/structureddocumenttag/get_id/
@@ -85,4 +86,4 @@ doc->Save(ArtifactsDir + u"StructuredDocumentTag.PlainText.docx");
 
 * Class [StructuredDocumentTag](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

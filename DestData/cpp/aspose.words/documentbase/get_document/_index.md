@@ -1,7 +1,8 @@
 ---
-title: get_Document
+title: Aspose::Words::DocumentBase::get_Document method
+linktitle: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Gets the document to which this node belongs.
+description: Aspose::Words::DocumentBase::get_Document method. Gets the document to which this node belongs in C++.
 type: docs
 weight: 14
 url: /cpp/aspose.words/documentbase/get_document/
@@ -55,4 +56,4 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 * Class [DocumentBase](../)
 * Class [DocumentBase](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

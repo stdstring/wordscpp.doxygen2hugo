@@ -1,7 +1,8 @@
 ---
-title: get_ThemeFontFarEast
+title: Aspose::Words::Font::get_ThemeFontFarEast method
+linktitle: get_ThemeFontFarEast
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the East Asian theme font in the applied font scheme that is associated with this Font object.
+description: Aspose::Words::Font::get_ThemeFontFarEast method. Gets or sets the East Asian theme font in the applied font scheme that is associated with this Font object in C++.
 type: docs
 weight: 651
 url: /cpp/aspose.words/font/get_themefontfareast/
@@ -106,4 +107,4 @@ ASSERT_EQ(System::Drawing::Color::get_Blue().ToArgb(), font->get_Color().ToArgb(
 * Enum [ThemeFont](../../../aspose.words.themes/themefont/)
 * Class [Font](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,7 +1,8 @@
 ---
-title: get_MeasureUnit
+title: Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit method
+linktitle: get_MeasureUnit
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify units of measure to apply to document content. The default value is Centimeters
+description: Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit method. Allows to specify units of measure to apply to document content. The default value is Centimeters in C++.
 type: docs
 weight: 27
 url: /cpp/aspose.words.saving/odtsaveoptions/get_measureunit/
@@ -40,4 +41,4 @@ doc->Save(ArtifactsDir + u"OdtSaveOptions.Odt11Schema.odt", saveOptions);
 * Enum [OdtSaveMeasureUnit](../../odtsavemeasureunit/)
 * Class [OdtSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

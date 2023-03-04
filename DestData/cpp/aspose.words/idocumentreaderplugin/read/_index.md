@@ -1,7 +1,8 @@
 ---
-title: Read
+title: Aspose::Words::IDocumentReaderPlugin::Read method
+linktitle: Read
 second_title: Aspose.Words for C++ API Reference
-description: Reads the data from the specified stream into the Document instance.
+description: Aspose::Words::IDocumentReaderPlugin::Read method. Reads the data from the specified stream into the Document instance in C++.
 type: docs
 weight: 1
 url: /cpp/aspose.words/idocumentreaderplugin/read/
@@ -28,4 +29,4 @@ virtual void Aspose::Words::IDocumentReaderPlugin::Read(System::SharedPtr<System
 * Class [Document](../../document/)
 * Interface [IDocumentReaderPlugin](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
