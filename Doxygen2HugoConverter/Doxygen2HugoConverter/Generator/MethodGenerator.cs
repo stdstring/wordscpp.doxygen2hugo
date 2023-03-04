@@ -43,7 +43,7 @@ namespace Doxygen2HugoConverter.Generator
             if (isFirst)
             {
                 String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
-                GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, methodUrl, state.Weight, state.ConvertData.SpecificInfo, builder);
+                GeneratorUtils.GenerateDefPageHeader($"{entity.QualifiedName} method", entity.Name, descriptionForTitle, methodUrl, state.Weight, state.ConvertData, builder);
                 state.IncreaseWeight();
             }
             IList<String> argsTypes = entity.Args.CreateArgTypeList();
@@ -189,7 +189,7 @@ namespace Doxygen2HugoConverter.Generator
                              .Where(reference => !String.IsNullOrEmpty(reference.RefId))
                              .DistinctBy(reference => reference.RefId)
                              .Iterate(reference => reference.GenerateSeeAlsoEntry(state, dest));
-            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, state.ConvertData.SpecificInfo, dest);
+            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, state.ConvertData, dest);
         }
     }
 }

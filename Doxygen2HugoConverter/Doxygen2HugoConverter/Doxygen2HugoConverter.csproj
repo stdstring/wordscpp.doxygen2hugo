@@ -13,12 +13,6 @@
     </AssemblyAttribute>
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="Aspose.Words.Specific.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="git log --pretty=format:%25%25H -n 1 &gt; $(ProjectDir)/$(OutputPath)/$(AssemblyName).hash" />
   </Target>

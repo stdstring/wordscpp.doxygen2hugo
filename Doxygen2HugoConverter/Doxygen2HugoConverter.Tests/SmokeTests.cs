@@ -12,9 +12,9 @@ namespace Doxygen2HugoConverter.Tests
         {
             const String sourceData = "..\\..\\..\\..\\..\\SourceData\\Doxygen\\";
             const String expectedData = "..\\..\\..\\..\\..\\DestData";
+            const String templates = "..\\..\\..\\..\\..\\SourceData\\Templates\\";
             const String actualData = ".\\out";
-            const String specificInfoSource = ".\\Aspose.Words.Specific.xml";
-            ConfigData configData = new ConfigData(sourceData, actualData, LogLevel.Info, specificInfoSource);
+            ConfigData configData = new ConfigData(sourceData, actualData, templates, "Aspose::Words", LogLevel.Info);
             Assert.DoesNotThrow(() => ConvertProcessor.Convert(configData));
             CheckTree(expectedData, actualData);
         }

@@ -15,7 +15,7 @@ namespace Doxygen2HugoConverter.Generator
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
-            GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, typedefUrl, state.Weight, state.ConvertData.SpecificInfo, builder);
+            GeneratorUtils.GenerateDefPageHeader($"{entity.QualifiedName} typedef", entity.Name, descriptionForTitle, typedefUrl, state.Weight, state.ConvertData, builder);
             state.IncreaseWeight();
             GeneratorUtils.GenerateHeader($"{entity.Name} typedef", 2, builder);
             String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
@@ -54,7 +54,7 @@ namespace Doxygen2HugoConverter.Generator
         private static void GenerateSeeAlso(this EntityDef.TypedefEntity entity, GenerateState state, StringBuilder dest)
         {
             GeneratorUtils.GenerateHeader("See Also", 2, dest);
-            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, state.ConvertData.SpecificInfo, dest);
+            entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, state.ConvertData, dest);
         }
     }
 }

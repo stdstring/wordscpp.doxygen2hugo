@@ -23,31 +23,21 @@ namespace Doxygen2HugoConverter.Generator
 
     internal static class GeneratorUtils
     {
-        public static void GeneratePageHeader(IEnumerable<KeyValuePair<String, String>> data, StringBuilder dest)
+        public static void GenerateDefPageHeader(String title, String linkTitle, String description, IList<String> url, Int32 weight, ConvertData convertData, StringBuilder dest)
         {
-            dest.AppendLine("---");
-            data.Iterate(item => { dest.AppendLine($"{item.Key}: {item.Value}"); });
-            dest.AppendLine("---");
-        }
-
-        public static void GenerateDefPageHeader(String title, String description, IList<String> url, Int32 weight, SpecificInfo specificInfo, StringBuilder dest)
-        {
-            String PrepareValue(String value) =>
-                value.IndexOf(':') switch
-                {
-                    -1 => value,
-                    _ => $"'{value}'"
-                };
-            KeyValuePair<String, String>[] data =
+            const String urlRemovablePrefix = $"/{Common.RootDirectory}/";
+            String refUrl = UrlGenerator.CreateUrl(url, false).TrimEnd('/');
+            if (refUrl.StartsWith(urlRemovablePrefix))
+                refUrl = refUrl.Substring(urlRemovablePrefix.Length);
+            String pageHeader = convertData.PageHeaderGenerator(new Dictionary<String, String>
             {
-                KeyValuePair.Create("title", PrepareValue(title)),
-                KeyValuePair.Create("second_title", specificInfo.PageSecondTitle),
-                KeyValuePair.Create("description", PrepareValue(description)),
-                KeyValuePair.Create("type", "docs"),
-                KeyValuePair.Create("weight", weight.ToString()),
-                KeyValuePair.Create("url", UrlGenerator.CreateUrl(url, false))
-            };
-            GeneratePageHeader(data, dest);
+                {"title", title},
+                {"linktitle", linkTitle},
+                {"description", description.TrimEnd('.')},
+                {"weight", weight.ToString()},
+                {"ref", refUrl}
+            });
+            dest.AppendLine(pageHeader);
         }
 
         public static void GenerateHeader(String headerText, Int32 headerLevel, StringBuilder dest)
@@ -108,7 +98,7 @@ namespace Doxygen2HugoConverter.Generator
             }
         }
 
-        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, SpecificInfo specificInfo, StringBuilder dest)
+        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, ConvertData convertData, StringBuilder dest)
         {
             IList<EntityDef> CreateParentList()
             {
@@ -148,7 +138,7 @@ namespace Doxygen2HugoConverter.Generator
                 parent.GenerateSeeAlsoEntry(parentUrl.ToString(), dest);
             }
             parentUrl.Append(Common.ParentUrl);
-            dest.AppendLine($"* Library {CreateLink(specificInfo.LibraryName, parentUrl.ToString())}");
+            dest.AppendLine($"* Library {CreateLink(convertData.LibraryName, parentUrl.ToString())}");
         }
     }
 }

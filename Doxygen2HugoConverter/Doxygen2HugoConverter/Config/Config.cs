@@ -2,7 +2,7 @@
 
 namespace Doxygen2HugoConverter.Config
 {
-    internal record ConfigData(String SourceDirectory, String DestDirectory, LogLevel LogLevel, String SpecificInfoSource);
+    internal record ConfigData(String SourceDirectory, String DestDirectory, String TemplatesDirectory, String NamespacePrefix, LogLevel LogLevel);
 
     internal abstract record ConfigResult
     {
@@ -39,19 +39,13 @@ namespace Doxygen2HugoConverter.Config
         private static bool CheckConfigKeys(IDictionary<String, String> configData)
         {
             // check mandatory keys
-            String[] mandatoryKeys = {SourceKey, DestKey, SpecificInfoSourceKey};
-            foreach (String key in mandatoryKeys)
-            {
-                if (!configData.ContainsKey(key) || String.IsNullOrEmpty(configData[key]))
-                    return false;
-            }
+            String[] mandatoryKeys = {SourceKey, DestKey, TemplatesKey, NamespaceKey};
+            if (mandatoryKeys.Any(key => !configData.ContainsKey(key) || String.IsNullOrEmpty(configData[key])))
+                return false;
             // check actual keys
-            ISet<String> allKeys = new HashSet<String> {SourceKey, DestKey, SpecificInfoSourceKey, LogLevelKey};
-            foreach ((String key, _) in configData)
-            {
-                if (!allKeys.Contains(key))
-                    return false;
-            }
+            ISet<String> allKeys = new HashSet<String> {SourceKey, DestKey, TemplatesKey, NamespaceKey, LogLevelKey};
+            if (configData.Keys.Any(key => !allKeys.Contains(key)))
+                return false;
             return true;
         }
 
@@ -88,7 +82,11 @@ namespace Doxygen2HugoConverter.Config
             (Boolean parseLogLevelResult, LogLevel logLevel) = ParseLogLevel(configData);
             if (!parseLogLevelResult)
                 return new ConfigResult.WrongConfig(Help);
-            ConfigData data = new ConfigData(configData[SourceKey], configData[DestKey], logLevel, configData[SpecificInfoSourceKey]);
+            ConfigData data = new ConfigData(configData[SourceKey],
+                                             configData[DestKey],
+                                             configData[TemplatesKey],
+                                             configData[NamespaceKey],
+                                             logLevel);
             return new ConfigResult.MainConfig(data);
         }
 
@@ -98,14 +96,21 @@ namespace Doxygen2HugoConverter.Config
 
         public const String LogLevelKey = "--log-level";
 
-        public const String SpecificInfoSourceKey = "--specific-source";
+        public const String TemplatesKey = "--templates";
+
+        public const String NamespaceKey = "--namespace";
 
         public const String HelpKey = "--help";
 
         public const String VersionKey = "--version";
 
-        public const String Version = "0.0.1";
+        public const String Version = "0.0.2";
 
-        public const String Help = "Usage: <app> --source=<source directory> --dest=<dest directory> --specific-source=<specific filename> --log-level=<info|warning|error (default info)>";
+        public const String Help = "Usage: <app> " +
+                                   "--source=<source directory> " +
+                                   "--dest=<dest directory> " +
+                                   "--templates=<templates directory> " +
+                                   "--namespace=<namespace prefix, e.g. Aspose::Words>" +
+                                   "--log-level=<info|warning|error (default info)>";
     }
 }
