@@ -23,6 +23,29 @@ namespace Doxygen2HugoConverter.Generator
 
     internal static class GeneratorUtils
     {
+        public static String CreateDefaultHeaderDescription(this EntityDef entity, ConvertData convertData)
+        {
+            switch (entity)
+            {
+                case EntityDef.NamespaceEntity _:
+                    return $"How to use {entity.Name} namespace";
+                default:
+                    EntityDef parent = convertData.EntityRepo[entity.ParentId];
+                    return entity switch
+                    {
+                        EntityDef.ClassEntity {Kind: ClassKind.Class} classEntity => $"How to use {classEntity.FullName} class",
+                        EntityDef.ClassEntity {Kind: ClassKind.Interface} classEntity => $"How to use {classEntity.FullName} interface",
+                        EntityDef.EnumEntity enumEntity => $"How to use {enumEntity.FullName} enum",
+                        EntityDef.FieldEntity fieldEntity => $"How to use {fieldEntity.Name} field of {parent.FullName} class",
+                        EntityDef.MethodEntity {Kind: MethodKind.Constructor} methodEntity => $"How to use {methodEntity.Name} constructor of {parent.FullName} class",
+                        EntityDef.MethodEntity {Kind: MethodKind.Method} methodEntity => $"How to use {methodEntity.Name} method of {parent.FullName} class",
+                        EntityDef.TypedefEntity typedefEntity when parent.EntityKind == EntityKind.Namespace => $"How to use {typedefEntity.FullName} typedef",
+                        EntityDef.TypedefEntity typedefEntity when parent.EntityKind == EntityKind.Class => $"How to use {typedefEntity.FullName} typedef of {parent.FullName} class",
+                        _ => throw new InvalidOperationException("Unexpected entity")
+                    };
+            }
+        }
+
         public static void GenerateDefPageHeader(String title, String linkTitle, String description, IList<String> url, Int32 weight, ConvertData convertData, StringBuilder dest)
         {
             const String urlRemovablePrefix = $"/{Common.RootDirectory}/";

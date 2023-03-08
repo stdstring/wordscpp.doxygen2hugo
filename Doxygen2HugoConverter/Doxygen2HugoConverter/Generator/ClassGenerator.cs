@@ -14,16 +14,12 @@ namespace Doxygen2HugoConverter.Generator
             GenerateState currentState = new GenerateState(classDirectory, classUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
-            String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
-            GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} class", entity.Name, descriptionForTitle, classUrl, state.Weight, state.ConvertData, builder);
+            String classKind = entity.GetClassKind();
+            String defaultTitleDescription = entity.CreateDefaultHeaderDescription(state.ConvertData);
+            String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle($"{entity.FullName} {classKind}", defaultTitleDescription);
+            GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} {classKind}", entity.Name, descriptionForTitle, classUrl, state.Weight, state.ConvertData, builder);
             state.IncreaseWeight();
-            String kind = entity.Kind switch
-            {
-                ClassKind.Class => "class",
-                ClassKind.Interface => "interface",
-                _ => throw new ArgumentOutOfRangeException(nameof(entity.Kind), entity.Kind, null)
-            };
-            GeneratorUtils.GenerateHeader($"{entity.Name} {kind}", 2, builder);
+            GeneratorUtils.GenerateHeader($"{entity.Name} {classKind}", 2, builder);
             String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
@@ -147,6 +143,16 @@ namespace Doxygen2HugoConverter.Generator
                   .DistinctBy(baseClassEntity => baseClassEntity.RefId)
                   .Iterate(baseClassEntity => baseClassEntity.GenerateSeeAlso(state, dest));
             entity.GenerateSeeAlsoCommonPart(state.ConvertData.EntityRepo, state.ConvertData, dest);
+        }
+
+        private static String GetClassKind(this EntityDef.ClassEntity entity)
+        {
+            return entity.Kind switch
+            {
+                ClassKind.Class => "class",
+                ClassKind.Interface => "interface",
+                _ => throw new ArgumentOutOfRangeException(nameof(entity.Kind), entity.Kind, null)
+            };
         }
     }
 }

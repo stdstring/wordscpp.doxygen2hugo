@@ -10,23 +10,28 @@ namespace Doxygen2HugoConverter.Generator
 
     internal static class MarkupGenerator
     {
-        public static String CreateBriefDescriptionForTitle(this SimpleMarkupPortion description)
+        public static String CreateBriefDescriptionForTitle(this SimpleMarkupPortion description, String prefix, String defaultDescription)
         {
-            StringBuilder result = new StringBuilder();
+            StringBuilder builder = new StringBuilder();
             foreach (SimpleMarkupEntry markupEntry in description)
             {
                 switch (markupEntry)
                 {
                     case SimpleMarkupEntry.TextEntry entry:
-                        result.Append(entry.Text);
+                        builder.Append(entry.Text);
                         break;
                     case SimpleMarkupEntry.RefEntry entry:
-                        result.Append(entry.Ref.Text);
+                        builder.Append(entry.Ref.Text);
                         break;
                 }
             }
             // TODO (std_string) : think about removing call of Trim method
-            return result.ToString().Trim();
+            String result = builder.ToString().Trim();
+            return result switch
+            {
+                "" => defaultDescription,
+                _ => $"{prefix}. {result}"
+            };
         }
 
         // TODO (std_string) : think about name

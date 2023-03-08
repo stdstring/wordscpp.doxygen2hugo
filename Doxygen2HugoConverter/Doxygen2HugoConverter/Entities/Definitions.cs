@@ -26,25 +26,35 @@ namespace Doxygen2HugoConverter.Entities
 
     internal record MethodGroupEntity(String Name, IList<EntityDef.MethodEntity> Methods);
 
-    internal abstract record EntityDef
+    internal enum EntityKind
+    {
+        Enum,
+        Typedef,
+        Field,
+        Method,
+        Class,
+        Namespace
+    }
+
+    internal abstract record EntityDef(String Id, String ParentId, String Name, String FullName, EntityKind EntityKind)
     {
         internal record EnumEntity(String Id,
                                    String ParentId,
                                    String Name,
-                                   String QualifiedName,
+                                   String FullName,
                                    String? BaseType,
                                    SimpleMarkupPortion BriefDescription,
                                    DetailedDescriptionPortion DetailedDescription,
-                                   IList<EnumValueEntity> Values) : EntityDef;
+                                   IList<EnumValueEntity> Values) : EntityDef(Id, ParentId, Name, FullName, EntityKind.Enum);
 
         internal record TypedefEntity(String Id,
                                       String ParentId,
                                       String Name,
-                                      String QualifiedName,
+                                      String FullName,
                                       String SourceType,
                                       String Definition,
                                       SimpleMarkupPortion BriefDescription,
-                                      DetailedDescriptionPortion DetailedDescription) : EntityDef;
+                                      DetailedDescriptionPortion DetailedDescription) : EntityDef(Id, ParentId, Name, FullName, EntityKind.Typedef);
 
         internal record FieldEntity(String Id,
                                     String ParentId,
@@ -57,13 +67,13 @@ namespace Doxygen2HugoConverter.Entities
                                     String Definition,
                                     String? Initializer,
                                     SimpleMarkupPortion BriefDescription,
-                                    DetailedDescriptionPortion DetailedDescription) : EntityDef;
+                                    DetailedDescriptionPortion DetailedDescription) : EntityDef(Id, ParentId, Name, FullName, EntityKind.Field);
 
         internal record MethodEntity(String Id,
                                      String ParentId,
                                      String Name,
                                      String ClassName,
-                                     String QualifiedName,
+                                     String FullName,
                                      Boolean IsStatic,
                                      Boolean IsConst,
                                      Boolean IsExplicit,
@@ -76,7 +86,7 @@ namespace Doxygen2HugoConverter.Entities
                                      String ArgString,
                                      IList<String> TemplateParameters,
                                      IList<MethodArgEntity> Args,
-                                     SimpleMarkupPortion ReturnType) : EntityDef;
+                                     SimpleMarkupPortion ReturnType) : EntityDef(Id, ParentId, Name, FullName, EntityKind.Method);
 
         internal record ClassEntity(String Id,
                                     String ParentId,
@@ -91,7 +101,7 @@ namespace Doxygen2HugoConverter.Entities
                                     IList<MethodGroupEntity> DirectMethods,
                                     IList<FieldEntity> Fields,
                                     IList<TypedefEntity> Typedefs,
-                                    IList<MemberRef> MemberRefs) : EntityDef;
+                                    IList<MemberRef> MemberRefs) : EntityDef(Id, ParentId, Name, FullName, EntityKind.Class);
 
         internal record NamespaceEntity(String Id,
                                         String Name,
@@ -100,10 +110,6 @@ namespace Doxygen2HugoConverter.Entities
                                         IList<EnumEntity> Enums,
                                         IList<TypedefEntity> Typedefs,
                                         IList<ClassEntity> Classes,
-                                        IList<ClassEntity> Interfaces) : EntityDef;
-
-        private EntityDef()
-        {
-        }
-    };
+                                        IList<ClassEntity> Interfaces) : EntityDef(Id, String.Empty, Name, String.Empty, EntityKind.Namespace);
+    }
 }

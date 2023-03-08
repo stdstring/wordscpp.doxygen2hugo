@@ -14,8 +14,9 @@ namespace Doxygen2HugoConverter.Generator
             GenerateState currentState = new GenerateState(enumDirectory, enumUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
-            String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
-            GeneratorUtils.GenerateDefPageHeader($"{entity.QualifiedName} enum", entity.Name, descriptionForTitle, enumUrl, state.Weight, state.ConvertData, builder);
+            String defaultTitleDescription = entity.CreateDefaultHeaderDescription(state.ConvertData);
+            String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle($"{entity.FullName} enum", defaultTitleDescription);
+            GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} enum", entity.Name, descriptionForTitle, enumUrl, state.Weight, state.ConvertData, builder);
             state.IncreaseWeight();
             GeneratorUtils.GenerateHeader($"{entity.Name} enum", 2, builder);
             String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
