@@ -64,13 +64,6 @@ namespace Doxygen2HugoConverter
                 state = ProcessChar(state, ch);
             ProcessChar(state, Eof);
             String template = dest.ToString();
-
-            String PrepareValue(String value) =>
-                value.IndexOf(':') switch
-                {
-                    -1 => value,
-                    _ => $"'{value}'"
-                };
             String GetResult(IDictionary<String, String> data)
             {
                 Object[] args = new Object[parameters.Count];
@@ -78,7 +71,7 @@ namespace Doxygen2HugoConverter
                 {
                     if (!data.ContainsKey(parameters[index]))
                         throw new InvalidOperationException("Bad data");
-                    args[index] = PrepareValue(data[parameters[index]]);
+                    args[index] = data[parameters[index]];
                 }
                 return String.Format(template, args);
             }
