@@ -66,6 +66,7 @@
                 else
                     unprocessedEntries.Enqueue(entry);
             }
+            ProcessEntries(prevWeight, null, unprocessedEntries);
         }
 
         public Int32 GetChildWeight(String name)
@@ -102,10 +103,10 @@
                     break;
                 case var _:
                     Int32 freeNumbers = nextWeight.Value - prevWeight - 1 - entries.Count;
-                    Int32 delta = freeNumbers / (entries.Count + 1) - 1;
+                    Int32 delta = freeNumbers / (entries.Count + 1);
                     while (entries.Count > 0)
                     {
-                        Int32 currentDelta = delta + freeNumbers % delta == 0 ? 0 : 1;
+                        Int32 currentDelta = delta + (delta * (entries.Count + 1) < freeNumbers ? 1 : 0);
                         currentWeight += (1 + currentDelta);
                         freeNumbers -= currentDelta;
                         ProcessEntry(currentWeight, entries);

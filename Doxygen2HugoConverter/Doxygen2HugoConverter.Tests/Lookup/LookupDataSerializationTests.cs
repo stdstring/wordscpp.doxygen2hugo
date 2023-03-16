@@ -62,37 +62,8 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             {
                 LookupData? actual = serializer.Deserialize(reader) as LookupData;
                 Assert.IsNotNull(actual);
-                CheckLookupData(expected, actual!);
+                LookupDataChecker.Check(expected, actual!);
             }
-        }
-
-        private void CheckLookupData(LookupData expected, LookupData actual)
-        {
-            Assert.AreEqual(expected.Delta, actual.Delta);
-            if (expected.Children == null)
-            {
-                Assert.IsNull(actual.Children);
-                return;
-            }
-            Assert.IsNotNull(actual.Children);
-            Assert.AreEqual(expected.Children!.Length, actual.Children!.Length);
-            for (Int32 index = 0; index < expected.Children.Length; ++index)
-                CheckLookupItem(expected.Children[index], actual.Children[index]);
-        }
-
-        private void CheckLookupItem(LookupItem expected, LookupItem actual)
-        {
-            Assert.AreEqual(expected.Name, actual.Name);
-            Assert.AreEqual(expected.Weight, actual.Weight);
-            if (expected.Children == null)
-            {
-                Assert.IsNull(actual.Children);
-                return;
-            }
-            Assert.IsNotNull(actual.Children);
-            Assert.AreEqual(expected.Children!.Length, actual.Children!.Length);
-            for (Int32 index = 0; index < expected.Children.Length; ++index)
-                CheckLookupItem(expected.Children[index], actual.Children[index]);
         }
     }
 }
