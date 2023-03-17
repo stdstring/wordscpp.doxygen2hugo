@@ -69,6 +69,8 @@
             ProcessEntries(prevWeight, null, unprocessedEntries);
         }
 
+        public Int32 CurrentWeight => _destItem.Weight;
+
         public Int32 GetChildWeight(String name)
         {
             return _destChildrenMap[name].Weight;
