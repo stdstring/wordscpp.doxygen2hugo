@@ -1,4 +1,5 @@
 ﻿using Doxygen2HugoConverter.Entities;
+using Doxygen2HugoConverter.Lookup;
 using Doxygen2HugoConverter.Markup;
 using Doxygen2HugoConverter.Refs;
 using System.Text;
@@ -10,10 +11,10 @@ namespace Doxygen2HugoConverter.Generator
 
     internal static class MethodGenerator
     {
-        public static void GenerateForMethodGroup(this MethodGroupEntity entity, GenerateState state)
+        public static void GenerateForMethodGroup(this MethodGroupEntity entity, GenerateState state, LookupFrame currentFrame)
         {
             for (Int32 index = 0; index < entity.Methods.Count; ++index)
-                entity.Methods[index].GenerateForMethod(state, index == 0, entity.Methods.Count > 1);
+                entity.Methods[index].GenerateForMethod(state, index == 0, entity.Methods.Count > 1, currentFrame);
         }
 
         public static IList<GenerateEntry> GetMethodEntries(this IList<MemberRef> memberRefs, GenerateState state)
@@ -31,7 +32,7 @@ namespace Doxygen2HugoConverter.Generator
             return memberRefs.Choose(ChooseMethodFun).ToList();
         }
 
-        public static void GenerateForMethod(this EntityDef.MethodEntity entity, GenerateState state, Boolean isFirst, Boolean hasOverloads)
+        private static void GenerateForMethod(this EntityDef.MethodEntity entity, GenerateState state, Boolean isFirst, Boolean hasOverloads, LookupFrame currentFrame)
         {
             String folderName = NameUtils.CreateSimpleFolderName(entity.Name);
             String methodDirectory = Path.Combine(state.Directory, folderName);
@@ -45,8 +46,7 @@ namespace Doxygen2HugoConverter.Generator
                 String methodKind = entity.GetMethodKind();
                 String defaultTitleDescription = entity.CreateDefaultHeaderDescription(state.ConvertData);
                 String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle($"{entity.FullName} {methodKind}", defaultTitleDescription);
-                GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} {methodKind}", entity.Name, descriptionForTitle, methodUrl, state.Weight, state.ConvertData, builder);
-                state.IncreaseWeight();
+                GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} {methodKind}", entity.Name, descriptionForTitle, methodUrl, currentFrame.CurrentWeight, state.ConvertData, builder);
             }
             IList<String> argsTypes = entity.Args.CreateArgTypeList();
             GeneratorUtils.GenerateHeader(entity.CreateMethodHeader(hasOverloads, argsTypes), 2, builder);

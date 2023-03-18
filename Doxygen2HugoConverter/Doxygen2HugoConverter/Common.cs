@@ -15,5 +15,7 @@
         public const String AsposeDocsPrefix = "https://docs.aspose.com/";
 
         public const String ParentUrl = "../";
+
+        public const Int32 DefaultWeightDelta = 100;
     }
 }

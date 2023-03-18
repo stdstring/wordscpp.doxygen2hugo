@@ -1,11 +1,12 @@
 ﻿using Doxygen2HugoConverter.Entities;
+using Doxygen2HugoConverter.Lookup;
 using System.Text;
 
 namespace Doxygen2HugoConverter.Generator
 {
     internal static class TypedefGenerator
     {
-        public static void GenerateForTypedef(this EntityDef.TypedefEntity entity, GenerateState state)
+        public static void GenerateForTypedef(this EntityDef.TypedefEntity entity, GenerateState state, LookupFrame currentFrame)
         {
             String folderName = NameUtils.CreateSimpleFolderName(entity.Name);
             String typedefDirectory = Path.Combine(state.Directory, folderName);
@@ -16,8 +17,7 @@ namespace Doxygen2HugoConverter.Generator
             StringBuilder builder = new StringBuilder();
             String defaultTitleDescription = entity.CreateDefaultHeaderDescription(state.ConvertData);
             String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle($"{entity.FullName} typedef", defaultTitleDescription);
-            GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} typedef", entity.Name, descriptionForTitle, typedefUrl, state.Weight, state.ConvertData, builder);
-            state.IncreaseWeight();
+            GeneratorUtils.GenerateDefPageHeader($"{entity.FullName} typedef", entity.Name, descriptionForTitle, typedefUrl, currentFrame.CurrentWeight, state.ConvertData, builder);
             GeneratorUtils.GenerateHeader($"{entity.Name} typedef", 2, builder);
             String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();

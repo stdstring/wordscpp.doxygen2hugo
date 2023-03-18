@@ -13,11 +13,11 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             LookupManager lookupManager = new LookupManager(source);
             using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
             {
-                rootFrame.AppendKnownChildren(new []{"Aspose::Words", "Aspose::Words::BuildingBlocks", "Aspose::Words::Field"});
+                rootFrame.FillKnownChildren(new []{"Aspose::Words", "Aspose::Words::BuildingBlocks", "Aspose::Words::Field"});
                 CheckWeights(rootFrame, new []{"Aspose::Words", "Aspose::Words::BuildingBlocks", "Aspose::Words::Field"}, new []{500, 1000, 1500});
                 using (LookupFrame namespace1Frame = rootFrame.EnterChild("Aspose::Words"))
                 {
-                    namespace1Frame.AppendKnownChildren(new []{"Body", "Node"});
+                    namespace1Frame.FillKnownChildren(new []{"Body", "Node"});
                     Assert.AreEqual(500, namespace1Frame.CurrentWeight);
                     CheckWeights(namespace1Frame, new []{"Body", "Node"}, new []{500, 1000});
                 }
@@ -25,7 +25,7 @@ namespace Doxygen2HugoConverter.Tests.Lookup
                     Assert.AreEqual(1000, namespace2Frame.CurrentWeight);
                 using (LookupFrame namespace3Frame = rootFrame.EnterChild("Aspose::Words::Field"))
                 {
-                    namespace3Frame.AppendKnownChildren(new[] {"Field", "FieldChar", "FieldDate"});
+                    namespace3Frame.FillKnownChildren(new []{"Field", "FieldChar", "FieldDate"});
                     Assert.AreEqual(1500, namespace3Frame.CurrentWeight);
                     CheckWeights(namespace3Frame, new []{"Field", "FieldChar", "FieldDate"}, new []{500, 1000, 1500});
                 }
@@ -53,11 +53,11 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             LookupManager lookupManager = new LookupManager(source);
             using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
             {
-                rootFrame.AppendKnownChildren(new[] {"Aspose::Words", "Aspose::Words::BuildingBlocks", "Aspose::Words::Field"});
+                rootFrame.FillKnownChildren(new[]{"Aspose::Words", "Aspose::Words::BuildingBlocks", "Aspose::Words::Field"});
                 CheckWeights(rootFrame, new []{"Aspose::Words", "Aspose::Words::BuildingBlocks", "Aspose::Words::Field"}, new []{10, 20, 30});
                 using (LookupFrame namespace1Frame = rootFrame.EnterChild("Aspose::Words"))
                 {
-                    namespace1Frame.AppendKnownChildren(new[] {"Body", "Node"});
+                    namespace1Frame.FillKnownChildren(new[]{"Body", "Node"});
                     Assert.AreEqual(10, namespace1Frame.CurrentWeight);
                     CheckWeights(namespace1Frame, new []{"Body", "Node"}, new []{10, 20});
                 }
@@ -65,7 +65,7 @@ namespace Doxygen2HugoConverter.Tests.Lookup
                     Assert.AreEqual(20, namespace2Frame.CurrentWeight);
                 using (LookupFrame namespace3Frame = rootFrame.EnterChild("Aspose::Words::Field"))
                 {
-                    namespace3Frame.AppendKnownChildren(new[] {"Field", "FieldChar", "FieldDate"});
+                    namespace3Frame.FillKnownChildren(new []{"Field", "FieldChar", "FieldDate"});
                     Assert.AreEqual(30, namespace3Frame.CurrentWeight);
                     CheckWeights(namespace3Frame, new []{"Field", "FieldChar", "FieldDate"}, new []{10, 20, 30});
                 }
@@ -91,13 +91,13 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             LookupManager lookupManager = new LookupManager(source);
             using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
             {
-                rootFrame.AppendKnownChildren(new[] {"Aspose::Words", "Aspose::Words::Field", "Aspose::Words::Fonts"});
+                rootFrame.FillKnownChildren(new[]{"Aspose::Words", "Aspose::Words::Field", "Aspose::Words::Fonts"});
                 CheckWeights(rootFrame, new []{"Aspose::Words", "Aspose::Words::Field", "Aspose::Words::Fonts"}, new []{10, 20, 40});
                 using (LookupFrame namespace1Frame = rootFrame.EnterChild("Aspose::Words"))
                     Assert.AreEqual(10, namespace1Frame.CurrentWeight);
                 using (LookupFrame namespace2Frame = rootFrame.EnterChild("Aspose::Words::Field"))
                 {
-                    namespace2Frame.AppendKnownChildren(new[] {"Field", "FieldChar", "FieldDate", "FieldDde", "FieldEnd", "FieldEQ", "FieldIf", "FieldRD"});
+                    namespace2Frame.FillKnownChildren(new []{"Field", "FieldChar", "FieldDate", "FieldDde", "FieldEnd", "FieldEQ", "FieldIf", "FieldRD"});
                     Assert.AreEqual(20, namespace2Frame.CurrentWeight);
                     CheckWeights(namespace2Frame,
                                  new []{"Field", "FieldChar", "FieldDate", "FieldDde", "FieldEnd", "FieldEQ", "FieldIf", "FieldRD"},
@@ -139,17 +139,17 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             LookupManager lookupManager = new LookupManager(source);
             using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
             {
-                rootFrame.AppendKnownChildren(new[] {"Aspose::Words", "Aspose::Words::Field"});
+                rootFrame.FillKnownChildren(new []{"Aspose::Words", "Aspose::Words::Field"});
                 CheckWeights(rootFrame, new []{"Aspose::Words", "Aspose::Words::Field"}, new []{10, 30});
                 using (LookupFrame namespace1Frame = rootFrame.EnterChild("Aspose::Words"))
                 {
-                    namespace1Frame.AppendKnownChildren(new[] {"Node"});
+                    namespace1Frame.FillKnownChildren(new []{"Node"});
                     Assert.AreEqual(10, namespace1Frame.CurrentWeight);
                     CheckWeights(namespace1Frame, new []{"Node"}, new []{20});
                 }
                 using (LookupFrame namespace2Frame = rootFrame.EnterChild("Aspose::Words::Field"))
                 {
-                    namespace2Frame.AppendKnownChildren(new[] {"Field", "FieldChar"});
+                    namespace2Frame.FillKnownChildren(new []{"Field", "FieldChar"});
                     Assert.AreEqual(30, namespace2Frame.CurrentWeight);
                     CheckWeights(namespace2Frame, new []{"Field", "FieldChar"}, new []{10, 20});
                 }
@@ -176,11 +176,11 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             LookupManager lookupManager = new LookupManager(source);
             using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
             {
-                rootFrame.AppendKnownChildren(new[] {"Aspose::Words", "Aspose::Words::Comparing", "Aspose::Words::Drawing", "Aspose::Words::Field"});
+                rootFrame.FillKnownChildren(new []{"Aspose::Words", "Aspose::Words::Comparing", "Aspose::Words::Drawing", "Aspose::Words::Field"});
                 CheckWeights(rootFrame, new []{"Aspose::Words", "Aspose::Words::Comparing", "Aspose::Words::Drawing", "Aspose::Words::Field"}, new []{10, 17, 24, 30});
                 using (LookupFrame namespace1Frame = rootFrame.EnterChild("Aspose::Words"))
                 {
-                    namespace1Frame.AppendKnownChildren(new[] {"Body", "Font", "Story"});
+                    namespace1Frame.FillKnownChildren(new []{"Body", "Font", "Story"});
                     Assert.AreEqual(10, namespace1Frame.CurrentWeight);
                     CheckWeights(namespace1Frame, new []{"Body", "Font", "Story"}, new []{10, 20, 30});
                 }
@@ -190,7 +190,7 @@ namespace Doxygen2HugoConverter.Tests.Lookup
                     Assert.AreEqual(24, namespace3Frame.CurrentWeight);
                 using (LookupFrame namespace4Frame = rootFrame.EnterChild("Aspose::Words::Field"))
                 {
-                    namespace4Frame.AppendKnownChildren(new[] {"Field", "FieldDate", "FieldDde", "FieldEnd", "FieldIf"});
+                    namespace4Frame.FillKnownChildren(new []{"Field", "FieldDate", "FieldDde", "FieldEnd", "FieldIf"});
                     Assert.AreEqual(30, namespace4Frame.CurrentWeight);
                     CheckWeights(namespace4Frame, new []{"Field", "FieldDate", "FieldDde", "FieldEnd", "FieldIf"}, new []{10, 15, 20, 25, 30});
                 }
@@ -232,16 +232,16 @@ namespace Doxygen2HugoConverter.Tests.Lookup
             LookupManager lookupManager = new LookupManager(source);
             using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
             {
-                rootFrame.AppendKnownChildren(new[] {"Aspose::Words", "Aspose::Words::Field"});
+                rootFrame.FillKnownChildren(new []{"Aspose::Words", "Aspose::Words::Field"});
                 CheckWeights(rootFrame, new []{"Aspose::Words", "Aspose::Words::Field"}, new []{10, 20});
                 using (LookupFrame namespace1Frame = rootFrame.EnterChild("Aspose::Words"))
                     Assert.AreEqual(10, namespace1Frame.CurrentWeight);
                 using (LookupFrame namespace2Frame = rootFrame.EnterChild("Aspose::Words::Field"))
                 {
-                    namespace2Frame.AppendKnownChildren(new[] {"Field", "FieldAsk", "FieldChar", "FieldDate", "FieldIf", "FieldIndex", "FieldInfo", "FieldLink", "FieldNext"});
+                    namespace2Frame.FillKnownChildren(new []{"Field", "FieldAsk", "FieldChar", "FieldDate", "FieldIf", "FieldIndex", "FieldInfo", "FieldLink", "FieldNext"});
                     CheckWeights(namespace2Frame,
-                                 new[]{"Field", "FieldAsk", "FieldChar", "FieldDate", "FieldIf", "FieldIndex", "FieldInfo", "FieldLink", "FieldNext"},
-                                 new[] {10, 13, 16, 18, 20, 30, 40, 50, 60});
+                                 new []{"Field", "FieldAsk", "FieldChar", "FieldDate", "FieldIf", "FieldIndex", "FieldInfo", "FieldLink", "FieldNext"},
+                                 new []{10, 13, 16, 18, 20, 30, 40, 50, 60});
                 }
             }
             LookupData expected = new LookupData(10,

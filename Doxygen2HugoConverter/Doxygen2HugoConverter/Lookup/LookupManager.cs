@@ -1,4 +1,6 @@
-﻿namespace Doxygen2HugoConverter.Lookup
+﻿using Doxygen2HugoConverter.Entities;
+
+namespace Doxygen2HugoConverter.Lookup
 {
     internal class LookupManager
     {
@@ -48,7 +50,12 @@
             return new LookupFrame(sourceChild, _weightDelta, destChild);
         }
 
-        public void AppendKnownChildren(String[] entries)
+        public void FillKnownChildren<TEntityDef>(IList<TEntityDef> entries) where TEntityDef : EntityDef
+        {
+            FillKnownChildren(entries.Select(entry => entry.Name).ToArray());
+        }
+
+        public void FillKnownChildren(String[] entries)
         {
             Int32 prevWeight = 0;
             Queue<String> unprocessedEntries = new Queue<String>();

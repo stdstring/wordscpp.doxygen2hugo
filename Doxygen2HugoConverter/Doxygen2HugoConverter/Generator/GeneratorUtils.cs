@@ -1,6 +1,7 @@
 ﻿using System.Text;
 using Doxygen2HugoConverter.Entities;
 using Doxygen2HugoConverter.Logger;
+using Doxygen2HugoConverter.Lookup;
 using Doxygen2HugoConverter.Markup;
 
 namespace Doxygen2HugoConverter.Generator
@@ -9,17 +10,7 @@ namespace Doxygen2HugoConverter.Generator
 
     internal record GenerateEntry(String Title, String BriefDescription);
 
-    internal record GenerateState(String Directory, IList<String> Url, ConvertData ConvertData)
-    {
-        public Int32 Weight { get; private set; } = 1;
-
-        public void IncreaseWeight()
-        {
-            Weight += WeightDelta;
-        }
-
-        private const Int32 WeightDelta = 13;
-    }
+    internal record GenerateState(String Directory, IList<String> Url, ConvertData ConvertData);
 
     internal static class GeneratorUtils
     {
@@ -162,6 +153,28 @@ namespace Doxygen2HugoConverter.Generator
             }
             parentUrl.Append(Common.ParentUrl);
             dest.AppendLine($"* Library {CreateLink(convertData.LibraryName, parentUrl.ToString())}");
+        }
+    }
+
+    internal static class GeneratorHelper
+    {
+        public static void GenerateForChildren<TEntityDef>(this IList<TEntityDef> children,
+                                                           LookupFrame currentFrame,
+                                                           Action<TEntityDef, LookupFrame> generator) where TEntityDef : EntityDef
+        {
+            children.GenerateForChildren(currentFrame, generator, entity => entity.Name);
+        }
+
+        public static void GenerateForChildren<TEntity>(this IList<TEntity> children,
+                                                        LookupFrame currentFrame,
+                                                        Action<TEntity, LookupFrame> generator,
+                                                        Func<TEntity, String> nameSelector)
+        {
+            children.Iterate(childEntity =>
+            {
+                using (LookupFrame childFrame = currentFrame.EnterChild(nameSelector(childEntity)))
+                    generator(childEntity, childFrame);
+            });
         }
     }
 }

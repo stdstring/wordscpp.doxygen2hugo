@@ -1,6 +1,7 @@
 ﻿using Doxygen2HugoConverter.Config;
 using Doxygen2HugoConverter.Entities;
 using Doxygen2HugoConverter.Generator;
+using Doxygen2HugoConverter.Lookup;
 using Doxygen2HugoConverter.Refs;
 
 namespace Doxygen2HugoConverter;
@@ -14,6 +15,9 @@ internal static class ConvertProcessor
         List<EntityDef.NamespaceEntity> entities = namespaceRefs.Where(namespaceRef => namespaceRef.Name.StartsWith(configData.NamespacePrefix))
                                                                 .Select(namespaceRef => namespaceRef.ParseNamespaceFile(convertData))
                                                                 .ToList();
-        entities.GenerateForNamespaces(convertData);
+        LookupData sourceData = new LookupData(Common.DefaultWeightDelta);
+        LookupManager lookupManager = new LookupManager(sourceData);
+        using (LookupFrame rootFrame = lookupManager.EnterRootFrame())
+            entities.GenerateForNamespaces(convertData, rootFrame);
     }
 }
