@@ -14,7 +14,7 @@ namespace Doxygen2HugoConverter.Tests
             const String expectedData = "..\\..\\..\\..\\..\\DestData";
             const String templates = "..\\..\\..\\..\\..\\SourceData\\Templates\\";
             const String actualData = ".\\out";
-            ConfigData configData = new ConfigData(sourceData, actualData, templates, "Aspose::Words", LogLevel.Info);
+            ConfigData configData = new ConfigData(sourceData, actualData, templates, "Aspose::Words", LogLevel.Info, null, null);
             Assert.DoesNotThrow(() => ConvertProcessor.Convert(configData));
             CheckTree(expectedData, actualData);
         }

@@ -65,5 +65,20 @@ namespace Doxygen2HugoConverter.Tests.Lookup
                 LookupDataChecker.Check(expected, actual!);
             }
         }
+
+        [Test]
+        public void DeserializeEmptyTest()
+        {
+            const String source = "<?xml version=\"1.0\" encoding=\"utf-16\"?>\r\n" +
+                                  "<LookupData Delta=\"500\" />";
+            LookupData expected = new LookupData(500);
+            XmlSerializer serializer = new XmlSerializer(typeof(LookupData));
+            using (StringReader reader = new StringReader(source))
+            {
+                LookupData? actual = serializer.Deserialize(reader) as LookupData;
+                Assert.IsNotNull(actual);
+                LookupDataChecker.Check(expected, actual!);
+            }
+        }
     }
 }
