@@ -4,7 +4,7 @@ linktitle: CreatePictureBullet
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevel::CreatePictureBullet method. Creates picture bullet shape for the current list level in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.lists/listlevel/createpicturebullet/
 ---
 ## ListLevel::CreatePictureBullet method

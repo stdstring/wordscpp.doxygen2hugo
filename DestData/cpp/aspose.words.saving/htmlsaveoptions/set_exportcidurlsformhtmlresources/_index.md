@@ -4,7 +4,7 @@ linktitle: set_ExportCidUrlsForMhtmlResources
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportCidUrlsForMhtmlResources method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources in C++.
 type: docs
-weight: 729
+weight: 5700
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportcidurlsformhtmlresources/
 ---
 ## HtmlSaveOptions::set_ExportCidUrlsForMhtmlResources method

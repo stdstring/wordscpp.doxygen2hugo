@@ -4,7 +4,7 @@ linktitle: FieldEQ
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldEQ class. Implements the EQ field in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words.fields/fieldeq/
 ---
 ## FieldEQ class

@@ -4,7 +4,7 @@ linktitle: set_VerticalAnchor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::set_VerticalAnchor method. Setter for Aspose::Words::Tables::Table::get_VerticalAnchor in C++.
 type: docs
-weight: 820
+weight: 6400
 url: /cpp/aspose.words.tables/table/set_verticalanchor/
 ---
 ## Table::set_VerticalAnchor method

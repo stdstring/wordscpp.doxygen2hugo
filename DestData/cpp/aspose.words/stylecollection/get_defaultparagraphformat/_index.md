@@ -4,7 +4,7 @@ linktitle: get_DefaultParagraphFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::StyleCollection::get_DefaultParagraphFormat method. Gets document default paragraph formatting in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words/stylecollection/get_defaultparagraphformat/
 ---
 ## StyleCollection::get_DefaultParagraphFormat method

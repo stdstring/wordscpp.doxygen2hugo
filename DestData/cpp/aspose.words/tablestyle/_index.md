@@ -4,7 +4,7 @@ linktitle: TableStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TableStyle class. Represents a table style in C++.
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words/tablestyle/
 ---
 ## TableStyle class

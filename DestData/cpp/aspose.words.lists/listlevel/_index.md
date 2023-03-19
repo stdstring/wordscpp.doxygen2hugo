@@ -4,7 +4,7 @@ linktitle: ListLevel
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevel class. Defines formatting for a list level in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.lists/listlevel/
 ---
 ## ListLevel class

@@ -4,7 +4,7 @@ linktitle: RevisionCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::RevisionCollection class. A collection of Revision objects that represent revisions in the document in C++.
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words/revisioncollection/
 ---
 ## RevisionCollection class

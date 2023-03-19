@@ -4,7 +4,7 @@ linktitle: PageBreak
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::PageBreak method. Page break character: "\x000c" or "\f". Note it has the same value as SectionBreak in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/controlchar/pagebreak/
 ---
 ## ControlChar::PageBreak method

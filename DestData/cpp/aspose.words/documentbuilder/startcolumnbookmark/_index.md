@@ -4,7 +4,7 @@ linktitle: StartColumnBookmark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::StartColumnBookmark method. Marks the current position in the document as a column bookmark start. The position must be in a table cell in C++.
 type: docs
-weight: 846
+weight: 6600
 url: /cpp/aspose.words/documentbuilder/startcolumnbookmark/
 ---
 ## DocumentBuilder::StartColumnBookmark method

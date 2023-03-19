@@ -4,7 +4,7 @@ linktitle: get_MultiplePages
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_MultiplePages method. For multiple page documents, gets or sets how a document is printed or rendered so that it can be bound as a booklet in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words/pagesetup/get_multiplepages/
 ---
 ## PageSetup::get_MultiplePages method

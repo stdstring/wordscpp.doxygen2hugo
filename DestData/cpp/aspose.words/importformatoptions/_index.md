@@ -4,7 +4,7 @@ linktitle: ImportFormatOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ImportFormatOptions class. Allows to specify various import options to format output in C++.
 type: docs
-weight: 443
+weight: 3500
 url: /cpp/aspose.words/importformatoptions/
 ---
 ## ImportFormatOptions class

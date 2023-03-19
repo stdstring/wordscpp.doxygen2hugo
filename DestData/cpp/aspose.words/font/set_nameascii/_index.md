@@ -4,7 +4,7 @@ linktitle: set_NameAscii
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_NameAscii method. Setter for Aspose::Words::Font::get_NameAscii in C++.
 type: docs
-weight: 976
+weight: 7600
 url: /cpp/aspose.words/font/set_nameascii/
 ---
 ## Font::set_NameAscii method

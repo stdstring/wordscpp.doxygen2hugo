@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeEndIterator method of Aspose::Words::Markup::SdtListItemCollection class in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.markup/sdtlistitemcollection/virtualizeenditerator/
 ---
 ## SdtListItemCollection::virtualizeEndIterator method

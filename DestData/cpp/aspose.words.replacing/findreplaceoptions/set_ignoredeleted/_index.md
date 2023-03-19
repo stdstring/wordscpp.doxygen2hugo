@@ -4,7 +4,7 @@ linktitle: set_IgnoreDeleted
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_IgnoreDeleted method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreDeleted in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignoredeleted/
 ---
 ## FindReplaceOptions::set_IgnoreDeleted method

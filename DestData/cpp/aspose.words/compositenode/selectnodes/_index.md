@@ -4,7 +4,7 @@ linktitle: SelectNodes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::CompositeNode::SelectNodes method. Selects a list of nodes matching the XPath expression in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words/compositenode/selectnodes/
 ---
 ## CompositeNode::SelectNodes method

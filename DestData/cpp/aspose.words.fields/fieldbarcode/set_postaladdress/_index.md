@@ -4,7 +4,7 @@ linktitle: set_PostalAddress
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldBarcode::set_PostalAddress method. Setter for Aspose::Words::Fields::FieldBarcode::get_PostalAddress in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.fields/fieldbarcode/set_postaladdress/
 ---
 ## FieldBarcode::set_PostalAddress method

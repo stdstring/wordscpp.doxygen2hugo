@@ -4,7 +4,7 @@ linktitle: ColumnBreak
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::ColumnBreak method. End of column character: "\x000e" in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/controlchar/columnbreak/
 ---
 ## ControlChar::ColumnBreak method

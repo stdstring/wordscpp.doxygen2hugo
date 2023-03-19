@@ -4,7 +4,7 @@ linktitle: set_DmlEffectsRenderingMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::set_DmlEffectsRenderingMode method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_DmlEffectsRenderingMode in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_dmleffectsrenderingmode/
 ---
 ## PdfSaveOptions::set_DmlEffectsRenderingMode method

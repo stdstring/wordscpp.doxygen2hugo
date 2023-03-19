@@ -4,7 +4,7 @@ linktitle: get_SequenceName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldIndex::get_SequenceName method. Gets or sets the name of a sequence whose number is included with the page number in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.fields/fieldindex/get_sequencename/
 ---
 ## FieldIndex::get_SequenceName method

@@ -4,7 +4,7 @@ linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Fonts::FontInfoCollection::iterator_holder_type typedef of Aspose::Words::Fonts::FontInfoCollection class in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.fonts/fontinfocollection/iterator_holder_type/
 ---
 ## iterator_holder_type typedef

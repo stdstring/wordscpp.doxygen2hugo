@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisBound::Equals method. Determines whether the specified object is equal in value to the current object in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.drawing.charts/axisbound/equals/
 ---
 ## AxisBound::Equals method

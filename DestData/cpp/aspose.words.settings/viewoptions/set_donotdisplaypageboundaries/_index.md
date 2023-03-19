@@ -4,7 +4,7 @@ linktitle: set_DoNotDisplayPageBoundaries
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::ViewOptions::set_DoNotDisplayPageBoundaries method. Setter for Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.settings/viewoptions/set_donotdisplaypageboundaries/
 ---
 ## ViewOptions::set_DoNotDisplayPageBoundaries method

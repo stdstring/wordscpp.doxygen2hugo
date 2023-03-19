@@ -4,7 +4,7 @@ linktitle: set_IgnoreInserted
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_IgnoreInserted method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreInserted in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignoreinserted/
 ---
 ## FindReplaceOptions::set_IgnoreInserted method

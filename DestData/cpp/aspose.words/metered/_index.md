@@ -4,7 +4,7 @@ linktitle: Metered
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Metered class. Provides methods to set metered key in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words/metered/
 ---
 ## Metered class

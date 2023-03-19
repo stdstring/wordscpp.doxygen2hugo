@@ -4,7 +4,7 @@ linktitle: set_OtherPagesTray
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_OtherPagesTray method. Sets the paper tray (bin) to be used for all but the first page of a section. The value is implementation (printer) specific in C++.
 type: docs
-weight: 911
+weight: 7100
 url: /cpp/aspose.words/pagesetup/set_otherpagestray/
 ---
 ## PageSetup::set_OtherPagesTray method

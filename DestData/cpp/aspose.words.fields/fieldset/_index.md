@@ -4,7 +4,7 @@ linktitle: FieldSet
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldSet class. Implements the SET field in C++.
 type: docs
-weight: 1184
+weight: 9200
 url: /cpp/aspose.words.fields/fieldset/
 ---
 ## FieldSet class

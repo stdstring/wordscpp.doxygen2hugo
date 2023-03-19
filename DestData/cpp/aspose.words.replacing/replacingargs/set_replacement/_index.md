@@ -4,7 +4,7 @@ linktitle: set_Replacement
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::ReplacingArgs::set_Replacement method. Setter for Aspose::Words::Replacing::ReplacingArgs::get_Replacement in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.replacing/replacingargs/set_replacement/
 ---
 ## ReplacingArgs::set_Replacement method

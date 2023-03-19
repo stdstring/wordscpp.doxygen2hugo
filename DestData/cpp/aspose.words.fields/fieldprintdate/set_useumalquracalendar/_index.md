@@ -4,7 +4,7 @@ linktitle: set_UseUmAlQuraCalendar
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldPrintDate::set_UseUmAlQuraCalendar method. Setter for Aspose::Words::Fields::FieldPrintDate::get_UseUmAlQuraCalendar in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldprintdate/set_useumalquracalendar/
 ---
 ## FieldPrintDate::set_UseUmAlQuraCalendar method

@@ -4,7 +4,7 @@ linktitle: set_FontsFolderAlias
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_FontsFolderAlias method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolderAlias in C++.
 type: docs
-weight: 1002
+weight: 7800
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolderalias/
 ---
 ## HtmlSaveOptions::set_FontsFolderAlias method

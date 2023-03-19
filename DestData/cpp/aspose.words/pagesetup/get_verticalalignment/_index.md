@@ -4,7 +4,7 @@ linktitle: get_VerticalAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_VerticalAlignment method. Returns or sets the vertical alignment of text on each page in a document or section in C++.
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words/pagesetup/get_verticalalignment/
 ---
 ## PageSetup::get_VerticalAlignment method

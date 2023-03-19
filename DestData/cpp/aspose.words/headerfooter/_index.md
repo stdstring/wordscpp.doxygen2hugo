@@ -4,7 +4,7 @@ linktitle: HeaderFooter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::HeaderFooter class. Represents a container for the header or footer text of a section in C++.
 type: docs
-weight: 391
+weight: 3100
 url: /cpp/aspose.words/headerfooter/
 ---
 ## HeaderFooter class

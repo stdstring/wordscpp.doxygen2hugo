@@ -4,7 +4,7 @@ linktitle: ThumbnailGeneratingOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::ThumbnailGeneratingOptions class. Can be used to specify additional options when generating thumbnail for a document in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/
 ---
 ## ThumbnailGeneratingOptions class

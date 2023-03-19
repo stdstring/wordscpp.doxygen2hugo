@@ -4,7 +4,7 @@ linktitle: cend
 second_title: Aspose.Words for C++ API Reference
 description: How to use cend method of Aspose::Words::WarningInfoCollection class in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/warninginfocollection/cend/
 ---
 ## WarningInfoCollection::cend method

@@ -4,7 +4,7 @@ linktitle: TabChar
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::TabChar field. Tab character: (char)9 or "\t" in C++.
 type: docs
-weight: 365
+weight: 2900
 url: /cpp/aspose.words/controlchar/tabchar/
 ---
 ## TabChar field

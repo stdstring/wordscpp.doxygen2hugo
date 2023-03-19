@@ -4,7 +4,7 @@ linktitle: set_TopPadding
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ConditionalStyle::set_TopPadding method. Setter for Aspose::Words::ConditionalStyle::get_TopPadding in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words/conditionalstyle/set_toppadding/
 ---
 ## ConditionalStyle::set_TopPadding method

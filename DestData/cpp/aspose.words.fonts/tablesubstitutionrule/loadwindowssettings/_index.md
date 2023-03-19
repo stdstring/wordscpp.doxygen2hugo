@@ -4,7 +4,7 @@ linktitle: LoadWindowsSettings
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::TableSubstitutionRule::LoadWindowsSettings method. Loads predefined table substitution settings for Windows platform in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadwindowssettings/
 ---
 ## TableSubstitutionRule::LoadWindowsSettings method

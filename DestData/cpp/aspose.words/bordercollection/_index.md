@@ -4,7 +4,7 @@ linktitle: BorderCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BorderCollection class. A collection of Border objects in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words/bordercollection/
 ---
 ## BorderCollection class

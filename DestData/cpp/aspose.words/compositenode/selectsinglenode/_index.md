@@ -4,7 +4,7 @@ linktitle: SelectSingleNode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::CompositeNode::SelectSingleNode method. Selects the first Node that matches the XPath expression in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words/compositenode/selectsinglenode/
 ---
 ## CompositeNode::SelectSingleNode method

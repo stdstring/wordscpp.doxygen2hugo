@@ -4,7 +4,7 @@ linktitle: Auto
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::PreferredWidth::Auto method. Returns an instance that represents the "preferred width is not specified" value in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.tables/preferredwidth/auto/
 ---
 ## PreferredWidth::Auto method

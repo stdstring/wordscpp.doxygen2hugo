@@ -4,7 +4,7 @@ linktitle: set_Shape
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Shape method. Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_shape/
 ---
 ## ImageFieldMergingArgs::set_Shape method

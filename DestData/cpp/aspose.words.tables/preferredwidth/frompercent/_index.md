@@ -4,7 +4,7 @@ linktitle: FromPercent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::PreferredWidth::FromPercent method. A creation method that returns a new instance that represents a preferred width specified as a percentage in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.tables/preferredwidth/frompercent/
 ---
 ## PreferredWidth::FromPercent method

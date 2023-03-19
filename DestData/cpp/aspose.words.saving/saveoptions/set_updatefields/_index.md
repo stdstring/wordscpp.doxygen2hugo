@@ -4,7 +4,7 @@ linktitle: set_UpdateFields
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::SaveOptions::set_UpdateFields method. Setter for Aspose::Words::Saving::SaveOptions::get_UpdateFields in C++.
 type: docs
-weight: 443
+weight: 3500
 url: /cpp/aspose.words.saving/saveoptions/set_updatefields/
 ---
 ## SaveOptions::set_UpdateFields method

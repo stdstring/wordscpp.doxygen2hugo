@@ -4,7 +4,7 @@ linktitle: get_EndField
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMergeRegionInfo::get_EndField method. Returns an end field for the region in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_endfield/
 ---
 ## MailMergeRegionInfo::get_EndField method

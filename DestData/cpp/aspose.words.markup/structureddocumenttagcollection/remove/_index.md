@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTagCollection::Remove method. Removes the structured document tag with the specified identifier in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/remove/
 ---
 ## StructuredDocumentTagCollection::Remove method

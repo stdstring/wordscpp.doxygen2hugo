@@ -4,7 +4,7 @@ linktitle: ListLevelAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevelAlignment enum. Specifies alignment for the list number or bullet in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.lists/listlevelalignment/
 ---
 ## ListLevelAlignment enum

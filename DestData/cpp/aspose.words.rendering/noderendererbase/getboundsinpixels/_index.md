@@ -4,7 +4,7 @@ linktitle: GetBoundsInPixels
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::NodeRendererBase::GetBoundsInPixels method. Calculates the bounds of the shape in pixels for a specified zoom factor and resolution in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.rendering/noderendererbase/getboundsinpixels/
 ---
 ## NodeRendererBase::GetBoundsInPixels(float, float) method

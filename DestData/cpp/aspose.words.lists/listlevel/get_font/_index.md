@@ -4,7 +4,7 @@ linktitle: get_Font
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevel::get_Font method. Specifies character formatting used for the list label in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.lists/listlevel/get_font/
 ---
 ## ListLevel::get_Font method

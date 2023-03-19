@@ -4,7 +4,7 @@ linktitle: get_Scale
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ImageWatermarkOptions::get_Scale method. Gets or sets the scale factor expressed as a fraction of the image. The default value is 0 - auto in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/imagewatermarkoptions/get_scale/
 ---
 ## ImageWatermarkOptions::get_Scale method

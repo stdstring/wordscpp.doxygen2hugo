@@ -4,7 +4,7 @@ linktitle: set_ResourcesFolderAlias
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_ResourcesFolderAlias method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourcesFolderAlias in C++.
 type: docs
-weight: 417
+weight: 3300
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_resourcesfolderalias/
 ---
 ## HtmlFixedSaveOptions::set_ResourcesFolderAlias method

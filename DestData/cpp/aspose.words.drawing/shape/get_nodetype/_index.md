@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Shape::get_NodeType method. Returns Shape in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.drawing/shape/get_nodetype/
 ---
 ## Shape::get_NodeType method

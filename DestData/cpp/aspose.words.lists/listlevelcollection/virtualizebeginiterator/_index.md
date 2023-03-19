@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeBeginIterator method of Aspose::Words::Lists::ListLevelCollection class in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.lists/listlevelcollection/virtualizebeginiterator/
 ---
 ## ListLevelCollection::virtualizeBeginIterator method

@@ -4,7 +4,7 @@ linktitle: EnsureMinimum
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Cell::EnsureMinimum method. If the last child is not a paragraph, creates and appends one empty paragraph in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.tables/cell/ensureminimum/
 ---
 ## Cell::EnsureMinimum method

@@ -4,7 +4,7 @@ linktitle: set_MacroName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldMacroButton::set_MacroName method. Setter for Aspose::Words::Fields::FieldMacroButton::get_MacroName in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldmacrobutton/set_macroname/
 ---
 ## FieldMacroButton::set_MacroName method

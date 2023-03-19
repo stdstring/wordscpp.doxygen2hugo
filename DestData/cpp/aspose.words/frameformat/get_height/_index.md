@@ -4,7 +4,7 @@ linktitle: get_Height
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::FrameFormat::get_Height method. Gets the height of the specified frame in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/frameformat/get_height/
 ---
 ## FrameFormat::get_Height method

@@ -4,7 +4,7 @@ linktitle: AxisBound
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisBound class. Represents minimum or maximum bound of axis values in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.drawing.charts/axisbound/
 ---
 ## AxisBound class

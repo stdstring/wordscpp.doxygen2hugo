@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::DropDownItemCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all items in the collection in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.fields/dropdownitemcollection/getenumerator/
 ---
 ## DropDownItemCollection::GetEnumerator method

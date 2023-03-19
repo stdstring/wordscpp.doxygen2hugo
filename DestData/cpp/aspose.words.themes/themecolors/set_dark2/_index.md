@@ -4,7 +4,7 @@ linktitle: set_Dark2
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::ThemeColors::set_Dark2 method. Setter for Aspose::Words::Themes::ThemeColors::get_Dark2 in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.themes/themecolors/set_dark2/
 ---
 ## ThemeColors::set_Dark2 method

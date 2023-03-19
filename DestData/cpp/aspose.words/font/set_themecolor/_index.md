@@ -4,7 +4,7 @@ linktitle: set_ThemeColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_ThemeColor method. Setter for Aspose::Words::Font::get_ThemeColor in C++.
 type: docs
-weight: 1249
+weight: 9700
 url: /cpp/aspose.words/font/set_themecolor/
 ---
 ## Font::set_ThemeColor method

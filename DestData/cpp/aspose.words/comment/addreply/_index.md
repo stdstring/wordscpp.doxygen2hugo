@@ -4,7 +4,7 @@ linktitle: AddReply
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comment::AddReply method. Adds a reply to this comment in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/comment/addreply/
 ---
 ## Comment::AddReply method

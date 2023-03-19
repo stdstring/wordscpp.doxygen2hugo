@@ -4,7 +4,7 @@ linktitle: set_ImageStream
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSavingArgs::set_ImageStream method. Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageStream in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.saving/imagesavingargs/set_imagestream/
 ---
 ## ImageSavingArgs::set_ImageStream(const System::SharedPtr\<System::IO::Stream\>\&) method

@@ -4,7 +4,7 @@ linktitle: set_Title
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::IStructuredDocumentTag::set_Title method. Specifies the friendly name associated with this SDT. Can not be null in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.markup/istructureddocumenttag/set_title/
 ---
 ## IStructuredDocumentTag::set_Title method

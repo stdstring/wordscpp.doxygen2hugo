@@ -4,7 +4,7 @@ linktitle: set_IsDirty
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldChar::set_IsDirty method. Setter for Aspose::Words::Fields::FieldChar::get_IsDirty in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldchar/set_isdirty/
 ---
 ## FieldChar::set_IsDirty method

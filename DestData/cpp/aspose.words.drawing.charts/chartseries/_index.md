@@ -4,7 +4,7 @@ linktitle: ChartSeries
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartSeries class. Represents chart series properties in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.drawing.charts/chartseries/
 ---
 ## ChartSeries class

@@ -4,7 +4,7 @@ linktitle: set_ExportRelativeFontSize
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportRelativeFontSize method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportRelativeFontSize in C++.
 type: docs
-weight: 885
+weight: 6900
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportrelativefontsize/
 ---
 ## HtmlSaveOptions::set_ExportRelativeFontSize method

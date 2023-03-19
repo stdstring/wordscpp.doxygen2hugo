@@ -4,7 +4,7 @@ linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Cell::Accept method. Accepts a visitor in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.tables/cell/accept/
 ---
 ## Cell::Accept method

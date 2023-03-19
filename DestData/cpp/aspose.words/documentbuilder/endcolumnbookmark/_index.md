@@ -4,7 +4,7 @@ linktitle: EndColumnBookmark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::EndColumnBookmark method. Marks the current position in the document as a column bookmark end. The position must be in a table cell in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/documentbuilder/endcolumnbookmark/
 ---
 ## DocumentBuilder::EndColumnBookmark method

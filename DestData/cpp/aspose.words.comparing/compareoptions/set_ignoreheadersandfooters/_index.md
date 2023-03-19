@@ -4,7 +4,7 @@ linktitle: set_IgnoreHeadersAndFooters
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comparing::CompareOptions::set_IgnoreHeadersAndFooters method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreHeadersAndFooters in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.comparing/compareoptions/set_ignoreheadersandfooters/
 ---
 ## CompareOptions::set_IgnoreHeadersAndFooters method

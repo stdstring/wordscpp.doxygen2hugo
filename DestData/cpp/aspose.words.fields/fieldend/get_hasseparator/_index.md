@@ -4,7 +4,7 @@ linktitle: get_HasSeparator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldEnd::get_HasSeparator method. Returns true if this field has a separator in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/fieldend/get_hasseparator/
 ---
 ## FieldEnd::get_HasSeparator method

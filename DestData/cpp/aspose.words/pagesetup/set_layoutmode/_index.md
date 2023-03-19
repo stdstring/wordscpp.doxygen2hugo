@@ -4,7 +4,7 @@ linktitle: set_LayoutMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_LayoutMode method. Setter for Aspose::Words::PageSetup::get_LayoutMode in C++.
 type: docs
-weight: 781
+weight: 6100
 url: /cpp/aspose.words/pagesetup/set_layoutmode/
 ---
 ## PageSetup::set_LayoutMode method

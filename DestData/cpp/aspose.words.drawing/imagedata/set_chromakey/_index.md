@@ -4,7 +4,7 @@ linktitle: set_ChromaKey
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::set_ChromaKey method. Setter for Aspose::Words::Drawing::ImageData::get_ChromaKey in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.drawing/imagedata/set_chromakey/
 ---
 ## ImageData::set_ChromaKey method

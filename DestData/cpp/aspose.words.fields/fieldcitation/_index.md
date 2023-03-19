@@ -4,7 +4,7 @@ linktitle: FieldCitation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldCitation class. Implements the CITATION field in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.fields/fieldcitation/
 ---
 ## FieldCitation class

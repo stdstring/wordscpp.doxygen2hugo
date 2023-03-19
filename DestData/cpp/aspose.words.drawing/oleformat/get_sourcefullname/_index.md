@@ -4,7 +4,7 @@ linktitle: get_SourceFullName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::OleFormat::get_SourceFullName method. Gets or sets the path and name of the source file for the linked OLE object in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.drawing/oleformat/get_sourcefullname/
 ---
 ## OleFormat::get_SourceFullName method

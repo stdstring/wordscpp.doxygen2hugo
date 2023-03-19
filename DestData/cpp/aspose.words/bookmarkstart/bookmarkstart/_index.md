@@ -4,7 +4,7 @@ linktitle: BookmarkStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BookmarkStart::BookmarkStart constructor. Initializes a new instance of the BookmarkStart class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/bookmarkstart/bookmarkstart/
 ---
 ## BookmarkStart::BookmarkStart constructor

@@ -4,7 +4,7 @@ linktitle: PlainTextDocument
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PlainTextDocument class. Allows to extract plain-text representation of the document's content in C++.
 type: docs
-weight: 638
+weight: 5000
 url: /cpp/aspose.words/plaintextdocument/
 ---
 ## PlainTextDocument class

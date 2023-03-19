@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Node::Clone method. Creates a duplicate of the node in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/node/clone/
 ---
 ## Node::Clone method

@@ -4,7 +4,7 @@ linktitle: CompareTo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::List::CompareTo method. Compares the specified list to the current list in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.lists/list/compareto/
 ---
 ## List::CompareTo method

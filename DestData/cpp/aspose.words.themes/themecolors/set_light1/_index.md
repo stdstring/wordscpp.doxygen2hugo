@@ -4,7 +4,7 @@ linktitle: set_Light1
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::ThemeColors::set_Light1 method. Setter for Aspose::Words::Themes::ThemeColors::get_Light1 in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.themes/themecolors/set_light1/
 ---
 ## ThemeColors::set_Light1 method

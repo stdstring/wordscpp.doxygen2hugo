@@ -4,7 +4,7 @@ linktitle: set_ImagesFolder
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::MarkdownSaveOptions::set_ImagesFolder method. Setter for Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.saving/markdownsaveoptions/set_imagesfolder/
 ---
 ## MarkdownSaveOptions::set_ImagesFolder method

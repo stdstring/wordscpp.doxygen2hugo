@@ -4,7 +4,7 @@ linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartAxis::get_Type method. Returns type of the axis in C++.
 type: docs
-weight: 326
+weight: 2600
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_type/
 ---
 ## ChartAxis::get_Type method

@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Words for C++ API Reference
 description: How to use begin method of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.markup/customxmlschemacollection/begin/
 ---
 ## CustomXmlSchemaCollection::begin() const method

@@ -4,7 +4,7 @@ linktitle: set_SignatureDate
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfDigitalSignatureDetails::set_SignatureDate method. Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_signaturedate/
 ---
 ## PdfDigitalSignatureDetails::set_SignatureDate method

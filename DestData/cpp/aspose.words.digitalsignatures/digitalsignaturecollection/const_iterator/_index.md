@@ -4,7 +4,7 @@ linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::DigitalSignatures::DigitalSignatureCollection::const_iterator typedef of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/const_iterator/
 ---
 ## const_iterator typedef

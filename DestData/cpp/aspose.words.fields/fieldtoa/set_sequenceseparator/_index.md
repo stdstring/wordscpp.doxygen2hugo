@@ -4,7 +4,7 @@ linktitle: set_SequenceSeparator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldToa::set_SequenceSeparator method. Setter for Aspose::Words::Fields::FieldToa::get_SequenceSeparator in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.fields/fieldtoa/set_sequenceseparator/
 ---
 ## FieldToa::set_SequenceSeparator method

@@ -4,7 +4,7 @@ linktitle: set_Type
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisScaling::set_Type method. Setter for Aspose::Words::Drawing::Charts::AxisScaling::get_Type in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.drawing.charts/axisscaling/set_type/
 ---
 ## AxisScaling::set_Type method

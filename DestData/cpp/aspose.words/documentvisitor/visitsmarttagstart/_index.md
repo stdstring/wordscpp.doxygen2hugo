@@ -4,7 +4,7 @@ linktitle: VisitSmartTagStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitSmartTagStart method. Called when enumeration of a smart tag has started in C++.
 type: docs
-weight: 534
+weight: 4200
 url: /cpp/aspose.words/documentvisitor/visitsmarttagstart/
 ---
 ## DocumentVisitor::VisitSmartTagStart method

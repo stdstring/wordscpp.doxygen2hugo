@@ -4,7 +4,7 @@ linktitle: FieldQuote
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldQuote class. Implements the QUOTE field in C++.
 type: docs
-weight: 1067
+weight: 8300
 url: /cpp/aspose.words.fields/fieldquote/
 ---
 ## FieldQuote class

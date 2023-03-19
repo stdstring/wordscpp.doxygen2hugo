@@ -4,7 +4,7 @@ linktitle: get_Event
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::PageLayoutCallbackArgs::get_Event method. Gets event in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_event/
 ---
 ## PageLayoutCallbackArgs::get_Event method

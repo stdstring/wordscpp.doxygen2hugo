@@ -4,7 +4,7 @@ linktitle: FontInfo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontInfo class. Specifies information about a font used in the document in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fonts/fontinfo/
 ---
 ## FontInfo class

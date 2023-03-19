@@ -4,7 +4,7 @@ linktitle: GetFieldNamesForRegion
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMerge::GetFieldNamesForRegion method. Returns a collection of mail merge field names available in the region in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.mailmerging/mailmerge/getfieldnamesforregion/
 ---
 ## MailMerge::GetFieldNamesForRegion(const System::String\&) method

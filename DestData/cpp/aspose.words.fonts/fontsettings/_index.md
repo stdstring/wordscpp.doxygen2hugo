@@ -4,7 +4,7 @@ linktitle: FontSettings
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontSettings class. Specifies font settings for a document in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.fonts/fontsettings/
 ---
 ## FontSettings class

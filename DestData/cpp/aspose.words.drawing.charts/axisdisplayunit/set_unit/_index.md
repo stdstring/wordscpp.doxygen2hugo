@@ -4,7 +4,7 @@ linktitle: set_Unit
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisDisplayUnit::set_Unit method. Setter for Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_Unit in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/set_unit/
 ---
 ## AxisDisplayUnit::set_Unit method

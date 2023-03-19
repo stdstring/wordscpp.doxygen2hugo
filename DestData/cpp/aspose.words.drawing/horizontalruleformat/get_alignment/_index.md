@@ -4,7 +4,7 @@ linktitle: get_Alignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment method. Gets or sets the alignment of the horizontal rule in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.drawing/horizontalruleformat/get_alignment/
 ---
 ## HorizontalRuleFormat::get_Alignment method

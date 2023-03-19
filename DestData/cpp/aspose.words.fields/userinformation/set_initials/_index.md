@@ -4,7 +4,7 @@ linktitle: set_Initials
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::UserInformation::set_Initials method. Setter for Aspose::Words::Fields::UserInformation::get_Initials in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/userinformation/set_initials/
 ---
 ## UserInformation::set_Initials method

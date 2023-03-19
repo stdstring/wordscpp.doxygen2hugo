@@ -4,7 +4,7 @@ linktitle: Shading
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Shading class. Contains shading attributes for an object in C++.
 type: docs
-weight: 768
+weight: 6000
 url: /cpp/aspose.words/shading/
 ---
 ## Shading class

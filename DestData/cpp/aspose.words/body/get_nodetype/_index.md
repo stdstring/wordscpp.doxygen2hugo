@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Body::get_NodeType method. Returns NodeType.Body in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/body/get_nodetype/
 ---
 ## Body::get_NodeType method

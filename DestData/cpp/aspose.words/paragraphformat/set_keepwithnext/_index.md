@@ -4,7 +4,7 @@ linktitle: set_KeepWithNext
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_KeepWithNext method. Setter for Aspose::Words::ParagraphFormat::get_KeepWithNext in C++.
 type: docs
-weight: 690
+weight: 5400
 url: /cpp/aspose.words/paragraphformat/set_keepwithnext/
 ---
 ## ParagraphFormat::set_KeepWithNext method

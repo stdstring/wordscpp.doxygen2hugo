@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartMarker::get_Size method. Gets or sets chart marker size. Default value is 7 in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.drawing.charts/chartmarker/get_size/
 ---
 ## ChartMarker::get_Size method

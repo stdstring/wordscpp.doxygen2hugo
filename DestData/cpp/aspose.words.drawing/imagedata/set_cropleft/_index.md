@@ -4,7 +4,7 @@ linktitle: set_CropLeft
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::set_CropLeft method. Setter for Aspose::Words::Drawing::ImageData::get_CropLeft in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words.drawing/imagedata/set_cropleft/
 ---
 ## ImageData::set_CropLeft method

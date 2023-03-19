@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::MailMergeSettings::Clear method. Clears the mail merge settings in such a way that when the document is saved, no mail merge settings will be saved and it will become a normal document in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.settings/mailmergesettings/clear/
 ---
 ## MailMergeSettings::Clear method

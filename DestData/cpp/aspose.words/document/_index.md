@@ -4,7 +4,7 @@ linktitle: Document
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document class. Represents a Word document. To learn more, visit the  documentation article in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words/document/
 ---
 ## Document class

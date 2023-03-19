@@ -4,7 +4,7 @@ linktitle: set_LineStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BorderCollection::set_LineStyle method. Setter for Aspose::Words::BorderCollection::get_LineStyle in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words/bordercollection/set_linestyle/
 ---
 ## BorderCollection::set_LineStyle method

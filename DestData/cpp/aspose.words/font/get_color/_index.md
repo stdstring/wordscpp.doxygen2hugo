@@ -4,7 +4,7 @@ linktitle: get_Color
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::get_Color method. Gets or sets the color of the font in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words/font/get_color/
 ---
 ## Font::get_Color method

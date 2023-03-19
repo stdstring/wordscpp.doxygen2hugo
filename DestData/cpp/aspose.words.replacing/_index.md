@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Replacing
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing namespace. The Aspose.Words.Replacing namespace provides classes to manipulate with find/replace operations over the document tree in C++.
 type: docs
-weight: 235
+weight: 2000
 url: /cpp/aspose.words.replacing/
 ---
 

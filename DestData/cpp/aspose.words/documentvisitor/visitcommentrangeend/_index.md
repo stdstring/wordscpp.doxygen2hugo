@@ -4,7 +4,7 @@ linktitle: VisitCommentRangeEnd
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitCommentRangeEnd method. Called when the end of a commented range of text is encountered in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words/documentvisitor/visitcommentrangeend/
 ---
 ## DocumentVisitor::VisitCommentRangeEnd method

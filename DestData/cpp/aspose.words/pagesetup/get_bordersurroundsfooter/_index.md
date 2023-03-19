@@ -4,7 +4,7 @@ linktitle: get_BorderSurroundsFooter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_BorderSurroundsFooter method. Specifies whether the page border includes or excludes the footer in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words/pagesetup/get_bordersurroundsfooter/
 ---
 ## PageSetup::get_BorderSurroundsFooter method

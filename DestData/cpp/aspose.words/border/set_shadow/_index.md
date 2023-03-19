@@ -4,7 +4,7 @@ linktitle: set_Shadow
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Border::set_Shadow method. Setter for Aspose::Words::Border::get_Shadow in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words/border/set_shadow/
 ---
 ## Border::set_Shadow method

@@ -4,7 +4,7 @@ linktitle: FramesetCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Framesets::FramesetCollection class. Represents a collection of instances of the Frameset class in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.framesets/framesetcollection/
 ---
 ## FramesetCollection class

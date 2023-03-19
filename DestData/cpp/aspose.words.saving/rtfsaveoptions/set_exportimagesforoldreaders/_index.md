@@ -4,7 +4,7 @@ linktitle: set_ExportImagesForOldReaders
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::RtfSaveOptions::set_ExportImagesForOldReaders method. Setter for Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.saving/rtfsaveoptions/set_exportimagesforoldreaders/
 ---
 ## RtfSaveOptions::set_ExportImagesForOldReaders method

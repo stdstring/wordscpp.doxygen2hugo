@@ -4,7 +4,7 @@ linktitle: get_LabelString
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLabel::get_LabelString method. Gets a string representation of list label in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.lists/listlabel/get_labelstring/
 ---
 ## ListLabel::get_LabelString method

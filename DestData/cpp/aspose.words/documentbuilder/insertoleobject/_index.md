@@ -4,7 +4,7 @@ linktitle: InsertOleObject
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertOleObject method. Inserts an embedded OLE object from a stream into the document in C++.
 type: docs
-weight: 495
+weight: 3900
 url: /cpp/aspose.words/documentbuilder/insertoleobject/
 ---
 ## DocumentBuilder::InsertOleObject(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, bool, const System::SharedPtr\<System::IO::Stream\>\&) method

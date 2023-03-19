@@ -4,7 +4,7 @@ linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Markup::CustomPartCollection::iterator_holder_type typedef of Aspose::Words::Markup::CustomPartCollection class in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.markup/custompartcollection/iterator_holder_type/
 ---
 ## iterator_holder_type typedef

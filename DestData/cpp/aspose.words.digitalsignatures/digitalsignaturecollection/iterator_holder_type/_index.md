@@ -4,7 +4,7 @@ linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::DigitalSignatures::DigitalSignatureCollection::iterator_holder_type typedef of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/iterator_holder_type/
 ---
 ## iterator_holder_type typedef

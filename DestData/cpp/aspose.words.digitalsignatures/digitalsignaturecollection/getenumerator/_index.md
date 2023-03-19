@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::GetEnumerator method. Returns a dictionary enumerator object that can be used to iterate over all items in the collection in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/getenumerator/
 ---
 ## DigitalSignatureCollection::GetEnumerator method

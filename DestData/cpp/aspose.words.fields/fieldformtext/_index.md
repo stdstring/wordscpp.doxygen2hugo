@@ -4,7 +4,7 @@ linktitle: FieldFormText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldFormText class. Implements the FORMTEXT field in C++.
 type: docs
-weight: 612
+weight: 4800
 url: /cpp/aspose.words.fields/fieldformtext/
 ---
 ## FieldFormText class

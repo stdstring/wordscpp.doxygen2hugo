@@ -4,7 +4,7 @@ linktitle: set_IsFrameLinkToFile
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Framesets::Frameset::set_IsFrameLinkToFile method. Setter for Aspose::Words::Framesets::Frameset::get_IsFrameLinkToFile in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.framesets/frameset/set_isframelinktofile/
 ---
 ## Frameset::set_IsFrameLinkToFile method

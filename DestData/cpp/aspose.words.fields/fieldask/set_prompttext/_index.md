@@ -4,7 +4,7 @@ linktitle: set_PromptText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldAsk::set_PromptText method. Sets the prompt text (the title of the prompt window) in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.fields/fieldask/set_prompttext/
 ---
 ## FieldAsk::set_PromptText method

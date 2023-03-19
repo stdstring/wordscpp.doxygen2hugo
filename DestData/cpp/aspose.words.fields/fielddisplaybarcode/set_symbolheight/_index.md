@@ -4,7 +4,7 @@ linktitle: set_SymbolHeight
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolHeight method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_symbolheight/
 ---
 ## FieldDisplayBarcode::set_SymbolHeight method

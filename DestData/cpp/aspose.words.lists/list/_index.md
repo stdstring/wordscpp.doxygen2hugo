@@ -4,7 +4,7 @@ linktitle: List
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::List class. Represents formatting of a list in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.lists/list/
 ---
 ## List class

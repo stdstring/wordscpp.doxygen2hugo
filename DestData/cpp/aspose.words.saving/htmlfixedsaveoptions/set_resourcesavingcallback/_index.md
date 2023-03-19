@@ -4,7 +4,7 @@ linktitle: set_ResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_ResourceSavingCallback method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ResourceSavingCallback in C++.
 type: docs
-weight: 391
+weight: 3100
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_resourcesavingcallback/
 ---
 ## HtmlFixedSaveOptions::set_ResourceSavingCallback method

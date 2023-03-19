@@ -4,7 +4,7 @@ linktitle: set_MimeType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldIncludeText::set_MimeType method. Setter for Aspose::Words::Fields::FieldIncludeText::get_MimeType in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.fields/fieldincludetext/set_mimetype/
 ---
 ## FieldIncludeText::set_MimeType method

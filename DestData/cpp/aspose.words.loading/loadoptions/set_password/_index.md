@@ -4,7 +4,7 @@ linktitle: set_Password
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::LoadOptions::set_Password method. Setter for Aspose::Words::Loading::LoadOptions::get_Password in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.loading/loadoptions/set_password/
 ---
 ## LoadOptions::set_Password method

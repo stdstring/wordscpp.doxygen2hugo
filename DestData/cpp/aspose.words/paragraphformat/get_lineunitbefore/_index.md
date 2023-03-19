@@ -4,7 +4,7 @@ linktitle: get_LineUnitBefore
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::get_LineUnitBefore method. Gets or sets the amount of spacing (in gridlines) before the paragraphs in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words/paragraphformat/get_lineunitbefore/
 ---
 ## ParagraphFormat::get_LineUnitBefore method

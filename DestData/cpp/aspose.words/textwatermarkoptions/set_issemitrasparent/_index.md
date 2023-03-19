@@ -4,7 +4,7 @@ linktitle: set_IsSemitrasparent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TextWatermarkOptions::set_IsSemitrasparent method. Setter for Aspose::Words::TextWatermarkOptions::get_IsSemitrasparent in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words/textwatermarkoptions/set_issemitrasparent/
 ---
 ## TextWatermarkOptions::set_IsSemitrasparent method

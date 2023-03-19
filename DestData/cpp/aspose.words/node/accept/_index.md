@@ -4,7 +4,7 @@ linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Node::Accept method. Accepts a visitor in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/node/accept/
 ---
 ## Node::Accept method

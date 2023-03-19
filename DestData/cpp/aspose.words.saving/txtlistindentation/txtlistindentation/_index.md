@@ -4,7 +4,7 @@ linktitle: TxtListIndentation
 second_title: Aspose.Words for C++ API Reference
 description: How to use TxtListIndentation constructor of Aspose::Words::Saving::TxtListIndentation class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.saving/txtlistindentation/txtlistindentation/
 ---
 ## TxtListIndentation::TxtListIndentation constructor

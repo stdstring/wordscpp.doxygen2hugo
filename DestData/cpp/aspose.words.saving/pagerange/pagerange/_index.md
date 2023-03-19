@@ -4,7 +4,7 @@ linktitle: PageRange
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PageRange::PageRange constructor. Creates a new page range object in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.saving/pagerange/pagerange/
 ---
 ## PageRange::PageRange constructor

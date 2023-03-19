@@ -4,7 +4,7 @@ linktitle: set_Weight
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Stroke::set_Weight method. Setter for Aspose::Words::Drawing::Stroke::get_Weight in C++.
 type: docs
-weight: 495
+weight: 3900
 url: /cpp/aspose.words.drawing/stroke/set_weight/
 ---
 ## Stroke::set_Weight method

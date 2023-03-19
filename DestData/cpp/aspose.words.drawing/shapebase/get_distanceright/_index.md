@@ -4,7 +4,7 @@ linktitle: get_DistanceRight
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::get_DistanceRight method. Returns or sets the distance (in points) between the document text and the right edge of the shape in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.drawing/shapebase/get_distanceright/
 ---
 ## ShapeBase::get_DistanceRight method

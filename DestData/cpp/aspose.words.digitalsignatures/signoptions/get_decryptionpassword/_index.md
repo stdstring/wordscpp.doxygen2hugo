@@ -4,7 +4,7 @@ linktitle: get_DecryptionPassword
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword method. The password to decrypt source document. Default value is empty string in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.digitalsignatures/signoptions/get_decryptionpassword/
 ---
 ## SignOptions::get_DecryptionPassword method

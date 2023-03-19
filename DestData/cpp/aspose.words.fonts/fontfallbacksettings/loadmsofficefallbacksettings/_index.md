@@ -4,7 +4,7 @@ linktitle: LoadMsOfficeFallbackSettings
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontFallbackSettings::LoadMsOfficeFallbackSettings method. Loads predefined fallback settings which mimics the Microsoft Word fallback and uses Microsoft office fonts in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fonts/fontfallbacksettings/loadmsofficefallbacksettings/
 ---
 ## FontFallbackSettings::LoadMsOfficeFallbackSettings method

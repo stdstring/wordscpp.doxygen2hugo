@@ -4,7 +4,7 @@ linktitle: get_ThresholdForFloydSteinbergDithering
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSaveOptions::get_ThresholdForFloydSteinbergDithering method. Gets or sets the threshold that determines the value of the binarization error in the Floyd-Steinberg method. when ImageBinarizationMethod is ImageBinarizationMethod.FloydSteinbergDithering in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.saving/imagesaveoptions/get_thresholdforfloydsteinbergdithering/
 ---
 ## ImageSaveOptions::get_ThresholdForFloydSteinbergDithering method

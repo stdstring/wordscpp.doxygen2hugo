@@ -4,7 +4,7 @@ linktitle: SpaceChar
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::SpaceChar field. Space character: (char)32 in C++.
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words/controlchar/spacechar/
 ---
 ## SpaceChar field

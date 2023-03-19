@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Words for C++ API Reference
 description: How to use begin method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/begin/
 ---
 ## MappedDataFieldCollection::begin() const method

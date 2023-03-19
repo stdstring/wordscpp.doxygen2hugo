@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartDataPointCollection::idx_get method. Returns ChartDataPoint for the specified index in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/idx_get/
 ---
 ## ChartDataPointCollection::idx_get method

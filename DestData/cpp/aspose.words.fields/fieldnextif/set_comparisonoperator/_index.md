@@ -4,7 +4,7 @@ linktitle: set_ComparisonOperator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldNextIf::set_ComparisonOperator method. Sets the comparison operator in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fields/fieldnextif/set_comparisonoperator/
 ---
 ## FieldNextIf::set_ComparisonOperator method

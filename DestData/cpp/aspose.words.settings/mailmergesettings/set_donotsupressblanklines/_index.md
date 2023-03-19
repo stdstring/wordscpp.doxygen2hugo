@@ -4,7 +4,7 @@ linktitle: set_DoNotSupressBlankLines
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::MailMergeSettings::set_DoNotSupressBlankLines method. Specifies how an application performing the mail merge shall handle blank lines in the merged documents resulting from the mail merge. The default value is false in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words.settings/mailmergesettings/set_donotsupressblanklines/
 ---
 ## MailMergeSettings::set_DoNotSupressBlankLines method

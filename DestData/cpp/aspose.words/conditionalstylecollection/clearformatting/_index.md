@@ -4,7 +4,7 @@ linktitle: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ConditionalStyleCollection::ClearFormatting method. Clears all conditional styles of the table style in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/conditionalstylecollection/clearformatting/
 ---
 ## ConditionalStyleCollection::ClearFormatting method

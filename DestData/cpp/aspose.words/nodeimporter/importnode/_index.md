@@ -4,7 +4,7 @@ linktitle: ImportNode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::NodeImporter::ImportNode method. Imports a node from one document into another in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/nodeimporter/importnode/
 ---
 ## NodeImporter::ImportNode method

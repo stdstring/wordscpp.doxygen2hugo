@@ -4,7 +4,7 @@ linktitle: StructuredDocumentTagRangeStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::StructuredDocumentTagRangeStart constructor. Initializes a new instance of the Structured document tag range start class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/structureddocumenttagrangestart/
 ---
 ## StructuredDocumentTagRangeStart::StructuredDocumentTagRangeStart constructor

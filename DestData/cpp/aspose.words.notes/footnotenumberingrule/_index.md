@@ -4,7 +4,7 @@ linktitle: FootnoteNumberingRule
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::FootnoteNumberingRule enum. Determines when automatic footnote or endnote numbering restarts in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.notes/footnotenumberingrule/
 ---
 ## FootnoteNumberingRule enum

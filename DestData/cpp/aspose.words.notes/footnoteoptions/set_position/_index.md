@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::FootnoteOptions::set_Position method. Setter for Aspose::Words::Notes::FootnoteOptions::get_Position in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.notes/footnoteoptions/set_position/
 ---
 ## FootnoteOptions::set_Position method

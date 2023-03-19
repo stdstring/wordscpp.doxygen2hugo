@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::DocumentPropertyCollection::idx_get method. Returns a DocumentProperty object by index in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.properties/documentpropertycollection/idx_get/
 ---
 ## DocumentPropertyCollection::idx_get(int32_t) method

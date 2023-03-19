@@ -4,7 +4,7 @@ linktitle: ToArray
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::HeaderFooterCollection::ToArray method. Copies all HeaderFoorters from the collection to a new array of HeaderFoorters in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/headerfootercollection/toarray/
 ---
 ## HeaderFooterCollection::ToArray method

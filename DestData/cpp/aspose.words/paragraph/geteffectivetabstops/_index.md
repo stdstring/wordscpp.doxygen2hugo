@@ -4,7 +4,7 @@ linktitle: GetEffectiveTabStops
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Paragraph::GetEffectiveTabStops method. Returns array of all tab stops applied to this paragraph, including applied indirectly by styles or lists in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words/paragraph/geteffectivetabstops/
 ---
 ## Paragraph::GetEffectiveTabStops method

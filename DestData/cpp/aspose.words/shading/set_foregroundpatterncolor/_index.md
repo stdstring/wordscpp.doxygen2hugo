@@ -4,7 +4,7 @@ linktitle: set_ForegroundPatternColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Shading::set_ForegroundPatternColor method. Setter for Aspose::Words::Shading::get_ForegroundPatternColor in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words/shading/set_foregroundpatterncolor/
 ---
 ## Shading::set_ForegroundPatternColor method

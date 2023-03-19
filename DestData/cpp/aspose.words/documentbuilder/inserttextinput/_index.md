@@ -4,7 +4,7 @@ linktitle: InsertTextInput
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertTextInput method. Inserts a text form field at the current position in C++.
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words/documentbuilder/inserttextinput/
 ---
 ## DocumentBuilder::InsertTextInput method

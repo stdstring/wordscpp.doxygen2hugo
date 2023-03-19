@@ -4,7 +4,7 @@ linktitle: get_EntryName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldAutoTextList::get_EntryName method. Gets or sets the name of the AutoText entry in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/fieldautotextlist/get_entryname/
 ---
 ## FieldAutoTextList::get_EntryName method

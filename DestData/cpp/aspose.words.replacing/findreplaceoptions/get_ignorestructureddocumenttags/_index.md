@@ -4,7 +4,7 @@ linktitle: get_IgnoreStructuredDocumentTags
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreStructuredDocumentTags method. Gets or sets a boolean value indicating either to ignore content of StructuredDocumentTag. The default value is false in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignorestructureddocumenttags/
 ---
 ## FindReplaceOptions::get_IgnoreStructuredDocumentTags method

@@ -4,7 +4,7 @@ linktitle: ConditionalStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ConditionalStyle class. Represents special formatting applied to some area of a table with assigned table style in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words/conditionalstyle/
 ---
 ## ConditionalStyle class

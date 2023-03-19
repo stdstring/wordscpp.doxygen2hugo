@@ -4,7 +4,7 @@ linktitle: set_RemoveEntryFormatting
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldToa::set_RemoveEntryFormatting method. Setter for Aspose::Words::Fields::FieldToa::get_RemoveEntryFormatting in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.fields/fieldtoa/set_removeentryformatting/
 ---
 ## FieldToa::set_RemoveEntryFormatting method

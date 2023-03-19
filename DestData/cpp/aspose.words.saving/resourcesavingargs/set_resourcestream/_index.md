@@ -4,7 +4,7 @@ linktitle: set_ResourceStream
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream method. Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcestream/
 ---
 ## ResourceSavingArgs::set_ResourceStream(const System::SharedPtr\<System::IO::Stream\>\&) method

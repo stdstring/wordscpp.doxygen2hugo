@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::get_Size method. Gets or sets the font size in points in C++.
 type: docs
-weight: 443
+weight: 3500
 url: /cpp/aspose.words/font/get_size/
 ---
 ## Font::get_Size method

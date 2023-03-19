@@ -4,7 +4,7 @@ linktitle: set_SameLetterHeights
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::set_SameLetterHeights method. Setter for Aspose::Words::Drawing::TextPath::get_SameLetterHeights in C++.
 type: docs
-weight: 378
+weight: 3000
 url: /cpp/aspose.words.drawing/textpath/set_sameletterheights/
 ---
 ## TextPath::set_SameLetterHeights method

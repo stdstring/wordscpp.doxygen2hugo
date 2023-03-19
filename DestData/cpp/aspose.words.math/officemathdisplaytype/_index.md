@@ -4,7 +4,7 @@ linktitle: OfficeMathDisplayType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Math::OfficeMathDisplayType enum. Specifies the display format type of the equation in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.math/officemathdisplaytype/
 ---
 ## OfficeMathDisplayType enum

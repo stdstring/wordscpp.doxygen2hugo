@@ -4,7 +4,7 @@ linktitle: SetUncheckedSymbol
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTag::SetUncheckedSymbol method. Sets the symbol used to represent the unchecked state of a check box content control in C++.
 type: docs
-weight: 716
+weight: 5600
 url: /cpp/aspose.words.markup/structureddocumenttag/setuncheckedsymbol/
 ---
 ## StructuredDocumentTag::SetUncheckedSymbol method

@@ -4,7 +4,7 @@ linktitle: set_InternalMarginTop
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextBox::set_InternalMarginTop method. Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginTop in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.drawing/textbox/set_internalmargintop/
 ---
 ## TextBox::set_InternalMarginTop method

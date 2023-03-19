@@ -4,7 +4,7 @@ linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Vba::VbaModuleCollection::iterator_holder_type typedef of Aspose::Words::Vba::VbaModuleCollection class in C++.
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words.vba/vbamodulecollection/iterator_holder_type/
 ---
 ## iterator_holder_type typedef

@@ -4,7 +4,7 @@ linktitle: ComparisonTargetType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comparing::ComparisonTargetType enum. Allows to specify base document which will be used during comparison. Default value is Current in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.comparing/comparisontargettype/
 ---
 ## ComparisonTargetType enum

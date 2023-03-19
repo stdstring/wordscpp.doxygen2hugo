@@ -4,7 +4,7 @@ linktitle: Run
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Run::Run constructor. Initializes a new instance of the Run class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/run/run/
 ---
 ## Run::Run(const System::SharedPtr\<Aspose::Words::DocumentBase\>\&) constructor

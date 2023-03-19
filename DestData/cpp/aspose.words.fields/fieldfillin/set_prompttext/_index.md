@@ -4,7 +4,7 @@ linktitle: set_PromptText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldFillIn::set_PromptText method. Setter for Aspose::Words::Fields::FieldFillIn::get_PromptText in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldfillin/set_prompttext/
 ---
 ## FieldFillIn::set_PromptText method

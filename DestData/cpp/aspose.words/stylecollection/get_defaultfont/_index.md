@@ -4,7 +4,7 @@ linktitle: get_DefaultFont
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::StyleCollection::get_DefaultFont method. Gets document default text formatting in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words/stylecollection/get_defaultfont/
 ---
 ## StyleCollection::get_DefaultFont method

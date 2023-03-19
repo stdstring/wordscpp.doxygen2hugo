@@ -4,7 +4,7 @@ linktitle: set_SaveFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_SaveFormat in C++.
 type: docs
-weight: 1145
+weight: 8900
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_saveformat/
 ---
 ## HtmlSaveOptions::set_SaveFormat method

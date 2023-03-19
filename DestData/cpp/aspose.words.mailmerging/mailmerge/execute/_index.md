@@ -4,7 +4,7 @@ linktitle: Execute
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMerge::Execute method. Performs a mail merge operation for a single record in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.mailmerging/mailmerge/execute/
 ---
 ## MailMerge::Execute(const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) method

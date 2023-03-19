@@ -4,7 +4,7 @@ linktitle: BuildingBlockGallery
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BuildingBlocks::BuildingBlockGallery enum. Specifies the predefined gallery into which a building block is classified in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.buildingblocks/buildingblockgallery/
 ---
 ## BuildingBlockGallery enum

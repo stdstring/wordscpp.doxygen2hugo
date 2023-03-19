@@ -4,7 +4,7 @@ linktitle: GetHashCode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Border::GetHashCode method. Serves as a hash function for this type in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/border/gethashcode/
 ---
 ## Border::GetHashCode method

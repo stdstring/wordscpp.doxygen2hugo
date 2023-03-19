@@ -4,7 +4,7 @@ linktitle: Body
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Body::Body constructor. Initializes a new instance of the Body class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/body/body/
 ---
 ## Body::Body constructor

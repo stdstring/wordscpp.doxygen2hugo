@@ -4,7 +4,7 @@ linktitle: set_Document
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::LayoutCollector::set_Document method. Setter for Aspose::Words::Layout::LayoutCollector::get_Document in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.layout/layoutcollector/set_document/
 ---
 ## LayoutCollector::set_Document method

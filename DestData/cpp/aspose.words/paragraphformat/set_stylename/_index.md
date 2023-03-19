@@ -4,7 +4,7 @@ linktitle: set_StyleName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_StyleName method. Setter for Aspose::Words::ParagraphFormat::get_StyleName in C++.
 type: docs
-weight: 924
+weight: 7200
 url: /cpp/aspose.words/paragraphformat/set_stylename/
 ---
 ## ParagraphFormat::set_StyleName method

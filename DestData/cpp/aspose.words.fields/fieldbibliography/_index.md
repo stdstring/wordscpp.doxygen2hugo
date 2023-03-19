@@ -4,7 +4,7 @@ linktitle: FieldBibliography
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldBibliography class. Implements the BIBLIOGRAPHY field in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.fields/fieldbibliography/
 ---
 ## FieldBibliography class

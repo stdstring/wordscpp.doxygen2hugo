@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeBeginConstIterator method of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/virtualizebeginconstiterator/
 ---
 ## BaseWebExtensionCollection::virtualizeBeginConstIterator method

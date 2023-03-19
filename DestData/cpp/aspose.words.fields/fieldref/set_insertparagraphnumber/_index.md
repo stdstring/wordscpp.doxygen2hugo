@@ -4,7 +4,7 @@ linktitle: set_InsertParagraphNumber
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldRef::set_InsertParagraphNumber method. Setter for Aspose::Words::Fields::FieldRef::get_InsertParagraphNumber in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.fields/fieldref/set_insertparagraphnumber/
 ---
 ## FieldRef::set_InsertParagraphNumber method

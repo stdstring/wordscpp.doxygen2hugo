@@ -4,7 +4,7 @@ linktitle: IFieldUserPromptRespondent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::IFieldUserPromptRespondent interface. Represents the respondent to user prompts during field update in C++.
 type: docs
-weight: 1587
+weight: 12300
 url: /cpp/aspose.words.fields/ifielduserpromptrespondent/
 ---
 ## IFieldUserPromptRespondent interface

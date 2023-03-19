@@ -4,7 +4,7 @@ linktitle: get_CustomStyles
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldToc::get_CustomStyles method. Gets or sets a list of styles other than the built-in heading styles to include in the table of contents in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fields/fieldtoc/get_customstyles/
 ---
 ## FieldToc::get_CustomStyles method

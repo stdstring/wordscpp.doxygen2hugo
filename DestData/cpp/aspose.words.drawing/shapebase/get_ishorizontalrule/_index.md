@@ -4,7 +4,7 @@ linktitle: get_IsHorizontalRule
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::get_IsHorizontalRule method. Returns true if this shape is a horizontal rule in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words.drawing/shapebase/get_ishorizontalrule/
 ---
 ## ShapeBase::get_IsHorizontalRule method

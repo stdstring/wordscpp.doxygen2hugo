@@ -4,7 +4,7 @@ linktitle: set_IsAuto
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::Footnote::set_IsAuto method. Setter for Aspose::Words::Notes::Footnote::get_IsAuto in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.notes/footnote/set_isauto/
 ---
 ## Footnote::set_IsAuto method

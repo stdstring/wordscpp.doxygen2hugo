@@ -4,7 +4,7 @@ linktitle: get_AttachedTemplate
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_AttachedTemplate method. Gets or sets the full path of the template attached to the document in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words/document/get_attachedtemplate/
 ---
 ## Document::get_AttachedTemplate method

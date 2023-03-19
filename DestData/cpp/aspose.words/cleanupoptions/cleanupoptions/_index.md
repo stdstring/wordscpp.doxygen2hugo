@@ -4,7 +4,7 @@ linktitle: CleanupOptions
 second_title: Aspose.Words for C++ API Reference
 description: How to use CleanupOptions constructor of Aspose::Words::CleanupOptions class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/cleanupoptions/cleanupoptions/
 ---
 ## CleanupOptions::CleanupOptions constructor

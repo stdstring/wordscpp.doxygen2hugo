@@ -4,7 +4,7 @@ linktitle: set_Brightness
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::set_Brightness method. Setter for Aspose::Words::Drawing::ImageData::get_Brightness in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.drawing/imagedata/set_brightness/
 ---
 ## ImageData::set_Brightness method

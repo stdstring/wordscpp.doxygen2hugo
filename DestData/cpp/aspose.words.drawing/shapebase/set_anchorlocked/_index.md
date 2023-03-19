@@ -4,7 +4,7 @@ linktitle: set_AnchorLocked
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::set_AnchorLocked method. Setter for Aspose::Words::Drawing::ShapeBase::get_AnchorLocked in C++.
 type: docs
-weight: 781
+weight: 6100
 url: /cpp/aspose.words.drawing/shapebase/set_anchorlocked/
 ---
 ## ShapeBase::set_AnchorLocked method

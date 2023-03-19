@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Watermark::Remove method. Removes the watermark in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/watermark/remove/
 ---
 ## Watermark::Remove method

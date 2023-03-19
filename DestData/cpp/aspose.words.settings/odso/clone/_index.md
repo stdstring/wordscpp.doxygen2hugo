@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::Odso::Clone method. Returns a deep clone of this object in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.settings/odso/clone/
 ---
 ## Odso::Clone method

@@ -4,7 +4,7 @@ linktitle: get_IgnoreHeadersAndFooters
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comparing::CompareOptions::get_IgnoreHeadersAndFooters method. True indicates that headers and footers content is ignored. By default headers and footers are not ignored in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.comparing/compareoptions/get_ignoreheadersandfooters/
 ---
 ## CompareOptions::get_IgnoreHeadersAndFooters method

@@ -4,7 +4,7 @@ linktitle: get_LayoutFlow
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextBox::get_LayoutFlow method. Determines the flow of the text layout in a shape in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing/textbox/get_layoutflow/
 ---
 ## TextBox::get_LayoutFlow method

@@ -4,7 +4,7 @@ linktitle: get_LastChild
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LastChild method. Gets the last child in the stdContent range in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_lastchild/
 ---
 ## StructuredDocumentTagRangeStart::get_LastChild method

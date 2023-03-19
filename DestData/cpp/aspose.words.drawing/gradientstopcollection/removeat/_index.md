@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::GradientStopCollection::RemoveAt method. Removes a GradientStop from the collection at a specified index in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.drawing/gradientstopcollection/removeat/
 ---
 ## GradientStopCollection::RemoveAt method

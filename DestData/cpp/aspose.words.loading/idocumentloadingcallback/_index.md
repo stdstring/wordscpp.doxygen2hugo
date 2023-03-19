@@ -4,7 +4,7 @@ linktitle: IDocumentLoadingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::IDocumentLoadingCallback interface. Implement this interface if you want to have your own custom method called during loading a document in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.loading/idocumentloadingcallback/
 ---
 ## IDocumentLoadingCallback interface

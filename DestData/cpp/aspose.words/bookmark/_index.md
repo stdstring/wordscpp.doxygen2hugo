@@ -4,7 +4,7 @@ linktitle: Bookmark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Bookmark class. Represents a single bookmark. To learn more, visit the  documentation article in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/bookmark/
 ---
 ## Bookmark class

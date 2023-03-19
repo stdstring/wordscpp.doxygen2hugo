@@ -4,7 +4,7 @@ linktitle: set_PageNumberStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_PageNumberStyle method. Setter for Aspose::Words::PageSetup::get_PageNumberStyle in C++.
 type: docs
-weight: 937
+weight: 7300
 url: /cpp/aspose.words/pagesetup/set_pagenumberstyle/
 ---
 ## PageSetup::set_PageNumberStyle method

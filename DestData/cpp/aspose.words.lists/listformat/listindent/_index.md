@@ -4,7 +4,7 @@ linktitle: ListIndent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListFormat::ListIndent method. Increases the list level of the current paragraph by one level in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.lists/listformat/listindent/
 ---
 ## ListFormat::ListIndent method

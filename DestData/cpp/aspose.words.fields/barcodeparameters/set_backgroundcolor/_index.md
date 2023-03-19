@@ -4,7 +4,7 @@ linktitle: set_BackgroundColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::BarcodeParameters::set_BackgroundColor method. Bar code background color (0x000000 - 0xFFFFFF) in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.fields/barcodeparameters/set_backgroundcolor/
 ---
 ## BarcodeParameters::set_BackgroundColor method

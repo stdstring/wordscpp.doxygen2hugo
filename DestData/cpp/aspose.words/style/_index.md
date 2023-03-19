@@ -4,7 +4,7 @@ linktitle: Style
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Style class. Represents a single built-in or user-defined style in C++.
 type: docs
-weight: 820
+weight: 6400
 url: /cpp/aspose.words/style/
 ---
 ## Style class

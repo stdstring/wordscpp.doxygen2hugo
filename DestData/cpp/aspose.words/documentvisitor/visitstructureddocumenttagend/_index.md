@@ -4,7 +4,7 @@ linktitle: VisitStructuredDocumentTagEnd
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagEnd method. Called when enumeration of a structured document tag has ended in C++.
 type: docs
-weight: 560
+weight: 4400
 url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagend/
 ---
 ## DocumentVisitor::VisitStructuredDocumentTagEnd method

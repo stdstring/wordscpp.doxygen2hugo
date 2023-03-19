@@ -4,7 +4,7 @@ linktitle: set_IgnoreStructuredDocumentTags
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_IgnoreStructuredDocumentTags method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreStructuredDocumentTags in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignorestructureddocumenttags/
 ---
 ## FindReplaceOptions::set_IgnoreStructuredDocumentTags method

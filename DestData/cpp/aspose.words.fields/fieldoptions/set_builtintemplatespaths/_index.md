@@ -4,7 +4,7 @@ linktitle: set_BuiltInTemplatesPaths
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldOptions::set_BuiltInTemplatesPaths method. Setter for Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.fields/fieldoptions/set_builtintemplatespaths/
 ---
 ## FieldOptions::set_BuiltInTemplatesPaths method

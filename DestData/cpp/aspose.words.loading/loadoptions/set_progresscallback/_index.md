@@ -4,7 +4,7 @@ linktitle: set_ProgressCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::LoadOptions::set_ProgressCallback method. Called during loading a document and accepts data about loading progress in C++.
 type: docs
-weight: 326
+weight: 2600
 url: /cpp/aspose.words.loading/loadoptions/set_progresscallback/
 ---
 ## LoadOptions::set_ProgressCallback method

@@ -4,7 +4,7 @@ linktitle: cend
 second_title: Aspose.Words for C++ API Reference
 description: How to use cend method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/cend/
 ---
 ## DigitalSignatureCollection::cend method

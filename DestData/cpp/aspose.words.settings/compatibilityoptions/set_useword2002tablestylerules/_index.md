@@ -4,7 +4,7 @@ linktitle: set_UseWord2002TableStyleRules
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_UseWord2002TableStyleRules method. Emulate Word 2002 Table Style Rules in C++.
 type: docs
-weight: 1782
+weight: 13800
 url: /cpp/aspose.words.settings/compatibilityoptions/set_useword2002tablestylerules/
 ---
 ## CompatibilityOptions::set_UseWord2002TableStyleRules method

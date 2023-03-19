@@ -4,7 +4,7 @@ linktitle: get_CacheHeaderFooterShapes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::get_CacheHeaderFooterShapes method. Gets or sets a value determining whether or not to cache shapes placed in header and footer of document in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_cacheheaderfootershapes/
 ---
 ## PdfSaveOptions::get_CacheHeaderFooterShapes method

@@ -4,7 +4,7 @@ linktitle: FieldMerging
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::IFieldMergingCallback::FieldMerging method. Called when the Aspose.Words mail merge engine is about to insert data into a merge field in the document in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.mailmerging/ifieldmergingcallback/fieldmerging/
 ---
 ## IFieldMergingCallback::FieldMerging method

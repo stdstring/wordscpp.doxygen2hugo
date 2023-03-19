@@ -4,7 +4,7 @@ linktitle: set_LayoutFlow
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextBox::set_LayoutFlow method. Setter for Aspose::Words::Drawing::TextBox::get_LayoutFlow in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.drawing/textbox/set_layoutflow/
 ---
 ## TextBox::set_LayoutFlow method

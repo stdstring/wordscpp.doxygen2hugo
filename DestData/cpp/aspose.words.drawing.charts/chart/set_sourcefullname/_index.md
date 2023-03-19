@@ -4,7 +4,7 @@ linktitle: set_SourceFullName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::Chart::set_SourceFullName method. Gets the path and name of an xls/xlsx file this chart is linked to in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.drawing.charts/chart/set_sourcefullname/
 ---
 ## Chart::set_SourceFullName method

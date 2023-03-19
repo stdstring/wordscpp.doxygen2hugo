@@ -4,7 +4,7 @@ linktitle: set_TintAndShade
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_TintAndShade method. Setter for Aspose::Words::Font::get_TintAndShade in C++.
 type: docs
-weight: 1327
+weight: 10300
 url: /cpp/aspose.words/font/set_tintandshade/
 ---
 ## Font::set_TintAndShade method

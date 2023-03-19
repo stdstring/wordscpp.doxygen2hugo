@@ -4,7 +4,7 @@ linktitle: BuildingBlock
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BuildingBlocks::BuildingBlock::BuildingBlock constructor. Initializes a new instance of this class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.buildingblocks/buildingblock/buildingblock/
 ---
 ## BuildingBlock::BuildingBlock constructor

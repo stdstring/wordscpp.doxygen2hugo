@@ -4,7 +4,7 @@ linktitle: set_ImageSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ImageSavingCallback method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImageSavingCallback in C++.
 type: docs
-weight: 1041
+weight: 8100
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesavingcallback/
 ---
 ## HtmlSaveOptions::set_ImageSavingCallback method

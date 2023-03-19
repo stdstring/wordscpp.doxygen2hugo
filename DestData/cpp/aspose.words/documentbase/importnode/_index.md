@@ -4,7 +4,7 @@ linktitle: ImportNode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBase::ImportNode method. Imports a node from another document to the current document in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words/documentbase/importnode/
 ---
 ## DocumentBase::ImportNode(const System::SharedPtr\<Aspose::Words::Node\>\&, bool) method

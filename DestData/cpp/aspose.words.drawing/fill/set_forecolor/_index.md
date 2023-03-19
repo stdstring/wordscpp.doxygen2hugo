@@ -4,7 +4,7 @@ linktitle: set_ForeColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Fill::set_ForeColor method. Setter for Aspose::Words::Drawing::Fill::get_ForeColor in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.drawing/fill/set_forecolor/
 ---
 ## Fill::set_ForeColor method

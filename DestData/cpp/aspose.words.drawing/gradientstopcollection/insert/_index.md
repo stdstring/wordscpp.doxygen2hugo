@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::GradientStopCollection::Insert method. Inserts a GradientStop to the collection at a specified index in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing/gradientstopcollection/insert/
 ---
 ## GradientStopCollection::Insert method

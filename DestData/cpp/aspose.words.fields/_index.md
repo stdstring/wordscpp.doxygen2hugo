@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Fields
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields namespace. The Aspose.Words.Fields namespace contains classes that represent Microsoft Word fields in a document in C++.
 type: docs
-weight: 79
+weight: 800
 url: /cpp/aspose.words.fields/
 ---
 

@@ -4,7 +4,7 @@ linktitle: set_LayoutRawTableWidth
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_LayoutRawTableWidth method. Ignore Space Before Table When Deciding If Table Should Wrap Floating Object in C++.
 type: docs
-weight: 1301
+weight: 10100
 url: /cpp/aspose.words.settings/compatibilityoptions/set_layoutrawtablewidth/
 ---
 ## CompatibilityOptions::set_LayoutRawTableWidth method

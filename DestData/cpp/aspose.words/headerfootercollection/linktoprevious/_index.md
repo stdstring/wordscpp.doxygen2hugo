@@ -4,7 +4,7 @@ linktitle: LinkToPrevious
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::HeaderFooterCollection::LinkToPrevious method. Links or unlinks the specified header or footer to the corresponding header or footer in the previous section in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/headerfootercollection/linktoprevious/
 ---
 ## HeaderFooterCollection::LinkToPrevious(Aspose::Words::HeaderFooterType, bool) method

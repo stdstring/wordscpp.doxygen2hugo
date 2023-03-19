@@ -4,7 +4,7 @@ linktitle: set_CssStream
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::CssSavingArgs::set_CssStream method. Setter for Aspose::Words::Saving::CssSavingArgs::get_CssStream in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.saving/csssavingargs/set_cssstream/
 ---
 ## CssSavingArgs::set_CssStream(const System::SharedPtr\<System::IO::Stream\>\&) method

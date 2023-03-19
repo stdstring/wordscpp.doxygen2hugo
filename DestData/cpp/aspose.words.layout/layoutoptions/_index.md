@@ -4,7 +4,7 @@ linktitle: LayoutOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::LayoutOptions class. Holds the options that allow controlling the document layout process in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.layout/layoutoptions/
 ---
 ## LayoutOptions class

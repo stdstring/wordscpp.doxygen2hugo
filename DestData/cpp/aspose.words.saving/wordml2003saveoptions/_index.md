@@ -4,7 +4,7 @@ linktitle: WordML2003SaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::WordML2003SaveOptions class. Can be used to specify additional options when saving a document into the WordML format in C++.
 type: docs
-weight: 443
+weight: 3500
 url: /cpp/aspose.words.saving/wordml2003saveoptions/
 ---
 ## WordML2003SaveOptions class

@@ -4,7 +4,7 @@ linktitle: set_Store
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::WebExtensions::WebExtensionReference::set_Store method. Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Store in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.webextensions/webextensionreference/set_store/
 ---
 ## WebExtensionReference::set_Store method

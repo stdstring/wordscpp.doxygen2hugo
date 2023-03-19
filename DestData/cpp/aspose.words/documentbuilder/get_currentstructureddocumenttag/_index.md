@@ -4,7 +4,7 @@ linktitle: get_CurrentStructuredDocumentTag
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::get_CurrentStructuredDocumentTag method. Gets the structured document tag that is currently selected in this DocumentBuilder in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words/documentbuilder/get_currentstructureddocumenttag/
 ---
 ## DocumentBuilder::get_CurrentStructuredDocumentTag method

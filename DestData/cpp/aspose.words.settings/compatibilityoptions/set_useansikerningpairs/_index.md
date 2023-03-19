@@ -4,7 +4,7 @@ linktitle: set_UseAnsiKerningPairs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_UseAnsiKerningPairs method. Use ANSI Kerning Pairs from Fonts in C++.
 type: docs
-weight: 1717
+weight: 13300
 url: /cpp/aspose.words.settings/compatibilityoptions/set_useansikerningpairs/
 ---
 ## CompatibilityOptions::set_UseAnsiKerningPairs method

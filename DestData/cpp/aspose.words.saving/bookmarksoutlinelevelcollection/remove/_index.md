@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::BookmarksOutlineLevelCollection::Remove method. Removes a bookmark with the specified name from the collection in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/remove/
 ---
 ## BookmarksOutlineLevelCollection::Remove method

@@ -4,7 +4,7 @@ linktitle: set_ResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourceSavingCallback method. Setter for Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesavingcallback/
 ---
 ## XamlFixedSaveOptions::set_ResourceSavingCallback method

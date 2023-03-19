@@ -4,7 +4,7 @@ linktitle: set_ImagesFolder
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ImagesFolder method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder in C++.
 type: docs
-weight: 1054
+weight: 8200
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesfolder/
 ---
 ## HtmlSaveOptions::set_ImagesFolder method

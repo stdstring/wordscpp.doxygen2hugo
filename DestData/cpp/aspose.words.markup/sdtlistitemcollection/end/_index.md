@@ -4,7 +4,7 @@ linktitle: end
 second_title: Aspose.Words for C++ API Reference
 description: How to use end method of Aspose::Words::Markup::SdtListItemCollection class in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.markup/sdtlistitemcollection/end/
 ---
 ## SdtListItemCollection::end() const method

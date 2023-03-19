@@ -4,7 +4,7 @@ linktitle: get_Lines
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines method. Represents an estimate of the number of lines in the document in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_lines/
 ---
 ## BuiltInDocumentProperties::get_Lines method

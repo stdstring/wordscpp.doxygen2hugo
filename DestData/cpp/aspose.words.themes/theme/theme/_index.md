@@ -4,7 +4,7 @@ linktitle: Theme
 second_title: Aspose.Words for C++ API Reference
 description: How to use Theme constructor of Aspose::Words::Themes::Theme class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.themes/theme/theme/
 ---
 ## Theme::Theme constructor

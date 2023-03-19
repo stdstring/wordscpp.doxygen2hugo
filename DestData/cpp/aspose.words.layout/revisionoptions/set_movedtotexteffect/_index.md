@@ -4,7 +4,7 @@ linktitle: set_MovedToTextEffect
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::RevisionOptions::set_MovedToTextEffect method. Setter for Aspose::Words::Layout::RevisionOptions::get_MovedToTextEffect in C++.
 type: docs
-weight: 365
+weight: 2900
 url: /cpp/aspose.words.layout/revisionoptions/set_movedtotexteffect/
 ---
 ## RevisionOptions::set_MovedToTextEffect method

@@ -4,7 +4,7 @@ linktitle: set_BarcodeValue
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::BarcodeParameters::set_BarcodeValue method. Data to be encoded in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.fields/barcodeparameters/set_barcodevalue/
 ---
 ## BarcodeParameters::set_BarcodeValue method

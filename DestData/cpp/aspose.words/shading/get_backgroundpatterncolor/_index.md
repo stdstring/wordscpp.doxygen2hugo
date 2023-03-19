@@ -4,7 +4,7 @@ linktitle: get_BackgroundPatternColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Shading::get_BackgroundPatternColor method. Gets or sets the color that's applied to the background of the Shading object in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/shading/get_backgroundpatterncolor/
 ---
 ## Shading::get_BackgroundPatternColor method

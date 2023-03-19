@@ -4,7 +4,7 @@ linktitle: set_ExportHeadersFootersMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportHeadersFootersMode method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode in C++.
 type: docs
-weight: 794
+weight: 6200
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportheadersfootersmode/
 ---
 ## HtmlSaveOptions::set_ExportHeadersFootersMode method

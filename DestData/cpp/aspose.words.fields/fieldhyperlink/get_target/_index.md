@@ -4,7 +4,7 @@ linktitle: get_Target
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldHyperlink::get_Target method. Gets or sets the target to which the link should be redirected in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldhyperlink/get_target/
 ---
 ## FieldHyperlink::get_Target method

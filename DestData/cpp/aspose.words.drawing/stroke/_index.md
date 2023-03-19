@@ -4,7 +4,7 @@ linktitle: Stroke
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Stroke class. Defines a stroke for a shape in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.drawing/stroke/
 ---
 ## Stroke class

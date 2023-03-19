@@ -4,7 +4,7 @@ linktitle: get_LastBuildingBlock
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BuildingBlocks::GlossaryDocument::get_LastBuildingBlock method. Gets the last building block in the glossary document in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.buildingblocks/glossarydocument/get_lastbuildingblock/
 ---
 ## GlossaryDocument::get_LastBuildingBlock method

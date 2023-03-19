@@ -4,7 +4,7 @@ linktitle: SetCount
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TextColumnCollection::SetCount method. Arranges text into the specified number of text columns in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words/textcolumncollection/setcount/
 ---
 ## TextColumnCollection::SetCount method

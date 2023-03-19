@@ -4,7 +4,7 @@ linktitle: VisitSpecialChar
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitSpecialChar method. Called when a SpecialChar node is encountered in the document in C++.
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words/documentvisitor/visitspecialchar/
 ---
 ## DocumentVisitor::VisitSpecialChar method

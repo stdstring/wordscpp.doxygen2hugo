@@ -4,7 +4,7 @@ linktitle: set_HelpText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FormField::set_HelpText method. Setter for Aspose::Words::Fields::FormField::get_HelpText in C++.
 type: docs
-weight: 417
+weight: 3300
 url: /cpp/aspose.words.fields/formfield/set_helptext/
 ---
 ## FormField::set_HelpText method

@@ -4,7 +4,7 @@ linktitle: PdfEncryptionDetails
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfEncryptionDetails class. Contains details for encrypting and access permissions for a PDF document in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.saving/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

@@ -4,7 +4,7 @@ linktitle: virtualizeEndConstIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeEndConstIterator method of Aspose::Words::Lists::ListLevelCollection class in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.lists/listlevelcollection/virtualizeendconstiterator/
 ---
 ## ListLevelCollection::virtualizeEndConstIterator method

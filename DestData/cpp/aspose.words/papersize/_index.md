@@ -4,7 +4,7 @@ linktitle: PaperSize
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PaperSize enum. Specifies paper size in C++.
 type: docs
-weight: 1405
+weight: 10900
 url: /cpp/aspose.words/papersize/
 ---
 ## PaperSize enum

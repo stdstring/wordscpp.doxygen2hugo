@@ -4,7 +4,7 @@ linktitle: get_WrapType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::get_WrapType method. Defines whether the shape is inline or floating. For floating shapes defines the wrapping mode for text around the shape in C++.
 type: docs
-weight: 703
+weight: 5500
 url: /cpp/aspose.words.drawing/shapebase/get_wraptype/
 ---
 ## ShapeBase::get_WrapType method

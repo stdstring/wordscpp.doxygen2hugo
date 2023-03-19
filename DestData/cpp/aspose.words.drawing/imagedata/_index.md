@@ -4,7 +4,7 @@ linktitle: ImageData
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData class. Defines an image for a shape in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing/imagedata/
 ---
 ## ImageData class

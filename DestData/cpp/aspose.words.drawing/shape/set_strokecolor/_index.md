@@ -4,7 +4,7 @@ linktitle: set_StrokeColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Shape::set_StrokeColor method. Setter for Aspose::Words::Drawing::Shape::get_StrokeColor in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words.drawing/shape/set_strokecolor/
 ---
 ## Shape::set_StrokeColor method

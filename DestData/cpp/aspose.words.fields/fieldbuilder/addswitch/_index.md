@@ -4,7 +4,7 @@ linktitle: AddSwitch
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldBuilder::AddSwitch method. Adds a field's switch in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fields/fieldbuilder/addswitch/
 ---
 ## FieldBuilder::AddSwitch(const System::String\&) method

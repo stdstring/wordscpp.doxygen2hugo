@@ -4,7 +4,7 @@ linktitle: set_ChapterPageSeparator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_ChapterPageSeparator method. Sets the separator character that appears between the chapter number and the page number in C++.
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words/pagesetup/set_chapterpageseparator/
 ---
 ## PageSetup::set_ChapterPageSeparator method

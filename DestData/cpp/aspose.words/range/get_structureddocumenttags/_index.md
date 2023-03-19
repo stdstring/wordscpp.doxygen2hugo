@@ -4,7 +4,7 @@ linktitle: get_StructuredDocumentTags
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Range::get_StructuredDocumentTags method. Returns a StructuredDocumentTags collection that represents all structured document tags in the range in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words/range/get_structureddocumenttags/
 ---
 ## Range::get_StructuredDocumentTags method

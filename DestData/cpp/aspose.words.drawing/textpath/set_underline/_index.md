@@ -4,7 +4,7 @@ linktitle: set_Underline
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::set_Underline method. Setter for Aspose::Words::Drawing::TextPath::get_Underline in C++.
 type: docs
-weight: 495
+weight: 3900
 url: /cpp/aspose.words.drawing/textpath/set_underline/
 ---
 ## TextPath::set_Underline method

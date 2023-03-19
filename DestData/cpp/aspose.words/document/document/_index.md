@@ -4,7 +4,7 @@ linktitle: Document
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::Document constructor. Creates a blank Word document in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/document/document/
 ---
 ## Document::Document() constructor

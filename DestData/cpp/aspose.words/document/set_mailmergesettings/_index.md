@@ -4,7 +4,7 @@ linktitle: set_MailMergeSettings
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::set_MailMergeSettings method. Setter for Aspose::Words::Document::get_MailMergeSettings in C++.
 type: docs
-weight: 963
+weight: 7500
 url: /cpp/aspose.words/document/set_mailmergesettings/
 ---
 ## Document::set_MailMergeSettings method

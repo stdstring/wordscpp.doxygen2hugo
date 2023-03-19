@@ -4,7 +4,7 @@ linktitle: set_IgnoreFieldCodes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_IgnoreFieldCodes method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFieldCodes in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignorefieldcodes/
 ---
 ## FindReplaceOptions::set_IgnoreFieldCodes method

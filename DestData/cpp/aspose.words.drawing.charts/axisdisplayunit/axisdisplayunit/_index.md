@@ -4,7 +4,7 @@ linktitle: AxisDisplayUnit
 second_title: Aspose.Words for C++ API Reference
 description: How to use AxisDisplayUnit constructor of Aspose::Words::Drawing::Charts::AxisDisplayUnit class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/axisdisplayunit/
 ---
 ## AxisDisplayUnit::AxisDisplayUnit constructor

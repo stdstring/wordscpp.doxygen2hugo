@@ -4,7 +4,7 @@ linktitle: FieldLastSavedBy
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldLastSavedBy class. Implements the LASTSAVEDBY field in C++.
 type: docs
-weight: 794
+weight: 6200
 url: /cpp/aspose.words.fields/fieldlastsavedby/
 ---
 ## FieldLastSavedBy class

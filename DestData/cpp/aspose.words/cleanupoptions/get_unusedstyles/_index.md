@@ -4,7 +4,7 @@ linktitle: get_UnusedStyles
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::CleanupOptions::get_UnusedStyles method. Specifies whether unused styles should be removed from document. Default value is true in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words/cleanupoptions/get_unusedstyles/
 ---
 ## CleanupOptions::get_UnusedStyles method

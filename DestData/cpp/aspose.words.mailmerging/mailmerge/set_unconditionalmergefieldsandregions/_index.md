@@ -4,7 +4,7 @@ linktitle: set_UnconditionalMergeFieldsAndRegions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMerge::set_UnconditionalMergeFieldsAndRegions method. Sets a value indicating whether merge fields and merge regions are merged regardless of the parent IF field's condition in C++.
 type: docs
-weight: 456
+weight: 3600
 url: /cpp/aspose.words.mailmerging/mailmerge/set_unconditionalmergefieldsandregions/
 ---
 ## MailMerge::set_UnconditionalMergeFieldsAndRegions method

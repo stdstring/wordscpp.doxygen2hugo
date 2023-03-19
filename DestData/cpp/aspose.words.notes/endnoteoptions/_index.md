@@ -4,7 +4,7 @@ linktitle: EndnoteOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::EndnoteOptions class. Represents the endnote numbering options for a document or section in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.notes/endnoteoptions/
 ---
 ## EndnoteOptions class

@@ -4,7 +4,7 @@ linktitle: set_CacheHeaderFooterShapes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::set_CacheHeaderFooterShapes method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_CacheHeaderFooterShapes in C++.
 type: docs
-weight: 430
+weight: 3400
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_cacheheaderfootershapes/
 ---
 ## PdfSaveOptions::set_CacheHeaderFooterShapes method

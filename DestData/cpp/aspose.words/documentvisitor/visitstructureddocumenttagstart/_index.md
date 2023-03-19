@@ -4,7 +4,7 @@ linktitle: VisitStructuredDocumentTagStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitStructuredDocumentTagStart method. Called when enumeration of a structured document tag has started in C++.
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words/documentvisitor/visitstructureddocumenttagstart/
 ---
 ## DocumentVisitor::VisitStructuredDocumentTagStart method

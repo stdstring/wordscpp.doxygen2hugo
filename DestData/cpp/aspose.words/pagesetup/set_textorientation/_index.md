@@ -4,7 +4,7 @@ linktitle: set_TextOrientation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_TextOrientation method. Setter for Aspose::Words::PageSetup::get_TextOrientation in C++.
 type: docs
-weight: 1067
+weight: 8300
 url: /cpp/aspose.words/pagesetup/set_textorientation/
 ---
 ## PageSetup::set_TextOrientation method

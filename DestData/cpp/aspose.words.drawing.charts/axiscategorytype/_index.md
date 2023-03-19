@@ -4,7 +4,7 @@ linktitle: AxisCategoryType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisCategoryType enum. Specifies type of a category axis in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.drawing.charts/axiscategorytype/
 ---
 ## AxisCategoryType enum

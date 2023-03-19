@@ -4,7 +4,7 @@ linktitle: IndexOfKey
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::VariableCollection::IndexOfKey method. Returns the zero-based index of the specified document variable in the collection in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words/variablecollection/indexofkey/
 ---
 ## VariableCollection::IndexOfKey method

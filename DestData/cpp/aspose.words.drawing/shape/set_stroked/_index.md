@@ -4,7 +4,7 @@ linktitle: set_Stroked
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Shape::set_Stroked method. Setter for Aspose::Words::Drawing::Shape::get_Stroked in C++.
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words.drawing/shape/set_stroked/
 ---
 ## Shape::set_Stroked method

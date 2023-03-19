@@ -4,7 +4,7 @@ linktitle: StyleType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::StyleType enum. Represents type of the style in C++.
 type: docs
-weight: 1535
+weight: 11900
 url: /cpp/aspose.words/styletype/
 ---
 ## StyleType enum

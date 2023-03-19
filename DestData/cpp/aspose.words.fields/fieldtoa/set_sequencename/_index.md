@@ -4,7 +4,7 @@ linktitle: set_SequenceName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldToa::set_SequenceName method. Setter for Aspose::Words::Fields::FieldToa::get_SequenceName in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.fields/fieldtoa/set_sequencename/
 ---
 ## FieldToa::set_SequenceName method

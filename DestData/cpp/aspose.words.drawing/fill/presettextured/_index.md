@@ -4,7 +4,7 @@ linktitle: PresetTextured
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Fill::PresetTextured method. Sets the fill to a preset texture in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.drawing/fill/presettextured/
 ---
 ## Fill::PresetTextured method

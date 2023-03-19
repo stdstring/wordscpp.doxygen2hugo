@@ -4,7 +4,7 @@ linktitle: VisitSectionStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitSectionStart method. Called when enumeration of a section has started in C++.
 type: docs
-weight: 482
+weight: 3800
 url: /cpp/aspose.words/documentvisitor/visitsectionstart/
 ---
 ## DocumentVisitor::VisitSectionStart method

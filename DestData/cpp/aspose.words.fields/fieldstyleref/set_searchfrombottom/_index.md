@@ -4,7 +4,7 @@ linktitle: set_SearchFromBottom
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldStyleRef::set_SearchFromBottom method. Setter for Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.fields/fieldstyleref/set_searchfrombottom/
 ---
 ## FieldStyleRef::set_SearchFromBottom method

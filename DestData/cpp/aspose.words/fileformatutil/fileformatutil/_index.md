@@ -4,7 +4,7 @@ linktitle: FileFormatUtil
 second_title: Aspose.Words for C++ API Reference
 description: How to use FileFormatUtil constructor of Aspose::Words::FileFormatUtil class in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words/fileformatutil/fileformatutil/
 ---
 ## FileFormatUtil::FileFormatUtil constructor

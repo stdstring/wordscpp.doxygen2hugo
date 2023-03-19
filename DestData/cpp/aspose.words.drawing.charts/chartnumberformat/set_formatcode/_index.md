@@ -4,7 +4,7 @@ linktitle: set_FormatCode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartNumberFormat::set_FormatCode method. Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/set_formatcode/
 ---
 ## ChartNumberFormat::set_FormatCode method

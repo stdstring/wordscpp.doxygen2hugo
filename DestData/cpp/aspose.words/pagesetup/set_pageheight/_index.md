@@ -4,7 +4,7 @@ linktitle: set_PageHeight
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_PageHeight method. Setter for Aspose::Words::PageSetup::get_PageHeight in C++.
 type: docs
-weight: 924
+weight: 7200
 url: /cpp/aspose.words/pagesetup/set_pageheight/
 ---
 ## PageSetup::set_PageHeight method

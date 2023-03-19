@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::NodeCollection::Remove method. Removes the node from the collection and from the document in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/nodecollection/remove/
 ---
 ## NodeCollection::Remove method

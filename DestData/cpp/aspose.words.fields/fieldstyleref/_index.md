@@ -4,7 +4,7 @@ linktitle: FieldStyleRef
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldStyleRef class. Implements the STYLEREF field in C++.
 type: docs
-weight: 1236
+weight: 9600
 url: /cpp/aspose.words.fields/fieldstyleref/
 ---
 ## FieldStyleRef class

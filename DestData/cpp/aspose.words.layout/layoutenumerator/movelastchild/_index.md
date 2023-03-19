@@ -4,7 +4,7 @@ linktitle: MoveLastChild
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::LayoutEnumerator::MoveLastChild method. Moves to the last child entity in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.layout/layoutenumerator/movelastchild/
 ---
 ## LayoutEnumerator::MoveLastChild method

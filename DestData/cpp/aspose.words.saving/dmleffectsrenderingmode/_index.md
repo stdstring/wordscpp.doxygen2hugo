@@ -4,7 +4,7 @@ linktitle: DmlEffectsRenderingMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::DmlEffectsRenderingMode enum. Specifies how DrawingML effects are rendered to fixed page formats in C++.
 type: docs
-weight: 638
+weight: 5000
 url: /cpp/aspose.words.saving/dmleffectsrenderingmode/
 ---
 ## DmlEffectsRenderingMode enum

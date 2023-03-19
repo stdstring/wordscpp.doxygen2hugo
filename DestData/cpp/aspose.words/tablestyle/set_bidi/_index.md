@@ -4,7 +4,7 @@ linktitle: set_Bidi
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TableStyle::set_Bidi method. Setter for Aspose::Words::TableStyle::get_Bidi in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words/tablestyle/set_bidi/
 ---
 ## TableStyle::set_Bidi method

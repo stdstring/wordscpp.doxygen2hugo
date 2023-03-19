@@ -4,7 +4,7 @@ linktitle: LayoutFlow
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::LayoutFlow enum. Determines the flow of the text layout in a textbox in C++.
 type: docs
-weight: 378
+weight: 3000
 url: /cpp/aspose.words.drawing/layoutflow/
 ---
 ## LayoutFlow enum

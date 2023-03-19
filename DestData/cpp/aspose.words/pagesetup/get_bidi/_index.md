@@ -4,7 +4,7 @@ linktitle: get_Bidi
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_Bidi method. Specifies that this section contains bidirectional (complex scripts) text in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/pagesetup/get_bidi/
 ---
 ## PageSetup::get_Bidi method

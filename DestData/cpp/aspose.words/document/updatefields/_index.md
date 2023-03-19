@@ -4,7 +4,7 @@ linktitle: UpdateFields
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::UpdateFields method. Updates the values of fields in the whole document in C++.
 type: docs
-weight: 1145
+weight: 8900
 url: /cpp/aspose.words/document/updatefields/
 ---
 ## Document::UpdateFields method

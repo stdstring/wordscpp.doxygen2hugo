@@ -4,7 +4,7 @@ linktitle: GetEndPageIndex
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::LayoutCollector::GetEndPageIndex method. Gets 1-based index of the page where node ends. Returns 0 if node cannot be mapped to a page in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.layout/layoutcollector/getendpageindex/
 ---
 ## LayoutCollector::GetEndPageIndex method

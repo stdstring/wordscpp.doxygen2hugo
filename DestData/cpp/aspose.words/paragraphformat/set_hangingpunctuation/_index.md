@@ -4,7 +4,7 @@ linktitle: set_HangingPunctuation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_HangingPunctuation method. Setter for Aspose::Words::ParagraphFormat::get_HangingPunctuation in C++.
 type: docs
-weight: 664
+weight: 5200
 url: /cpp/aspose.words/paragraphformat/set_hangingpunctuation/
 ---
 ## ParagraphFormat::set_HangingPunctuation method

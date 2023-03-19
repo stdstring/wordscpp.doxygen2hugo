@@ -4,7 +4,7 @@ linktitle: set_BuildingBlockGallery
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTag::set_BuildingBlockGallery method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockGallery in C++.
 type: docs
-weight: 469
+weight: 3700
 url: /cpp/aspose.words.markup/structureddocumenttag/set_buildingblockgallery/
 ---
 ## StructuredDocumentTag::set_BuildingBlockGallery method

@@ -4,7 +4,7 @@ linktitle: set_IgnoreHeaderFooter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ImportFormatOptions::set_IgnoreHeaderFooter method. Setter for Aspose::Words::ImportFormatOptions::get_IgnoreHeaderFooter in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/importformatoptions/set_ignoreheaderfooter/
 ---
 ## ImportFormatOptions::set_IgnoreHeaderFooter method

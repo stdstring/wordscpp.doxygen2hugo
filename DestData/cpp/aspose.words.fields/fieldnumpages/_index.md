@@ -4,7 +4,7 @@ linktitle: FieldNumPages
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldNumPages class. Implements the NUMPAGES field in C++.
 type: docs
-weight: 950
+weight: 7400
 url: /cpp/aspose.words.fields/fieldnumpages/
 ---
 ## FieldNumPages class

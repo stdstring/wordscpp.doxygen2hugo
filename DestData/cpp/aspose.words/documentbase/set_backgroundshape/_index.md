@@ -4,7 +4,7 @@ linktitle: set_BackgroundShape
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBase::set_BackgroundShape method. Setter for Aspose::Words::DocumentBase::get_BackgroundShape in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words/documentbase/set_backgroundshape/
 ---
 ## DocumentBase::set_BackgroundShape method

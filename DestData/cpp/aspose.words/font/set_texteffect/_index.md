@@ -4,7 +4,7 @@ linktitle: set_TextEffect
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_TextEffect method. Setter for Aspose::Words::Font::get_TextEffect in C++.
 type: docs
-weight: 1236
+weight: 9600
 url: /cpp/aspose.words/font/set_texteffect/
 ---
 ## Font::set_TextEffect method

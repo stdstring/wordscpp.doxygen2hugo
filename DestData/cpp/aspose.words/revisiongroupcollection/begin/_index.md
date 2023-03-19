@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Words for C++ API Reference
 description: How to use begin method of Aspose::Words::RevisionGroupCollection class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/revisiongroupcollection/begin/
 ---
 ## RevisionGroupCollection::begin() const method

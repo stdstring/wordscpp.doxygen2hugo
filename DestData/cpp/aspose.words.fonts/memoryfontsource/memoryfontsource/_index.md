@@ -4,7 +4,7 @@ linktitle: MemoryFontSource
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource constructor. Ctor in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fonts/memoryfontsource/memoryfontsource/
 ---
 ## MemoryFontSource::MemoryFontSource(const System::ArrayPtr\<uint8_t\>\&) constructor

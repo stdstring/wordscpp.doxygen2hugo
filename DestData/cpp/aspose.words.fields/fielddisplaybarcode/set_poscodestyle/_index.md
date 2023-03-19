@@ -4,7 +4,7 @@ linktitle: set_PosCodeStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDisplayBarcode::set_PosCodeStyle method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_poscodestyle/
 ---
 ## FieldDisplayBarcode::set_PosCodeStyle method

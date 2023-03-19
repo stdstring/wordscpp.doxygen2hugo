@@ -4,7 +4,7 @@ linktitle: cend
 second_title: Aspose.Words for C++ API Reference
 description: How to use cend method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/cend/
 ---
 ## OdsoRecipientDataCollection::cend method

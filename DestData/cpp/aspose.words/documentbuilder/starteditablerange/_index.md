@@ -4,7 +4,7 @@ linktitle: StartEditableRange
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::StartEditableRange method. Marks the current position in the document as an editable range start in C++.
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words/documentbuilder/starteditablerange/
 ---
 ## DocumentBuilder::StartEditableRange method

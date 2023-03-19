@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::VariableCollection::Remove method. Removes a document variable with the specified name from the collection in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words/variablecollection/remove/
 ---
 ## VariableCollection::Remove method

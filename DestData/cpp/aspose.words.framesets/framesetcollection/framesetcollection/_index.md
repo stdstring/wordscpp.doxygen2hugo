@@ -4,7 +4,7 @@ linktitle: FramesetCollection
 second_title: Aspose.Words for C++ API Reference
 description: How to use FramesetCollection constructor of Aspose::Words::Framesets::FramesetCollection class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.framesets/framesetcollection/framesetcollection/
 ---
 ## FramesetCollection::FramesetCollection constructor

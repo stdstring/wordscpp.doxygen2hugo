@@ -4,7 +4,7 @@ linktitle: ComparisonEvaluationResult
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::ComparisonEvaluationResult::ComparisonEvaluationResult constructor. Creates a comparison evaluation result in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/comparisonevaluationresult/comparisonevaluationresult/
 ---
 ## ComparisonEvaluationResult::ComparisonEvaluationResult(bool) constructor

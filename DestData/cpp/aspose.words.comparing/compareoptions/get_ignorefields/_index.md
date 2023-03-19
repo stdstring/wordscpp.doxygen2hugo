@@ -4,7 +4,7 @@ linktitle: get_IgnoreFields
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comparing::CompareOptions::get_IgnoreFields method. Specifies whether to compare differences in fields. By default fields are not ignored in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorefields/
 ---
 ## CompareOptions::get_IgnoreFields method

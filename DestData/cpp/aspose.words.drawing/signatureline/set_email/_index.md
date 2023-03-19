@@ -4,7 +4,7 @@ linktitle: set_Email
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::SignatureLine::set_Email method. Setter for Aspose::Words::Drawing::SignatureLine::get_Email in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.drawing/signatureline/set_email/
 ---
 ## SignatureLine::set_Email method

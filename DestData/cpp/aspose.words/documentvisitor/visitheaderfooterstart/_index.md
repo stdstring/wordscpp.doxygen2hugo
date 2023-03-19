@@ -4,7 +4,7 @@ linktitle: VisitHeaderFooterStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentVisitor::VisitHeaderFooterStart method. Called when enumeration of a header or footer in a section has started in C++.
 type: docs
-weight: 365
+weight: 2900
 url: /cpp/aspose.words/documentvisitor/visitheaderfooterstart/
 ---
 ## DocumentVisitor::VisitHeaderFooterStart method

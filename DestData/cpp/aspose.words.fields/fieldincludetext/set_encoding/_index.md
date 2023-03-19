@@ -4,7 +4,7 @@ linktitle: set_Encoding
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldIncludeText::set_Encoding method. Setter for Aspose::Words::Fields::FieldIncludeText::get_Encoding in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.fields/fieldincludetext/set_encoding/
 ---
 ## FieldIncludeText::set_Encoding method

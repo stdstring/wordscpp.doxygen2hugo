@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListCollection::idx_get method. Gets a list by index in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.lists/listcollection/idx_get/
 ---
 ## ListCollection::idx_get method

@@ -4,7 +4,7 @@ linktitle: set_AddSpaceBetweenFarEastAndDigit
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_AddSpaceBetweenFarEastAndDigit method. Setter for Aspose::Words::ParagraphFormat::get_AddSpaceBetweenFarEastAndDigit in C++.
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words/paragraphformat/set_addspacebetweenfareastanddigit/
 ---
 ## ParagraphFormat::set_AddSpaceBetweenFarEastAndDigit method

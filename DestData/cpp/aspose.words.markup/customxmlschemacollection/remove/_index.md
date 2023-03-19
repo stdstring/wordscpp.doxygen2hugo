@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::CustomXmlSchemaCollection::Remove method. Removes the specified value from the collection in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.markup/customxmlschemacollection/remove/
 ---
 ## CustomXmlSchemaCollection::Remove method

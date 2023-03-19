@@ -4,7 +4,7 @@ linktitle: set_ThemeFontOther
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_ThemeFontOther method. Setter for Aspose::Words::Font::get_ThemeFontOther in C++.
 type: docs
-weight: 1314
+weight: 10200
 url: /cpp/aspose.words/font/set_themefontother/
 ---
 ## Font::set_ThemeFontOther method

@@ -4,7 +4,7 @@ linktitle: get_ImageType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::get_ImageType method. Gets the type of the image in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.drawing/imagedata/get_imagetype/
 ---
 ## ImageData::get_ImageType method

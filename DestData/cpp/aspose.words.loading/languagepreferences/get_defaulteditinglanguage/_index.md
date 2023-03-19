@@ -4,7 +4,7 @@ linktitle: get_DefaultEditingLanguage
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage method. Gets or sets default editing language. The default value is EnglishUS in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.loading/languagepreferences/get_defaulteditinglanguage/
 ---
 ## LanguagePreferences::get_DefaultEditingLanguage method

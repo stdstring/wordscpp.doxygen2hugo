@@ -4,7 +4,7 @@ linktitle: set_Italic
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::set_Italic method. Setter for Aspose::Words::Drawing::TextPath::get_Italic in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words.drawing/textpath/set_italic/
 ---
 ## TextPath::set_Italic method

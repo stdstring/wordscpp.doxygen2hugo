@@ -4,7 +4,7 @@ linktitle: CustomXmlPropertyCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::CustomXmlPropertyCollection class. Represents a collection of custom XML attributes or smart tag properties in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.markup/customxmlpropertycollection/
 ---
 ## CustomXmlPropertyCollection class

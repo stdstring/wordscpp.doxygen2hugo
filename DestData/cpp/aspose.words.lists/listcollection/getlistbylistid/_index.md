@@ -4,7 +4,7 @@ linktitle: GetListByListId
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListCollection::GetListByListId method. Gets a list by a list identifier in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.lists/listcollection/getlistbylistid/
 ---
 ## ListCollection::GetListByListId method

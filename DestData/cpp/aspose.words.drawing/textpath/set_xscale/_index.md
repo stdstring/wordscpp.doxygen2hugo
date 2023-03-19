@@ -4,7 +4,7 @@ linktitle: set_XScale
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::set_XScale method. Setter for Aspose::Words::Drawing::TextPath::get_XScale in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words.drawing/textpath/set_xscale/
 ---
 ## TextPath::set_XScale method

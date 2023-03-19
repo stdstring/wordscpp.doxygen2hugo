@@ -4,7 +4,7 @@ linktitle: set_ResourceFileUri
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileUri method. Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcefileuri/
 ---
 ## ResourceSavingArgs::set_ResourceFileUri method

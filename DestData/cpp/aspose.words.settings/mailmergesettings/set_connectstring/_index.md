@@ -4,7 +4,7 @@ linktitle: set_ConnectString
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::MailMergeSettings::set_ConnectString method. Specifies the connection string used to connect to an external data source. The default value is an empty string in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.settings/mailmergesettings/set_connectstring/
 ---
 ## MailMergeSettings::set_ConnectString method

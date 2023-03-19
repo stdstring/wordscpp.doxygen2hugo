@@ -4,7 +4,7 @@ linktitle: set_DoNotSuppressIndentation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_DoNotSuppressIndentation method. Do Not Ignore Floating Objects When Calculating Paragraph Indentation in C++.
 type: docs
-weight: 1158
+weight: 9000
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotsuppressindentation/
 ---
 ## CompatibilityOptions::set_DoNotSuppressIndentation method

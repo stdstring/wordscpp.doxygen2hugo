@@ -4,7 +4,7 @@ linktitle: set_UpdateSdtContent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::SaveOptions::set_UpdateSdtContent method. Setter for Aspose::Words::Saving::SaveOptions::get_UpdateSdtContent in C++.
 type: docs
-weight: 482
+weight: 3800
 url: /cpp/aspose.words.saving/saveoptions/set_updatesdtcontent/
 ---
 ## SaveOptions::set_UpdateSdtContent method

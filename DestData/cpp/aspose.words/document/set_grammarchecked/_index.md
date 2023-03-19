@@ -4,7 +4,7 @@ linktitle: set_GrammarChecked
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::set_GrammarChecked method. Setter for Aspose::Words::Document::get_GrammarChecked in C++.
 type: docs
-weight: 950
+weight: 7400
 url: /cpp/aspose.words/document/set_grammarchecked/
 ---
 ## Document::set_GrammarChecked method

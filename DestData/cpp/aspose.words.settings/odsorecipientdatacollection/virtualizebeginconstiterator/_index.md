@@ -4,7 +4,7 @@ linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeBeginConstIterator method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizebeginconstiterator/
 ---
 ## OdsoRecipientDataCollection::virtualizeBeginConstIterator method

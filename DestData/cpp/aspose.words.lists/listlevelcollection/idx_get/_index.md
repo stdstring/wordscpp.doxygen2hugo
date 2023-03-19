@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevelCollection::idx_get method. Gets a list level by index in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.lists/listlevelcollection/idx_get/
 ---
 ## ListLevelCollection::idx_get method

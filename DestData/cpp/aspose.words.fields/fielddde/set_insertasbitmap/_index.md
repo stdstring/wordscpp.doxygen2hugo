@@ -4,7 +4,7 @@ linktitle: set_InsertAsBitmap
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDde::set_InsertAsBitmap method. Setter for Aspose::Words::Fields::FieldDde::get_InsertAsBitmap in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.fields/fielddde/set_insertasbitmap/
 ---
 ## FieldDde::set_InsertAsBitmap method

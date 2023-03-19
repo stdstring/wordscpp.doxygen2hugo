@@ -4,7 +4,7 @@ linktitle: OfficeMathRenderer
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::OfficeMathRenderer class. Provides methods to render an individual OfficeMath to a raster or vector image or to a Graphics object in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.rendering/officemathrenderer/
 ---
 ## OfficeMathRenderer class

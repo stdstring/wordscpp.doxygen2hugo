@@ -4,7 +4,7 @@ linktitle: BookmarkStart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BookmarkStart class. Represents a start of a bookmark in a Word document. To learn more, visit the  documentation article in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words/bookmarkstart/
 ---
 ## BookmarkStart class

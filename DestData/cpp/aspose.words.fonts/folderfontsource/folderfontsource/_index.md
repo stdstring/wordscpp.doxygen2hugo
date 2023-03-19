@@ -4,7 +4,7 @@ linktitle: FolderFontSource
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FolderFontSource::FolderFontSource constructor. Ctor in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fonts/folderfontsource/folderfontsource/
 ---
 ## FolderFontSource::FolderFontSource(const System::String\&, bool) constructor

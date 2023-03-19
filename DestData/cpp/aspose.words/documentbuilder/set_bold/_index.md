@@ -4,7 +4,7 @@ linktitle: set_Bold
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::set_Bold method. Setter for Aspose::Words::DocumentBuilder::get_Bold in C++.
 type: docs
-weight: 781
+weight: 6100
 url: /cpp/aspose.words/documentbuilder/set_bold/
 ---
 ## DocumentBuilder::set_Bold method

@@ -4,7 +4,7 @@ linktitle: set_Alignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::set_Alignment method. Setter for Aspose::Words::Tables::Table::get_Alignment in C++.
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words.tables/table/set_alignment/
 ---
 ## Table::set_Alignment method

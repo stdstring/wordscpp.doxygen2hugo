@@ -4,7 +4,7 @@ linktitle: get_Hidden
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::get_Hidden method. True if the font is formatted as hidden text in C++.
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words/font/get_hidden/
 ---
 ## Font::get_Hidden method

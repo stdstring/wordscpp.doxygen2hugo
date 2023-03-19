@@ -4,7 +4,7 @@ linktitle: set_FitShape
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::set_FitShape method. Setter for Aspose::Words::Drawing::TextPath::get_FitShape in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.drawing/textpath/set_fitshape/
 ---
 ## TextPath::set_FitShape method

@@ -4,7 +4,7 @@ linktitle: virtualized_iterator_element
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::WebExtensions::BaseWebExtensionCollection::virtualized_iterator_element typedef of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/virtualized_iterator_element/
 ---
 ## virtualized_iterator_element typedef

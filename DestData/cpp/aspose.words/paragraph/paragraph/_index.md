@@ -4,7 +4,7 @@ linktitle: Paragraph
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Paragraph::Paragraph constructor. Initializes a new instance of the Paragraph class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/paragraph/paragraph/
 ---
 ## Paragraph::Paragraph constructor

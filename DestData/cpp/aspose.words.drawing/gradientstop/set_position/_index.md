@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::GradientStop::set_Position method. Setter for Aspose::Words::Drawing::GradientStop::get_Position in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing/gradientstop/set_position/
 ---
 ## GradientStop::set_Position method

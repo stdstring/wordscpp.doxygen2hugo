@@ -4,7 +4,7 @@ linktitle: ResourceSaving
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::IResourceSavingCallback::ResourceSaving method. Called when Aspose.Words saves an external resource to fixed page HTML or SVG formats in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.saving/iresourcesavingcallback/resourcesaving/
 ---
 ## IResourceSavingCallback::ResourceSaving method

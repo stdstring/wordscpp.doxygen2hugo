@@ -4,7 +4,7 @@ linktitle: get_Series
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::Chart::get_Series method. Provides access to series collection in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.drawing.charts/chart/get_series/
 ---
 ## Chart::get_Series method

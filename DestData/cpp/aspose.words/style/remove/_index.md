@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Style::Remove method. Removes the specified style from the document in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words/style/remove/
 ---
 ## Style::Remove method

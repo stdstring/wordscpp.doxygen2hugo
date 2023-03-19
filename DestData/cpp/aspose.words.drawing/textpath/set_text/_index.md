@@ -4,7 +4,7 @@ linktitle: set_Text
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::set_Text method. Setter for Aspose::Words::Drawing::TextPath::get_Text in C++.
 type: docs
-weight: 456
+weight: 3600
 url: /cpp/aspose.words.drawing/textpath/set_text/
 ---
 ## TextPath::set_Text method

@@ -4,7 +4,7 @@ linktitle: get_IgnoreFootnotes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes method. Specifies whether to compare differences in footnotes and endnotes. By default footnotes are not ignored in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.comparing/compareoptions/get_ignorefootnotes/
 ---
 ## CompareOptions::get_IgnoreFootnotes method

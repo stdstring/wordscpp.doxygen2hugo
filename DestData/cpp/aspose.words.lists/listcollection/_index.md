@@ -4,7 +4,7 @@ linktitle: ListCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListCollection class. Stores and manages formatting of bulleted and numbered lists used in a document in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.lists/listcollection/
 ---
 ## ListCollection class

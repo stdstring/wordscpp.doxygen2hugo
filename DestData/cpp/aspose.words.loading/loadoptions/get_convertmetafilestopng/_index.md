@@ -4,7 +4,7 @@ linktitle: get_ConvertMetafilesToPng
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::LoadOptions::get_ConvertMetafilesToPng method. Gets or sets whether to convert metafile (Wmf or Emf) images to Png image format in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.loading/loadoptions/get_convertmetafilestopng/
 ---
 ## LoadOptions::get_ConvertMetafilesToPng method

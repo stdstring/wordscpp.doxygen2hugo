@@ -4,7 +4,7 @@ linktitle: ListOutdent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListFormat::ListOutdent method. Decreases the list level of the current paragraph by one level in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.lists/listformat/listoutdent/
 ---
 ## ListFormat::ListOutdent method

@@ -4,7 +4,7 @@ linktitle: set_TrailingSpacesOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions method. Setter for Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.loading/txtloadoptions/set_trailingspacesoptions/
 ---
 ## TxtLoadOptions::set_TrailingSpacesOptions method

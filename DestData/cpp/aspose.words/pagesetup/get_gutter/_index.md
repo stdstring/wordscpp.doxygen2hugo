@@ -4,7 +4,7 @@ linktitle: get_Gutter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_Gutter method. Gets or sets the amount of extra space added to the margin for document binding in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words/pagesetup/get_gutter/
 ---
 ## PageSetup::get_Gutter method

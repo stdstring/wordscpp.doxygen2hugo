@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::WebExtensions::BaseWebExtensionCollection::Remove method. Removes the item at the specified index from the collection in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/remove/
 ---
 ## BaseWebExtensionCollection::Remove method

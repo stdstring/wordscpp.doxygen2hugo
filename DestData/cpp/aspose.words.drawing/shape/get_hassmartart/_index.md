@@ -4,7 +4,7 @@ linktitle: get_HasSmartArt
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Shape::get_HasSmartArt method. Returns true if this Shape has a SmartArt object in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.drawing/shape/get_hassmartart/
 ---
 ## Shape::get_HasSmartArt method

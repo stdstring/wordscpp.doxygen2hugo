@@ -4,7 +4,7 @@ linktitle: set_Overlay
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartLegend::set_Overlay method. Setter for Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.drawing.charts/chartlegend/set_overlay/
 ---
 ## ChartLegend::set_Overlay method

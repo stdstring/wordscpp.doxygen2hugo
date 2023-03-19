@@ -4,7 +4,7 @@ linktitle: set_ExportEmbeddedCss
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_ExportEmbeddedCss method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedCss in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_exportembeddedcss/
 ---
 ## HtmlFixedSaveOptions::set_ExportEmbeddedCss method

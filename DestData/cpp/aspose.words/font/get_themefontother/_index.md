@@ -4,7 +4,7 @@ linktitle: get_ThemeFontOther
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::get_ThemeFontOther method. Gets or sets the theme font used for characters with character codes from 128 through 255 in the applied font scheme that is associated with this Font object in C++.
 type: docs
-weight: 664
+weight: 5200
 url: /cpp/aspose.words/font/get_themefontother/
 ---
 ## Font::get_ThemeFontOther method

@@ -4,7 +4,7 @@ linktitle: set_MaxCharactersPerLine
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::TxtSaveOptions::set_MaxCharactersPerLine method. Setter for Aspose::Words::Saving::TxtSaveOptions::get_MaxCharactersPerLine in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.saving/txtsaveoptions/set_maxcharactersperline/
 ---
 ## TxtSaveOptions::set_MaxCharactersPerLine method

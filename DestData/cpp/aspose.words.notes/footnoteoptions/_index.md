@@ -4,7 +4,7 @@ linktitle: FootnoteOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::FootnoteOptions class. Represents the footnote numbering options for a document or section in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.notes/footnoteoptions/
 ---
 ## FootnoteOptions class

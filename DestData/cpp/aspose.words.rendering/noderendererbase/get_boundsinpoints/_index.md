@@ -4,7 +4,7 @@ linktitle: get_BoundsInPoints
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::NodeRendererBase::get_BoundsInPoints method. Gets the actual bounds of the shape in points in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.rendering/noderendererbase/get_boundsinpoints/
 ---
 ## NodeRendererBase::get_BoundsInPoints method

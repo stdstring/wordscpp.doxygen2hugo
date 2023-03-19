@@ -4,7 +4,7 @@ linktitle: set_EndArrowType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Stroke::set_EndArrowType method. Setter for Aspose::Words::Drawing::Stroke::get_EndArrowType in C++.
 type: docs
-weight: 326
+weight: 2600
 url: /cpp/aspose.words.drawing/stroke/set_endarrowtype/
 ---
 ## Stroke::set_EndArrowType method

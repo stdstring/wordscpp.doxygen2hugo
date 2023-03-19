@@ -4,7 +4,7 @@ linktitle: Format
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::IFieldResultFormatter::Format method. Called when Aspose.Words applies a number format switch, i.e. \* Ordinal in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/ifieldresultformatter/format/
 ---
 ## IFieldResultFormatter::Format(double, Aspose::Words::Fields::GeneralFormat) method

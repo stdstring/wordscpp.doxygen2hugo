@@ -4,7 +4,7 @@ linktitle: IBarcodeGenerator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::IBarcodeGenerator interface. Public interface for barcode custom generator. Implementation should be provided by user in C++.
 type: docs
-weight: 1509
+weight: 11700
 url: /cpp/aspose.words.fields/ibarcodegenerator/
 ---
 ## IBarcodeGenerator interface

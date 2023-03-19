@@ -4,7 +4,7 @@ linktitle: set_Size
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_Size method. Setter for Aspose::Words::Font::get_Size in C++.
 type: docs
-weight: 1093
+weight: 8500
 url: /cpp/aspose.words/font/set_size/
 ---
 ## Font::set_Size method

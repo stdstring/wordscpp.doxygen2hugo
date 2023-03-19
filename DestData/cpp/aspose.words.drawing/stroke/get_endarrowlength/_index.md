@@ -4,7 +4,7 @@ linktitle: get_EndArrowLength
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Stroke::get_EndArrowLength method. Defines the arrowhead length for the end of a stroke in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.drawing/stroke/get_endarrowlength/
 ---
 ## Stroke::get_EndArrowLength method

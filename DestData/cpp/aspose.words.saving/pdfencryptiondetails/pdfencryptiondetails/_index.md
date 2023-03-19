@@ -4,7 +4,7 @@ linktitle: PdfEncryptionDetails
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfEncryptionDetails::PdfEncryptionDetails constructor. Initializes an instance of this class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.saving/pdfencryptiondetails/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails::PdfEncryptionDetails constructor

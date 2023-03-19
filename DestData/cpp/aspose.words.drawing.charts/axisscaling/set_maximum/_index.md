@@ -4,7 +4,7 @@ linktitle: set_Maximum
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisScaling::set_Maximum method. Setter for Aspose::Words::Drawing::Charts::AxisScaling::get_Maximum in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing.charts/axisscaling/set_maximum/
 ---
 ## AxisScaling::set_Maximum method

@@ -4,7 +4,7 @@ linktitle: OfficeMathJustification
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Math::OfficeMathJustification enum. Specifies the justification of the equation in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.math/officemathjustification/
 ---
 ## OfficeMathJustification enum

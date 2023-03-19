@@ -4,7 +4,7 @@ linktitle: GetEmbeddedFont
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontInfo::GetEmbeddedFont method. Gets a specific embedded font file in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.fonts/fontinfo/getembeddedfont/
 ---
 ## FontInfo::GetEmbeddedFont method

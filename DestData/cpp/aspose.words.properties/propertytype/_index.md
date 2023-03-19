@@ -4,7 +4,7 @@ linktitle: PropertyType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::PropertyType enum. Specifies data type of a document property in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.properties/propertytype/
 ---
 ## PropertyType enum

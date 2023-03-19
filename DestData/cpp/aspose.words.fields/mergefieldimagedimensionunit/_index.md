@@ -4,7 +4,7 @@ linktitle: MergeFieldImageDimensionUnit
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::MergeFieldImageDimensionUnit enum. Specifies an unit of an image dimension (i.e. the width or the height) used across a mail merge process in C++.
 type: docs
-weight: 1691
+weight: 13100
 url: /cpp/aspose.words.fields/mergefieldimagedimensionunit/
 ---
 ## MergeFieldImageDimensionUnit enum

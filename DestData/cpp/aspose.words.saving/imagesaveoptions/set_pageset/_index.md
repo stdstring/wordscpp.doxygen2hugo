@@ -4,7 +4,7 @@ linktitle: set_PageSet
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSaveOptions::set_PageSet method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_PageSet in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.saving/imagesaveoptions/set_pageset/
 ---
 ## ImageSaveOptions::set_PageSet method

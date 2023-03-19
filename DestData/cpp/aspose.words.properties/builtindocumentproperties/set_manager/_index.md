@@ -4,7 +4,7 @@ linktitle: set_Manager
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Manager method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Manager in C++.
 type: docs
-weight: 664
+weight: 5200
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_manager/
 ---
 ## BuiltInDocumentProperties::set_Manager method

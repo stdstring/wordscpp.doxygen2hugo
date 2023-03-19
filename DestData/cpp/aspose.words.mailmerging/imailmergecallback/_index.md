@@ -4,7 +4,7 @@ linktitle: IMailMergeCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::IMailMergeCallback interface. Implement this interface if you want to receive notifications while mail merge is performed in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.mailmerging/imailmergecallback/
 ---
 ## IMailMergeCallback interface

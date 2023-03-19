@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontInfoCollection::Contains method. Determines whether the collection contains a font with the given name in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fonts/fontinfocollection/contains/
 ---
 ## FontInfoCollection::Contains method

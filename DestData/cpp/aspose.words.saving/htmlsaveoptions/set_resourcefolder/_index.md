@@ -4,7 +4,7 @@ linktitle: set_ResourceFolder
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ResourceFolder method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ResourceFolder in C++.
 type: docs
-weight: 1119
+weight: 8700
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_resourcefolder/
 ---
 ## HtmlSaveOptions::set_ResourceFolder method

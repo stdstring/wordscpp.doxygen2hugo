@@ -4,7 +4,7 @@ linktitle: ToImage
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::ToImage method. Gets the image stored in the shape as a Image object in C++.
 type: docs
-weight: 430
+weight: 3400
 url: /cpp/aspose.words.drawing/imagedata/toimage/
 ---
 ## ImageData::ToImage method

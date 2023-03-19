@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeEndIterator method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizeenditerator/
 ---
 ## BookmarksOutlineLevelCollection::virtualizeEndIterator method

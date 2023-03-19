@@ -4,7 +4,7 @@ linktitle: InlineStory
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::InlineStory class. Base class for inline-level nodes that can contain paragraphs and tables in C++.
 type: docs
-weight: 469
+weight: 3700
 url: /cpp/aspose.words/inlinestory/
 ---
 ## InlineStory class

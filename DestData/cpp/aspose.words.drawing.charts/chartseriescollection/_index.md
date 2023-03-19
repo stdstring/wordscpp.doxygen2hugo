@@ -4,7 +4,7 @@ linktitle: ChartSeriesCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartSeriesCollection class. Represents collection of a ChartSeries in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/
 ---
 ## ChartSeriesCollection class

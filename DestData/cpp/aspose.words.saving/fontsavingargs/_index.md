@@ -4,7 +4,7 @@ linktitle: FontSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::FontSavingArgs class. Provides data for the FontSaving() event in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.saving/fontsavingargs/
 ---
 ## FontSavingArgs class

@@ -4,7 +4,7 @@ linktitle: ThemeColors
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::ThemeColors class. Represents the color scheme of the document theme which contains twelve colors. ThemeColors object contains six accent colors, two dark colors, two light colors and a color for each of a hyperlink and followed hyperlink in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.themes/themecolors/
 ---
 ## ThemeColors class

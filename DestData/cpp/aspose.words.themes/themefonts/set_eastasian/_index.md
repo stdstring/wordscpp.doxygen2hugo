@@ -4,7 +4,7 @@ linktitle: set_EastAsian
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::ThemeFonts::set_EastAsian method. Setter for Aspose::Words::Themes::ThemeFonts::get_EastAsian in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.themes/themefonts/set_eastasian/
 ---
 ## ThemeFonts::set_EastAsian method

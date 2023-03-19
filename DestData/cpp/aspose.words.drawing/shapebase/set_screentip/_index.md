@@ -4,7 +4,7 @@ linktitle: set_ScreenTip
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::set_ScreenTip method. Setter for Aspose::Words::Drawing::ShapeBase::get_ScreenTip in C++.
 type: docs
-weight: 1054
+weight: 8200
 url: /cpp/aspose.words.drawing/shapebase/set_screentip/
 ---
 ## ShapeBase::set_ScreenTip method

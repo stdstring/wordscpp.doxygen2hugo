@@ -4,7 +4,7 @@ linktitle: MailMerge
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMerge class. Represents the mail merge functionality. To learn more, visit the  documentation article in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.mailmerging/mailmerge/
 ---
 ## MailMerge class

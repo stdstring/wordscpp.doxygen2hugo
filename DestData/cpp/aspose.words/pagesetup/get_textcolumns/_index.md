@@ -4,7 +4,7 @@ linktitle: get_TextColumns
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_TextColumns method. Returns a collection that represents the set of text columns in C++.
 type: docs
-weight: 534
+weight: 4200
 url: /cpp/aspose.words/pagesetup/get_textcolumns/
 ---
 ## PageSetup::get_TextColumns method

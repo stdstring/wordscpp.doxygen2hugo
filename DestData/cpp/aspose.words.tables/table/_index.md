@@ -4,7 +4,7 @@ linktitle: Table
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table class. Represents a table in a Word document in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.tables/table/
 ---
 ## Table class

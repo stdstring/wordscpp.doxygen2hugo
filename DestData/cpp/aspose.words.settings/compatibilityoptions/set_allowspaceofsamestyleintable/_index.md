@@ -4,7 +4,7 @@ linktitle: set_AllowSpaceOfSameStyleInTable
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_AllowSpaceOfSameStyleInTable method. Allow Contextual Spacing of Paragraphs in Tables in C++.
 type: docs
-weight: 963
+weight: 7500
 url: /cpp/aspose.words.settings/compatibilityoptions/set_allowspaceofsamestyleintable/
 ---
 ## CompatibilityOptions::set_AllowSpaceOfSameStyleInTable method

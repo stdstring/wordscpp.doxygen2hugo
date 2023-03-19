@@ -4,7 +4,7 @@ linktitle: set_Accent6
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::ThemeColors::set_Accent6 method. Setter for Aspose::Words::Themes::ThemeColors::get_Accent6 in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.themes/themecolors/set_accent6/
 ---
 ## ThemeColors::set_Accent6 method

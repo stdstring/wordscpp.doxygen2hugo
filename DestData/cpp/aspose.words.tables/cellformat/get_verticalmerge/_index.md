@@ -4,7 +4,7 @@ linktitle: get_VerticalMerge
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::CellFormat::get_VerticalMerge method. Specifies how the cell is merged with other cells vertically in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.tables/cellformat/get_verticalmerge/
 ---
 ## CellFormat::get_VerticalMerge method

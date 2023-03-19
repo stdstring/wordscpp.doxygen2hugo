@@ -4,7 +4,7 @@ linktitle: end
 second_title: Aspose.Words for C++ API Reference
 description: How to use end method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/end/
 ---
 ## DigitalSignatureCollection::end() const method

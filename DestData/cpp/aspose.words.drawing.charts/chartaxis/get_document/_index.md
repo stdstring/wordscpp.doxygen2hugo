@@ -4,7 +4,7 @@ linktitle: get_Document
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartAxis::get_Document method. Returns the Document the title holder belongs in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_document/
 ---
 ## ChartAxis::get_Document method

@@ -4,7 +4,7 @@ linktitle: set_BottomPadding
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::set_BottomPadding method. Setter for Aspose::Words::Tables::Table::get_BottomPadding in C++.
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words.tables/table/set_bottompadding/
 ---
 ## Table::set_BottomPadding method

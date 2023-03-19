@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeBeginIterator method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/virtualizebeginiterator/
 ---
 ## OdsoFieldMapDataCollection::virtualizeBeginIterator method

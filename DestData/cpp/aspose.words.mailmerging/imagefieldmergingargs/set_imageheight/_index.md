@@ -4,7 +4,7 @@ linktitle: set_ImageHeight
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageHeight method. Setter for Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/set_imageheight/
 ---
 ## ImageFieldMergingArgs::set_ImageHeight method

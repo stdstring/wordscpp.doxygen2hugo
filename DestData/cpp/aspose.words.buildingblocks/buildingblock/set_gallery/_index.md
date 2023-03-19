@@ -4,7 +4,7 @@ linktitle: set_Gallery
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BuildingBlocks::BuildingBlock::set_Gallery method. Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Gallery in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_gallery/
 ---
 ## BuildingBlock::set_Gallery method

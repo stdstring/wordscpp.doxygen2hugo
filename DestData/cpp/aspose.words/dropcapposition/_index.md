@@ -4,7 +4,7 @@ linktitle: DropCapPosition
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DropCapPosition enum. Specifies the position for a drop cap text in C++.
 type: docs
-weight: 1119
+weight: 8700
 url: /cpp/aspose.words/dropcapposition/
 ---
 ## DropCapPosition enum

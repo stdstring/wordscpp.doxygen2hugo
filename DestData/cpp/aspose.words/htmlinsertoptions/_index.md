@@ -4,7 +4,7 @@ linktitle: HtmlInsertOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::HtmlInsertOptions enum. Specifies options for the InsertHtml() method in C++.
 type: docs
-weight: 1184
+weight: 9200
 url: /cpp/aspose.words/htmlinsertoptions/
 ---
 ## HtmlInsertOptions enum

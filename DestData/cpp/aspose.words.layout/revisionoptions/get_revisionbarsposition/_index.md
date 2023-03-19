@@ -4,7 +4,7 @@ linktitle: get_RevisionBarsPosition
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::RevisionOptions::get_RevisionBarsPosition method. Gets rendering position of revision bars. Default value is Outside in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarsposition/
 ---
 ## RevisionOptions::get_RevisionBarsPosition method

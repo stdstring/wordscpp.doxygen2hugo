@@ -4,7 +4,7 @@ linktitle: PdfCustomPropertiesExport
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfCustomPropertiesExport enum. Specifies the way CustomDocumentProperties are exported to PDF file in C++.
 type: docs
-weight: 924
+weight: 7200
 url: /cpp/aspose.words.saving/pdfcustompropertiesexport/
 ---
 ## PdfCustomPropertiesExport enum

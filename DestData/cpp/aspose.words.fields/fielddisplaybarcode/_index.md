@@ -4,7 +4,7 @@ linktitle: FieldDisplayBarcode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDisplayBarcode class. Implements the DISPLAYBARCODE field in C++.
 type: docs
-weight: 430
+weight: 3400
 url: /cpp/aspose.words.fields/fielddisplaybarcode/
 ---
 ## FieldDisplayBarcode class

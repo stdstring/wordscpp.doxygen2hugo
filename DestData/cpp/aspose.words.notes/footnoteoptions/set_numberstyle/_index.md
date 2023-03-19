@@ -4,7 +4,7 @@ linktitle: set_NumberStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::FootnoteOptions::set_NumberStyle method. Setter for Aspose::Words::Notes::FootnoteOptions::get_NumberStyle in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.notes/footnoteoptions/set_numberstyle/
 ---
 ## FootnoteOptions::set_NumberStyle method

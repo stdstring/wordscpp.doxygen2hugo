@@ -4,7 +4,7 @@ linktitle: SetText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comment::SetText method. This is a convenience method that allows to easily set text of the comment in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words/comment/settext/
 ---
 ## Comment::SetText method

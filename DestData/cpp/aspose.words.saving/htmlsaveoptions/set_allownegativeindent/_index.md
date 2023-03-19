@@ -4,7 +4,7 @@ linktitle: set_AllowNegativeIndent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_AllowNegativeIndent method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent in C++.
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_allownegativeindent/
 ---
 ## HtmlSaveOptions::set_AllowNegativeIndent method

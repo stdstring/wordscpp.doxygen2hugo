@@ -4,7 +4,7 @@ linktitle: set_ImagesFolderAlias
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ImagesFolderAlias method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias in C++.
 type: docs
-weight: 1067
+weight: 8300
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_imagesfolderalias/
 ---
 ## HtmlSaveOptions::set_ImagesFolderAlias method

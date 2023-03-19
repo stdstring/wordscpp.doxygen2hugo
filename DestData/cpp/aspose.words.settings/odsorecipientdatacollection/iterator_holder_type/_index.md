@@ -4,7 +4,7 @@ linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Settings::OdsoRecipientDataCollection::iterator_holder_type typedef of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/iterator_holder_type/
 ---
 ## iterator_holder_type typedef

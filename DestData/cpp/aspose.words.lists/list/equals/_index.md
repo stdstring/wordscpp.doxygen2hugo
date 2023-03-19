@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::List::Equals method. Compares with the specified list in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.lists/list/equals/
 ---
 ## List::Equals(const System::SharedPtr\<Aspose::Words::Lists::List\>\&) method

@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::WebExtensions::BaseWebExtensionCollection::GetEnumerator method. Returns an enumerator that can iterate through a collection in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/getenumerator/
 ---
 ## BaseWebExtensionCollection::GetEnumerator method

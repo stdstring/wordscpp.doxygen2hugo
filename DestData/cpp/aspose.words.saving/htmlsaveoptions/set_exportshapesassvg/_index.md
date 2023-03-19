@@ -4,7 +4,7 @@ linktitle: set_ExportShapesAsSvg
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportShapesAsSvg method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportShapesAsSvg in C++.
 type: docs
-weight: 911
+weight: 7100
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportshapesassvg/
 ---
 ## HtmlSaveOptions::set_ExportShapesAsSvg method

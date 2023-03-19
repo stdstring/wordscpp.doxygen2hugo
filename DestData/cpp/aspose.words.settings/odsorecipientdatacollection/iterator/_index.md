@@ -4,7 +4,7 @@ linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Settings::OdsoRecipientDataCollection::iterator typedef of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/iterator/
 ---
 ## iterator typedef

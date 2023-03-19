@@ -4,7 +4,7 @@ linktitle: set_IsStrictSchema11
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::OdtSaveOptions::set_IsStrictSchema11 method. Setter for Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11 in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.saving/odtsaveoptions/set_isstrictschema11/
 ---
 ## OdtSaveOptions::set_IsStrictSchema11 method

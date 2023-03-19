@@ -4,7 +4,7 @@ linktitle: TabAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TabAlignment enum. Specifies the alignment/type of a tab stop in C++.
 type: docs
-weight: 1548
+weight: 12000
 url: /cpp/aspose.words/tabalignment/
 ---
 ## TabAlignment enum

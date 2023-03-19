@@ -4,7 +4,7 @@ linktitle: get_FillColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Shape::get_FillColor method. Defines the brush color that fills the closed path of the shape in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.drawing/shape/get_fillcolor/
 ---
 ## Shape::get_FillColor method

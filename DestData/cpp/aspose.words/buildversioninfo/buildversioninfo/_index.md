@@ -4,7 +4,7 @@ linktitle: BuildVersionInfo
 second_title: Aspose.Words for C++ API Reference
 description: How to use BuildVersionInfo constructor of Aspose::Words::BuildVersionInfo class in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/buildversioninfo/buildversioninfo/
 ---
 ## BuildVersionInfo::BuildVersionInfo constructor

@@ -4,7 +4,7 @@ linktitle: TextColumn
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TextColumn class. Represents a single text column. TextColumn is a member of the TextColumnCollection collection. The TextColumns collection includes all the columns in a section of a document in C++.
 type: docs
-weight: 898
+weight: 7000
 url: /cpp/aspose.words/textcolumn/
 ---
 ## TextColumn class

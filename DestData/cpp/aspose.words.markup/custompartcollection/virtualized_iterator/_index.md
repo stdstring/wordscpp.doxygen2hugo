@@ -4,7 +4,7 @@ linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Markup::CustomPartCollection::virtualized_iterator typedef of Aspose::Words::Markup::CustomPartCollection class in C++.
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.markup/custompartcollection/virtualized_iterator/
 ---
 ## virtualized_iterator typedef

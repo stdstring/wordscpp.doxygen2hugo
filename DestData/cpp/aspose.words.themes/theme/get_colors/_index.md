@@ -4,7 +4,7 @@ linktitle: get_Colors
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::Theme::get_Colors method. Allows to specify the set of theme colors for the document in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.themes/theme/get_colors/
 ---
 ## Theme::get_Colors method

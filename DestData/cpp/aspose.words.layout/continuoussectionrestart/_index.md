@@ -4,7 +4,7 @@ linktitle: ContinuousSectionRestart
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::ContinuousSectionRestart enum. Represents different behaviors when computing page numbers in a continuous section that restarts page numbering in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.layout/continuoussectionrestart/
 ---
 ## ContinuousSectionRestart enum

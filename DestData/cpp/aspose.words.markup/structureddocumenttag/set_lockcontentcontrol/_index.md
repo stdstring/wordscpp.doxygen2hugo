@@ -4,7 +4,7 @@ linktitle: set_LockContentControl
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTag::set_LockContentControl method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_LockContentControl in C++.
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words.markup/structureddocumenttag/set_lockcontentcontrol/
 ---
 ## StructuredDocumentTag::set_LockContentControl method

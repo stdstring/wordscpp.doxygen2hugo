@@ -4,7 +4,7 @@ linktitle: set_Color
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::HorizontalRuleFormat::set_Color method. Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_Color in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_color/
 ---
 ## HorizontalRuleFormat::set_Color method

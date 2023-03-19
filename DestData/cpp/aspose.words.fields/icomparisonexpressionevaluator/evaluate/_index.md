@@ -4,7 +4,7 @@ linktitle: Evaluate
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::IComparisonExpressionEvaluator::Evaluate method. Evaluates comparison expression in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/icomparisonexpressionevaluator/evaluate/
 ---
 ## IComparisonExpressionEvaluator::Evaluate method

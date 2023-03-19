@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeBeginIterator method of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.markup/customxmlpartcollection/virtualizebeginiterator/
 ---
 ## CustomXmlPartCollection::virtualizeBeginIterator method

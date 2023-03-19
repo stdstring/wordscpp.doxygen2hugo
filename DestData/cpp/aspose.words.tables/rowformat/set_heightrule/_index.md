@@ -4,7 +4,7 @@ linktitle: set_HeightRule
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::RowFormat::set_HeightRule method. Setter for Aspose::Words::Tables::RowFormat::get_HeightRule in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.tables/rowformat/set_heightrule/
 ---
 ## RowFormat::set_HeightRule method

@@ -4,7 +4,7 @@ linktitle: DocumentSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::DocumentSavingArgs class. An argument passed into Notify() in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.saving/documentsavingargs/
 ---
 ## DocumentSavingArgs class

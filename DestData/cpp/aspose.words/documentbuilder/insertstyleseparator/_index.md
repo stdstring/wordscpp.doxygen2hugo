@@ -4,7 +4,7 @@ linktitle: InsertStyleSeparator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertStyleSeparator method. Inserts style separator into the document in C++.
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words/documentbuilder/insertstyleseparator/
 ---
 ## DocumentBuilder::InsertStyleSeparator method

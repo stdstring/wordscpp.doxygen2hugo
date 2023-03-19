@@ -4,7 +4,7 @@ linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Vba::VbaReference::get_Type method. Gets VbaReferenceType object that indicates the type of reference that a VbaReference object represents in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.vba/vbareference/get_type/
 ---
 ## VbaReference::get_Type method

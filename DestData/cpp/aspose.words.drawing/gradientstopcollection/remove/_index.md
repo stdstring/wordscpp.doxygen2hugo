@@ -4,7 +4,7 @@ linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::GradientStopCollection::Remove method. Removes a specified GradientStop from the collection in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing/gradientstopcollection/remove/
 ---
 ## GradientStopCollection::Remove method

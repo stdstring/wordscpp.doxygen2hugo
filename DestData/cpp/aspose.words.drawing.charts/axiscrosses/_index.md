@@ -4,7 +4,7 @@ linktitle: AxisCrosses
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisCrosses enum. Specifies the possible crossing points for an axis in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.drawing.charts/axiscrosses/
 ---
 ## AxisCrosses enum

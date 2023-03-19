@@ -4,7 +4,7 @@ linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::TxtListIndentation::get_Count method. Gets or sets how many Character to use as indentation per one list level. The default value is 0, that means no indentation in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.saving/txtlistindentation/get_count/
 ---
 ## TxtListIndentation::get_Count method

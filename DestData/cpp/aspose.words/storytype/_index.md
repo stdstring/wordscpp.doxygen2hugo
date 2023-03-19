@@ -4,7 +4,7 @@ linktitle: StoryType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::StoryType enum. Text of a Word document is stored in stories. StoryType identifies a story in C++.
 type: docs
-weight: 1509
+weight: 11700
 url: /cpp/aspose.words/storytype/
 ---
 ## StoryType enum

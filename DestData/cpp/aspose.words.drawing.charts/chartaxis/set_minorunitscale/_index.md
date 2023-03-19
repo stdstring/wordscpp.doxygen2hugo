@@ -4,7 +4,7 @@ linktitle: set_MinorUnitScale
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitScale method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitScale in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunitscale/
 ---
 ## ChartAxis::set_MinorUnitScale method

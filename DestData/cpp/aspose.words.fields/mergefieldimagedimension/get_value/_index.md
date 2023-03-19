@@ -4,7 +4,7 @@ linktitle: get_Value
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::MergeFieldImageDimension::get_Value method. The value in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fields/mergefieldimagedimension/get_value/
 ---
 ## MergeFieldImageDimension::get_Value method

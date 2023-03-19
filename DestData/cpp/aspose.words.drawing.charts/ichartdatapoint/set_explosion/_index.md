@@ -4,7 +4,7 @@ linktitle: set_Explosion
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::IChartDataPoint::set_Explosion method. Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/set_explosion/
 ---
 ## IChartDataPoint::set_Explosion method

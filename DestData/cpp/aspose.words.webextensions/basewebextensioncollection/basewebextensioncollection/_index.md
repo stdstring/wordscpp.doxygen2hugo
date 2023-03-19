@@ -4,7 +4,7 @@ linktitle: BaseWebExtensionCollection
 second_title: Aspose.Words for C++ API Reference
 description: How to use BaseWebExtensionCollection constructor of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/basewebextensioncollection/
 ---
 ## BaseWebExtensionCollection::BaseWebExtensionCollection constructor

@@ -4,7 +4,7 @@ linktitle: get_PreferredWidth
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::CellFormat::get_PreferredWidth method. Returns or sets the preferred width of the cell in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.tables/cellformat/get_preferredwidth/
 ---
 ## CellFormat::get_PreferredWidth method

@@ -4,7 +4,7 @@ linktitle: set_SignatureLineId
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DigitalSignatures::SignOptions::set_SignatureLineId method. Setter for Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.digitalsignatures/signoptions/set_signaturelineid/
 ---
 ## SignOptions::set_SignatureLineId method

@@ -4,7 +4,7 @@ linktitle: set_Password
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::DocSaveOptions::set_Password method. Setter for Aspose::Words::Saving::DocSaveOptions::get_Password in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.saving/docsaveoptions/set_password/
 ---
 ## DocSaveOptions::set_Password method

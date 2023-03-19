@@ -4,7 +4,7 @@ linktitle: TagsReplaced
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::IMailMergeCallback::TagsReplaced method. Called when "mustache" text tags are replaced with MERGEFIELD fields in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.mailmerging/imailmergecallback/tagsreplaced/
 ---
 ## IMailMergeCallback::TagsReplaced method

@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BorderCollection::idx_get method. Retrieves a Border object by border type in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words/bordercollection/idx_get/
 ---
 ## BorderCollection::idx_get(Aspose::Words::BorderType) method

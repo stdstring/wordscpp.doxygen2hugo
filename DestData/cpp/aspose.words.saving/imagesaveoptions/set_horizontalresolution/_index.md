@@ -4,7 +4,7 @@ linktitle: set_HorizontalResolution
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSaveOptions::set_HorizontalResolution method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_HorizontalResolution in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.saving/imagesaveoptions/set_horizontalresolution/
 ---
 ## ImageSaveOptions::set_HorizontalResolution method

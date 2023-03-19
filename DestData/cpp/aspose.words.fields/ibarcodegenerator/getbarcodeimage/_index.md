@@ -4,7 +4,7 @@ linktitle: GetBarcodeImage
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::IBarcodeGenerator::GetBarcodeImage method. Generate barcode image using the set of parameters (for DisplayBarcode field) in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/ibarcodegenerator/getbarcodeimage/
 ---
 ## IBarcodeGenerator::GetBarcodeImage method

@@ -4,7 +4,7 @@ linktitle: FieldRef
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldRef class. Implements the REF field in C++.
 type: docs
-weight: 1093
+weight: 8500
 url: /cpp/aspose.words.fields/fieldref/
 ---
 ## FieldRef class

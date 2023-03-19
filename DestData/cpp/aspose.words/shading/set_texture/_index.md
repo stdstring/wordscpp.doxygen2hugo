@@ -4,7 +4,7 @@ linktitle: set_Texture
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Shading::set_Texture method. Setter for Aspose::Words::Shading::get_Texture in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/shading/set_texture/
 ---
 ## Shading::set_Texture method

@@ -4,7 +4,7 @@ linktitle: virtualized_iterator_element
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator_element typedef of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualized_iterator_element/
 ---
 ## virtualized_iterator_element typedef

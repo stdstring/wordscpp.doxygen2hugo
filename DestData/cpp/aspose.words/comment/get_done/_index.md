@@ -4,7 +4,7 @@ linktitle: get_Done
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comment::get_Done method. Gets or sets flag indicating that the comment has been marked done in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words/comment/get_done/
 ---
 ## Comment::get_Done method

@@ -4,7 +4,7 @@ linktitle: set_SaveFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::XamlFlowSaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_SaveFormat in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_saveformat/
 ---
 ## XamlFlowSaveOptions::set_SaveFormat method

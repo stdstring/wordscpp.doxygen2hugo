@@ -4,7 +4,7 @@ linktitle: get_TrackRevisions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_TrackRevisions method. True if changes are tracked when this document is edited in Microsoft Word in C++.
 type: docs
-weight: 651
+weight: 5100
 url: /cpp/aspose.words/document/get_trackrevisions/
 ---
 ## Document::get_TrackRevisions method

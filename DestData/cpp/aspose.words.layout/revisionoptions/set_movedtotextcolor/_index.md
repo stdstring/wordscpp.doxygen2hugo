@@ -4,7 +4,7 @@ linktitle: set_MovedToTextColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::RevisionOptions::set_MovedToTextColor method. Setter for Aspose::Words::Layout::RevisionOptions::get_MovedToTextColor in C++.
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words.layout/revisionoptions/set_movedtotextcolor/
 ---
 ## RevisionOptions::set_MovedToTextColor method

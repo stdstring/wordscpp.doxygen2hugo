@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Bookmark::set_Name method. Setter for Aspose::Words::Bookmark::get_Name in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/bookmark/set_name/
 ---
 ## Bookmark::set_Name method

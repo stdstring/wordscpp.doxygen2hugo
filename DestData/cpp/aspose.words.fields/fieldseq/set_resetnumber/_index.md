@@ -4,7 +4,7 @@ linktitle: set_ResetNumber
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldSeq::set_ResetNumber method. Setter for Aspose::Words::Fields::FieldSeq::get_ResetNumber in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.fields/fieldseq/set_resetnumber/
 ---
 ## FieldSeq::set_ResetNumber method

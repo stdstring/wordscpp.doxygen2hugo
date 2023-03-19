@@ -4,7 +4,7 @@ linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::PreferredWidth::Equals method. Determines whether the specified PreferredWidth is equal in value to the current PreferredWidth in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.tables/preferredwidth/equals/
 ---
 ## PreferredWidth::Equals(const System::SharedPtr\<Aspose::Words::Tables::PreferredWidth\>\&) method

@@ -4,7 +4,7 @@ linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Markup::CustomXmlPartCollection::iterator typedef of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.markup/customxmlpartcollection/iterator/
 ---
 ## iterator typedef

@@ -4,7 +4,7 @@ linktitle: set_UlTrailSpace
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_UlTrailSpace method. Underline All Trailing Spaces in C++.
 type: docs
-weight: 1678
+weight: 13000
 url: /cpp/aspose.words.settings/compatibilityoptions/set_ultrailspace/
 ---
 ## CompatibilityOptions::set_UlTrailSpace method

@@ -4,7 +4,7 @@ linktitle: CssSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::CssSavingArgs class. Provides data for the CssSaving() event in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.saving/csssavingargs/
 ---
 ## CssSavingArgs class

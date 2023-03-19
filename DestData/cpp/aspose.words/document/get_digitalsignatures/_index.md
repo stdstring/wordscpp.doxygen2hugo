@@ -4,7 +4,7 @@ linktitle: get_DigitalSignatures
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_DigitalSignatures method. Gets the collection of digital signatures for this document and their validation results in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words/document/get_digitalsignatures/
 ---
 ## Document::get_DigitalSignatures method

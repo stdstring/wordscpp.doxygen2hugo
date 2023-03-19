@@ -4,7 +4,7 @@ linktitle: ControlChar
 second_title: Aspose.Words for C++ API Reference
 description: How to use ControlChar constructor of Aspose::Words::ControlChar class in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words/controlchar/controlchar/
 ---
 ## ControlChar::ControlChar constructor

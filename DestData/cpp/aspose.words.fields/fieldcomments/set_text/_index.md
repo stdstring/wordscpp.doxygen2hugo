@@ -4,7 +4,7 @@ linktitle: set_Text
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldComments::set_Text method. Setter for Aspose::Words::Fields::FieldComments::get_Text in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/fieldcomments/set_text/
 ---
 ## FieldComments::set_Text method

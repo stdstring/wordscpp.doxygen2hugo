@@ -4,7 +4,7 @@ linktitle: InsertHorizontalRule
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertHorizontalRule method. Inserts a horizontal rule shape into the document in C++.
 type: docs
-weight: 430
+weight: 3400
 url: /cpp/aspose.words/documentbuilder/inserthorizontalrule/
 ---
 ## DocumentBuilder::InsertHorizontalRule method

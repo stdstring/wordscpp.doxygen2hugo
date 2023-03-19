@@ -4,7 +4,7 @@ linktitle: MoveParent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Layout::LayoutEnumerator::MoveParent method. Moves to the parent entity in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.layout/layoutenumerator/moveparent/
 ---
 ## LayoutEnumerator::MoveParent() method

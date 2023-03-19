@@ -4,7 +4,7 @@ linktitle: Inline
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Inline class. Base class for inline-level nodes that can have character formatting associated with them, but cannot have child nodes of their own in C++.
 type: docs
-weight: 456
+weight: 3600
 url: /cpp/aspose.words/inline/
 ---
 ## Inline class

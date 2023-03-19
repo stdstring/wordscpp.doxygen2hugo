@@ -4,7 +4,7 @@ linktitle: get_ShapeType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::get_ShapeType method. Gets the shape type in C++.
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words.drawing/shapebase/get_shapetype/
 ---
 ## ShapeBase::get_ShapeType method

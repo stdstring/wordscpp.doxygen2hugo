@@ -4,7 +4,7 @@ linktitle: set_SuppressLineNumbers
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_SuppressLineNumbers method. Setter for Aspose::Words::ParagraphFormat::get_SuppressLineNumbers in C++.
 type: docs
-weight: 950
+weight: 7400
 url: /cpp/aspose.words/paragraphformat/set_suppresslinenumbers/
 ---
 ## ParagraphFormat::set_SuppressLineNumbers method

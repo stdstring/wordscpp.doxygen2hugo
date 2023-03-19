@@ -4,7 +4,7 @@ linktitle: set_WidthPercent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::HorizontalRuleFormat::set_WidthPercent method. Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_widthpercent/
 ---
 ## HorizontalRuleFormat::set_WidthPercent method

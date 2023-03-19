@@ -4,7 +4,7 @@ linktitle: set_ImlRenderingMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::SaveOptions::set_ImlRenderingMode method. Setter for Aspose::Words::Saving::SaveOptions::get_ImlRenderingMode in C++.
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words.saving/saveoptions/set_imlrenderingmode/
 ---
 ## SaveOptions::set_ImlRenderingMode method

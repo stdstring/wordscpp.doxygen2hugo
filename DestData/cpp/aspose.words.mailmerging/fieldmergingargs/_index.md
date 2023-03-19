@@ -4,7 +4,7 @@ linktitle: FieldMergingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::FieldMergingArgs class. Provides data for the MergeField event in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.mailmerging/fieldmergingargs/
 ---
 ## FieldMergingArgs class

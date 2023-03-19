@@ -4,7 +4,7 @@ linktitle: set_PaperSize
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_PaperSize method. Setter for Aspose::Words::PageSetup::get_PaperSize in C++.
 type: docs
-weight: 976
+weight: 7600
 url: /cpp/aspose.words/pagesetup/set_papersize/
 ---
 ## PageSetup::set_PaperSize method

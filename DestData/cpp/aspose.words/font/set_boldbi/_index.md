@@ -4,7 +4,7 @@ linktitle: set_BoldBi
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_BoldBi method. Setter for Aspose::Words::Font::get_BoldBi in C++.
 type: docs
-weight: 768
+weight: 6000
 url: /cpp/aspose.words/font/set_boldbi/
 ---
 ## Font::set_BoldBi method

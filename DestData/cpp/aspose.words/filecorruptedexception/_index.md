@@ -4,7 +4,7 @@ linktitle: FileCorruptedException
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::FileCorruptedException typedef. Thrown during document load, when the document appears to be corrupted and impossible to load in C++.
 type: docs
-weight: 1717
+weight: 13300
 url: /cpp/aspose.words/filecorruptedexception/
 ---
 ## FileCorruptedException typedef

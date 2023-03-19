@@ -4,7 +4,7 @@ linktitle: FileFontSource
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FileFontSource::FileFontSource constructor. Ctor in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fonts/filefontsource/filefontsource/
 ---
 ## FileFontSource::FileFontSource(const System::String\&) constructor

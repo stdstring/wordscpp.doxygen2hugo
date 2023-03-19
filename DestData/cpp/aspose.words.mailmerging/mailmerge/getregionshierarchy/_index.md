@@ -4,7 +4,7 @@ linktitle: GetRegionsHierarchy
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMerge::GetRegionsHierarchy method. Returns a full hierarchy of regions (with fields) available in the document in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.mailmerging/mailmerge/getregionshierarchy/
 ---
 ## MailMerge::GetRegionsHierarchy method

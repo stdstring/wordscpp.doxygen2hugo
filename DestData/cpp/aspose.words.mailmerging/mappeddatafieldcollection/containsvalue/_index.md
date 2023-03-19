@@ -4,7 +4,7 @@ linktitle: ContainsValue
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue method. Determines whether a mapping from the specified field in the data source exists in the collection in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/containsvalue/
 ---
 ## MappedDataFieldCollection::ContainsValue method

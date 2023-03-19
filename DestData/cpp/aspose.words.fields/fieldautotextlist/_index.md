@@ -4,7 +4,7 @@ linktitle: FieldAutoTextList
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldAutoTextList class. Implements the AUTOTEXTLIST field in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.fields/fieldautotextlist/
 ---
 ## FieldAutoTextList class

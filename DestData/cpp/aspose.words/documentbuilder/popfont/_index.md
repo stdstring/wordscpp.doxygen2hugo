@@ -4,7 +4,7 @@ linktitle: PopFont
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::PopFont method. Retrieves character formatting previously saved on the stack in C++.
 type: docs
-weight: 755
+weight: 5900
 url: /cpp/aspose.words/documentbuilder/popfont/
 ---
 ## DocumentBuilder::PopFont method

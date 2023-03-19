@@ -4,7 +4,7 @@ linktitle: TabStop
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TabStop class. Represents a single custom tab stop. The TabStop object is a member of the TabStopCollection collection in C++.
 type: docs
-weight: 872
+weight: 6800
 url: /cpp/aspose.words/tabstop/
 ---
 ## TabStop class

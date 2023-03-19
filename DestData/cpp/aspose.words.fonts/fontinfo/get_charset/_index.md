@@ -4,7 +4,7 @@ linktitle: get_Charset
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontInfo::get_Charset method. Gets or sets the character set for the font in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fonts/fontinfo/get_charset/
 ---
 ## FontInfo::get_Charset method

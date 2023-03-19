@@ -4,7 +4,7 @@ linktitle: set_ResourcesFolderAlias
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolderAlias method. Setter for Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.saving/svgsaveoptions/set_resourcesfolderalias/
 ---
 ## SvgSaveOptions::set_ResourcesFolderAlias method

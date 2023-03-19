@@ -4,7 +4,7 @@ linktitle: LoadFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::LoadFormat enum. Indicates the format of the document that is to be loaded in C++.
 type: docs
-weight: 1262
+weight: 9800
 url: /cpp/aspose.words/loadformat/
 ---
 ## LoadFormat enum

@@ -4,7 +4,7 @@ linktitle: ToDocument
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Range::ToDocument method. Constructs a new fully formed document that contains the range in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/range/todocument/
 ---
 ## Range::ToDocument method

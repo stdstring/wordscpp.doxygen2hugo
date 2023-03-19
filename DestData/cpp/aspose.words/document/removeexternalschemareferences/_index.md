@@ -4,7 +4,7 @@ linktitle: RemoveExternalSchemaReferences
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::RemoveExternalSchemaReferences method. Removes external XML schema references from this document in C++.
 type: docs
-weight: 807
+weight: 6300
 url: /cpp/aspose.words/document/removeexternalschemareferences/
 ---
 ## Document::RemoveExternalSchemaReferences method

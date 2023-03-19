@@ -4,7 +4,7 @@ linktitle: IMailMergeDataSource
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::IMailMergeDataSource interface. Implement this interface to allow mail merge from a custom data source, such as a list of objects. Master-detail data is also supported in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.mailmerging/imailmergedatasource/
 ---
 ## IMailMergeDataSource interface

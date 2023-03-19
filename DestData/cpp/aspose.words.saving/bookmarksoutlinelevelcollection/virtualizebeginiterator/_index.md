@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeBeginIterator method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizebeginiterator/
 ---
 ## BookmarksOutlineLevelCollection::virtualizeBeginIterator method

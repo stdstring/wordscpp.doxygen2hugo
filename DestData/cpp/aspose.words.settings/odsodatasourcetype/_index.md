@@ -4,7 +4,7 @@ linktitle: OdsoDataSourceType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::OdsoDataSourceType enum. Specifies the type of the external data source to be connected to as part of the ODSO connection information in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.settings/odsodatasourcetype/
 ---
 ## OdsoDataSourceType enum

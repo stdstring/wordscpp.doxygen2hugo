@@ -4,7 +4,7 @@ linktitle: set_FileName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::OlePackage::set_FileName method. Setter for Aspose::Words::Drawing::OlePackage::get_FileName in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.drawing/olepackage/set_filename/
 ---
 ## OlePackage::set_FileName method

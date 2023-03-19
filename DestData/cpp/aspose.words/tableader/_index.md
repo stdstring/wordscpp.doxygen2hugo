@@ -4,7 +4,7 @@ linktitle: TabLeader
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TabLeader enum. Specifies the type of the leader line displayed under the tab character in C++.
 type: docs
-weight: 1561
+weight: 12100
 url: /cpp/aspose.words/tableader/
 ---
 ## TabLeader enum

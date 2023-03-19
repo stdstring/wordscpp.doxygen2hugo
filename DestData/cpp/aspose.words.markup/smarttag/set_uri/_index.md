@@ -4,7 +4,7 @@ linktitle: set_Uri
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::SmartTag::set_Uri method. Setter for Aspose::Words::Markup::SmartTag::get_Uri in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.markup/smarttag/set_uri/
 ---
 ## SmartTag::set_Uri method

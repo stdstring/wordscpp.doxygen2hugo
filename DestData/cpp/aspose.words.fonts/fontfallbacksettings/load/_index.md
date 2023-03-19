@@ -4,7 +4,7 @@ linktitle: Load
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontFallbackSettings::Load method. Loads fallback settings from XML stream in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fonts/fontfallbacksettings/load/
 ---
 ## FontFallbackSettings::Load(const System::SharedPtr\<System::IO::Stream\>\&) method

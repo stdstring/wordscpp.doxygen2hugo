@@ -4,7 +4,7 @@ linktitle: set_DigitalSignatureDetails
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::set_DigitalSignatureDetails method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails in C++.
 type: docs
-weight: 482
+weight: 3800
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_digitalsignaturedetails/
 ---
 ## PdfSaveOptions::set_DigitalSignatureDetails method

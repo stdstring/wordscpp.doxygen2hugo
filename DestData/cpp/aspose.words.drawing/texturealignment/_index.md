@@ -4,7 +4,7 @@ linktitle: TextureAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextureAlignment enum. Specifies the alignment for the tiling of the texture fill in C++.
 type: docs
-weight: 534
+weight: 4200
 url: /cpp/aspose.words.drawing/texturealignment/
 ---
 ## TextureAlignment enum

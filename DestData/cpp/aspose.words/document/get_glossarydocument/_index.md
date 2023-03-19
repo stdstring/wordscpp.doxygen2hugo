@@ -4,7 +4,7 @@ linktitle: get_GlossaryDocument
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_GlossaryDocument method. Gets or sets the glossary document within this document or template. A glossary document is a storage for AutoText, AutoCorrect and Building Block entries defined in a document in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words/document/get_glossarydocument/
 ---
 ## Document::get_GlossaryDocument method

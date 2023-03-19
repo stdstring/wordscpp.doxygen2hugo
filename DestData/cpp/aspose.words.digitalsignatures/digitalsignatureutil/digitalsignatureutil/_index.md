@@ -4,7 +4,7 @@ linktitle: DigitalSignatureUtil
 second_title: Aspose.Words for C++ API Reference
 description: How to use DigitalSignatureUtil constructor of Aspose::Words::DigitalSignatures::DigitalSignatureUtil class in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.digitalsignatures/digitalsignatureutil/digitalsignatureutil/
 ---
 ## DigitalSignatureUtil::DigitalSignatureUtil constructor

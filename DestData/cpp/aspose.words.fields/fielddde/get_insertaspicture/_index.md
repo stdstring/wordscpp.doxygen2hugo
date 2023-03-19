@@ -4,7 +4,7 @@ linktitle: get_InsertAsPicture
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDde::get_InsertAsPicture method. Gets or sets whether to insert the linked object as a picture in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fields/fielddde/get_insertaspicture/
 ---
 ## FieldDde::get_InsertAsPicture method

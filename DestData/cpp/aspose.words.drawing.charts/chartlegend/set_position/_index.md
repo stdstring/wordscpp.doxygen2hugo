@@ -4,7 +4,7 @@ linktitle: set_Position
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartLegend::set_Position method. Setter for Aspose::Words::Drawing::Charts::ChartLegend::get_Position in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing.charts/chartlegend/set_position/
 ---
 ## ChartLegend::set_Position method

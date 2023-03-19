@@ -4,7 +4,7 @@ linktitle: ClearFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartDataPoint::ClearFormat method. Clears format of this data point. The properties are set to the default values defined in the parent series in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/clearformat/
 ---
 ## ChartDataPoint::ClearFormat method

@@ -4,7 +4,7 @@ linktitle: get_HasImage
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Shape::get_HasImage method. Returns true if the shape has image bytes or links an image in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.drawing/shape/get_hasimage/
 ---
 ## Shape::get_HasImage method

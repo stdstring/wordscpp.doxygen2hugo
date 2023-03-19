@@ -4,7 +4,7 @@ linktitle: PrependContent
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Section::PrependContent method. Inserts a copy of content of the source section at the beginning of this section in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words/section/prependcontent/
 ---
 ## Section::PrependContent method

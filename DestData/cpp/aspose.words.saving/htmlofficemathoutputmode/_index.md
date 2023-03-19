@@ -4,7 +4,7 @@ linktitle: HtmlOfficeMathOutputMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlOfficeMathOutputMode enum. Specifies how Aspose.Words exports OfficeMath to HTML, MHTML and EPUB in C++.
 type: docs
-weight: 781
+weight: 6100
 url: /cpp/aspose.words.saving/htmlofficemathoutputmode/
 ---
 ## HtmlOfficeMathOutputMode enum

@@ -4,7 +4,7 @@ linktitle: set_CharacterCode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldSymbol::set_CharacterCode method. Setter for Aspose::Words::Fields::FieldSymbol::get_CharacterCode in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.fields/fieldsymbol/set_charactercode/
 ---
 ## FieldSymbol::set_CharacterCode method

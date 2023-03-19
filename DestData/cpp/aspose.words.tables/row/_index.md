@@ -4,7 +4,7 @@ linktitle: Row
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Row class. Represents a table row in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.tables/row/
 ---
 ## Row class

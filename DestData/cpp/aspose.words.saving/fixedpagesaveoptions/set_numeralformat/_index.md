@@ -4,7 +4,7 @@ linktitle: set_NumeralFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::FixedPageSaveOptions::set_NumeralFormat method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_numeralformat/
 ---
 ## FixedPageSaveOptions::set_NumeralFormat method

@@ -4,7 +4,7 @@ linktitle: set_ExportRoundtripInformation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportRoundtripInformation method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportRoundtripInformation in C++.
 type: docs
-weight: 898
+weight: 7000
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportroundtripinformation/
 ---
 ## HtmlSaveOptions::set_ExportRoundtripInformation method

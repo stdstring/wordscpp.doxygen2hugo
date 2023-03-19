@@ -4,7 +4,7 @@ linktitle: MoveToSection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::MoveToSection method. Moves the cursor to the beginning of the body in a specified section in C++.
 type: docs
-weight: 729
+weight: 5700
 url: /cpp/aspose.words/documentbuilder/movetosection/
 ---
 ## DocumentBuilder::MoveToSection method

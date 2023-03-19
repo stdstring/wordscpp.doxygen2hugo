@@ -4,7 +4,7 @@ linktitle: FieldDatabaseDataRow
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDatabaseDataRow class. Provides data for the FieldDatabase field result in C++.
 type: docs
-weight: 365
+weight: 2900
 url: /cpp/aspose.words.fields/fielddatabasedatarow/
 ---
 ## FieldDatabaseDataRow class

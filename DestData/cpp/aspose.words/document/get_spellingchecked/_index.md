@@ -4,7 +4,7 @@ linktitle: get_SpellingChecked
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_SpellingChecked method. Returns true if the document has been checked for spelling in C++.
 type: docs
-weight: 625
+weight: 4900
 url: /cpp/aspose.words/document/get_spellingchecked/
 ---
 ## Document::get_SpellingChecked method

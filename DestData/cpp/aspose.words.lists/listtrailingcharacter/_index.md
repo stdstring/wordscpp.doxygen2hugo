@@ -4,7 +4,7 @@ linktitle: ListTrailingCharacter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListTrailingCharacter enum. Specifies the character that separates the list label from the text of the paragraph in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.lists/listtrailingcharacter/
 ---
 ## ListTrailingCharacter enum

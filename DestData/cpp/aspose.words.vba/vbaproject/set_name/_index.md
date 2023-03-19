@@ -4,7 +4,7 @@ linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Vba::VbaProject::set_Name method. Setter for Aspose::Words::Vba::VbaProject::get_Name in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.vba/vbaproject/set_name/
 ---
 ## VbaProject::set_Name method

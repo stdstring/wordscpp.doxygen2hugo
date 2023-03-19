@@ -4,7 +4,7 @@ linktitle: get_DisplayText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::SdtListItem::get_DisplayText method. Gets the text to display in the run content in place of the Value attribute contents for this list item in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.markup/sdtlistitem/get_displaytext/
 ---
 ## SdtListItem::get_DisplayText method

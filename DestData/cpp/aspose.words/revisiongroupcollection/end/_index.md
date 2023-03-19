@@ -4,7 +4,7 @@ linktitle: end
 second_title: Aspose.Words for C++ API Reference
 description: How to use end method of Aspose::Words::RevisionGroupCollection class in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/revisiongroupcollection/end/
 ---
 ## RevisionGroupCollection::end() const method

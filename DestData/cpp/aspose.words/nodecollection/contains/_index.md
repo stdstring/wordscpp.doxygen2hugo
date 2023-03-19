@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::NodeCollection::Contains method. Determines whether a node is in the collection in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/nodecollection/contains/
 ---
 ## NodeCollection::Contains method

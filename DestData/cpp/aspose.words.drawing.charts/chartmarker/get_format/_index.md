@@ -4,7 +4,7 @@ linktitle: get_Format
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartMarker::get_Format method. Provides access to fill and line formatting of this marker in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.drawing.charts/chartmarker/get_format/
 ---
 ## ChartMarker::get_Format method

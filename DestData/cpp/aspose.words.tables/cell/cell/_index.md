@@ -4,7 +4,7 @@ linktitle: Cell
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Cell::Cell constructor. Initializes a new instance of the Cell class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.tables/cell/cell/
 ---
 ## Cell::Cell constructor

@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Words for C++ API Reference
 description: How to use begin method of Aspose::Words::VariableCollection class in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/variablecollection/begin/
 ---
 ## VariableCollection::begin() const method

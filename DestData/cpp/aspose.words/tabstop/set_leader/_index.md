@@ -4,7 +4,7 @@ linktitle: set_Leader
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TabStop::set_Leader method. Setter for Aspose::Words::TabStop::get_Leader in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/tabstop/set_leader/
 ---
 ## TabStop::set_Leader method

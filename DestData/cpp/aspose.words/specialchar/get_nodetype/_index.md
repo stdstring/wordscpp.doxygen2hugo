@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::SpecialChar::get_NodeType method. Returns NodeType.SpecialChar in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/specialchar/get_nodetype/
 ---
 ## SpecialChar::get_NodeType method

@@ -4,7 +4,7 @@ linktitle: ListTemplate
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListTemplate enum. Specifies one of the predefined list formats available in Microsoft Word in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.lists/listtemplate/
 ---
 ## ListTemplate enum

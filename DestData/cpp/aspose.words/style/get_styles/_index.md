@@ -4,7 +4,7 @@ linktitle: get_Styles
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Style::get_Styles method. Gets the collection of styles this style belongs to in C++.
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words/style/get_styles/
 ---
 ## Style::get_Styles method

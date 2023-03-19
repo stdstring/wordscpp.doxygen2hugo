@@ -4,7 +4,7 @@ linktitle: set_Element
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::SmartTag::set_Element method. Setter for Aspose::Words::Markup::SmartTag::get_Element in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.markup/smarttag/set_element/
 ---
 ## SmartTag::set_Element method

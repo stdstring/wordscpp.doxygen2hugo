@@ -4,7 +4,7 @@ linktitle: Replacing
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::IReplacingCallback::Replacing method. A user defined method that is called during a replace operation for each match found just before a replace is made in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.replacing/ireplacingcallback/replacing/
 ---
 ## IReplacingCallback::Replacing method

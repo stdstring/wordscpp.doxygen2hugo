@@ -4,7 +4,7 @@ linktitle: set_MajorTickMark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartAxis::set_MajorTickMark method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MajorTickMark in C++.
 type: docs
-weight: 417
+weight: 3300
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_majortickmark/
 ---
 ## ChartAxis::set_MajorTickMark method

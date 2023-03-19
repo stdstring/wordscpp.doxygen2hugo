@@ -4,7 +4,7 @@ linktitle: get_PageCount
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_PageCount method. Gets the number of pages in the document as calculated by the most recent page layout operation in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words/document/get_pagecount/
 ---
 ## Document::get_PageCount method

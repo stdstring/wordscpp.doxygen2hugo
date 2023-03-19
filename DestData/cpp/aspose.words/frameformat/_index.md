@@ -4,7 +4,7 @@ linktitle: FrameFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::FrameFormat class. Represents frame related formatting for a paragraph in C++.
 type: docs
-weight: 378
+weight: 3000
 url: /cpp/aspose.words/frameformat/
 ---
 ## FrameFormat class

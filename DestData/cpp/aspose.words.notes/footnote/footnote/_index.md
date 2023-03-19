@@ -4,7 +4,7 @@ linktitle: Footnote
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::Footnote::Footnote constructor. Initializes an instance of the Footnote class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.notes/footnote/footnote/
 ---
 ## Footnote::Footnote constructor

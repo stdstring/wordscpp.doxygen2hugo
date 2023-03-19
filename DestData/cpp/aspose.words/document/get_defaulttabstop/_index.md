@@ -4,7 +4,7 @@ linktitle: get_DefaultTabStop
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_DefaultTabStop method. Gets or sets the interval (in points) between the default tab stops in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words/document/get_defaulttabstop/
 ---
 ## Document::get_DefaultTabStop method

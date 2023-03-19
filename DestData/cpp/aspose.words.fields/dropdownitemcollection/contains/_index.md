@@ -4,7 +4,7 @@ linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::DropDownItemCollection::Contains method. Determines whether the collection contains the specified value in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/dropdownitemcollection/contains/
 ---
 ## DropDownItemCollection::Contains method

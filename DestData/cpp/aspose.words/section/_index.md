@@ -4,7 +4,7 @@ linktitle: Section
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Section class. Represents a single section in a document in C++.
 type: docs
-weight: 742
+weight: 5800
 url: /cpp/aspose.words/section/
 ---
 ## Section class

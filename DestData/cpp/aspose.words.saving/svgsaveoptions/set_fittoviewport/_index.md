@@ -4,7 +4,7 @@ linktitle: set_FitToViewPort
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::SvgSaveOptions::set_FitToViewPort method. Setter for Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.saving/svgsaveoptions/set_fittoviewport/
 ---
 ## SvgSaveOptions::set_FitToViewPort method

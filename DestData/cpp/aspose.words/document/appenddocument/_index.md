@@ -4,7 +4,7 @@ linktitle: AppendDocument
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::AppendDocument method. Appends the specified document to the end of this document in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/document/appenddocument/
 ---
 ## Document::AppendDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode) method

@@ -4,7 +4,7 @@ linktitle: get_PageColor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBase::get_PageColor method. Gets or sets the page color of the document. This property is a simpler version of BackgroundShape in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words/documentbase/get_pagecolor/
 ---
 ## DocumentBase::get_PageColor method

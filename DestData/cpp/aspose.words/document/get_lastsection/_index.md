@@ -4,7 +4,7 @@ linktitle: get_LastSection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_LastSection method. Gets the last section in the document in C++.
 type: docs
-weight: 404
+weight: 3200
 url: /cpp/aspose.words/document/get_lastsection/
 ---
 ## Document::get_LastSection method

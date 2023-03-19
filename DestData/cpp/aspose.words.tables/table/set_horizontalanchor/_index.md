@@ -4,7 +4,7 @@ linktitle: set_HorizontalAnchor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::set_HorizontalAnchor method. Setter for Aspose::Words::Tables::Table::get_HorizontalAnchor in C++.
 type: docs
-weight: 638
+weight: 5000
 url: /cpp/aspose.words.tables/table/set_horizontalanchor/
 ---
 ## Table::set_HorizontalAnchor method

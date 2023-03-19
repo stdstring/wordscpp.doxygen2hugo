@@ -4,7 +4,7 @@ linktitle: set_ExportFontResources
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportFontResources method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources in C++.
 type: docs
-weight: 768
+weight: 6000
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportfontresources/
 ---
 ## HtmlSaveOptions::set_ExportFontResources method

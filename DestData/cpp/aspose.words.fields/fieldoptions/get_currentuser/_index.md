@@ -4,7 +4,7 @@ linktitle: get_CurrentUser
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldOptions::get_CurrentUser method. Gets or sets the current user information in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fields/fieldoptions/get_currentuser/
 ---
 ## FieldOptions::get_CurrentUser method

@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeEndIterator method of Aspose::Words::Vba::VbaReferenceCollection class in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.vba/vbareferencecollection/virtualizeenditerator/
 ---
 ## VbaReferenceCollection::virtualizeEndIterator method

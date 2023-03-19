@@ -4,7 +4,7 @@ linktitle: set_ResizeVertically
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldIncludePicture::set_ResizeVertically method. Setter for Aspose::Words::Fields::FieldIncludePicture::get_ResizeVertically in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.fields/fieldincludepicture/set_resizevertically/
 ---
 ## FieldIncludePicture::set_ResizeVertically method

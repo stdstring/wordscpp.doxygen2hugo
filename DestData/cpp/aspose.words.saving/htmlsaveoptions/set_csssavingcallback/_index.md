@@ -4,7 +4,7 @@ linktitle: set_CssSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_CssSavingCallback method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssSavingCallback in C++.
 type: docs
-weight: 625
+weight: 4900
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_csssavingcallback/
 ---
 ## HtmlSaveOptions::set_CssSavingCallback method

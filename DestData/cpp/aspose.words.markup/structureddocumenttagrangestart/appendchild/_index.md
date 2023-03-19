@@ -4,7 +4,7 @@ linktitle: AppendChild
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::AppendChild method. Adds the specified node to the end of the stdContent range in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/appendchild/
 ---
 ## StructuredDocumentTagRangeStart::AppendChild method

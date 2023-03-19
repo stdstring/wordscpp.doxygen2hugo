@@ -4,7 +4,7 @@ linktitle: set_CreateNoteHyperlinks
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::set_CreateNoteHyperlinks method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_CreateNoteHyperlinks in C++.
 type: docs
-weight: 456
+weight: 3600
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_createnotehyperlinks/
 ---
 ## PdfSaveOptions::set_CreateNoteHyperlinks method

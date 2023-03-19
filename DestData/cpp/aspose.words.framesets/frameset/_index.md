@@ -4,7 +4,7 @@ linktitle: Frameset
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Framesets::Frameset class. Represents a frames page or a single frame on a frames page in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.framesets/frameset/
 ---
 ## Frameset class

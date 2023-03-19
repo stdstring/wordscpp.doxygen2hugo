@@ -4,7 +4,7 @@ linktitle: FieldNumWords
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldNumWords class. Implements the NUMWORDS field in C++.
 type: docs
-weight: 963
+weight: 7500
 url: /cpp/aspose.words.fields/fieldnumwords/
 ---
 ## FieldNumWords class

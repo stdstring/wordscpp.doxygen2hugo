@@ -4,7 +4,7 @@ linktitle: set_Uri
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::ResourceLoadingArgs::set_Uri method. Setter for Aspose::Words::Loading::ResourceLoadingArgs::get_Uri in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.loading/resourceloadingargs/set_uri/
 ---
 ## ResourceLoadingArgs::set_Uri method

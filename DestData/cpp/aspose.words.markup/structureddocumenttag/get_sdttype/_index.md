@@ -4,7 +4,7 @@ linktitle: get_SdtType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTag::get_SdtType method. Gets type of this Structured document tag in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words.markup/structureddocumenttag/get_sdttype/
 ---
 ## StructuredDocumentTag::get_SdtType method

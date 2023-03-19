@@ -4,7 +4,7 @@ linktitle: Add
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Vba::VbaModuleCollection::Add method. Adds a module to the collection in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.vba/vbamodulecollection/add/
 ---
 ## VbaModuleCollection::Add method

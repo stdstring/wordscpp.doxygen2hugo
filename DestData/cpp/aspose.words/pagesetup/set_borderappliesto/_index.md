@@ -4,7 +4,7 @@ linktitle: set_BorderAppliesTo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_BorderAppliesTo method. Setter for Aspose::Words::PageSetup::get_BorderAppliesTo in C++.
 type: docs
-weight: 612
+weight: 4800
 url: /cpp/aspose.words/pagesetup/set_borderappliesto/
 ---
 ## PageSetup::set_BorderAppliesTo method

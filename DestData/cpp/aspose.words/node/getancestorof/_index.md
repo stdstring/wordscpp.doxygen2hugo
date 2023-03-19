@@ -4,7 +4,7 @@ linktitle: GetAncestorOf
 second_title: Aspose.Words for C++ API Reference
 description: How to use GetAncestorOf method of Aspose::Words::Node class in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words/node/getancestorof/
 ---
 ## Node::GetAncestorOf method

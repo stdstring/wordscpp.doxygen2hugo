@@ -4,7 +4,7 @@ linktitle: GetQueryResult
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::IFieldDatabaseProvider::GetQueryResult method. Returns query result in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/ifielddatabaseprovider/getqueryresult/
 ---
 ## IFieldDatabaseProvider::GetQueryResult method

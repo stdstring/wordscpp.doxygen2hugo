@@ -4,7 +4,7 @@ linktitle: get_VbaProject
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_VbaProject method. Gets or sets a VbaProject in C++.
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words/document/get_vbaproject/
 ---
 ## Document::get_VbaProject method

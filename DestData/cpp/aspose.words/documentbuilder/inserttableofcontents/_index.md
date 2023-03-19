@@ -4,7 +4,7 @@ linktitle: InsertTableOfContents
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertTableOfContents method. Inserts a TOC (table of contents) field into the document in C++.
 type: docs
-weight: 586
+weight: 4600
 url: /cpp/aspose.words/documentbuilder/inserttableofcontents/
 ---
 ## DocumentBuilder::InsertTableOfContents method

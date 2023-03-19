@@ -4,7 +4,7 @@ linktitle: get_TempFolder
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::LoadOptions::get_TempFolder method. Allows to use temporary files when reading document. By default this property is null and no temporary files are used in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.loading/loadoptions/get_tempfolder/
 ---
 ## LoadOptions::get_TempFolder method

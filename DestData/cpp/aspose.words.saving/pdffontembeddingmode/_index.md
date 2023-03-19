@@ -4,7 +4,7 @@ linktitle: PdfFontEmbeddingMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfFontEmbeddingMode enum. Specifies how Aspose.Words should embed fonts in C++.
 type: docs
-weight: 950
+weight: 7400
 url: /cpp/aspose.words.saving/pdffontembeddingmode/
 ---
 ## PdfFontEmbeddingMode enum

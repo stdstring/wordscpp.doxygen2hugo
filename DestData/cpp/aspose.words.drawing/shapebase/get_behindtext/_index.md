@@ -4,7 +4,7 @@ linktitle: get_BehindText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::get_BehindText method. Specifies whether the shape is below or above text in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing/shapebase/get_behindtext/
 ---
 ## ShapeBase::get_BehindText method

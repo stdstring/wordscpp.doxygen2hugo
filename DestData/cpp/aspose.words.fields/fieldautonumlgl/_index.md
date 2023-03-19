@@ -4,7 +4,7 @@ linktitle: FieldAutoNumLgl
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldAutoNumLgl class. Implements the AUTONUMLGL field in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.fields/fieldautonumlgl/
 ---
 ## FieldAutoNumLgl class

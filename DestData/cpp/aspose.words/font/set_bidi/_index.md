@@ -4,7 +4,7 @@ linktitle: set_Bidi
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::set_Bidi method. Setter for Aspose::Words::Font::get_Bidi in C++.
 type: docs
-weight: 742
+weight: 5800
 url: /cpp/aspose.words/font/set_bidi/
 ---
 ## Font::set_Bidi method

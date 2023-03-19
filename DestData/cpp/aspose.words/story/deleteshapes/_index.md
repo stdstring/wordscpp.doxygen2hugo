@@ -4,7 +4,7 @@ linktitle: DeleteShapes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Story::DeleteShapes method. Deletes all shapes from the text of this story in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/story/deleteshapes/
 ---
 ## Story::DeleteShapes method

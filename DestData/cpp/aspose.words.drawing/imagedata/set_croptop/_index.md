@@ -4,7 +4,7 @@ linktitle: set_CropTop
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::set_CropTop method. Setter for Aspose::Words::Drawing::ImageData::get_CropTop in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words.drawing/imagedata/set_croptop/
 ---
 ## ImageData::set_CropTop method

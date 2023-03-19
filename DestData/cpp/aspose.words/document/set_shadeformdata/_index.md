@@ -4,7 +4,7 @@ linktitle: set_ShadeFormData
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::set_ShadeFormData method. Setter for Aspose::Words::Document::get_ShadeFormData in C++.
 type: docs
-weight: 1015
+weight: 7900
 url: /cpp/aspose.words/document/set_shadeformdata/
 ---
 ## Document::set_ShadeFormData method

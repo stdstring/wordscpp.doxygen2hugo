@@ -4,7 +4,7 @@ linktitle: set_Query
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDatabase::set_Query method. Sets a set of SQL instructions that query the database in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.fields/fielddatabase/set_query/
 ---
 ## FieldDatabase::set_Query method

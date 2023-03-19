@@ -4,7 +4,7 @@ linktitle: set_ConvertShapeToOfficeMath
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Loading::LoadOptions::set_ConvertShapeToOfficeMath method. Setter for Aspose::Words::Loading::LoadOptions::get_ConvertShapeToOfficeMath in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.loading/loadoptions/set_convertshapetoofficemath/
 ---
 ## LoadOptions::set_ConvertShapeToOfficeMath method

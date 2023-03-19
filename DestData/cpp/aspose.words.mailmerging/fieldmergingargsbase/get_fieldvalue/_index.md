@@ -4,7 +4,7 @@ linktitle: get_FieldValue
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::FieldMergingArgsBase::get_FieldValue method. Gets the value of the field from the data source in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_fieldvalue/
 ---
 ## FieldMergingArgsBase::get_FieldValue method

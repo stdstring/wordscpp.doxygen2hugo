@@ -4,7 +4,7 @@ linktitle: ImageSaveOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSaveOptions class. Allows to specify additional options when rendering document pages or shapes to images in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class

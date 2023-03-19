@@ -4,7 +4,7 @@ linktitle: get_DistanceBottom
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::get_DistanceBottom method. Gets distance between table bottom and the surrounding text, in points in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.tables/table/get_distancebottom/
 ---
 ## Table::get_DistanceBottom method

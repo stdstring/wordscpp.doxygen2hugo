@@ -4,7 +4,7 @@ linktitle: GetAncestor
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Node::GetAncestor method. Gets the first ancestor of the specified NodeType in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words/node/getancestor/
 ---
 ## Node::GetAncestor method

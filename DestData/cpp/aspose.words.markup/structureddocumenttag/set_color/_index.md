@@ -4,7 +4,7 @@ linktitle: set_Color
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTag::set_Color method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Color in C++.
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words.markup/structureddocumenttag/set_color/
 ---
 ## StructuredDocumentTag::set_Color method

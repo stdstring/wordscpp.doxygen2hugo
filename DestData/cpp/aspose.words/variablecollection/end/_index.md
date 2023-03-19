@@ -4,7 +4,7 @@ linktitle: end
 second_title: Aspose.Words for C++ API Reference
 description: How to use end method of Aspose::Words::VariableCollection class in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words/variablecollection/end/
 ---
 ## VariableCollection::end() const method

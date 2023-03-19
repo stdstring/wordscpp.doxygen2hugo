@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::CustomXmlPartCollection::RemoveAt method. Removes an item at the specified index in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.markup/customxmlpartcollection/removeat/
 ---
 ## CustomXmlPartCollection::RemoveAt method

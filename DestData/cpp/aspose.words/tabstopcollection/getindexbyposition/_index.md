@@ -4,7 +4,7 @@ linktitle: GetIndexByPosition
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TabStopCollection::GetIndexByPosition method. Gets the index of a tab stop with the specified position in points in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words/tabstopcollection/getindexbyposition/
 ---
 ## TabStopCollection::GetIndexByPosition method

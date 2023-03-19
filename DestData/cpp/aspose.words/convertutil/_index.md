@@ -4,7 +4,7 @@ linktitle: ConvertUtil
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ConvertUtil class. Provides helper functions to convert between various measurement units in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words/convertutil/
 ---
 ## ConvertUtil class

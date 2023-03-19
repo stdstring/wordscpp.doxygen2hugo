@@ -4,7 +4,7 @@ linktitle: set_AllowBreakAcrossPages
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TableStyle::set_AllowBreakAcrossPages method. Setter for Aspose::Words::TableStyle::get_AllowBreakAcrossPages in C++.
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words/tablestyle/set_allowbreakacrosspages/
 ---
 ## TableStyle::set_AllowBreakAcrossPages method

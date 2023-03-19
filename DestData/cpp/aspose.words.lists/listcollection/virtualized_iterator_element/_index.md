@@ -4,7 +4,7 @@ linktitle: virtualized_iterator_element
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Lists::ListCollection::virtualized_iterator_element typedef of Aspose::Words::Lists::ListCollection class in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.lists/listcollection/virtualized_iterator_element/
 ---
 ## virtualized_iterator_element typedef

@@ -4,7 +4,7 @@ linktitle: cend
 second_title: Aspose.Words for C++ API Reference
 description: How to use cend method of Aspose::Words::Fonts::FontInfoCollection class in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fonts/fontinfocollection/cend/
 ---
 ## FontInfoCollection::cend method

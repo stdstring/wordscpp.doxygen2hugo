@@ -4,7 +4,7 @@ linktitle: set_SpacingInWholePoints
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_SpacingInWholePoints method. Only Expand/Condense Text By Whole Points in C++.
 type: docs
-weight: 1509
+weight: 11700
 url: /cpp/aspose.words.settings/compatibilityoptions/set_spacinginwholepoints/
 ---
 ## CompatibilityOptions::set_SpacingInWholePoints method

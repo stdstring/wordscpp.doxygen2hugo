@@ -4,7 +4,7 @@ linktitle: MoveTo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::MoveTo method. Moves the cursor to an inline node or to the end of a paragraph in C++.
 type: docs
-weight: 612
+weight: 4800
 url: /cpp/aspose.words/documentbuilder/moveto/
 ---
 ## DocumentBuilder::MoveTo method

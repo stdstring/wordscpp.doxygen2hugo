@@ -4,7 +4,7 @@ linktitle: get_ExportEmbeddedSvg
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_ExportEmbeddedSvg method. Specifies whether SVG resources should be embedded into Html document. Default value is true in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_exportembeddedsvg/
 ---
 ## HtmlFixedSaveOptions::get_ExportEmbeddedSvg method

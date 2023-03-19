@@ -4,7 +4,7 @@ linktitle: set_IsItalic
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldTA::set_IsItalic method. Setter for Aspose::Words::Fields::FieldTA::get_IsItalic in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.fields/fieldta/set_isitalic/
 ---
 ## FieldTA::set_IsItalic method

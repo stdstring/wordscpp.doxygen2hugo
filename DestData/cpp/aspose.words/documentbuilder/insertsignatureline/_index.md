@@ -4,7 +4,7 @@ linktitle: InsertSignatureLine
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertSignatureLine method. Inserts a signature line at the current position in C++.
 type: docs
-weight: 560
+weight: 4400
 url: /cpp/aspose.words/documentbuilder/insertsignatureline/
 ---
 ## DocumentBuilder::InsertSignatureLine(const System::SharedPtr\<Aspose::Words::SignatureLineOptions\>\&) method

@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListCollection::GetEnumerator method. Gets the enumerator object that will enumerate lists in the document in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.lists/listcollection/getenumerator/
 ---
 ## ListCollection::GetEnumerator method

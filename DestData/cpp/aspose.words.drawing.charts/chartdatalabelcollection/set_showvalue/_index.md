@@ -4,7 +4,7 @@ linktitle: set_ShowValue
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartDataLabelCollection::set_ShowValue method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowValue in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/set_showvalue/
 ---
 ## ChartDataLabelCollection::set_ShowValue method

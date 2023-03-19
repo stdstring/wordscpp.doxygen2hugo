@@ -4,7 +4,7 @@ linktitle: set_ImageBrightness
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSaveOptions::set_ImageBrightness method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_ImageBrightness in C++.
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.saving/imagesaveoptions/set_imagebrightness/
 ---
 ## ImageSaveOptions::set_ImageBrightness method

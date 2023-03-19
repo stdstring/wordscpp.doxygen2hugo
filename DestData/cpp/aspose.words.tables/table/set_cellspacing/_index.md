@@ -4,7 +4,7 @@ linktitle: set_CellSpacing
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::set_CellSpacing method. Setter for Aspose::Words::Tables::Table::get_CellSpacing in C++.
 type: docs
-weight: 612
+weight: 4800
 url: /cpp/aspose.words.tables/table/set_cellspacing/
 ---
 ## Table::set_CellSpacing method

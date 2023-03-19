@@ -4,7 +4,7 @@ linktitle: set_ExpandedOutlineLevels
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::OutlineOptions::set_ExpandedOutlineLevels method. Setter for Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.saving/outlineoptions/set_expandedoutlinelevels/
 ---
 ## OutlineOptions::set_ExpandedOutlineLevels method

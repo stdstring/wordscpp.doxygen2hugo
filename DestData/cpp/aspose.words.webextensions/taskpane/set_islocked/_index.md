@@ -4,7 +4,7 @@ linktitle: set_IsLocked
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::WebExtensions::TaskPane::set_IsLocked method. Setter for Aspose::Words::WebExtensions::TaskPane::get_IsLocked in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.webextensions/taskpane/set_islocked/
 ---
 ## TaskPane::set_IsLocked method

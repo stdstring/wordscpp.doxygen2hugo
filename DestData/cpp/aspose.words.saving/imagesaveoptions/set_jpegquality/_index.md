@@ -4,7 +4,7 @@ linktitle: set_JpegQuality
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSaveOptions::set_JpegQuality method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_JpegQuality in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.saving/imagesaveoptions/set_jpegquality/
 ---
 ## ImageSaveOptions::set_JpegQuality method

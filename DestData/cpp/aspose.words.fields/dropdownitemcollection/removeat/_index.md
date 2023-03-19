@@ -4,7 +4,7 @@ linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::DropDownItemCollection::RemoveAt method. Removes a value at the specified index in C++.
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words.fields/dropdownitemcollection/removeat/
 ---
 ## DropDownItemCollection::RemoveAt method

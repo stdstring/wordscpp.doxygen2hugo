@@ -4,7 +4,7 @@ linktitle: Create
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DigitalSignatures::CertificateHolder::Create method. Creates CertificateHolder object using byte array of PKCS12 store and its password in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.digitalsignatures/certificateholder/create/
 ---
 ## CertificateHolder::Create(const System::ArrayPtr\<uint8_t\>\&, const System::SharedPtr\<System::Security::SecureString\>\&) method

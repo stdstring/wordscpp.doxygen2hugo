@@ -4,7 +4,7 @@ linktitle: GradientVariant
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::GradientVariant enum. Specifies the variant for a gradient fill in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words.drawing/gradientvariant/
 ---
 ## GradientVariant enum

@@ -4,7 +4,7 @@ linktitle: set_FacingIdentificationMark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldBarcode::set_FacingIdentificationMark method. Setter for Aspose::Words::Fields::FieldBarcode::get_FacingIdentificationMark in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldbarcode/set_facingidentificationmark/
 ---
 ## FieldBarcode::set_FacingIdentificationMark method

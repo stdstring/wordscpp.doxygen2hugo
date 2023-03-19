@@ -4,7 +4,7 @@ linktitle: ImageFieldMergingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::ImageFieldMergingArgs class. Provides data for the ImageFieldMerging() event in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/
 ---
 ## ImageFieldMergingArgs class

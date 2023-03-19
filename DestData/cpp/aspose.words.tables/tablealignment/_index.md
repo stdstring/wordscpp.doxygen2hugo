@@ -4,7 +4,7 @@ linktitle: TableAlignment
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::TableAlignment enum. Specifies alignment for an inline table in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.tables/tablealignment/
 ---
 ## TableAlignment enum

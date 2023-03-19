@@ -4,7 +4,7 @@ linktitle: set_DownOffset
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldAdvance::set_DownOffset method. Setter for Aspose::Words::Fields::FieldAdvance::get_DownOffset in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldadvance/set_downoffset/
 ---
 ## FieldAdvance::set_DownOffset method

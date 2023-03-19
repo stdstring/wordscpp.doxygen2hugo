@@ -4,7 +4,7 @@ linktitle: BorderType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BorderType enum. Specifies sides of a border in C++.
 type: docs
-weight: 1041
+weight: 8100
 url: /cpp/aspose.words/bordertype/
 ---
 ## BorderType enum

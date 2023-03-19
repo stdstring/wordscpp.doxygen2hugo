@@ -4,7 +4,7 @@ linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Comment::Accept method. Accepts a visitor in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/comment/accept/
 ---
 ## Comment::Accept method

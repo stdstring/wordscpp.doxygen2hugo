@@ -4,7 +4,7 @@ linktitle: GetText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::CompositeNode::GetText method. Gets the text of this node and of all its children in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words/compositenode/gettext/
 ---
 ## CompositeNode::GetText method

@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Notes
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes namespace. The Aspose.Words.Notes namespace provides classes to work with Microsoft Word endnotes and footnotes in C++.
 type: docs
-weight: 196
+weight: 1700
 url: /cpp/aspose.words.notes/
 ---
 

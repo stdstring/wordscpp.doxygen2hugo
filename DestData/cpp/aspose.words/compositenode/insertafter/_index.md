@@ -4,7 +4,7 @@ linktitle: InsertAfter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::CompositeNode::InsertAfter method. Inserts the specified node immediately after the specified reference node in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words/compositenode/insertafter/
 ---
 ## CompositeNode::InsertAfter method

@@ -4,7 +4,7 @@ linktitle: set_Accent1
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Themes::ThemeColors::set_Accent1 method. Setter for Aspose::Words::Themes::ThemeColors::get_Accent1 in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.themes/themecolors/set_accent1/
 ---
 ## ThemeColors::set_Accent1 method

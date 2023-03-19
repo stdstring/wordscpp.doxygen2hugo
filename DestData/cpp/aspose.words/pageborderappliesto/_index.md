@@ -4,7 +4,7 @@ linktitle: PageBorderAppliesTo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageBorderAppliesTo enum. Specifies which pages the page border is printed on in C++.
 type: docs
-weight: 1366
+weight: 10600
 url: /cpp/aspose.words/pageborderappliesto/
 ---
 ## PageBorderAppliesTo enum

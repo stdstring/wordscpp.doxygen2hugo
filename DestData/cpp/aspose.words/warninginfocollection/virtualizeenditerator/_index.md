@@ -4,7 +4,7 @@ linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use virtualizeEndIterator method of Aspose::Words::WarningInfoCollection class in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words/warninginfocollection/virtualizeenditerator/
 ---
 ## WarningInfoCollection::virtualizeEndIterator method

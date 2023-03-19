@@ -4,7 +4,7 @@ linktitle: set_EndCap
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Stroke::set_EndCap method. Setter for Aspose::Words::Drawing::Stroke::get_EndCap in C++.
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words.drawing/stroke/set_endcap/
 ---
 ## Stroke::set_EndCap method

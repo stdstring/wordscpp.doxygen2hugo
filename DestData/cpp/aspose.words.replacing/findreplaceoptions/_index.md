@@ -4,7 +4,7 @@ linktitle: FindReplaceOptions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions class. Specifies options for find/replace operations in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.replacing/findreplaceoptions/
 ---
 ## FindReplaceOptions class

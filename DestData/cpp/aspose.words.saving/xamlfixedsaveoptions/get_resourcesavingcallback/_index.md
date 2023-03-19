@@ -4,7 +4,7 @@ linktitle: get_ResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback method. Allows to control how resources (images and fonts) are saved when a document is exported to fixed page Xaml format in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/get_resourcesavingcallback/
 ---
 ## XamlFixedSaveOptions::get_ResourceSavingCallback method

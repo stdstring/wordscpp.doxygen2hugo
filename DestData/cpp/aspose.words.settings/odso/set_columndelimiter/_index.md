@@ -4,7 +4,7 @@ linktitle: set_ColumnDelimiter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::Odso::set_ColumnDelimiter method. Setter for Aspose::Words::Settings::Odso::get_ColumnDelimiter in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.settings/odso/set_columndelimiter/
 ---
 ## Odso::set_ColumnDelimiter method

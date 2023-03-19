@@ -4,7 +4,7 @@ linktitle: set_FieldMergingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMerge::set_FieldMergingCallback method. Setter for Aspose::Words::MailMerging::MailMerge::get_FieldMergingCallback in C++.
 type: docs
-weight: 326
+weight: 2600
 url: /cpp/aspose.words.mailmerging/mailmerge/set_fieldmergingcallback/
 ---
 ## MailMerge::set_FieldMergingCallback method

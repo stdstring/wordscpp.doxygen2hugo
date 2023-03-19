@@ -4,7 +4,7 @@ linktitle: get_CropBottom
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ImageData::get_CropBottom method. Defines the fraction of picture removal from the bottom side in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing/imagedata/get_cropbottom/
 ---
 ## ImageData::get_CropBottom method

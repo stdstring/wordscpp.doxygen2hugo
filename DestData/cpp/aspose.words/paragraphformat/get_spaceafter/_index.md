@@ -4,7 +4,7 @@ linktitle: get_SpaceAfter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::get_SpaceAfter method. Gets or sets the amount of spacing (in points) after the paragraph in C++.
 type: docs
-weight: 378
+weight: 3000
 url: /cpp/aspose.words/paragraphformat/get_spaceafter/
 ---
 ## ParagraphFormat::get_SpaceAfter method

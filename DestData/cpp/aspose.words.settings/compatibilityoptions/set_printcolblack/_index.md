@@ -4,7 +4,7 @@ linktitle: set_PrintColBlack
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_PrintColBlack method. Print Colors as Black And White without Dithering in C++.
 type: docs
-weight: 1444
+weight: 11200
 url: /cpp/aspose.words.settings/compatibilityoptions/set_printcolblack/
 ---
 ## CompatibilityOptions::set_PrintColBlack method

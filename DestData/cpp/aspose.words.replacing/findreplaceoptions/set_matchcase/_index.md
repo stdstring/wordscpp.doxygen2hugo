@@ -4,7 +4,7 @@ linktitle: set_MatchCase
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_MatchCase method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_MatchCase in C++.
 type: docs
-weight: 339
+weight: 2700
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_matchcase/
 ---
 ## FindReplaceOptions::set_MatchCase method

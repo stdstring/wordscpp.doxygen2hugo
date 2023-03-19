@@ -4,7 +4,7 @@ linktitle: set_IgnoreFields
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_IgnoreFields method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreFields in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_ignorefields/
 ---
 ## FindReplaceOptions::set_IgnoreFields method

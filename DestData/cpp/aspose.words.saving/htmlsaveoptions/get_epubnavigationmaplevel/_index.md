@@ -4,7 +4,7 @@ linktitle: get_EpubNavigationMapLevel
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::get_EpubNavigationMapLevel method. Specifies the maximum level of headings populated to the navigation map when exporting to IDPF EPUB format. Default value is %3 in C++.
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_epubnavigationmaplevel/
 ---
 ## HtmlSaveOptions::get_EpubNavigationMapLevel method

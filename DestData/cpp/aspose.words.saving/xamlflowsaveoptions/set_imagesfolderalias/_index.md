@@ -4,7 +4,7 @@ linktitle: set_ImagesFolderAlias
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::XamlFlowSaveOptions::set_ImagesFolderAlias method. Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_ImagesFolderAlias in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_imagesfolderalias/
 ---
 ## XamlFlowSaveOptions::set_ImagesFolderAlias method

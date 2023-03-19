@@ -4,7 +4,7 @@ linktitle: set_TextCompression
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::set_TextCompression method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_TextCompression in C++.
 type: docs
-weight: 729
+weight: 5700
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_textcompression/
 ---
 ## PdfSaveOptions::set_TextCompression method

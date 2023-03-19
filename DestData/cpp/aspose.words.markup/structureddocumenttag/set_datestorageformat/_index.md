@@ -4,7 +4,7 @@ linktitle: set_DateStorageFormat
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::StructuredDocumentTag::set_DateStorageFormat method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_DateStorageFormat in C++.
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words.markup/structureddocumenttag/set_datestorageformat/
 ---
 ## StructuredDocumentTag::set_DateStorageFormat method

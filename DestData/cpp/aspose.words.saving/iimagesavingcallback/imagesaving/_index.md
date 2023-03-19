@@ -4,7 +4,7 @@ linktitle: ImageSaving
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::IImageSavingCallback::ImageSaving method. Called when Aspose.Words saves an image to HTML in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.saving/iimagesavingcallback/imagesaving/
 ---
 ## IImageSavingCallback::ImageSaving method

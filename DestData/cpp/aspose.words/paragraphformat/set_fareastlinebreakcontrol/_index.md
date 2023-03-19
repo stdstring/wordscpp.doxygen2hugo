@@ -4,7 +4,7 @@ linktitle: set_FarEastLineBreakControl
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_FarEastLineBreakControl method. Setter for Aspose::Words::ParagraphFormat::get_FarEastLineBreakControl in C++.
 type: docs
-weight: 638
+weight: 5000
 url: /cpp/aspose.words/paragraphformat/set_fareastlinebreakcontrol/
 ---
 ## ParagraphFormat::set_FarEastLineBreakControl method

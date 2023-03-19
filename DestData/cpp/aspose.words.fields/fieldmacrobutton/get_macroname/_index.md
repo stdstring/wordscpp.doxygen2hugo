@@ -4,7 +4,7 @@ linktitle: get_MacroName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldMacroButton::get_MacroName method. Gets or sets the name of the macro or command to run in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fields/fieldmacrobutton/get_macroname/
 ---
 ## FieldMacroButton::get_MacroName method

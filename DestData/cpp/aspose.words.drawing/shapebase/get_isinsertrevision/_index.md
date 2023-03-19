@@ -4,7 +4,7 @@ linktitle: get_IsInsertRevision
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::get_IsInsertRevision method. Returns true if this object was inserted in Microsoft Word while change tracking was enabled in C++.
 type: docs
-weight: 378
+weight: 3000
 url: /cpp/aspose.words.drawing/shapebase/get_isinsertrevision/
 ---
 ## ShapeBase::get_IsInsertRevision method

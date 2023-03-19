@@ -4,7 +4,7 @@ linktitle: TxtSaveOptionsBase
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::TxtSaveOptionsBase class. The base class for specifying additional options when saving a document into a text based formats in C++.
 type: docs
-weight: 430
+weight: 3400
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/
 ---
 ## TxtSaveOptionsBase class

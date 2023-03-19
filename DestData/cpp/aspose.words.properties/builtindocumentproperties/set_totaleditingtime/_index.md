@@ -4,7 +4,7 @@ linktitle: set_TotalEditingTime
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::BuiltInDocumentProperties::set_TotalEditingTime method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TotalEditingTime in C++.
 type: docs
-weight: 807
+weight: 6300
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_totaleditingtime/
 ---
 ## BuiltInDocumentProperties::set_TotalEditingTime method

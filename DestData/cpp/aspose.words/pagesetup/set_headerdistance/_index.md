@@ -4,7 +4,7 @@ linktitle: set_HeaderDistance
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::set_HeaderDistance method. Setter for Aspose::Words::PageSetup::get_HeaderDistance in C++.
 type: docs
-weight: 755
+weight: 5900
 url: /cpp/aspose.words/pagesetup/set_headerdistance/
 ---
 ## PageSetup::set_HeaderDistance method

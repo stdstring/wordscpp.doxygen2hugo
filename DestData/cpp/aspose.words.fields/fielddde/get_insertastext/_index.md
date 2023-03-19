@@ -4,7 +4,7 @@ linktitle: get_InsertAsText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldDde::get_InsertAsText method. Gets or sets whether to insert the linked object in text-only format in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fielddde/get_insertastext/
 ---
 ## FieldDde::get_InsertAsText method

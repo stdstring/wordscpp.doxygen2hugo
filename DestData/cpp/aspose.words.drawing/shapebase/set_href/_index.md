@@ -4,7 +4,7 @@ linktitle: set_HRef
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::set_HRef method. Setter for Aspose::Words::Drawing::ShapeBase::get_HRef in C++.
 type: docs
-weight: 950
+weight: 7400
 url: /cpp/aspose.words.drawing/shapebase/set_href/
 ---
 ## ShapeBase::set_HRef method

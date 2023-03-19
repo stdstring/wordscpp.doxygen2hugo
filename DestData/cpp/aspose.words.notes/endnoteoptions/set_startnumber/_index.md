@@ -4,7 +4,7 @@ linktitle: set_StartNumber
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::EndnoteOptions::set_StartNumber method. Setter for Aspose::Words::Notes::EndnoteOptions::get_StartNumber in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.notes/endnoteoptions/set_startnumber/
 ---
 ## EndnoteOptions::set_StartNumber method

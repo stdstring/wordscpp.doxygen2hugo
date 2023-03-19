@@ -4,7 +4,7 @@ linktitle: set_CoordOrigin
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::set_CoordOrigin method. Setter for Aspose::Words::Drawing::ShapeBase::get_CoordOrigin in C++.
 type: docs
-weight: 833
+weight: 6500
 url: /cpp/aspose.words.drawing/shapebase/set_coordorigin/
 ---
 ## ShapeBase::set_CoordOrigin method

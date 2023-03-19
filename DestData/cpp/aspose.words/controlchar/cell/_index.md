@@ -4,7 +4,7 @@ linktitle: Cell
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::Cell method. End of a table cell or end of a table row character: "\x0007" or "\a" in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/controlchar/cell/
 ---
 ## ControlChar::Cell method

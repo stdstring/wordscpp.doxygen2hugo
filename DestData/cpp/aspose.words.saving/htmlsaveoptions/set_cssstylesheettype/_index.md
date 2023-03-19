@@ -4,7 +4,7 @@ linktitle: set_CssStyleSheetType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_CssStyleSheetType method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType in C++.
 type: docs
-weight: 651
+weight: 5100
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_cssstylesheettype/
 ---
 ## HtmlSaveOptions::set_CssStyleSheetType method

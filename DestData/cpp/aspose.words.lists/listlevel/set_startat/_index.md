@@ -4,7 +4,7 @@ linktitle: set_StartAt
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevel::set_StartAt method. Setter for Aspose::Words::Lists::ListLevel::get_StartAt in C++.
 type: docs
-weight: 326
+weight: 2600
 url: /cpp/aspose.words.lists/listlevel/set_startat/
 ---
 ## ListLevel::set_StartAt method

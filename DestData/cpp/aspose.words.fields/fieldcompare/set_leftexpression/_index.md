@@ -4,7 +4,7 @@ linktitle: set_LeftExpression
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldCompare::set_LeftExpression method. Setter for Aspose::Words::Fields::FieldCompare::get_LeftExpression in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldcompare/set_leftexpression/
 ---
 ## FieldCompare::set_LeftExpression method

@@ -4,7 +4,7 @@ linktitle: BuildVersionInfo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BuildVersionInfo class. Provides information about the current product name and version in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/buildversioninfo/
 ---
 ## BuildVersionInfo class

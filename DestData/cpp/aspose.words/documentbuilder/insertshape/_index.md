@@ -4,7 +4,7 @@ linktitle: InsertShape
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::InsertShape method. Inserts free-floating shape with specified position, size and text wrap type in C++.
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words/documentbuilder/insertshape/
 ---
 ## DocumentBuilder::InsertShape(Aspose::Words::Drawing::ShapeType, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method

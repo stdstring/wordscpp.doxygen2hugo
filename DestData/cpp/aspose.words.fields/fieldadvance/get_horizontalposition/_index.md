@@ -4,7 +4,7 @@ linktitle: get_HorizontalPosition
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldAdvance::get_HorizontalPosition method. Gets or sets the number of points by which the text that follows the field should be moved horizontally from the left edge of the column, frame, or text box in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/fieldadvance/get_horizontalposition/
 ---
 ## FieldAdvance::get_HorizontalPosition method

@@ -4,7 +4,7 @@ linktitle: MappedDataFieldCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MappedDataFieldCollection class. Allows to automatically map between names of fields in your data source and names of mail merge fields in the document in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/
 ---
 ## MappedDataFieldCollection class

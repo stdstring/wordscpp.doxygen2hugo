@@ -4,7 +4,7 @@ linktitle: end
 second_title: Aspose.Words for C++ API Reference
 description: How to use end method of Aspose::Words::Fonts::FontInfoCollection class in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fonts/fontinfocollection/end/
 ---
 ## FontInfoCollection::end() const method

@@ -4,7 +4,7 @@ linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::CustomXmlSchemaCollection::Clone method. Makes a deep clone of this object in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.markup/customxmlschemacollection/clone/
 ---
 ## CustomXmlSchemaCollection::Clone method

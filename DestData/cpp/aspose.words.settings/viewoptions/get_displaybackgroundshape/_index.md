@@ -4,7 +4,7 @@ linktitle: get_DisplayBackgroundShape
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape method. Controls display of the background shape in print layout view in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.settings/viewoptions/get_displaybackgroundshape/
 ---
 ## ViewOptions::get_DisplayBackgroundShape method

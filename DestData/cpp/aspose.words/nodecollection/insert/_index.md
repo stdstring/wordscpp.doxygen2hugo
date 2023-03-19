@@ -4,7 +4,7 @@ linktitle: Insert
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::NodeCollection::Insert method. Inserts a node into the collection at the specified index in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words/nodecollection/insert/
 ---
 ## NodeCollection::Insert method

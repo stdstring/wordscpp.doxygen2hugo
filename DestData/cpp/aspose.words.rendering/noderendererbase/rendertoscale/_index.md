@@ -4,7 +4,7 @@ linktitle: RenderToScale
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::NodeRendererBase::RenderToScale method. Renders the shape into a Graphics object to a specified scale in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.rendering/noderendererbase/rendertoscale/
 ---
 ## NodeRendererBase::RenderToScale method

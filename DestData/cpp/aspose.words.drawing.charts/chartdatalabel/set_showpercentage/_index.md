@@ -4,7 +4,7 @@ linktitle: set_ShowPercentage
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowPercentage method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowPercentage in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showpercentage/
 ---
 ## ChartDataLabel::set_ShowPercentage method

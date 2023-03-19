@@ -4,7 +4,7 @@ linktitle: virtualized_iterator_element
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator_element typedef of Aspose::Words::Fonts::FontInfoCollection class in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.fonts/fontinfocollection/virtualized_iterator_element/
 ---
 ## virtualized_iterator_element typedef

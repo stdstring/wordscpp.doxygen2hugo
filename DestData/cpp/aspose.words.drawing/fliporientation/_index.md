@@ -4,7 +4,7 @@ linktitle: FlipOrientation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::FlipOrientation enum. Possible values for the orientation of a shape in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.drawing/fliporientation/
 ---
 ## FlipOrientation enum

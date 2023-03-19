@@ -4,7 +4,7 @@ linktitle: FieldStartChar
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::FieldStartChar field. Start of MS Word field character: (char)19 in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words/controlchar/fieldstartchar/
 ---
 ## FieldStartChar field

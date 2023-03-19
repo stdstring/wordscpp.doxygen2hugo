@@ -4,7 +4,7 @@ linktitle: FontConfigSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontConfigSubstitutionRule class. Font config substitution rule in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fonts/fontconfigsubstitutionrule/
 ---
 ## FontConfigSubstitutionRule class

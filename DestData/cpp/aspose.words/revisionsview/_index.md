@@ -4,7 +4,7 @@ linktitle: RevisionsView
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::RevisionsView enum. Allows to specify whether to work with the original or revised version of a document in C++.
 type: docs
-weight: 1444
+weight: 11200
 url: /cpp/aspose.words/revisionsview/
 ---
 ## RevisionsView enum

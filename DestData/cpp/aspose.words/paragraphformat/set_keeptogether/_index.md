@@ -4,7 +4,7 @@ linktitle: set_KeepTogether
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_KeepTogether method. Setter for Aspose::Words::ParagraphFormat::get_KeepTogether in C++.
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words/paragraphformat/set_keeptogether/
 ---
 ## ParagraphFormat::set_KeepTogether method

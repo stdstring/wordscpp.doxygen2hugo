@@ -4,7 +4,7 @@ linktitle: set_IsLocked
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldChar::set_IsLocked method. Setter for Aspose::Words::Fields::FieldChar::get_IsLocked in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldchar/set_islocked/
 ---
 ## FieldChar::set_IsLocked method

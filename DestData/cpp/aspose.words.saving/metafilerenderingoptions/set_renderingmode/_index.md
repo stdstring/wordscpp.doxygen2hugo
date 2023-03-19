@@ -4,7 +4,7 @@ linktitle: set_RenderingMode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::MetafileRenderingOptions::set_RenderingMode method. Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_RenderingMode in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.saving/metafilerenderingoptions/set_renderingmode/
 ---
 ## MetafileRenderingOptions::set_RenderingMode method

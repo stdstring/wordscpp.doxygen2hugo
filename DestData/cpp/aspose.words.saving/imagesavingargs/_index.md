@@ -4,7 +4,7 @@ linktitle: ImageSavingArgs
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageSavingArgs class. Provides data for the ImageSaving() event in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.saving/imagesavingargs/
 ---
 ## ImageSavingArgs class

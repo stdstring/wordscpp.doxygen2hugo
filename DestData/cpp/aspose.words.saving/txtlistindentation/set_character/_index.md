@@ -4,7 +4,7 @@ linktitle: set_Character
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::TxtListIndentation::set_Character method. Setter for Aspose::Words::Saving::TxtListIndentation::get_Character in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.saving/txtlistindentation/set_character/
 ---
 ## TxtListIndentation::set_Character method

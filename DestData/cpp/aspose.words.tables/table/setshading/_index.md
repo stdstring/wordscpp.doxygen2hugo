@@ -4,7 +4,7 @@ linktitle: SetShading
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::SetShading method. Sets shading to the specified values on whole table in C++.
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words.tables/table/setshading/
 ---
 ## Table::SetShading method

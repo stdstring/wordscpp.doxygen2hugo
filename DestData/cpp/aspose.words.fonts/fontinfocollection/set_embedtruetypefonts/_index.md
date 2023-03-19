@@ -4,7 +4,7 @@ linktitle: set_EmbedTrueTypeFonts
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontInfoCollection::set_EmbedTrueTypeFonts method. Setter for Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts in C++.
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.fonts/fontinfocollection/set_embedtruetypefonts/
 ---
 ## FontInfoCollection::set_EmbedTrueTypeFonts method

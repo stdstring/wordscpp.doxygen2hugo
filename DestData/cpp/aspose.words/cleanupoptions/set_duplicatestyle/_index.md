@@ -4,7 +4,7 @@ linktitle: set_DuplicateStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::CleanupOptions::set_DuplicateStyle method. Setter for Aspose::Words::CleanupOptions::get_DuplicateStyle in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words/cleanupoptions/set_duplicatestyle/
 ---
 ## CleanupOptions::set_DuplicateStyle method

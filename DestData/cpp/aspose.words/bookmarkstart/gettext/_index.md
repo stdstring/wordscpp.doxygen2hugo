@@ -4,7 +4,7 @@ linktitle: GetText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BookmarkStart::GetText method. Returns an empty string in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words/bookmarkstart/gettext/
 ---
 ## BookmarkStart::GetText method

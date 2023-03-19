@@ -4,7 +4,7 @@ linktitle: get_Fill
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Font::get_Fill method. Gets fill formatting for the Font in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words/font/get_fill/
 ---
 ## Font::get_Fill method

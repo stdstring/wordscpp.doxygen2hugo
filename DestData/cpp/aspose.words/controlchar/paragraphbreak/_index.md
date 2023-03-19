@@ -4,7 +4,7 @@ linktitle: ParagraphBreak
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ControlChar::ParagraphBreak method. End of paragraph character: "\x000d" or "\r". Same as Cr in C++.
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words/controlchar/paragraphbreak/
 ---
 ## ControlChar::ParagraphBreak method

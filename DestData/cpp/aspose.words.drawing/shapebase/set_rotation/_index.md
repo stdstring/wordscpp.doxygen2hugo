@@ -4,7 +4,7 @@ linktitle: set_Rotation
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShapeBase::set_Rotation method. Setter for Aspose::Words::Drawing::ShapeBase::get_Rotation in C++.
 type: docs
-weight: 1041
+weight: 8100
 url: /cpp/aspose.words.drawing/shapebase/set_rotation/
 ---
 ## ShapeBase::set_Rotation method

@@ -4,7 +4,7 @@ linktitle: set_FirstRowContainsColumnNames
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::Odso::set_FirstRowContainsColumnNames method. Setter for Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames in C++.
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words.settings/odso/set_firstrowcontainscolumnnames/
 ---
 ## Odso::set_FirstRowContainsColumnNames method

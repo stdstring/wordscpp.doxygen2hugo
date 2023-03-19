@@ -4,7 +4,7 @@ linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Math::OfficeMath::Accept method. Accepts a visitor in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.math/officemath/accept/
 ---
 ## OfficeMath::Accept method

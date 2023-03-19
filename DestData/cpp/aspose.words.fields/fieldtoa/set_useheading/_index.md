@@ -4,7 +4,7 @@ linktitle: set_UseHeading
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldToa::set_UseHeading method. Setter for Aspose::Words::Fields::FieldToa::get_UseHeading in C++.
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.fields/fieldtoa/set_useheading/
 ---
 ## FieldToa::set_UseHeading method

@@ -4,7 +4,7 @@ linktitle: set_NumberStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Lists::ListLevel::set_NumberStyle method. Setter for Aspose::Words::Lists::ListLevel::get_NumberStyle in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.lists/listlevel/set_numberstyle/
 ---
 ## ListLevel::set_NumberStyle method

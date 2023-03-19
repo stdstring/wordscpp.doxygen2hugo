@@ -4,7 +4,7 @@ linktitle: set_Version
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Version method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Version in C++.
 type: docs
-weight: 820
+weight: 6400
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_version/
 ---
 ## BuiltInDocumentProperties::set_Version method

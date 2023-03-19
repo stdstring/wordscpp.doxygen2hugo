@@ -4,7 +4,7 @@ linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::CustomXmlProperty::get_Name method. Specifies the name of the custom XML attribute or smart tag property in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.markup/customxmlproperty/get_name/
 ---
 ## CustomXmlProperty::get_Name method

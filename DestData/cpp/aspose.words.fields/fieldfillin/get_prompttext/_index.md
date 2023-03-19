@@ -4,7 +4,7 @@ linktitle: get_PromptText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldFillIn::get_PromptText method. Gets or sets the prompt text (the title of the prompt window) in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fields/fieldfillin/get_prompttext/
 ---
 ## FieldFillIn::get_PromptText method

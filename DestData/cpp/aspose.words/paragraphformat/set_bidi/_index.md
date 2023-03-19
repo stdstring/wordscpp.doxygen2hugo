@@ -4,7 +4,7 @@ linktitle: set_Bidi
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ParagraphFormat::set_Bidi method. Setter for Aspose::Words::ParagraphFormat::get_Bidi in C++.
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words/paragraphformat/set_bidi/
 ---
 ## ParagraphFormat::set_Bidi method

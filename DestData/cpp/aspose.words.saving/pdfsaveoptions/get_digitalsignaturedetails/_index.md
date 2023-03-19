@@ -4,7 +4,7 @@ linktitle: get_DigitalSignatureDetails
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails method. Gets or sets the details for signing the output PDF document in C++.
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_digitalsignaturedetails/
 ---
 ## PdfSaveOptions::get_DigitalSignatureDetails method

@@ -4,7 +4,7 @@ linktitle: get_TextWrapping
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::get_TextWrapping method. Gets or sets TextWrapping for table in C++.
 type: docs
-weight: 469
+weight: 3700
 url: /cpp/aspose.words.tables/table/get_textwrapping/
 ---
 ## Table::get_TextWrapping method

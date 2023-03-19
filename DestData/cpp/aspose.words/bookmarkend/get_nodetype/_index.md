@@ -4,7 +4,7 @@ linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::BookmarkEnd::get_NodeType method. Returns BookmarkEnd in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/bookmarkend/get_nodetype/
 ---
 ## BookmarkEnd::get_NodeType method

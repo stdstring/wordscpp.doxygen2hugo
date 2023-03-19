@@ -4,7 +4,7 @@ linktitle: StructuredDocumentTagNode
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Markup::IStructuredDocumentTag::StructuredDocumentTagNode method. Returns Node object that implements this interface in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.markup/istructureddocumenttag/structureddocumenttagnode/
 ---
 ## IStructuredDocumentTag::StructuredDocumentTagNode method

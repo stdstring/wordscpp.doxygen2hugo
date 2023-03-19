@@ -4,7 +4,7 @@ linktitle: FieldFootnoteRef
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FieldFootnoteRef class. Implements the FOOTNOTEREF field in C++.
 type: docs
-weight: 560
+weight: 4400
 url: /cpp/aspose.words.fields/fieldfootnoteref/
 ---
 ## FieldFootnoteRef class

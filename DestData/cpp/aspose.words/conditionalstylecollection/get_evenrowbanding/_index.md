@@ -4,7 +4,7 @@ linktitle: get_EvenRowBanding
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::ConditionalStyleCollection::get_EvenRowBanding method. Gets the even row banding style in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words/conditionalstylecollection/get_evenrowbanding/
 ---
 ## ConditionalStyleCollection::get_EvenRowBanding method

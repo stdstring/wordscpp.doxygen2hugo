@@ -4,7 +4,7 @@ linktitle: set_DashStyle
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Stroke::set_DashStyle method. Setter for Aspose::Words::Drawing::Stroke::get_DashStyle in C++.
 type: docs
-weight: 300
+weight: 2400
 url: /cpp/aspose.words.drawing/stroke/set_dashstyle/
 ---
 ## Stroke::set_DashStyle method

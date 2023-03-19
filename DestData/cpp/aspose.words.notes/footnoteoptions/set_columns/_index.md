@@ -4,7 +4,7 @@ linktitle: set_Columns
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::FootnoteOptions::set_Columns method. Setter for Aspose::Words::Notes::FootnoteOptions::get_Columns in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.notes/footnoteoptions/set_columns/
 ---
 ## FootnoteOptions::set_Columns method

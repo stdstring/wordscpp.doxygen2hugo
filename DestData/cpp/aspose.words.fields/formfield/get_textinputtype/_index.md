@@ -4,7 +4,7 @@ linktitle: get_TextInputType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fields::FormField::get_TextInputType method. Gets or sets the type of a text form field in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.fields/formfield/get_textinputtype/
 ---
 ## FormField::get_TextInputType method

@@ -4,7 +4,7 @@ linktitle: MoveToHeaderFooter
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::MoveToHeaderFooter method. Moves the cursor to the beginning of a header or footer in the current section in C++.
 type: docs
-weight: 690
+weight: 5400
 url: /cpp/aspose.words/documentbuilder/movetoheaderfooter/
 ---
 ## DocumentBuilder::MoveToHeaderFooter method

@@ -4,7 +4,7 @@ linktitle: NodeRendererBase
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::NodeRendererBase class. Base class for ShapeRenderer and OfficeMathRenderer in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.rendering/noderendererbase/
 ---
 ## NodeRendererBase class

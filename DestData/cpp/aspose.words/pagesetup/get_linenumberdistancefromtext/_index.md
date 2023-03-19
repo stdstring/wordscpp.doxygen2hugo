@@ -4,7 +4,7 @@ linktitle: get_LineNumberDistanceFromText
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::PageSetup::get_LineNumberDistanceFromText method. Gets or sets distance between the right edge of line numbers and the left edge of the document in C++.
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words/pagesetup/get_linenumberdistancefromtext/
 ---
 ## PageSetup::get_LineNumberDistanceFromText method

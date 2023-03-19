@@ -4,7 +4,7 @@ linktitle: get_Size
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::TextPath::get_Size method. Defines the size of the font in points in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.drawing/textpath/get_size/
 ---
 ## TextPath::get_Size method

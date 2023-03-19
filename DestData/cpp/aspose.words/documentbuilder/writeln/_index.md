@@ -4,7 +4,7 @@ linktitle: Writeln
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::Writeln method. Inserts a paragraph break into the document in C++.
 type: docs
-weight: 898
+weight: 7000
 url: /cpp/aspose.words/documentbuilder/writeln/
 ---
 ## DocumentBuilder::Writeln() method

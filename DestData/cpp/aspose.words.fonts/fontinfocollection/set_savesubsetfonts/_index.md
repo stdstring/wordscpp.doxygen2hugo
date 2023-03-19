@@ -4,7 +4,7 @@ linktitle: set_SaveSubsetFonts
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FontInfoCollection::set_SaveSubsetFonts method. Setter for Aspose::Words::Fonts::FontInfoCollection::get_SaveSubsetFonts in C++.
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.fonts/fontinfocollection/set_savesubsetfonts/
 ---
 ## FontInfoCollection::set_SaveSubsetFonts method

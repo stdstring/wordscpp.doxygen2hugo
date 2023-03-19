@@ -4,7 +4,7 @@ linktitle: IResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::IResourceSavingCallback interface. Implement this interface if you want to control how Aspose.Words saves external resources (images, fonts and css) when saving a document to fixed page HTML or SVG in C++.
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words.saving/iresourcesavingcallback/
 ---
 ## IResourceSavingCallback interface

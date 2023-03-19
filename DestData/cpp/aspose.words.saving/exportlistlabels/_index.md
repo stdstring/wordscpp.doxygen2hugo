@@ -4,7 +4,7 @@ linktitle: ExportListLabels
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ExportListLabels enum. Specifies how list labels are exported to HTML, MHTML and EPUB in C++.
 type: docs
-weight: 716
+weight: 5600
 url: /cpp/aspose.words.saving/exportlistlabels/
 ---
 ## ExportListLabels enum

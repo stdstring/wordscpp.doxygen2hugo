@@ -4,7 +4,7 @@ linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::ShadowFormat::get_Type method. Gets the specified ShadowType for ShadowFormat in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.drawing/shadowformat/get_type/
 ---
 ## ShadowFormat::get_Type method

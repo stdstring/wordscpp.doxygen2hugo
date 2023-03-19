@@ -4,7 +4,7 @@ linktitle: WrapType
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::WrapType enum. Specifies how text is wrapped around a shape or picture in C++.
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words.drawing/wraptype/
 ---
 ## WrapType enum

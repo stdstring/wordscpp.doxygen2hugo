@@ -4,7 +4,7 @@ linktitle: OdsoRecipientData
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::OdsoRecipientData class. Represents information about a single record within an external data source that is to be excluded from the mail merge in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.settings/odsorecipientdata/
 ---
 ## OdsoRecipientData class

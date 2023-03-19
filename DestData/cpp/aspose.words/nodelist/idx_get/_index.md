@@ -4,7 +4,7 @@ linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::NodeList::idx_get method. Retrieves a node at the given index in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/nodelist/idx_get/
 ---
 ## NodeList::idx_get method

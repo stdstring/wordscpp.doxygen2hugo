@@ -4,7 +4,7 @@ linktitle: SetTemplateWeakPtr
 second_title: Aspose.Words for C++ API Reference
 description: How to use SetTemplateWeakPtr method of Aspose::Words::WebExtensions::WebExtensionPropertyCollection class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.webextensions/webextensionpropertycollection/settemplateweakptr/
 ---
 ## WebExtensionPropertyCollection::SetTemplateWeakPtr method

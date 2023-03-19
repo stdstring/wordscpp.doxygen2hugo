@@ -4,7 +4,7 @@ linktitle: get_GroupName
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::ReplacingArgs::get_GroupName method. Identifies, by name, a captured group in the Match that is to be replaced with the Replacement string in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.replacing/replacingargs/get_groupname/
 ---
 ## ReplacingArgs::get_GroupName method

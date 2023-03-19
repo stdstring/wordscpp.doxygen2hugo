@@ -4,7 +4,7 @@ linktitle: set_BaseTimeUnit
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartAxis::set_BaseTimeUnit method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_BaseTimeUnit in C++.
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_basetimeunit/
 ---
 ## ChartAxis::set_BaseTimeUnit method

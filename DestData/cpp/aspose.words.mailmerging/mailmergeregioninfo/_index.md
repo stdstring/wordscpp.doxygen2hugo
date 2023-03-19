@@ -4,7 +4,7 @@ linktitle: MailMergeRegionInfo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::MailMerging::MailMergeRegionInfo class. Contains information about a mail merge region in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/
 ---
 ## MailMergeRegionInfo class

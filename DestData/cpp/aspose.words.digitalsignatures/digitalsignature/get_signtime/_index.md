@@ -4,7 +4,7 @@ linktitle: get_SignTime
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DigitalSignatures::DigitalSignature::get_SignTime method. Gets the time the document was signed in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_signtime/
 ---
 ## DigitalSignature::get_SignTime method

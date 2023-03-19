@@ -4,7 +4,7 @@ linktitle: ClearShading
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables::Table::ClearShading method. Removes all shading on the table in C++.
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.tables/table/clearshading/
 ---
 ## Table::ClearShading method

@@ -4,7 +4,7 @@ linktitle: set_DocumentSplitCriteria
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitCriteria method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitCriteria in C++.
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentsplitcriteria/
 ---
 ## HtmlSaveOptions::set_DocumentSplitCriteria method

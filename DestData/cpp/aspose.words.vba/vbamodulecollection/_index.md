@@ -4,7 +4,7 @@ linktitle: VbaModuleCollection
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Vba::VbaModuleCollection class. Represents a collection of VbaModule objects in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.vba/vbamodulecollection/
 ---
 ## VbaModuleCollection class

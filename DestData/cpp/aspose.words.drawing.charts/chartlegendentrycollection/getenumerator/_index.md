@@ -4,7 +4,7 @@ linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::GetEnumerator method. Returns an enumerator object in C++.
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.drawing.charts/chartlegendentrycollection/getenumerator/
 ---
 ## ChartLegendEntryCollection::GetEnumerator method

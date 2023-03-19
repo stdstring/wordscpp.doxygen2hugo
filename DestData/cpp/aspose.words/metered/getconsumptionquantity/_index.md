@@ -4,7 +4,7 @@ linktitle: GetConsumptionQuantity
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Metered::GetConsumptionQuantity method. Gets consumption file size in C++.
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words/metered/getconsumptionquantity/
 ---
 ## Metered::GetConsumptionQuantity method

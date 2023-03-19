@@ -4,7 +4,7 @@ linktitle: get_RestartRule
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Notes::EndnoteOptions::get_RestartRule method. Determines when automatic numbering restarts in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.notes/endnoteoptions/get_restartrule/
 ---
 ## EndnoteOptions::get_RestartRule method

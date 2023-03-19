@@ -4,7 +4,7 @@ linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::VariableCollection::virtualized_iterator typedef of Aspose::Words::VariableCollection class in C++.
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words/variablecollection/virtualized_iterator/
 ---
 ## virtualized_iterator typedef

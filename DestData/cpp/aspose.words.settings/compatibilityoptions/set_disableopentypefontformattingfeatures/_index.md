@@ -4,7 +4,7 @@ linktitle: set_DisableOpenTypeFontFormattingFeatures
 second_title: Aspose.Words for C++ API Reference
 description: How to use set_DisableOpenTypeFontFormattingFeatures method of Aspose::Words::Settings::CompatibilityOptions class in C++.
 type: docs
-weight: 1054
+weight: 8200
 url: /cpp/aspose.words.settings/compatibilityoptions/set_disableopentypefontformattingfeatures/
 ---
 ## CompatibilityOptions::set_DisableOpenTypeFontFormattingFeatures method

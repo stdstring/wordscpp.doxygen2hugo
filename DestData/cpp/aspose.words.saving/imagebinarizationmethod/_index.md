@@ -4,7 +4,7 @@ linktitle: ImageBinarizationMethod
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::ImageBinarizationMethod enum. Specifies the method used to binarize image in C++.
 type: docs
-weight: 807
+weight: 6300
 url: /cpp/aspose.words.saving/imagebinarizationmethod/
 ---
 ## ImageBinarizationMethod enum

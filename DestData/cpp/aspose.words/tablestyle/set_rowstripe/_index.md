@@ -4,7 +4,7 @@ linktitle: set_RowStripe
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::TableStyle::set_RowStripe method. Setter for Aspose::Words::TableStyle::get_RowStripe in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words/tablestyle/set_rowstripe/
 ---
 ## TableStyle::set_RowStripe method

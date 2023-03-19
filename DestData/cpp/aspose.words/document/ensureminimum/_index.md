@@ -4,7 +4,7 @@ linktitle: EnsureMinimum
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::EnsureMinimum method. If the document contains no sections, creates one section with one paragraph in C++.
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words/document/ensureminimum/
 ---
 ## Document::EnsureMinimum method

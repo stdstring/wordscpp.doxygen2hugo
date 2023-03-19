@@ -4,7 +4,7 @@ linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::OdsoRecipientDataCollection::Clear method. Removes all elements from this collection in C++.
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/clear/
 ---
 ## OdsoRecipientDataCollection::Clear method

@@ -4,7 +4,7 @@ linktitle: WarningInfo
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::WarningInfo class. Contains information about a warning that Aspose.Words issued during document loading or saving in C++.
 type: docs
-weight: 950
+weight: 7400
 url: /cpp/aspose.words/warninginfo/
 ---
 ## WarningInfo class

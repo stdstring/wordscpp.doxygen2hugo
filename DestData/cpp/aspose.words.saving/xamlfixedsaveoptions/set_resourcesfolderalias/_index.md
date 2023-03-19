@@ -4,7 +4,7 @@ linktitle: set_ResourcesFolderAlias
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolderAlias method. Setter for Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesfolderalias/
 ---
 ## XamlFixedSaveOptions::set_ResourcesFolderAlias method

@@ -4,7 +4,7 @@ linktitle: AxisTickMark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Drawing::Charts::AxisTickMark enum. Specifies the possible positions for tick marks in C++.
 type: docs
-weight: 313
+weight: 2500
 url: /cpp/aspose.words.drawing.charts/axistickmark/
 ---
 ## AxisTickMark enum

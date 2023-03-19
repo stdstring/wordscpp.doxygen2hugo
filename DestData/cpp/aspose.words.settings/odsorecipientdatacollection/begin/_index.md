@@ -4,7 +4,7 @@ linktitle: begin
 second_title: Aspose.Words for C++ API Reference
 description: How to use begin method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/begin/
 ---
 ## OdsoRecipientDataCollection::begin() const method

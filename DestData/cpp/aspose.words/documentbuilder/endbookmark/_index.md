@@ -4,7 +4,7 @@ linktitle: EndBookmark
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::DocumentBuilder::EndBookmark method. Marks the current position in the document as a bookmark end in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/documentbuilder/endbookmark/
 ---
 ## DocumentBuilder::EndBookmark method

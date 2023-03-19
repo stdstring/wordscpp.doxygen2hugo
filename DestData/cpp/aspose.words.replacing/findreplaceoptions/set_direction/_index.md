@@ -4,7 +4,7 @@ linktitle: set_Direction
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Replacing::FindReplaceOptions::set_Direction method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_Direction in C++.
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_direction/
 ---
 ## FindReplaceOptions::set_Direction method

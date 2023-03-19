@@ -4,7 +4,7 @@ linktitle: Load
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::TableSubstitutionRule::Load method. Loads table substitution settings from XML stream in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/load/
 ---
 ## TableSubstitutionRule::Load(const System::SharedPtr\<System::IO::Stream\>\&) method

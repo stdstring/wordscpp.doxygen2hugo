@@ -4,7 +4,7 @@ linktitle: get_Revisions
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_Revisions method. Gets a collection of revisions (tracked changes) that exist in this document in C++.
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words/document/get_revisions/
 ---
 ## Document::get_Revisions method

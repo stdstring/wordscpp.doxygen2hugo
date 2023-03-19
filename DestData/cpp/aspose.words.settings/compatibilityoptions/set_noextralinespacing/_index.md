@@ -4,7 +4,7 @@ linktitle: set_NoExtraLineSpacing
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Settings::CompatibilityOptions::set_NoExtraLineSpacing method. Do Not Center Content on Lines With Exact Line Height in C++.
 type: docs
-weight: 1366
+weight: 10600
 url: /cpp/aspose.words.settings/compatibilityoptions/set_noextralinespacing/
 ---
 ## CompatibilityOptions::set_NoExtraLineSpacing method

@@ -4,7 +4,7 @@ linktitle: get_ShowSpellingErrors
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Document::get_ShowSpellingErrors method. Specifies whether to display spelling errors in this document in C++.
 type: docs
-weight: 612
+weight: 4800
 url: /cpp/aspose.words/document/get_showspellingerrors/
 ---
 ## Document::get_ShowSpellingErrors method

@@ -4,7 +4,7 @@ linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
 description: How to use Aspose::Words::RevisionGroupCollection::const_iterator typedef of Aspose::Words::RevisionGroupCollection class in C++.
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words/revisiongroupcollection/const_iterator/
 ---
 ## const_iterator typedef

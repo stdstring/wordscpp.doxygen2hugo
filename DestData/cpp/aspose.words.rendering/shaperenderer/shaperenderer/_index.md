@@ -4,7 +4,7 @@ linktitle: ShapeRenderer
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer constructor. Initializes a new instance of this class in C++.
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.rendering/shaperenderer/shaperenderer/
 ---
 ## ShapeRenderer::ShapeRenderer constructor

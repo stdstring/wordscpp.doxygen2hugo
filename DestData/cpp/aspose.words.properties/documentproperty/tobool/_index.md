@@ -4,7 +4,7 @@ linktitle: ToBool
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Properties::DocumentProperty::ToBool method. Returns the property value as bool in C++.
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.properties/documentproperty/tobool/
 ---
 ## DocumentProperty::ToBool method

@@ -4,7 +4,7 @@ linktitle: FolderFontSource
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts::FolderFontSource class. Represents the folder that contains TrueType font files in C++.
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fonts/folderfontsource/
 ---
 ## FolderFontSource class
