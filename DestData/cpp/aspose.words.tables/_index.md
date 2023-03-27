@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Tables
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Tables namespace. The Aspose.Words.Tables namespace contains classes that represent tables, rows, cells and their formatting in C++.
 type: docs
-weight: 2500
+weight: 2200
 url: /cpp/aspose.words.tables/
 ---
 

@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Vba
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Vba namespace. The Aspose.Words.Vba namespace provides classes to work with VBA projects in C++.
 type: docs
-weight: 2700
+weight: 2400
 url: /cpp/aspose.words.vba/
 ---
 

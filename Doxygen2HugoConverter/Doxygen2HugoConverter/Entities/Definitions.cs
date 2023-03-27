@@ -110,6 +110,9 @@ namespace Doxygen2HugoConverter.Entities
                                         IList<EnumEntity> Enums,
                                         IList<TypedefEntity> Typedefs,
                                         IList<ClassEntity> Classes,
-                                        IList<ClassEntity> Interfaces) : EntityDef(Id, String.Empty, Name, String.Empty, EntityKind.Namespace);
+                                        IList<ClassEntity> Interfaces) : EntityDef(Id, String.Empty, Name, String.Empty, EntityKind.Namespace)
+        {
+            public Boolean IsEmpty() => Enums.IsEmpty() && Typedefs.IsEmpty() && Classes.IsEmpty() && Interfaces.IsEmpty();
+        }
     }
 }

@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Fonts
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Fonts namespace. The Aspose.Words.Fonts namespace provides classes and enumerations to access information about fonts used in a document in C++.
 type: docs
-weight: 900
+weight: 800
 url: /cpp/aspose.words.fonts/
 ---
 

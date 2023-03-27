@@ -4,7 +4,7 @@ linktitle: Aspose::Words::Saving
 second_title: Aspose.Words for C++ API Reference
 description: Aspose::Words::Saving namespace. The Aspose.Words.Saving namespace provides classes and enumerations that allow to specify additional options for saving or converting documents in C++.
 type: docs
-weight: 2200
+weight: 2000
 url: /cpp/aspose.words.saving/
 ---
 

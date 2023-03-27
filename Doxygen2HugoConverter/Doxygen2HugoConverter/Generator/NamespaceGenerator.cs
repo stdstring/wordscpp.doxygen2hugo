@@ -8,12 +8,6 @@ namespace Doxygen2HugoConverter.Generator
     {
         public static void GenerateForNamespace(this EntityDef.NamespaceEntity entity, GenerateState state, LookupFrame currentFrame)
         {
-            Boolean isEmptyNamespaces = entity.Enums.IsEmpty() &&
-                                        entity.Typedefs.IsEmpty() &&
-                                        entity.Classes.IsEmpty() &&
-                                        entity.Interfaces.IsEmpty();
-            if (isEmptyNamespaces)
-                return;
             String folderName = NameUtils.CreateNamespaceFolderName(entity.Name);
             String namespaceDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(namespaceDirectory);

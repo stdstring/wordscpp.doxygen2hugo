@@ -16,9 +16,10 @@ namespace Doxygen2HugoConverter.Generator
             builder.AppendLine(convertData.RootPageHeader);
             GeneratorUtils.GenerateHeader("Namespaces", 2, builder);
             GeneratorUtils.GenerateTableHeader(new[] {"Namespace", "Description"}, builder);
-            rootFrame.FillKnownChildren(entities);
-            entities.GenerateForChildren(rootFrame, (entity, childFrame) => entity.GenerateForNamespace(state, childFrame));
-            entities.CreateNamespaceEntries(state).Iterate(entry => { builder.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
+            IList<EntityDef.NamespaceEntity> nonEmptyEntities = entities.Where(entity => !entity.IsEmpty()).ToList();
+            rootFrame.FillKnownChildren(nonEmptyEntities);
+            nonEmptyEntities.GenerateForChildren(rootFrame, (entity, childFrame) => entity.GenerateForNamespace(state, childFrame));
+            nonEmptyEntities.CreateNamespaceEntries(state).Iterate(entry => { builder.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
             File.AppendAllText(Path.Combine(rootDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
