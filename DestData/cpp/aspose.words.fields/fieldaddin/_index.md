@@ -1,9 +1,10 @@
 ---
-title: FieldAddIn
+title: Aspose::Words::Fields::FieldAddIn class
+linktitle: FieldAddIn
 second_title: Aspose.Words for C++ API Reference
-description: Implements the ADDIN field.
+description: 'Aspose::Words::Fields::FieldAddIn class. Implements the ADDIN field in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldaddin/
 ---
 ## FieldAddIn class
@@ -60,4 +61,4 @@ ASSERT_EQ(u" ADDIN \"My value\" ", field->GetFieldCode());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

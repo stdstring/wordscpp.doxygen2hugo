@@ -1,9 +1,10 @@
 ---
-title: PclSaveOptions
+title: Aspose::Words::Saving::PclSaveOptions class
+linktitle: PclSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the Pcl format.
+description: 'Aspose::Words::Saving::PclSaveOptions class. Can be used to specify additional options when saving a document into the Pcl format in C++.'
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.saving/pclsaveoptions/
 ---
 ## PclSaveOptions class
@@ -102,4 +103,4 @@ doc->Save(ArtifactsDir + u"PclSaveOptions.RasterizeElements.pcl", saveOptions);
 
 * Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

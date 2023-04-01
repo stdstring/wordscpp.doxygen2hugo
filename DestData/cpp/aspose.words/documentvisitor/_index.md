@@ -1,9 +1,10 @@
 ---
-title: DocumentVisitor
+title: Aspose::Words::DocumentVisitor class
+linktitle: DocumentVisitor
 second_title: Aspose.Words for C++ API Reference
-description: Base class for custom document visitors.
+description: 'Aspose::Words::DocumentVisitor class. Base class for custom document visitors in C++.'
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words/documentvisitor/
 ---
 ## DocumentVisitor class
@@ -225,4 +226,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

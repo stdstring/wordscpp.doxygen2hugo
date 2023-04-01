@@ -1,9 +1,10 @@
 ---
-title: set_InsertHyperlink
+title: Aspose::Words::Fields::FieldPageRef::set_InsertHyperlink method
+linktitle: set_InsertHyperlink
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldPageRef::get_InsertHyperlink.'
+description: 'Aspose::Words::Fields::FieldPageRef::set_InsertHyperlink method. Setter for Aspose::Words::Fields::FieldPageRef::get_InsertHyperlink in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldpageref/set_inserthyperlink/
 ---
 ## FieldPageRef::set_InsertHyperlink method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldPageRef::set_InsertHyperlink(bool value)
 
 * Class [FieldPageRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

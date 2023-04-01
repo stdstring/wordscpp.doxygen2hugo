@@ -1,9 +1,10 @@
 ---
-title: FieldSymbol
+title: Aspose::Words::Fields::FieldSymbol class
+linktitle: FieldSymbol
 second_title: Aspose.Words for C++ API Reference
-description: Implements a SYMBOL field.
+description: 'Aspose::Words::Fields::FieldSymbol class. Implements a SYMBOL field in C++.'
 type: docs
-weight: 1262
+weight: 9800
 url: /cpp/aspose.words.fields/fieldsymbol/
 ---
 ## FieldSymbol class
@@ -115,4 +116,4 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: HtmlLoadOptions
+title: Aspose::Words::Loading::HtmlLoadOptions class
+linktitle: HtmlLoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify additional options when loading HTML document into a Document object.
+description: 'Aspose::Words::Loading::HtmlLoadOptions class. Allows to specify additional options when loading HTML document into a Document object in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.loading/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
@@ -70,4 +71,4 @@ class HtmlLoadOptions : public Aspose::Words::Loading::LoadOptions
 
 * Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

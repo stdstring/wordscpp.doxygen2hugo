@@ -1,9 +1,10 @@
 ---
-title: FieldShape
+title: Aspose::Words::Fields::FieldShape class
+linktitle: FieldShape
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SHAPE field.
+description: 'Aspose::Words::Fields::FieldShape class. Implements the SHAPE field in C++.'
 type: docs
-weight: 1197
+weight: 9300
 url: /cpp/aspose.words.fields/fieldshape/
 ---
 ## FieldShape class
@@ -115,4 +116,4 @@ ASSERT_EQ(ShapeType::OleObject, shape->get_ShapeType());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

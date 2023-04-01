@@ -1,9 +1,10 @@
 ---
-title: FieldGoToButton
+title: Aspose::Words::Fields::FieldGoToButton class
+linktitle: FieldGoToButton
 second_title: Aspose.Words for C++ API Reference
-description: Implements the GOTOBUTTON field.
+description: 'Aspose::Words::Fields::FieldGoToButton class. Implements the GOTOBUTTON field in C++.'
 type: docs
-weight: 651
+weight: 5100
 url: /cpp/aspose.words.fields/fieldgotobutton/
 ---
 ## FieldGoToButton class
@@ -77,4 +78,4 @@ doc->Save(ArtifactsDir + u"Field.GOTOBUTTON.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

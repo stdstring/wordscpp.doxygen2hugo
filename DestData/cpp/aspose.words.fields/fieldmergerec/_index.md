@@ -1,9 +1,10 @@
 ---
-title: FieldMergeRec
+title: Aspose::Words::Fields::FieldMergeRec class
+linktitle: FieldMergeRec
 second_title: Aspose.Words for C++ API Reference
-description: Implements the MERGEREC field.
+description: 'Aspose::Words::Fields::FieldMergeRec class. Implements the MERGEREC field in C++.'
 type: docs
-weight: 872
+weight: 6800
 url: /cpp/aspose.words.fields/fieldmergerec/
 ---
 ## FieldMergeRec class
@@ -45,4 +46,4 @@ class FieldMergeRec : public Aspose::Words::Fields::Field
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

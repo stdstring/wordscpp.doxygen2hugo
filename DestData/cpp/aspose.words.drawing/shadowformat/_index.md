@@ -1,9 +1,10 @@
 ---
-title: ShadowFormat
+title: Aspose::Words::Drawing::ShadowFormat class
+linktitle: ShadowFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents shadow formatting for an object.
+description: 'Aspose::Words::Drawing::ShadowFormat class. Represents shadow formatting for an object in C++.'
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.drawing/shadowformat/
 ---
 ## ShadowFormat class
@@ -26,4 +27,4 @@ class ShadowFormat : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

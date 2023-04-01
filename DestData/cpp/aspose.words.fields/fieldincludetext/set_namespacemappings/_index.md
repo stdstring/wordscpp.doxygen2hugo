@@ -1,9 +1,10 @@
 ---
-title: set_NamespaceMappings
+title: Aspose::Words::Fields::FieldIncludeText::set_NamespaceMappings method
+linktitle: set_NamespaceMappings
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings.'
+description: 'Aspose::Words::Fields::FieldIncludeText::set_NamespaceMappings method. Setter for Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings in C++.'
 type: docs
-weight: 170
+weight: 1400
 url: /cpp/aspose.words.fields/fieldincludetext/set_namespacemappings/
 ---
 ## FieldIncludeText::set_NamespaceMappings method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIncludeText::set_NamespaceMappings(const System
 
 * Class [FieldIncludeText](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: ImageSize
+title: Aspose::Words::Drawing::ImageSize class
+linktitle: ImageSize
 second_title: Aspose.Words for C++ API Reference
-description: Contains information about image size and resolution.
+description: 'Aspose::Words::Drawing::ImageSize class. Contains information about image size and resolution in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.drawing/imagesize/
 ---
 ## ImageSize class
@@ -74,4 +75,4 @@ doc->Save(ArtifactsDir + u"Image.ScaleImage.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

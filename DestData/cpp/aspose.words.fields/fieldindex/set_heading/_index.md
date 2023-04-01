@@ -1,9 +1,10 @@
 ---
-title: set_Heading
+title: Aspose::Words::Fields::FieldIndex::set_Heading method
+linktitle: set_Heading
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIndex::get_Heading.'
+description: 'Aspose::Words::Fields::FieldIndex::set_Heading method. Setter for Aspose::Words::Fields::FieldIndex::get_Heading in C++.'
 type: docs
-weight: 248
+weight: 2000
 url: /cpp/aspose.words.fields/fieldindex/set_heading/
 ---
 ## FieldIndex::set_Heading method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIndex::set_Heading(const System::String &value)
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

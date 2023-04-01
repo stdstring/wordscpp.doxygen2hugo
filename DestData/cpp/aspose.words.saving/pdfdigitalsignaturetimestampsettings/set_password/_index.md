@@ -1,9 +1,10 @@
 ---
-title: set_Password
+title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_Password method
+linktitle: set_Password
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Password.'
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_Password method. Setter for Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Password in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_password/
 ---
 ## PdfDigitalSignatureTimestampSettings::set_Password method
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_Password(c
 
 * Class [PdfDigitalSignatureTimestampSettings](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

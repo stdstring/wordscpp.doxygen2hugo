@@ -1,9 +1,10 @@
 ---
-title: SignatureLine
+title: Aspose::Words::Drawing::SignatureLine class
+linktitle: SignatureLine
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to signature line properties.
+description: 'Aspose::Words::Drawing::SignatureLine class. Provides access to signature line properties in C++.'
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.drawing/signatureline/
 ---
 ## SignatureLine class
@@ -84,4 +85,4 @@ doc->Save(ArtifactsDir + u"Shape.SignatureLine.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

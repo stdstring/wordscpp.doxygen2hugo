@@ -1,9 +1,10 @@
 ---
-title: set_ExportPageMargins
+title: Aspose::Words::Saving::HtmlSaveOptions::set_ExportPageMargins method
+linktitle: set_ExportPageMargins
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins.'
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_ExportPageMargins method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins in C++.'
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportpagemargins/
 ---
 ## HtmlSaveOptions::set_ExportPageMargins method
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::HtmlSaveOptions::set_ExportPageMargins(bool value)
 
 * Class [HtmlSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

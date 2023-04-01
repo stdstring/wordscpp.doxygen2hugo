@@ -1,9 +1,10 @@
 ---
-title: CustomXmlSchemaCollection
+title: Aspose::Words::Markup::CustomXmlSchemaCollection class
+linktitle: CustomXmlSchemaCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of strings that represent XML schemas that are associated with a custom XML part.
+description: 'Aspose::Words::Markup::CustomXmlSchemaCollection class. A collection of strings that represent XML schemas that are associated with a custom XML part in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.markup/customxmlschemacollection/
 ---
 ## CustomXmlSchemaCollection class
@@ -102,4 +103,4 @@ ASSERT_EQ(0, schemas->get_Count());
 ## See Also
 
 * Namespace [Aspose::Words::Markup](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

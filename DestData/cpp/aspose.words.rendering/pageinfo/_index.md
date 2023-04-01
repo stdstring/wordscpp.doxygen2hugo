@@ -1,9 +1,10 @@
 ---
-title: PageInfo
+title: Aspose::Words::Rendering::PageInfo class
+linktitle: PageInfo
 second_title: Aspose.Words for C++ API Reference
-description: Represents information about a particular document page.
+description: 'Aspose::Words::Rendering::PageInfo class. Represents information about a particular document page in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.rendering/pageinfo/
 ---
 ## PageInfo class
@@ -35,4 +36,4 @@ The page width and height returned by this object represent the "final" size of 
 ## See Also
 
 * Namespace [Aspose::Words::Rendering](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

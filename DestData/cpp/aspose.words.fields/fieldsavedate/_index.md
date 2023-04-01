@@ -1,9 +1,10 @@
 ---
-title: FieldSaveDate
+title: Aspose::Words::Fields::FieldSaveDate class
+linktitle: FieldSaveDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SAVEDATE field.
+description: 'Aspose::Words::Fields::FieldSaveDate class. Implements the SAVEDATE field in C++.'
 type: docs
-weight: 1119
+weight: 8700
 url: /cpp/aspose.words.fields/fieldsavedate/
 ---
 ## FieldSaveDate class
@@ -97,4 +98,4 @@ doc->Save(ArtifactsDir + u"Field.SAVEDATE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

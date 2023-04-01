@@ -1,9 +1,10 @@
 ---
-title: get_InsertAsUnicode
+title: Aspose::Words::Fields::FieldDde::get_InsertAsUnicode method
+linktitle: get_InsertAsUnicode
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert the linked object as Unicode text.
+description: 'Aspose::Words::Fields::FieldDde::get_InsertAsUnicode method. Gets or sets whether to insert the linked object as Unicode text in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fielddde/get_insertasunicode/
 ---
 ## FieldDde::get_InsertAsUnicode method
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldDde](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

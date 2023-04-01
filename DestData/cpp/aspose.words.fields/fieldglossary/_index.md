@@ -1,9 +1,10 @@
 ---
-title: FieldGlossary
+title: Aspose::Words::Fields::FieldGlossary class
+linktitle: FieldGlossary
 second_title: Aspose.Words for C++ API Reference
-description: Implements the GLOSSARY field.
+description: 'Aspose::Words::Fields::FieldGlossary class. Implements the GLOSSARY field in C++.'
 type: docs
-weight: 638
+weight: 5000
 url: /cpp/aspose.words.fields/fieldglossary/
 ---
 ## FieldGlossary class
@@ -97,4 +98,4 @@ doc->Save(ArtifactsDir + u"Field.AUTOTEXT.GLOSSARY.dotx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

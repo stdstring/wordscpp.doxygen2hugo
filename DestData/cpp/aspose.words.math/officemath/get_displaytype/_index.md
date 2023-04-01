@@ -1,9 +1,10 @@
 ---
-title: get_DisplayType
+title: Aspose::Words::Math::OfficeMath::get_DisplayType method
+linktitle: get_DisplayType
 second_title: Aspose.Words for C++ API Reference
-description: Gets/sets Office Math display format type which represents whether an equation is displayed inline with the text or displayed on its own line.
+description: 'Aspose::Words::Math::OfficeMath::get_DisplayType method. Gets/sets Office Math display format type which represents whether an equation is displayed inline with the text or displayed on its own line in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.math/officemath/get_displaytype/
 ---
 ## OfficeMath::get_DisplayType method
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"Shape.OfficeMath.docx");
 * Enum [OfficeMathDisplayType](../../officemathdisplaytype/)
 * Class [OfficeMath](../)
 * Namespace [Aspose::Words::Math](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

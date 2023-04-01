@@ -1,9 +1,10 @@
 ---
-title: FieldToc
+title: Aspose::Words::Fields::FieldToc class
+linktitle: FieldToc
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TOC field.
+description: 'Aspose::Words::Fields::FieldToc class. Implements the TOC field in C++.'
 type: docs
-weight: 1353
+weight: 10500
 url: /cpp/aspose.words.fields/fieldtoc/
 ---
 ## FieldToc class
@@ -235,4 +236,4 @@ doc->Save(ArtifactsDir + u"Field.TOC.SEQ.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

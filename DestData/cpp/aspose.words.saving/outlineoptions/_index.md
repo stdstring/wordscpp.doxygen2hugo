@@ -1,9 +1,10 @@
 ---
-title: OutlineOptions
+title: Aspose::Words::Saving::OutlineOptions class
+linktitle: OutlineOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify outline options.
+description: 'Aspose::Words::Saving::OutlineOptions class. Allows to specify outline options in C++.'
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.saving/outlineoptions/
 ---
 ## OutlineOptions class
@@ -65,4 +66,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.HeaderFooterBookmarksExportMode.pdf", 
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

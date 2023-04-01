@@ -1,9 +1,10 @@
 ---
-title: set_UseLunarCalendar
+title: Aspose::Words::Fields::FieldCreateDate::set_UseLunarCalendar method
+linktitle: set_UseLunarCalendar
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldCreateDate::get_UseLunarCalendar.'
+description: 'Aspose::Words::Fields::FieldCreateDate::set_UseLunarCalendar method. Setter for Aspose::Words::Fields::FieldCreateDate::get_UseLunarCalendar in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fields/fieldcreatedate/set_uselunarcalendar/
 ---
 ## FieldCreateDate::set_UseLunarCalendar method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldCreateDate::set_UseLunarCalendar(bool value)
 
 * Class [FieldCreateDate](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

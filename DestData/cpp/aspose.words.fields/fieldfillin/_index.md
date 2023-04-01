@@ -1,9 +1,10 @@
 ---
-title: FieldFillIn
+title: Aspose::Words::Fields::FieldFillIn class
+linktitle: FieldFillIn
 second_title: Aspose.Words for C++ API Reference
-description: Implements the FILLIN field.
+description: 'Aspose::Words::Fields::FieldFillIn class. Implements the FILLIN field in C++.'
 type: docs
-weight: 547
+weight: 4300
 url: /cpp/aspose.words.fields/fieldfillin/
 ---
 ## FieldFillIn class
@@ -98,4 +99,4 @@ public:
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

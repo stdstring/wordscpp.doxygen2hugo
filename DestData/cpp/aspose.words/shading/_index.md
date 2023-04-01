@@ -1,9 +1,10 @@
 ---
-title: Shading
+title: Aspose::Words::Shading class
+linktitle: Shading
 second_title: Aspose.Words for C++ API Reference
-description: Contains shading attributes for an object.
+description: 'Aspose::Words::Shading class. Contains shading attributes for an object in C++.'
 type: docs
-weight: 768
+weight: 6000
 url: /cpp/aspose.words/shading/
 ---
 ## Shading class
@@ -96,4 +97,4 @@ doc->Save(ArtifactsDir + u"DocumentBuilder.ApplyBordersAndShading.docx");
 
 * Class [InternableComplexAttr](../internablecomplexattr/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

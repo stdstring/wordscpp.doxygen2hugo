@@ -1,9 +1,10 @@
 ---
-title: iterator
+title: Aspose::Words::Fields::DropDownItemCollection::iterator typedef
+linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: 'How to use Aspose::Words::Fields::DropDownItemCollection::iterator typedef of Aspose::Words::Fields::DropDownItemCollection class in C++.'
 type: docs
-weight: 261
+weight: 2100
 url: /cpp/aspose.words.fields/dropdownitemcollection/iterator/
 ---
 ## iterator typedef
@@ -19,4 +20,4 @@ using Aspose::Words::Fields::DropDownItemCollection::iterator =  typename iterat
 
 * Class [DropDownItemCollection](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

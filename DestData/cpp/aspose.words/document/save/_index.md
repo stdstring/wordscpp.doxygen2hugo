@@ -1,9 +1,10 @@
 ---
-title: Save
+title: Aspose::Words::Document::Save method
+linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Saves the document to a stream using the specified format.
+description: 'Aspose::Words::Document::Save method. Saves the document to a stream using the specified format in C++.'
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words/document/save/
 ---
 ## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::SaveFormat) method
@@ -76,7 +77,7 @@ auto doc = MakeObject<Document>(MyDir + u"Document.docx");
 * Enum [SaveFormat](../../saveformat/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -131,7 +132,7 @@ builder->Writeln(u"Page 3.");
 * Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Save(const System::String\&) method
 
 
@@ -166,7 +167,7 @@ doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 * Class [SaveOutputParameters](../../../aspose.words.saving/saveoutputparameters/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Save(const System::String\&, Aspose::Words::SaveFormat) method
 
 
@@ -203,7 +204,7 @@ doc->Save(ArtifactsDir + u"Document.ConvertToHtml.html", SaveFormat::Html);
 * Enum [SaveFormat](../../saveformat/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Save(const System::String\&, const System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>\&) method
 
 
@@ -387,7 +388,7 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.ExpandedOutlineLevels.pdf", options);
 * Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Save(std::basic_ostream\<CharType, Traits\>\&, Aspose::Words::SaveFormat) method
 
 
@@ -403,7 +404,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Sav
 * Enum [SaveFormat](../../saveformat/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Save(std::basic_ostream\<CharType, Traits\>\&, System::SharedPtr\<Aspose::Words::Saving::SaveOptions\>) method
 
 
@@ -419,4 +420,4 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Sav
 * Class [SaveOptions](../../../aspose.words.saving/saveoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

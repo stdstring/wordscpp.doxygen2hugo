@@ -1,9 +1,10 @@
 ---
-title: ToaCategories
+title: Aspose::Words::Fields::ToaCategories class
+linktitle: ToaCategories
 second_title: Aspose.Words for C++ API Reference
-description: Represents a table of authorities categories.
+description: 'Aspose::Words::Fields::ToaCategories class. Represents a table of authorities categories in C++.'
 type: docs
-weight: 1483
+weight: 11500
 url: /cpp/aspose.words.fields/toacategories/
 ---
 ## ToaCategories class
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"FieldOptions.TOA.Categories.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

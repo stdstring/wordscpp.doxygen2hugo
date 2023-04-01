@@ -1,9 +1,10 @@
 ---
-title: FieldRD
+title: Aspose::Words::Fields::FieldRD class
+linktitle: FieldRD
 second_title: Aspose.Words for C++ API Reference
-description: Implements the RD field.
+description: 'Aspose::Words::Fields::FieldRD class. Implements the RD field in C++.'
 type: docs
-weight: 1080
+weight: 8400
 url: /cpp/aspose.words.fields/fieldrd/
 ---
 ## FieldRD class
@@ -87,4 +88,4 @@ doc->Save(ArtifactsDir + u"Field.RD.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

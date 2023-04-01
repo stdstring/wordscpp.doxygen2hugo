@@ -1,9 +1,10 @@
 ---
-title: FieldMergeField
+title: Aspose::Words::Fields::FieldMergeField class
+linktitle: FieldMergeField
 second_title: Aspose.Words for C++ API Reference
-description: Implements the MERGEFIELD field.
+description: 'Aspose::Words::Fields::FieldMergeField class. Implements the MERGEFIELD field in C++.'
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words.fields/fieldmergefield/
 ---
 ## FieldMergeField class
@@ -57,4 +58,4 @@ class FieldMergeField : public Aspose::Words::Fields::Field,
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

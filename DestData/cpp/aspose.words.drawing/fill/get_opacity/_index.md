@@ -1,9 +1,10 @@
 ---
-title: get_Opacity
+title: Aspose::Words::Drawing::Fill::get_Opacity method
+linktitle: get_Opacity
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the degree of opacity of the specified fill as a value between 0.0 (clear) and 1.0 (opaque).
+description: 'Aspose::Words::Drawing::Fill::get_Opacity method. Gets or sets the degree of opacity of the specified fill as a value between 0.0 (clear) and 1.0 (opaque) in C++.'
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.drawing/fill/get_opacity/
 ---
 ## Fill::get_Opacity method
@@ -53,4 +54,4 @@ doc->Save(ArtifactsDir + u"Shape.Fill.docx");
 
 * Class [Fill](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

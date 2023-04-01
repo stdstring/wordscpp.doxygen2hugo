@@ -1,9 +1,10 @@
 ---
-title: ListLabel
+title: Aspose::Words::Lists::ListLabel class
+linktitle: ListLabel
 second_title: Aspose.Words for C++ API Reference
-description: Defines properties specific to a list label.
+description: 'Aspose::Words::Lists::ListLabel class. Defines properties specific to a list label in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.lists/listlabel/
 ---
 ## ListLabel class
@@ -60,4 +61,4 @@ for (auto paragraph : System::IterateOver(
 ## See Also
 
 * Namespace [Aspose::Words::Lists](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

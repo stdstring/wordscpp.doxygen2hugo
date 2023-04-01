@@ -1,9 +1,10 @@
 ---
-title: get_ShowHiddenText
+title: Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText method
+linktitle: get_ShowHiddenText
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets indication of whether hidden text in the document is rendered. Default is False.
+description: 'Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText method. Gets or sets indication of whether hidden text in the document is rendered. Default is False in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.layout/layoutoptions/get_showhiddentext/
 ---
 ## LayoutOptions::get_ShowHiddenText method
@@ -39,4 +40,4 @@ doc->Save(ArtifactsDir + u"Document.LayoutOptionsHiddenText.pdf");
 
 * Class [LayoutOptions](../)
 * Namespace [Aspose::Words::Layout](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: OdsoRecipientData
+title: Aspose::Words::Settings::OdsoRecipientData class
+linktitle: OdsoRecipientData
 second_title: Aspose.Words for C++ API Reference
-description: Represents information about a single record within an external data source that is to be excluded from the mail merge.
+description: 'Aspose::Words::Settings::OdsoRecipientData class. Represents information about a single record within an external data source that is to be excluded from the mail merge in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.settings/odsorecipientdata/
 ---
 ## OdsoRecipientData class
@@ -36,4 +37,4 @@ If a record shall be merged into a merged document, then no information is neede
 ## See Also
 
 * Namespace [Aspose::Words::Settings](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

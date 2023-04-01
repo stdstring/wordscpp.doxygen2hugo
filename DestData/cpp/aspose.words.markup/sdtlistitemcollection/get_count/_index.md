@@ -1,9 +1,10 @@
 ---
-title: get_Count
+title: Aspose::Words::Markup::SdtListItemCollection::get_Count method
+linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Gets number of items in the collection.
+description: 'Aspose::Words::Markup::SdtListItemCollection::get_Count method. Gets number of items in the collection in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.markup/sdtlistitemcollection/get_count/
 ---
 ## SdtListItemCollection::get_Count method
@@ -80,4 +81,4 @@ ASSERT_EQ(0, listItems->get_Count());
 
 * Class [SdtListItemCollection](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

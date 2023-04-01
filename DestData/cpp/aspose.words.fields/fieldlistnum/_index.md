@@ -1,9 +1,10 @@
 ---
-title: FieldListNum
+title: Aspose::Words::Fields::FieldListNum class
+linktitle: FieldListNum
 second_title: Aspose.Words for C++ API Reference
-description: Implements the LISTNUM field.
+description: 'Aspose::Words::Fields::FieldListNum class. Implements the LISTNUM field in C++.'
 type: docs
-weight: 820
+weight: 6400
 url: /cpp/aspose.words.fields/fieldlistnum/
 ---
 ## FieldListNum class
@@ -122,4 +123,4 @@ doc->Save(ArtifactsDir + u"Field.LISTNUM.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

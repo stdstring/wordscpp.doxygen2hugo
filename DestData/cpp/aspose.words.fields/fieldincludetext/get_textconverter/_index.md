@@ -1,9 +1,10 @@
 ---
-title: get_TextConverter
+title: Aspose::Words::Fields::FieldIncludeText::get_TextConverter method
+linktitle: get_TextConverter
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the text converter for the format of the included file.
+description: 'Aspose::Words::Fields::FieldIncludeText::get_TextConverter method. Gets or sets the name of the text converter for the format of the included file in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldincludetext/get_textconverter/
 ---
 ## FieldIncludeText::get_TextConverter method
@@ -61,4 +62,4 @@ SharedPtr<FieldIncludeText> CreateFieldIncludeText(SharedPtr<DocumentBuilder> bu
 
 * Class [FieldIncludeText](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: FieldMergeBarcode
+title: Aspose::Words::Fields::FieldMergeBarcode class
+linktitle: FieldMergeBarcode
 second_title: Aspose.Words for C++ API Reference
-description: Implements the MERGEBARCODE field.
+description: 'Aspose::Words::Fields::FieldMergeBarcode class. Implements the MERGEBARCODE field in C++.'
 type: docs
-weight: 846
+weight: 6600
 url: /cpp/aspose.words.fields/fieldmergebarcode/
 ---
 ## FieldMergeBarcode class
@@ -75,4 +76,4 @@ class FieldMergeBarcode : public Aspose::Words::Fields::Field,
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

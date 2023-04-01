@@ -1,9 +1,10 @@
 ---
-title: get_BookmarkName
+title: Aspose::Words::Fields::FieldNoteRef::get_BookmarkName method
+linktitle: get_BookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the name of the bookmark.
+description: 'Aspose::Words::Fields::FieldNoteRef::get_BookmarkName method. Gets or sets the name of the bookmark in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/fieldnoteref/get_bookmarkname/
 ---
 ## FieldNoteRef::get_BookmarkName method
@@ -81,4 +82,4 @@ static void InsertBookmarkWithFootnote(SharedPtr<DocumentBuilder> builder, Strin
 
 * Class [FieldNoteRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

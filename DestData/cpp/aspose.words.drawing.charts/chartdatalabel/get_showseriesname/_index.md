@@ -1,9 +1,10 @@
 ---
-title: get_ShowSeriesName
+title: Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowSeriesName method
+linktitle: get_ShowSeriesName
 second_title: Aspose.Words for C++ API Reference
-description: Returns or sets a Boolean to indicate the series name display behavior for the data labels on a chart. True to show the series name. False to hide. By default false.
+description: 'Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowSeriesName method. Returns or sets a Boolean to indicate the series name display behavior for the data labels on a chart. True to show the series name. False to hide. By default false in C++.'
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_showseriesname/
 ---
 ## ChartDataLabel::get_ShowSeriesName method
@@ -94,4 +95,4 @@ static void ApplyDataLabels(SharedPtr<ChartSeries> series, int labelsCount, Stri
 
 * Class [ChartDataLabel](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: get_IsLinked
+title: Aspose::Words::Fields::FieldDdeAuto::get_IsLinked method
+linktitle: get_IsLinked
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to reduce the file size by not storing graphics data with the document.
+description: 'Aspose::Words::Fields::FieldDdeAuto::get_IsLinked method. Gets or sets whether to reduce the file size by not storing graphics data with the document in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldddeauto/get_islinked/
 ---
 ## FieldDdeAuto::get_IsLinked method
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldDdeAuto](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

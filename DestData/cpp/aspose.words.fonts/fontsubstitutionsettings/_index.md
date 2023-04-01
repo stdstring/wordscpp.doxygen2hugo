@@ -1,9 +1,10 @@
 ---
-title: FontSubstitutionSettings
+title: Aspose::Words::Fonts::FontSubstitutionSettings class
+linktitle: FontSubstitutionSettings
 second_title: Aspose.Words for C++ API Reference
-description: Specifies font substitution mechanism settings.
+description: 'Aspose::Words::Fonts::FontSubstitutionSettings class. Specifies font substitution mechanism settings in C++.'
 type: docs
-weight: 157
+weight: 1300
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/
 ---
 ## FontSubstitutionSettings class
@@ -99,4 +100,4 @@ ASSERT_EQ(1, doc->get_FontSettings()->get_SubstitutionSettings()->get_TableSubst
 ## See Also
 
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

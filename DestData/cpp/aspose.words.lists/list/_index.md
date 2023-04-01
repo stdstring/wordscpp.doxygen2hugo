@@ -1,9 +1,10 @@
 ---
-title: List
+title: Aspose::Words::Lists::List class
+linktitle: List
 second_title: Aspose.Words for C++ API Reference
-description: Represents formatting of a list.
+description: 'Aspose::Words::Lists::List class. Represents formatting of a list in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.lists/list/
 ---
 ## List class
@@ -193,4 +194,4 @@ doc->Save(ArtifactsDir + u"Lists.RestartNumberingUsingListCopy.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Lists](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

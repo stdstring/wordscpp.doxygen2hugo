@@ -1,9 +1,10 @@
 ---
-title: set_Address
+title: Aspose::Words::Fields::FieldHyperlink::set_Address method
+linktitle: set_Address
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldHyperlink::get_Address.'
+description: 'Aspose::Words::Fields::FieldHyperlink::set_Address method. Setter for Aspose::Words::Fields::FieldHyperlink::get_Address in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldhyperlink/set_address/
 ---
 ## FieldHyperlink::set_Address method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldHyperlink::set_Address(const System::String &va
 
 * Class [FieldHyperlink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

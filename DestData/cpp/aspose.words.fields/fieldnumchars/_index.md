@@ -1,9 +1,10 @@
 ---
-title: FieldNumChars
+title: Aspose::Words::Fields::FieldNumChars class
+linktitle: FieldNumChars
 second_title: Aspose.Words for C++ API Reference
-description: Implements the NUMCHARS field.
+description: 'Aspose::Words::Fields::FieldNumChars class. Implements the NUMCHARS field in C++.'
 type: docs
-weight: 937
+weight: 7300
 url: /cpp/aspose.words.fields/fieldnumchars/
 ---
 ## FieldNumChars class
@@ -87,4 +88,4 @@ doc->Save(ArtifactsDir + u"Field.NUMCHARS.NUMWORDS.NUMPAGES.PAGE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

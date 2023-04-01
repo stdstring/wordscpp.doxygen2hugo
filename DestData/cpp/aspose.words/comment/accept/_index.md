@@ -1,9 +1,10 @@
 ---
-title: Accept
+title: Aspose::Words::Comment::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: 'Aspose::Words::Comment::Accept method. Accepts a visitor in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words/comment/accept/
 ---
 ## Comment::Accept method
@@ -176,4 +177,4 @@ private:
 * Class [DocumentVisitor](../../documentvisitor/)
 * Class [Comment](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

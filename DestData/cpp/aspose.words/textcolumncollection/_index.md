@@ -1,9 +1,10 @@
 ---
-title: TextColumnCollection
+title: Aspose::Words::TextColumnCollection class
+linktitle: TextColumnCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of TextColumn objects that represent all the columns of text in a section of a document.
+description: 'Aspose::Words::TextColumnCollection class. A collection of TextColumn objects that represent all the columns of text in a section of a document in C++.'
 type: docs
-weight: 911
+weight: 7100
 url: /cpp/aspose.words/textcolumncollection/
 ---
 ## TextColumnCollection class
@@ -63,4 +64,4 @@ doc->Save(ArtifactsDir + u"PageSetup.ColumnsSameWidth.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: WebExtensionPropertyCollection
+title: Aspose::Words::WebExtensions::WebExtensionPropertyCollection class
+linktitle: WebExtensionPropertyCollection
 second_title: Aspose.Words for C++ API Reference
-description: Specifies a set of web extension custom properties.
+description: 'Aspose::Words::WebExtensions::WebExtensionPropertyCollection class. Specifies a set of web extension custom properties in C++.'
 type: docs
-weight: 92
+weight: 800
 url: /cpp/aspose.words.webextensions/webextensionpropertycollection/
 ---
 ## WebExtensionPropertyCollection class
@@ -68,4 +69,4 @@ ASSERT_EQ(0, doc->get_WebExtensionTaskPanes()->get_Count());
 
 * Class [BaseWebExtensionCollection](../basewebextensioncollection/)
 * Namespace [Aspose::Words::WebExtensions](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

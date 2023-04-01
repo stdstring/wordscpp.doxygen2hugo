@@ -1,9 +1,10 @@
 ---
-title: VbaReference
+title: Aspose::Words::Vba::VbaReference class
+linktitle: VbaReference
 second_title: Aspose.Words for C++ API Reference
-description: Implements a reference to an Automation type library or VBA project.
+description: 'Aspose::Words::Vba::VbaReference class. Implements a reference to an Automation type library or VBA project in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.vba/vbareference/
 ---
 ## VbaReference class
@@ -94,4 +95,4 @@ static String GetLibIdProjectPath(String libIdProject)
 ## See Also
 
 * Namespace [Aspose::Words::Vba](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

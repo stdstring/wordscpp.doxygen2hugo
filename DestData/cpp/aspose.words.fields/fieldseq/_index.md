@@ -1,9 +1,10 @@
 ---
-title: FieldSeq
+title: Aspose::Words::Fields::FieldSeq class
+linktitle: FieldSeq
 second_title: Aspose.Words for C++ API Reference
-description: Implements the SEQ field.
+description: 'Aspose::Words::Fields::FieldSeq class. Implements the SEQ field in C++.'
 type: docs
-weight: 1171
+weight: 9100
 url: /cpp/aspose.words.fields/fieldseq/
 ---
 ## FieldSeq class
@@ -261,4 +262,4 @@ doc->Save(ArtifactsDir + u"Field.SEQ.Bookmark.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

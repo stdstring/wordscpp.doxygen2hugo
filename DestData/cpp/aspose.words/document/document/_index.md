@@ -1,9 +1,10 @@
 ---
-title: Document
+title: Aspose::Words::Document::Document constructor
+linktitle: Document
 second_title: Aspose.Words for C++ API Reference
-description: Creates a blank Word document.
+description: 'Aspose::Words::Document::Document constructor. Creates a blank Word document in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/document/document/
 ---
 ## Document::Document() constructor
@@ -68,7 +69,7 @@ doc->Save(ArtifactsDir + u"Font.CreateFormattedRun.docx");
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
@@ -131,7 +132,7 @@ const String url = u"https://omextemplates.content.office.net/support/templates/
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Document(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) constructor
 
 
@@ -225,7 +226,7 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 * Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Document(const System::String\&) constructor
 
 
@@ -255,7 +256,7 @@ doc->Save(ArtifactsDir + u"Document.ConvertToPdf.pdf");
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Document(const System::String\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) constructor
 
 
@@ -325,7 +326,7 @@ doc = MakeObject<Document>(MyDir + u"Encrypted.docx", options);
 * Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Document(std::istream\&) constructor
 
 
@@ -339,7 +340,7 @@ Aspose::Words::Document::Document(std::istream &stream)
 
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## Document::Document(std::istream\&, const System::SharedPtr\<Aspose::Words::Loading::LoadOptions\>\&) constructor
 
 
@@ -354,4 +355,4 @@ Aspose::Words::Document::Document(std::istream &stream, const System::SharedPtr<
 * Class [LoadOptions](../../../aspose.words.loading/loadoptions/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

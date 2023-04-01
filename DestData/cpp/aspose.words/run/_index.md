@@ -1,9 +1,10 @@
 ---
-title: Run
+title: Aspose::Words::Run class
+linktitle: Run
 second_title: Aspose.Words for C++ API Reference
-description: Represents a run of characters with the same font formatting.
+description: 'Aspose::Words::Run class. Represents a run of characters with the same font formatting in C++.'
 type: docs
-weight: 716
+weight: 5600
 url: /cpp/aspose.words/run/
 ---
 ## Run class
@@ -172,4 +173,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 
 * Class [Inline](../inline/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

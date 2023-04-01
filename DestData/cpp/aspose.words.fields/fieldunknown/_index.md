@@ -1,9 +1,10 @@
 ---
-title: FieldUnknown
+title: Aspose::Words::Fields::FieldUnknown class
+linktitle: FieldUnknown
 second_title: Aspose.Words for C++ API Reference
-description: Implements an unknown or unrecognized field.
+description: 'Aspose::Words::Fields::FieldUnknown class. Implements an unknown or unrecognized field in C++.'
 type: docs
-weight: 1366
+weight: 10600
 url: /cpp/aspose.words.fields/fieldunknown/
 ---
 ## FieldUnknown class
@@ -69,4 +70,4 @@ ASSERT_EQ(u" NOTAREALFIELD //a", fieldUnknown->GetFieldCode());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

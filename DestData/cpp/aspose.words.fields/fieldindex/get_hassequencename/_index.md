@@ -1,9 +1,10 @@
 ---
-title: get_HasSequenceName
+title: Aspose::Words::Fields::FieldIndex::get_HasSequenceName method
+linktitle: get_HasSequenceName
 second_title: Aspose.Words for C++ API Reference
-description: Gets a value indicating whether a sequence should be used while the field's result building.
+description: 'Aspose::Words::Fields::FieldIndex::get_HasSequenceName method. Gets a value indicating whether a sequence should be used while the field''s result building in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldindex/get_hassequencename/
 ---
 ## FieldIndex::get_HasSequenceName method
@@ -93,4 +94,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Sequence.docx");
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: XamlFixedSaveOptions
+title: Aspose::Words::Saving::XamlFixedSaveOptions class
+linktitle: XamlFixedSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Can be used to specify additional options when saving a document into the XamlFixed format.
+description: 'Aspose::Words::Saving::XamlFixedSaveOptions class. Can be used to specify additional options when saving a document into the XamlFixed format in C++.'
 type: docs
-weight: 456
+weight: 3600
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/
 ---
 ## XamlFixedSaveOptions class
@@ -154,4 +155,4 @@ private:
 
 * Class [FixedPageSaveOptions](../fixedpagesaveoptions/)
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

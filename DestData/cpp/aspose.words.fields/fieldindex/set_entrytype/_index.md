@@ -1,9 +1,10 @@
 ---
-title: set_EntryType
+title: Aspose::Words::Fields::FieldIndex::set_EntryType method
+linktitle: set_EntryType
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIndex::get_EntryType.'
+description: 'Aspose::Words::Fields::FieldIndex::set_EntryType method. Setter for Aspose::Words::Fields::FieldIndex::get_EntryType in C++.'
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.fields/fieldindex/set_entrytype/
 ---
 ## FieldIndex::set_EntryType method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIndex::set_EntryType(const System::String &valu
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

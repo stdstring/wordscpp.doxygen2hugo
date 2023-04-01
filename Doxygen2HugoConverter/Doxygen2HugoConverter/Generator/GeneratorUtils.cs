@@ -1,6 +1,7 @@
 ﻿using System.Text;
 using Doxygen2HugoConverter.Entities;
 using Doxygen2HugoConverter.Logger;
+using Doxygen2HugoConverter.Lookup;
 using Doxygen2HugoConverter.Markup;
 
 namespace Doxygen2HugoConverter.Generator
@@ -9,45 +10,48 @@ namespace Doxygen2HugoConverter.Generator
 
     internal record GenerateEntry(String Title, String BriefDescription);
 
-    internal record GenerateState(String Directory, IList<String> Url, ConvertData ConvertData)
-    {
-        public Int32 Weight { get; private set; } = 1;
-
-        public void IncreaseWeight()
-        {
-            Weight += WeightDelta;
-        }
-
-        private const Int32 WeightDelta = 13;
-    }
+    internal record GenerateState(String Directory, IList<String> Url, ConvertData ConvertData);
 
     internal static class GeneratorUtils
     {
-        public static void GeneratePageHeader(IEnumerable<KeyValuePair<String, String>> data, StringBuilder dest)
+        public static String CreateDefaultHeaderDescription(this EntityDef entity, ConvertData convertData)
         {
-            dest.AppendLine("---");
-            data.Iterate(item => { dest.AppendLine($"{item.Key}: {item.Value}"); });
-            dest.AppendLine("---");
+            switch (entity)
+            {
+                case EntityDef.NamespaceEntity _:
+                    return $"How to use {entity.Name} namespace";
+                default:
+                    EntityDef parent = convertData.EntityRepo[entity.ParentId];
+                    return entity switch
+                    {
+                        EntityDef.ClassEntity {Kind: ClassKind.Class} classEntity => $"How to use {classEntity.FullName} class",
+                        EntityDef.ClassEntity {Kind: ClassKind.Interface} classEntity => $"How to use {classEntity.FullName} interface",
+                        EntityDef.EnumEntity enumEntity => $"How to use {enumEntity.FullName} enum",
+                        EntityDef.FieldEntity fieldEntity => $"How to use {fieldEntity.Name} field of {parent.FullName} class",
+                        EntityDef.MethodEntity {Kind: MethodKind.Constructor} methodEntity => $"How to use {methodEntity.Name} constructor of {parent.FullName} class",
+                        EntityDef.MethodEntity {Kind: MethodKind.Method} methodEntity => $"How to use {methodEntity.Name} method of {parent.FullName} class",
+                        EntityDef.TypedefEntity typedefEntity when parent.EntityKind == EntityKind.Namespace => $"How to use {typedefEntity.FullName} typedef",
+                        EntityDef.TypedefEntity typedefEntity when parent.EntityKind == EntityKind.Class => $"How to use {typedefEntity.FullName} typedef of {parent.FullName} class",
+                        _ => throw new InvalidOperationException("Unexpected entity")
+                    };
+            }
         }
 
-        public static void GenerateDefPageHeader(String title, String description, IList<String> url, Int32 weight, SpecificInfo specificInfo, StringBuilder dest)
+        public static void GenerateDefPageHeader(String title, String linkTitle, String description, IList<String> url, Int32 weight, ConvertData convertData, StringBuilder dest)
         {
-            String PrepareValue(String value) =>
-                value.IndexOf(':') switch
-                {
-                    -1 => value,
-                    _ => $"'{value}'"
-                };
-            KeyValuePair<String, String>[] data =
+            const String urlRemovablePrefix = $"/{Common.RootDirectory}/";
+            String refUrl = UrlGenerator.CreateUrl(url, false).TrimEnd('/');
+            if (refUrl.StartsWith(urlRemovablePrefix))
+                refUrl = refUrl.Substring(urlRemovablePrefix.Length);
+            String pageHeader = convertData.PageHeaderGenerator(new Dictionary<String, String>
             {
-                KeyValuePair.Create("title", PrepareValue(title)),
-                KeyValuePair.Create("second_title", specificInfo.PageSecondTitle),
-                KeyValuePair.Create("description", PrepareValue(description)),
-                KeyValuePair.Create("type", "docs"),
-                KeyValuePair.Create("weight", weight.ToString()),
-                KeyValuePair.Create("url", UrlGenerator.CreateUrl(url, false))
-            };
-            GeneratePageHeader(data, dest);
+                {"title", title},
+                {"linktitle", linkTitle},
+                {"description", description.TrimEnd('.')},
+                {"weight", weight.ToString()},
+                {"ref", refUrl}
+            });
+            dest.AppendLine(pageHeader);
         }
 
         public static void GenerateHeader(String headerText, Int32 headerLevel, StringBuilder dest)
@@ -108,7 +112,7 @@ namespace Doxygen2HugoConverter.Generator
             }
         }
 
-        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, SpecificInfo specificInfo, StringBuilder dest)
+        public static void GenerateSeeAlsoCommonPart(this EntityDef definition, IDictionary<String, EntityDef> entityRepo, ConvertData convertData, StringBuilder dest)
         {
             IList<EntityDef> CreateParentList()
             {
@@ -148,7 +152,29 @@ namespace Doxygen2HugoConverter.Generator
                 parent.GenerateSeeAlsoEntry(parentUrl.ToString(), dest);
             }
             parentUrl.Append(Common.ParentUrl);
-            dest.AppendLine($"* Library {CreateLink(specificInfo.LibraryName, parentUrl.ToString())}");
+            dest.AppendLine($"* Library {CreateLink(convertData.LibraryName, parentUrl.ToString())}");
+        }
+    }
+
+    internal static class GeneratorHelper
+    {
+        public static void GenerateForChildren<TEntityDef>(this IList<TEntityDef> children,
+                                                           LookupFrame currentFrame,
+                                                           Action<TEntityDef, LookupFrame> generator) where TEntityDef : EntityDef
+        {
+            children.GenerateForChildren(currentFrame, generator, entity => entity.Name);
+        }
+
+        public static void GenerateForChildren<TEntity>(this IList<TEntity> children,
+                                                        LookupFrame currentFrame,
+                                                        Action<TEntity, LookupFrame> generator,
+                                                        Func<TEntity, String> nameSelector)
+        {
+            children.Iterate(childEntity =>
+            {
+                using (LookupFrame childFrame = currentFrame.EnterChild(nameSelector(childEntity)))
+                    generator(childEntity, childFrame);
+            });
         }
     }
 }

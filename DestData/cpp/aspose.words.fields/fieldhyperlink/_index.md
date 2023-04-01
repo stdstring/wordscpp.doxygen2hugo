@@ -1,9 +1,10 @@
 ---
-title: FieldHyperlink
+title: Aspose::Words::Fields::FieldHyperlink class
+linktitle: FieldHyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Implements the HYPERLINK field.
+description: 'Aspose::Words::Fields::FieldHyperlink class. Implements the HYPERLINK field in C++.'
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words.fields/fieldhyperlink/
 ---
 ## FieldHyperlink class
@@ -92,4 +93,4 @@ doc->Save(ArtifactsDir + u"Field.HYPERLINK.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

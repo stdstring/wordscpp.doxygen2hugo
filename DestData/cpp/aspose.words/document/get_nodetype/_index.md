@@ -1,9 +1,10 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Document::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Document.
+description: 'Aspose::Words::Document::get_NodeType method. Returns NodeType.Document in C++.'
 type: docs
-weight: 456
+weight: 3600
 url: /cpp/aspose.words/document/get_nodetype/
 ---
 ## Document::get_NodeType method
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../nodetype/)
 * Class [Document](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

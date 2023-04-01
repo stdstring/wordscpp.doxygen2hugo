@@ -1,9 +1,10 @@
 ---
-title: BarcodeParameters
+title: Aspose::Words::Fields::BarcodeParameters class
+linktitle: BarcodeParameters
 second_title: Aspose.Words for C++ API Reference
-description: Container class for barcode parameters to pass-through to BarcodeGenerator.
+description: 'Aspose::Words::Fields::BarcodeParameters class. Container class for barcode parameters to pass-through to BarcodeGenerator in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.fields/barcodeparameters/
 ---
 ## BarcodeParameters class
@@ -57,4 +58,4 @@ class BarcodeParameters : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

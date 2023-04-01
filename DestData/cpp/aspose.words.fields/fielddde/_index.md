@@ -1,9 +1,10 @@
 ---
-title: FieldDde
+title: Aspose::Words::Fields::FieldDde class
+linktitle: FieldDde
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DDE field.
+description: 'Aspose::Words::Fields::FieldDde class. Implements the DDE field in C++.'
 type: docs
-weight: 404
+weight: 3200
 url: /cpp/aspose.words.fields/fielddde/
 ---
 ## FieldDde class
@@ -248,4 +249,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

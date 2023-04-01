@@ -1,9 +1,10 @@
 ---
-title: FieldFormat
+title: Aspose::Words::Fields::FieldFormat class
+linktitle: FieldFormat
 second_title: Aspose.Words for C++ API Reference
-description: Provides typed access to field's numeric, date and time, and general formatting.
+description: 'Aspose::Words::Fields::FieldFormat class. Provides typed access to field''s numeric, date and time, and general formatting in C++.'
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words.fields/fieldformat/
 ---
 ## FieldFormat class
@@ -94,4 +95,4 @@ ASSERT_EQ(0, format->get_GeneralFormats()->get_Count());
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

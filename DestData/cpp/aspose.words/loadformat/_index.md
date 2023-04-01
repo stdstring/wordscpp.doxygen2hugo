@@ -1,9 +1,10 @@
 ---
-title: LoadFormat
+title: Aspose::Words::LoadFormat enum
+linktitle: LoadFormat
 second_title: Aspose.Words for C++ API Reference
-description: Indicates the format of the document that is to be loaded.
+description: 'Aspose::Words::LoadFormat enum. Indicates the format of the document that is to be loaded in C++.'
 type: docs
-weight: 1262
+weight: 9800
 url: /cpp/aspose.words/loadformat/
 ---
 ## LoadFormat enum
@@ -123,4 +124,4 @@ doc->Save(ArtifactsDir + u"HtmlLoadOptions.BaseUri.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

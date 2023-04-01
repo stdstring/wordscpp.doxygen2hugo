@@ -1,9 +1,10 @@
 ---
-title: AxisDisplayUnit
+title: Aspose::Words::Drawing::Charts::AxisDisplayUnit class
+linktitle: AxisDisplayUnit
 second_title: Aspose.Words for C++ API Reference
-description: Provides access to the scaling options of the display units for the value axis.
+description: 'Aspose::Words::Drawing::Charts::AxisDisplayUnit class. Provides access to the scaling options of the display units for the value axis in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/
 ---
 ## AxisDisplayUnit class
@@ -87,4 +88,4 @@ doc->Save(ArtifactsDir + u"Charts.AxisDisplayUnit.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

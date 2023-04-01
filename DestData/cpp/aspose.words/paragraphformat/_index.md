@@ -1,9 +1,10 @@
 ---
-title: ParagraphFormat
+title: Aspose::Words::ParagraphFormat class
+linktitle: ParagraphFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents all the formatting for a paragraph.
+description: 'Aspose::Words::ParagraphFormat class. Represents all the formatting for a paragraph in C++.'
 type: docs
-weight: 625
+weight: 4900
 url: /cpp/aspose.words/paragraphformat/
 ---
 ## ParagraphFormat class
@@ -148,4 +149,4 @@ doc->Save(ArtifactsDir + u"Section.CreateManually.docx");
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: get_Encoding
+title: Aspose::Words::Fields::FieldIncludeText::get_Encoding method
+linktitle: get_Encoding
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the encoding applied to the data within the referenced file.
+description: 'Aspose::Words::Fields::FieldIncludeText::get_Encoding method. Gets or sets the encoding applied to the data within the referenced file in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/fieldincludetext/get_encoding/
 ---
 ## FieldIncludeText::get_Encoding method
@@ -61,4 +62,4 @@ SharedPtr<FieldIncludeText> CreateFieldIncludeText(SharedPtr<DocumentBuilder> bu
 
 * Class [FieldIncludeText](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

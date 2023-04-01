@@ -1,9 +1,10 @@
 ---
-title: TxtLoadOptions
+title: Aspose::Words::Loading::TxtLoadOptions class
+linktitle: TxtLoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify additional options when loading Text document into a Document object.
+description: 'Aspose::Words::Loading::TxtLoadOptions class. Allows to specify additional options when loading Text document into a Document object in C++.'
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.loading/txtloadoptions/
 ---
 ## TxtLoadOptions class
@@ -66,4 +67,4 @@ class TxtLoadOptions : public Aspose::Words::Loading::LoadOptions
 
 * Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

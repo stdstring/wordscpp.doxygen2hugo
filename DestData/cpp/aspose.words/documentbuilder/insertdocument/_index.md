@@ -1,9 +1,10 @@
 ---
-title: InsertDocument
+title: Aspose::Words::DocumentBuilder::InsertDocument method
+linktitle: InsertDocument
 second_title: Aspose.Words for C++ API Reference
-description: Inserts a document at the cursor position.
+description: 'Aspose::Words::DocumentBuilder::InsertDocument method. Inserts a document at the cursor position in C++.'
 type: docs
-weight: 391
+weight: 3100
 url: /cpp/aspose.words/documentbuilder/insertdocument/
 ---
 ## DocumentBuilder::InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode) method
@@ -50,7 +51,7 @@ builder->get_Document()->Save(ArtifactsDir + u"DocumentBuilder.InsertDocument.do
 * Enum [ImportFormatMode](../../importformatmode/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertDocument(const System::SharedPtr\<Aspose::Words::Document\>\&, Aspose::Words::ImportFormatMode, const System::SharedPtr\<Aspose::Words::ImportFormatOptions\>\&) method
 
 
@@ -112,4 +113,4 @@ dstDoc->Save(ArtifactsDir + u"DocumentBuilder.SmartStyleBehavior.docx");
 * Class [ImportFormatOptions](../../importformatoptions/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: FieldUserInitials
+title: Aspose::Words::Fields::FieldUserInitials class
+linktitle: FieldUserInitials
 second_title: Aspose.Words for C++ API Reference
-description: Implements the USERINITIALS field.
+description: 'Aspose::Words::Fields::FieldUserInitials class. Implements the USERINITIALS field in C++.'
 type: docs
-weight: 1392
+weight: 10800
 url: /cpp/aspose.words.fields/fielduserinitials/
 ---
 ## FieldUserInitials class
@@ -84,4 +85,4 @@ doc->Save(ArtifactsDir + u"Field.USERINITIALS.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

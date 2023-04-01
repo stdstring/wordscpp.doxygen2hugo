@@ -1,9 +1,10 @@
 ---
-title: FieldCitation
+title: Aspose::Words::Fields::FieldCitation class
+linktitle: FieldCitation
 second_title: Aspose.Words for C++ API Reference
-description: Implements the CITATION field.
+description: 'Aspose::Words::Fields::FieldCitation class. Implements the CITATION field in C++.'
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.fields/fieldcitation/
 ---
 ## FieldCitation class
@@ -120,4 +121,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

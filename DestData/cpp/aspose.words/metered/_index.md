@@ -1,9 +1,10 @@
 ---
-title: Metered
+title: Aspose::Words::Metered class
+linktitle: Metered
 second_title: Aspose.Words for C++ API Reference
-description: Provides methods to set metered key.
+description: 'Aspose::Words::Metered class. Provides methods to set metered key in C++.'
 type: docs
-weight: 508
+weight: 4000
 url: /cpp/aspose.words/metered/
 ---
 ## Metered class
@@ -26,4 +27,4 @@ class Metered : public System::Object
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

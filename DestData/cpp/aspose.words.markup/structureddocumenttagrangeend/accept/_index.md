@@ -1,9 +1,10 @@
 ---
-title: Accept
+title: Aspose::Words::Markup::StructuredDocumentTagRangeEnd::Accept method
+linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Accepts a visitor.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeEnd::Accept method. Accepts a visitor in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.markup/structureddocumenttagrangeend/accept/
 ---
 ## StructuredDocumentTagRangeEnd::Accept method
@@ -214,4 +215,4 @@ public:
 * Class [DocumentVisitor](../../../aspose.words/documentvisitor/)
 * Class [StructuredDocumentTagRangeEnd](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

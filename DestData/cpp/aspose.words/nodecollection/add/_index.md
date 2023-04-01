@@ -1,9 +1,10 @@
 ---
-title: Add
+title: Aspose::Words::NodeCollection::Add method
+linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Adds a node to the end of the collection.
+description: 'Aspose::Words::NodeCollection::Add method. Adds a node to the end of the collection in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/nodecollection/add/
 ---
 ## NodeCollection::Add method
@@ -63,4 +64,4 @@ ASSERT_EQ(u"Hello world!", doc->GetText().Trim());
 * Class [Node](../../node/)
 * Class [NodeCollection](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

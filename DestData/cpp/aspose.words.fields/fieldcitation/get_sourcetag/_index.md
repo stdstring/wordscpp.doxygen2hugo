@@ -1,9 +1,10 @@
 ---
-title: get_SourceTag
+title: Aspose::Words::Fields::FieldCitation::get_SourceTag method
+linktitle: get_SourceTag
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value that mathes the Tag element's value of the source to insert.
+description: 'Aspose::Words::Fields::FieldCitation::get_SourceTag method. Gets or sets a value that mathes the Tag element''s value of the source to insert in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldcitation/get_sourcetag/
 ---
 ## FieldCitation::get_SourceTag method
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

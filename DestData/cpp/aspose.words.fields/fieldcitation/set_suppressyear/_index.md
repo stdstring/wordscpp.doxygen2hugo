@@ -1,9 +1,10 @@
 ---
-title: set_SuppressYear
+title: Aspose::Words::Fields::FieldCitation::set_SuppressYear method
+linktitle: set_SuppressYear
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldCitation::get_SuppressYear.'
+description: 'Aspose::Words::Fields::FieldCitation::set_SuppressYear method. Setter for Aspose::Words::Fields::FieldCitation::get_SuppressYear in C++.'
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.fields/fieldcitation/set_suppressyear/
 ---
 ## FieldCitation::set_SuppressYear method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldCitation::set_SuppressYear(bool value)
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

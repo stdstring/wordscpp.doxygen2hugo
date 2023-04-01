@@ -1,9 +1,10 @@
 ---
-title: set_UserName
+title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_UserName method
+linktitle: set_UserName
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_UserName.'
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_UserName method. Setter for Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_UserName in C++.'
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/set_username/
 ---
 ## PdfDigitalSignatureTimestampSettings::set_UserName method
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::set_UserName(c
 
 * Class [PdfDigitalSignatureTimestampSettings](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

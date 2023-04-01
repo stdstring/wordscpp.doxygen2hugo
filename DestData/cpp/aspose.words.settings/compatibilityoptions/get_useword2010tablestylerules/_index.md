@@ -1,9 +1,10 @@
 ---
-title: get_UseWord2010TableStyleRules
+title: Aspose::Words::Settings::CompatibilityOptions::get_UseWord2010TableStyleRules method
+linktitle: get_UseWord2010TableStyleRules
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: 'How to use get_UseWord2010TableStyleRules method of Aspose::Words::Settings::CompatibilityOptions class in C++.'
 type: docs
-weight: 859
+weight: 6700
 url: /cpp/aspose.words.settings/compatibilityoptions/get_useword2010tablestylerules/
 ---
 ## CompatibilityOptions::get_UseWord2010TableStyleRules method
@@ -19,4 +20,4 @@ bool Aspose::Words::Settings::CompatibilityOptions::get_UseWord2010TableStyleRul
 
 * Class [CompatibilityOptions](../)
 * Namespace [Aspose::Words::Settings](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

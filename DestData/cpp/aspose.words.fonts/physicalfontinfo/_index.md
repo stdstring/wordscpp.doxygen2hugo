@@ -1,9 +1,10 @@
 ---
-title: PhysicalFontInfo
+title: Aspose::Words::Fonts::PhysicalFontInfo class
+linktitle: PhysicalFontInfo
 second_title: Aspose.Words for C++ API Reference
-description: Specifies information about physical font available to Aspose.Words font engine.
+description: 'Aspose::Words::Fonts::PhysicalFontInfo class. Specifies information about physical font available to Aspose.Words font engine in C++.'
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words.fonts/physicalfontinfo/
 ---
 ## PhysicalFontInfo class
@@ -45,4 +46,4 @@ for (const auto& fontInfo : System::IterateOver(folderFontSource[0]->GetAvailabl
 ## See Also
 
 * Namespace [Aspose::Words::Fonts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

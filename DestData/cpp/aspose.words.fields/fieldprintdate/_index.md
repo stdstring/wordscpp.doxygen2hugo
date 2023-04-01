@@ -1,9 +1,10 @@
 ---
-title: FieldPrintDate
+title: Aspose::Words::Fields::FieldPrintDate class
+linktitle: FieldPrintDate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PRINTDATE field.
+description: 'Aspose::Words::Fields::FieldPrintDate class. Implements the PRINTDATE field in C++.'
 type: docs
-weight: 1041
+weight: 8100
 url: /cpp/aspose.words.fields/fieldprintdate/
 ---
 ## FieldPrintDate class
@@ -93,4 +94,4 @@ ASSERT_EQ(u" PRINTDATE  \\s", field->GetFieldCode());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

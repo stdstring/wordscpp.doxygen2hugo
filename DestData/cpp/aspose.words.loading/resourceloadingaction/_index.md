@@ -1,9 +1,10 @@
 ---
-title: ResourceLoadingAction
+title: Aspose::Words::Loading::ResourceLoadingAction enum
+linktitle: ResourceLoadingAction
 second_title: Aspose.Words for C++ API Reference
-description: Specifies the mode of resource loading.
+description: 'Aspose::Words::Loading::ResourceLoadingAction enum. Specifies the mode of resource loading in C++.'
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.loading/resourceloadingaction/
 ---
 ## ResourceLoadingAction enum
@@ -85,4 +86,4 @@ public:
 ## See Also
 
 * Namespace [Aspose::Words::Loading](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

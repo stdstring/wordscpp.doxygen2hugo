@@ -1,9 +1,10 @@
 ---
-title: CertificateHolder
+title: Aspose::Words::DigitalSignatures::CertificateHolder class
+linktitle: CertificateHolder
 second_title: Aspose.Words for C++ API Reference
-description: Represents a holder of X509Certificate2 instance.
+description: 'Aspose::Words::DigitalSignatures::CertificateHolder class. Represents a holder of X509Certificate2 instance in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words.digitalsignatures/certificateholder/
 ---
 ## CertificateHolder class
@@ -207,4 +208,4 @@ static SharedPtr<System::Collections::Generic::List<SharedPtr<ExSignDocumentCust
 ## See Also
 
 * Namespace [Aspose::Words::DigitalSignatures](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

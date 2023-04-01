@@ -1,9 +1,10 @@
 ---
-title: CommentCollection
+title: Aspose::Words::CommentCollection class
+linktitle: CommentCollection
 second_title: Aspose.Words for C++ API Reference
-description: Provides typed access to a collection of Comment nodes.
+description: 'Aspose::Words::CommentCollection class. Provides typed access to a collection of Comment nodes in C++.'
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words/commentcollection/
 ---
 ## CommentCollection class
@@ -67,4 +68,4 @@ doc->Save(ArtifactsDir + u"Comment.Done.docx");
 
 * Class [NodeCollection](../nodecollection/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

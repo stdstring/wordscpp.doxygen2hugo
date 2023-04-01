@@ -1,9 +1,10 @@
 ---
-title: GroupShape
+title: Aspose::Words::Drawing::GroupShape class
+linktitle: GroupShape
 second_title: Aspose.Words for C++ API Reference
-description: Represents a group of shapes in a document.
+description: 'Aspose::Words::Drawing::GroupShape class. Represents a group of shapes in a document in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.drawing/groupshape/
 ---
 ## GroupShape class
@@ -244,4 +245,4 @@ private:
 
 * Class [ShapeBase](../shapebase/)
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

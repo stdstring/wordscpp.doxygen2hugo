@@ -1,9 +1,10 @@
 ---
-title: FieldFileName
+title: Aspose::Words::Fields::FieldFileName class
+linktitle: FieldFileName
 second_title: Aspose.Words for C++ API Reference
-description: Implements the FILENAME field.
+description: 'Aspose::Words::Fields::FieldFileName class. Implements the FILENAME field in C++.'
 type: docs
-weight: 521
+weight: 4100
 url: /cpp/aspose.words.fields/fieldfilename/
 ---
 ## FieldFileName class
@@ -96,4 +97,4 @@ doc->Save(ArtifactsDir + doc->get_FieldOptions()->get_FileName());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

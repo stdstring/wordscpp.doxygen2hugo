@@ -1,9 +1,10 @@
 ---
-title: set_IsItalic
+title: Aspose::Words::Fields::FieldXE::set_IsItalic method
+linktitle: set_IsItalic
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldXE::get_IsItalic.'
+description: 'Aspose::Words::Fields::FieldXE::set_IsItalic method. Setter for Aspose::Words::Fields::FieldXE::get_IsItalic in C++.'
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.fields/fieldxe/set_isitalic/
 ---
 ## FieldXE::set_IsItalic method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldXE::set_IsItalic(bool value)
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

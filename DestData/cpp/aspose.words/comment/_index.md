@@ -1,9 +1,10 @@
 ---
-title: Comment
+title: Aspose::Words::Comment class
+linktitle: Comment
 second_title: Aspose.Words for C++ API Reference
-description: Represents a container for text of a comment.
+description: 'Aspose::Words::Comment class. Represents a container for text of a comment in C++.'
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words/comment/
 ---
 ## Comment class
@@ -156,4 +157,4 @@ doc->Save(ArtifactsDir + u"InlineStory.AddComment.docx");
 
 * Class [InlineStory](../inlinestory/)
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

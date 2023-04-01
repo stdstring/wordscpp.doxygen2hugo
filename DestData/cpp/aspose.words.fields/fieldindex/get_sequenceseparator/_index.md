@@ -1,9 +1,10 @@
 ---
-title: get_SequenceSeparator
+title: Aspose::Words::Fields::FieldIndex::get_SequenceSeparator method
+linktitle: get_SequenceSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the character sequence that is used to separate sequence numbers and page numbers.
+description: 'Aspose::Words::Fields::FieldIndex::get_SequenceSeparator method. Gets or sets the character sequence that is used to separate sequence numbers and page numbers in C++.'
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words.fields/fieldindex/get_sequenceseparator/
 ---
 ## FieldIndex::get_SequenceSeparator method
@@ -93,4 +94,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Sequence.docx");
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

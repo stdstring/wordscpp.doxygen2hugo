@@ -1,9 +1,10 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Run::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Returns NodeType.Run.
+description: 'Aspose::Words::Run::get_NodeType method. Returns NodeType.Run in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words/run/get_nodetype/
 ---
 ## Run::get_NodeType method
@@ -62,4 +63,4 @@ void TraverseAllNodes(SharedPtr<CompositeNode> parentNode, int depth)
 * Enum [NodeType](../../nodetype/)
 * Class [Run](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: LineSpacingRule
+title: Aspose::Words::LineSpacingRule enum
+linktitle: LineSpacingRule
 second_title: Aspose.Words for C++ API Reference
-description: Specifies line spacing values for a paragraph.
+description: 'Aspose::Words::LineSpacingRule enum. Specifies line spacing values for a paragraph in C++.'
 type: docs
-weight: 1236
+weight: 9600
 url: /cpp/aspose.words/linespacingrule/
 ---
 ## LineSpacingRule enum
@@ -26,4 +27,4 @@ enum class LineSpacingRule
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

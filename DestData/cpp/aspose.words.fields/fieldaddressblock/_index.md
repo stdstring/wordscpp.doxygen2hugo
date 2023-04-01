@@ -1,9 +1,10 @@
 ---
-title: FieldAddressBlock
+title: Aspose::Words::Fields::FieldAddressBlock class
+linktitle: FieldAddressBlock
 second_title: Aspose.Words for C++ API Reference
-description: Implements the ADDRESSBLOCK field.
+description: 'Aspose::Words::Fields::FieldAddressBlock class. Implements the ADDRESSBLOCK field in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldaddressblock/
 ---
 ## FieldAddressBlock class
@@ -75,4 +76,4 @@ ArrayPtr<String> addressBlockFieldNames = addressBlockField->GetFieldNames();
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

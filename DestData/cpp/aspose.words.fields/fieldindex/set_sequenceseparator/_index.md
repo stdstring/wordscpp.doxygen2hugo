@@ -1,9 +1,10 @@
 ---
-title: set_SequenceSeparator
+title: Aspose::Words::Fields::FieldIndex::set_SequenceSeparator method
+linktitle: set_SequenceSeparator
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator.'
+description: 'Aspose::Words::Fields::FieldIndex::set_SequenceSeparator method. Setter for Aspose::Words::Fields::FieldIndex::get_SequenceSeparator in C++.'
 type: docs
-weight: 365
+weight: 2900
 url: /cpp/aspose.words.fields/fieldindex/set_sequenceseparator/
 ---
 ## FieldIndex::set_SequenceSeparator method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIndex::set_SequenceSeparator(const System::Stri
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

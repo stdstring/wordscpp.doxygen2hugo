@@ -1,9 +1,10 @@
 ---
-title: set_NumberOfColumns
+title: Aspose::Words::Fields::FieldIndex::set_NumberOfColumns method
+linktitle: set_NumberOfColumns
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIndex::get_NumberOfColumns.'
+description: 'Aspose::Words::Fields::FieldIndex::set_NumberOfColumns method. Setter for Aspose::Words::Fields::FieldIndex::get_NumberOfColumns in C++.'
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.fields/fieldindex/set_numberofcolumns/
 ---
 ## FieldIndex::set_NumberOfColumns method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIndex::set_NumberOfColumns(const System::String
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

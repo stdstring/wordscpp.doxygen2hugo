@@ -1,9 +1,10 @@
 ---
-title: ChartDataPointCollection
+title: Aspose::Words::Drawing::Charts::ChartDataPointCollection class
+linktitle: ChartDataPointCollection
 second_title: Aspose.Words for C++ API Reference
-description: Represents collection of a ChartDataPoint.
+description: 'Aspose::Words::Drawing::Charts::ChartDataPointCollection class. Represents collection of a ChartDataPoint in C++.'
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/
 ---
 ## ChartDataPointCollection class
@@ -87,4 +88,4 @@ static void ApplyDataPoints(SharedPtr<ChartSeries> series, int dataPointsCount, 
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

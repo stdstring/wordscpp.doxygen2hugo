@@ -1,9 +1,10 @@
 ---
-title: ImageData
+title: Aspose::Words::Drawing::ImageData class
+linktitle: ImageData
 second_title: Aspose.Words for C++ API Reference
-description: Defines an image for a shape.
+description: 'Aspose::Words::Drawing::ImageData class. Defines an image for a shape in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.drawing/imagedata/
 ---
 ## ImageData class
@@ -139,4 +140,4 @@ ASSERT_TRUE(10000 > MakeObject<System::IO::FileInfo>(ArtifactsDir + u"Image.Crea
 ## See Also
 
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: FieldArgumentBuilder
+title: Aspose::Words::Fields::FieldArgumentBuilder class
+linktitle: FieldArgumentBuilder
 second_title: Aspose.Words for C++ API Reference
-description: Builds a complex field argument consisting of fields, nodes, and plain text.
+description: 'Aspose::Words::Fields::FieldArgumentBuilder class. Builds a complex field argument consisting of fields, nodes, and plain text in C++.'
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.fields/fieldargumentbuilder/
 ---
 ## FieldArgumentBuilder class
@@ -109,4 +110,4 @@ doc->Save(ArtifactsDir + u"Field.SYMBOL.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

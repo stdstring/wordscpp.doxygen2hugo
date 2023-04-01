@@ -1,9 +1,10 @@
 ---
-title: set_TextConverter
+title: Aspose::Words::Fields::FieldIncludeText::set_TextConverter method
+linktitle: set_TextConverter
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIncludeText::get_TextConverter.'
+description: 'Aspose::Words::Fields::FieldIncludeText::set_TextConverter method. Setter for Aspose::Words::Fields::FieldIncludeText::get_TextConverter in C++.'
 type: docs
-weight: 196
+weight: 1600
 url: /cpp/aspose.words.fields/fieldincludetext/set_textconverter/
 ---
 ## FieldIncludeText::set_TextConverter method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIncludeText::set_TextConverter(const System::St
 
 * Class [FieldIncludeText](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

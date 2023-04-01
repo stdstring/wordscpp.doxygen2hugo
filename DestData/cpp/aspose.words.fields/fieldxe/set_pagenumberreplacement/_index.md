@@ -1,9 +1,10 @@
 ---
-title: set_PageNumberReplacement
+title: Aspose::Words::Fields::FieldXE::set_PageNumberReplacement method
+linktitle: set_PageNumberReplacement
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldXE::get_PageNumberReplacement.'
+description: 'Aspose::Words::Fields::FieldXE::set_PageNumberReplacement method. Setter for Aspose::Words::Fields::FieldXE::get_PageNumberReplacement in C++.'
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words.fields/fieldxe/set_pagenumberreplacement/
 ---
 ## FieldXE::set_PageNumberReplacement method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldXE::set_PageNumberReplacement(const System::Str
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

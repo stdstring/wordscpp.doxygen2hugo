@@ -1,9 +1,10 @@
 ---
-title: set_DistanceFromText
+title: Aspose::Words::Border::set_DistanceFromText method
+linktitle: set_DistanceFromText
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Border::get_DistanceFromText.'
+description: 'Aspose::Words::Border::set_DistanceFromText method. Setter for Aspose::Words::Border::get_DistanceFromText in C++.'
 type: docs
-weight: 131
+weight: 1100
 url: /cpp/aspose.words/border/set_distancefromtext/
 ---
 ## Border::set_DistanceFromText method
@@ -19,4 +20,4 @@ void Aspose::Words::Border::set_DistanceFromText(double value)
 
 * Class [Border](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

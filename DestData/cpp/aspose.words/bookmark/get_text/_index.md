@@ -1,9 +1,10 @@
 ---
-title: get_Text
+title: Aspose::Words::Bookmark::get_Text method
+linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text enclosed in the bookmark.
+description: 'Aspose::Words::Bookmark::get_Text method. Gets or sets the text enclosed in the bookmark in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words/bookmark/get_text/
 ---
 ## Bookmark::get_Text method
@@ -101,4 +102,4 @@ public:
 
 * Class [Bookmark](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

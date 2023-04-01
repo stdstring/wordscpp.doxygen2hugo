@@ -1,9 +1,10 @@
 ---
-title: set_Encoding
+title: Aspose::Words::Saving::TxtSaveOptionsBase::set_Encoding method
+linktitle: set_Encoding
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding.'
+description: 'Aspose::Words::Saving::TxtSaveOptionsBase::set_Encoding method. Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_encoding/
 ---
 ## TxtSaveOptionsBase::set_Encoding method
@@ -19,4 +20,4 @@ void Aspose::Words::Saving::TxtSaveOptionsBase::set_Encoding(const System::Share
 
 * Class [TxtSaveOptionsBase](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

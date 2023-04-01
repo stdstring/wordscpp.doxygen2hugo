@@ -1,9 +1,10 @@
 ---
-title: ChartNumberFormat
+title: Aspose::Words::Drawing::Charts::ChartNumberFormat class
+linktitle: ChartNumberFormat
 second_title: Aspose.Words for C++ API Reference
-description: Represents number formatting of the parent element.
+description: 'Aspose::Words::Drawing::Charts::ChartNumberFormat class. Represents number formatting of the parent element in C++.'
 type: docs
-weight: 183
+weight: 1500
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/
 ---
 ## ChartNumberFormat class
@@ -56,4 +57,4 @@ doc->Save(ArtifactsDir + u"Charts.SetNumberFormatToChartAxis.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

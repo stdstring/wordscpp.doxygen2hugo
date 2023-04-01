@@ -1,9 +1,10 @@
 ---
-title: get_Password
+title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Password method
+linktitle: get_Password
 second_title: Aspose.Words for C++ API Reference
-description: Timestamp server password.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Password method. Timestamp server password in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_password/
 ---
 ## PdfDigitalSignatureTimestampSettings::get_Password method
@@ -59,4 +60,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", opt
 
 * Class [PdfDigitalSignatureTimestampSettings](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

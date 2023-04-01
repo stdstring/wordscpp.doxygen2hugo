@@ -1,9 +1,10 @@
 ---
-title: AxisScaling
+title: Aspose::Words::Drawing::Charts::AxisScaling class
+linktitle: AxisScaling
 second_title: Aspose.Words for C++ API Reference
-description: Represents the scaling options of the axis.
+description: 'Aspose::Words::Drawing::Charts::AxisScaling class. Represents the scaling options of the axis in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.drawing.charts/axisscaling/
 ---
 ## AxisScaling class
@@ -62,4 +63,4 @@ doc->Save(ArtifactsDir + u"Charts.AxisScaling.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

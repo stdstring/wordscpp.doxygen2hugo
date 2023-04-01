@@ -1,9 +1,10 @@
 ---
-title: ShapeRenderer
+title: Aspose::Words::Rendering::ShapeRenderer class
+linktitle: ShapeRenderer
 second_title: Aspose.Words for C++ API Reference
-description: Provides methods to render an individual Shape or GroupShape to a raster or vector image or to a Graphics object.
+description: 'Aspose::Words::Rendering::ShapeRenderer class. Provides methods to render an individual Shape or GroupShape to a raster or vector image or to a Graphics object in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.rendering/shaperenderer/
 ---
 ## ShapeRenderer class
@@ -39,4 +40,4 @@ class ShapeRenderer : public Aspose::Words::Rendering::NodeRendererBase
 
 * Class [NodeRendererBase](../noderendererbase/)
 * Namespace [Aspose::Words::Rendering](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

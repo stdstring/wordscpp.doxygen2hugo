@@ -1,9 +1,10 @@
 ---
-title: FieldMergeSeq
+title: Aspose::Words::Fields::FieldMergeSeq class
+linktitle: FieldMergeSeq
 second_title: Aspose.Words for C++ API Reference
-description: Implements the MERGESEQ field.
+description: 'Aspose::Words::Fields::FieldMergeSeq class. Implements the MERGESEQ field in C++.'
 type: docs
-weight: 885
+weight: 6900
 url: /cpp/aspose.words.fields/fieldmergeseq/
 ---
 ## FieldMergeSeq class
@@ -45,4 +46,4 @@ class FieldMergeSeq : public Aspose::Words::Fields::Field
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

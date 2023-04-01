@@ -1,9 +1,10 @@
 ---
-title: FieldQuote
+title: Aspose::Words::Fields::FieldQuote class
+linktitle: FieldQuote
 second_title: Aspose.Words for C++ API Reference
-description: Implements the QUOTE field.
+description: 'Aspose::Words::Fields::FieldQuote class. Implements the QUOTE field in C++.'
 type: docs
-weight: 1067
+weight: 8300
 url: /cpp/aspose.words.fields/fieldquote/
 ---
 ## FieldQuote class
@@ -82,4 +83,4 @@ doc->Save(ArtifactsDir + u"Field.QUOTE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

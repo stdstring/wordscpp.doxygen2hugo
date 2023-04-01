@@ -1,9 +1,10 @@
 ---
-title: LicenseState
+title: Aspose::Words::LicenseState enum
+linktitle: LicenseState
 second_title: Aspose.Words for C++ API Reference
-description: LicenseState enumeration.
+description: 'Aspose::Words::LicenseState enum. LicenseState enumeration in C++.'
 type: docs
-weight: 1210
+weight: 9400
 url: /cpp/aspose.words/licensestate/
 ---
 ## LicenseState enum
@@ -25,4 +26,4 @@ enum class LicenseState
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: get_FormatUpdateType
+title: Aspose::Words::Fields::FieldLink::get_FormatUpdateType method
+linktitle: get_FormatUpdateType
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a way the linked object updates its formatting.
+description: 'Aspose::Words::Fields::FieldLink::get_FormatUpdateType method. Gets or sets a way the linked object updates its formatting in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/fieldlink/get_formatupdatetype/
 ---
 ## FieldLink::get_FormatUpdateType method
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldLink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

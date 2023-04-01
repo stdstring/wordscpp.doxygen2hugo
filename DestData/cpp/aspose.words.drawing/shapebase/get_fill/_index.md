@@ -1,9 +1,10 @@
 ---
-title: get_Fill
+title: Aspose::Words::Drawing::ShapeBase::get_Fill method
+linktitle: get_Fill
 second_title: Aspose.Words for C++ API Reference
-description: Gets fill formatting for the shape.
+description: 'Aspose::Words::Drawing::ShapeBase::get_Fill method. Gets fill formatting for the shape in C++.'
 type: docs
-weight: 222
+weight: 1800
 url: /cpp/aspose.words.drawing/shapebase/get_fill/
 ---
 ## ShapeBase::get_Fill method
@@ -54,4 +55,4 @@ doc->Save(ArtifactsDir + u"Shape.Fill.docx");
 * Class [Fill](../../fill/)
 * Class [ShapeBase](../)
 * Namespace [Aspose::Words::Drawing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

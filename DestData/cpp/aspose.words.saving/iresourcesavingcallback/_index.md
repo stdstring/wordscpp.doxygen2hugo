@@ -1,9 +1,10 @@
 ---
-title: IResourceSavingCallback
+title: Aspose::Words::Saving::IResourceSavingCallback interface
+linktitle: IResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Implement this interface if you want to control how Aspose.Words saves external resources (images, fonts and css) when saving a document to fixed page HTML or SVG.
+description: 'Aspose::Words::Saving::IResourceSavingCallback interface. Implement this interface if you want to control how Aspose.Words saves external resources (images, fonts and css) when saving a document to fixed page HTML or SVG in C++.'
 type: docs
-weight: 573
+weight: 4500
 url: /cpp/aspose.words.saving/iresourcesavingcallback/
 ---
 ## IResourceSavingCallback interface
@@ -143,4 +144,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

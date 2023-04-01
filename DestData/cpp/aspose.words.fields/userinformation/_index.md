@@ -1,9 +1,10 @@
 ---
-title: UserInformation
+title: Aspose::Words::Fields::UserInformation class
+linktitle: UserInformation
 second_title: Aspose.Words for C++ API Reference
-description: Specifies information about the user.
+description: 'Aspose::Words::Fields::UserInformation class. Specifies information about the user in C++.'
 type: docs
-weight: 1496
+weight: 11600
 url: /cpp/aspose.words.fields/userinformation/
 ---
 ## UserInformation class
@@ -67,4 +68,4 @@ doc->Save(ArtifactsDir + u"FieldOptions.CurrentUser.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

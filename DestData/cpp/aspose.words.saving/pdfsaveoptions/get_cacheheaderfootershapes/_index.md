@@ -1,9 +1,10 @@
 ---
-title: get_CacheHeaderFooterShapes
+title: Aspose::Words::Saving::PdfSaveOptions::get_CacheHeaderFooterShapes method
+linktitle: get_CacheHeaderFooterShapes
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a value determining whether or not to cache shapes placed in header and footer of document.
+description: 'Aspose::Words::Saving::PdfSaveOptions::get_CacheHeaderFooterShapes method. Gets or sets a value determining whether or not to cache shapes placed in header and footer of document in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_cacheheaderfootershapes/
 ---
 ## PdfSaveOptions::get_CacheHeaderFooterShapes method
@@ -27,4 +28,4 @@ Some shapes are not supported for caching(shapes with fields, bookmarks, HRefs).
 
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

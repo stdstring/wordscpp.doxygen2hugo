@@ -1,9 +1,10 @@
 ---
-title: FieldAutoNum
+title: Aspose::Words::Fields::FieldAutoNum class
+linktitle: FieldAutoNum
 second_title: Aspose.Words for C++ API Reference
-description: Implements the AUTONUM field.
+description: 'Aspose::Words::Fields::FieldAutoNum class. Implements the AUTONUM field in C++.'
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.fields/fieldautonum/
 ---
 ## FieldAutoNum class
@@ -82,4 +83,4 @@ doc->Save(ArtifactsDir + u"Field.AUTONUM.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

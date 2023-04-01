@@ -1,9 +1,10 @@
 ---
-title: FieldPage
+title: Aspose::Words::Fields::FieldPage class
+linktitle: FieldPage
 second_title: Aspose.Words for C++ API Reference
-description: Implements the PAGE field.
+description: 'Aspose::Words::Fields::FieldPage class. Implements the PAGE field in C++.'
 type: docs
-weight: 1002
+weight: 7800
 url: /cpp/aspose.words.fields/fieldpage/
 ---
 ## FieldPage class
@@ -87,4 +88,4 @@ doc->Save(ArtifactsDir + u"Field.NUMCHARS.NUMWORDS.NUMPAGES.PAGE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

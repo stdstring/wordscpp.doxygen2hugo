@@ -1,9 +1,10 @@
 ---
-title: ComparisonEvaluationResult
+title: Aspose::Words::Fields::ComparisonEvaluationResult class
+linktitle: ComparisonEvaluationResult
 second_title: Aspose.Words for C++ API Reference
-description: The comparison evaluation result.
+description: 'Aspose::Words::Fields::ComparisonEvaluationResult class. The comparison evaluation result in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/comparisonevaluationresult/
 ---
 ## ComparisonEvaluationResult class
@@ -105,4 +106,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: get_ServerUrl
+title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_ServerUrl method
+linktitle: get_ServerUrl
 second_title: Aspose.Words for C++ API Reference
-description: Timestamp server URL.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_ServerUrl method. Timestamp server URL in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_serverurl/
 ---
 ## PdfDigitalSignatureTimestampSettings::get_ServerUrl method
@@ -59,4 +60,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", opt
 
 * Class [PdfDigitalSignatureTimestampSettings](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

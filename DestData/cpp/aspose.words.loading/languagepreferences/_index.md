@@ -1,9 +1,10 @@
 ---
-title: LanguagePreferences
+title: Aspose::Words::Loading::LanguagePreferences class
+linktitle: LanguagePreferences
 second_title: Aspose.Words for C++ API Reference
-description: Allows to set up language preferences.
+description: 'Aspose::Words::Loading::LanguagePreferences class. Allows to set up language preferences in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.loading/languagepreferences/
 ---
 ## LanguagePreferences class
@@ -46,4 +47,4 @@ std::cout << (localeIdFarEast == (int)EditingLanguage::Japanese
 ## See Also
 
 * Namespace [Aspose::Words::Loading](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

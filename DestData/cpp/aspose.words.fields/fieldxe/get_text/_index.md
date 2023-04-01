@@ -1,9 +1,10 @@
 ---
-title: get_Text
+title: Aspose::Words::Fields::FieldXE::get_Text method
+linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the text of the entry.
+description: 'Aspose::Words::Fields::FieldXE::get_Text method. Gets or sets the text of the entry in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldxe/get_text/
 ---
 ## FieldXE::get_Text method
@@ -142,4 +143,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

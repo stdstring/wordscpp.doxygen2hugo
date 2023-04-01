@@ -1,9 +1,10 @@
 ---
-title: ThemeFonts
+title: Aspose::Words::Themes::ThemeFonts class
+linktitle: ThemeFonts
 second_title: Aspose.Words for C++ API Reference
-description: Represents a collection of fonts in the font scheme, allowing to specify different fonts for different languages Latin, EastAsian and ComplexScript.
+description: 'Aspose::Words::Themes::ThemeFonts class. Represents a collection of fonts in the font scheme, allowing to specify different fonts for different languages Latin, EastAsian and ComplexScript in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.themes/themefonts/
 ---
 ## ThemeFonts class
@@ -75,4 +76,4 @@ doc->Save(ArtifactsDir + u"Themes.CustomColorsAndFonts.docx");
 ## See Also
 
 * Namespace [Aspose::Words::Themes](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

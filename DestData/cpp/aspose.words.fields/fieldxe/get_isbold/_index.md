@@ -1,9 +1,10 @@
 ---
-title: get_IsBold
+title: Aspose::Words::Fields::FieldXE::get_IsBold method
+linktitle: get_IsBold
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to apply bold formatting to the entry's page number.
+description: 'Aspose::Words::Fields::FieldXE::get_IsBold method. Gets or sets whether to apply bold formatting to the entry''s page number in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.fields/fieldxe/get_isbold/
 ---
 ## FieldXE::get_IsBold method
@@ -89,4 +90,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 
 * Class [FieldXE](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: ChartLegendEntry
+title: Aspose::Words::Drawing::Charts::ChartLegendEntry class
+linktitle: ChartLegendEntry
 second_title: Aspose.Words for C++ API Reference
-description: Represents a chart legend entry.
+description: 'Aspose::Words::Drawing::Charts::ChartLegendEntry class. Represents a chart legend entry in C++.'
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.drawing.charts/chartlegendentry/
 ---
 ## ChartLegendEntry class
@@ -33,4 +34,4 @@ The text of the entry is the name of the series or trendline. The text cannot be
 ## See Also
 
 * Namespace [Aspose::Words::Drawing::Charts](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

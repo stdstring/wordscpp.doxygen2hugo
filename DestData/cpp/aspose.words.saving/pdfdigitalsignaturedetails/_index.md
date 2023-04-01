@@ -1,9 +1,10 @@
 ---
-title: PdfDigitalSignatureDetails
+title: Aspose::Words::Saving::PdfDigitalSignatureDetails class
+linktitle: PdfDigitalSignatureDetails
 second_title: Aspose.Words for C++ API Reference
-description: Contains details for signing a PDF document with a digital signature.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureDetails class. Contains details for signing a PDF document with a digital signature in C++.'
 type: docs
-weight: 274
+weight: 2200
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/
 ---
 ## PdfDigitalSignatureDetails class
@@ -74,4 +75,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignature.pdf", options);
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: get_HasPageNumberSeparator
+title: Aspose::Words::Fields::FieldIndex::get_HasPageNumberSeparator method
+linktitle: get_HasPageNumberSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Gets a value indicating whether a page number separator is overridden through the field's code.
+description: 'Aspose::Words::Fields::FieldIndex::get_HasPageNumberSeparator method. Gets a value indicating whether a page number separator is overridden through the field''s code in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.fields/fieldindex/get_haspagenumberseparator/
 ---
 ## FieldIndex::get_HasPageNumberSeparator method
@@ -64,4 +65,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.PageNumberList.docx");
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

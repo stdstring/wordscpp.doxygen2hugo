@@ -1,9 +1,10 @@
 ---
-title: set_SpaceAfter
+title: Aspose::Words::ParagraphFormat::set_SpaceAfter method
+linktitle: set_SpaceAfter
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::ParagraphFormat::get_SpaceAfter.'
+description: 'Aspose::Words::ParagraphFormat::set_SpaceAfter method. Setter for Aspose::Words::ParagraphFormat::get_SpaceAfter in C++.'
 type: docs
-weight: 846
+weight: 6600
 url: /cpp/aspose.words/paragraphformat/set_spaceafter/
 ---
 ## ParagraphFormat::set_SpaceAfter method
@@ -19,4 +20,4 @@ void Aspose::Words::ParagraphFormat::set_SpaceAfter(double value)
 
 * Class [ParagraphFormat](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

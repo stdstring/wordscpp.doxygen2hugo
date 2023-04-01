@@ -1,9 +1,10 @@
 ---
-title: get_NodeType
+title: Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_NodeType method
+linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Gets the type of this node.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_NodeType method. Gets the type of this node in C++.'
 type: docs
-weight: 40
+weight: 400
 url: /cpp/aspose.words.markup/structureddocumenttagrangeend/get_nodetype/
 ---
 ## StructuredDocumentTagRangeEnd::get_NodeType method
@@ -105,4 +106,4 @@ for (SharedPtr<Node> node = doc->get_FirstSection()->get_Body()->get_FirstChild(
 * Enum [NodeType](../../../aspose.words/nodetype/)
 * Class [StructuredDocumentTagRangeEnd](../)
 * Namespace [Aspose::Words::Markup](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

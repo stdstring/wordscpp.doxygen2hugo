@@ -1,9 +1,10 @@
 ---
-title: 'Aspose::Words::Drawing'
+title: Aspose::Words::Drawing namespace
+linktitle: Aspose::Words::Drawing
 second_title: Aspose.Words for C++ API Reference
-description: The Aspose.Words.Drawing namespace provides classes that allow to create and modify drawing objects.
+description: 'Aspose::Words::Drawing namespace. The Aspose.Words.Drawing namespace provides classes that allow to create and modify drawing objects in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.drawing/
 ---
 

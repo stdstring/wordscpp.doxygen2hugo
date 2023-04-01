@@ -1,9 +1,10 @@
 ---
-title: SvgTextOutputMode
+title: Aspose::Words::Saving::SvgTextOutputMode enum
+linktitle: SvgTextOutputMode
 second_title: Aspose.Words for C++ API Reference
-description: 
+description: 'How to use Aspose::Words::Saving::SvgTextOutputMode enum in C++.'
 type: docs
-weight: 1041
+weight: 8100
 url: /cpp/aspose.words.saving/svgtextoutputmode/
 ---
 ## SvgTextOutputMode enum
@@ -44,4 +45,4 @@ doc->Save(ArtifactsDir + u"SvgSaveOptions.SaveLikeImage.svg", options);
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

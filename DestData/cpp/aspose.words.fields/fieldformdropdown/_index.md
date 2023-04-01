@@ -1,9 +1,10 @@
 ---
-title: FieldFormDropDown
+title: Aspose::Words::Fields::FieldFormDropDown class
+linktitle: FieldFormDropDown
 second_title: Aspose.Words for C++ API Reference
-description: Implements the FORMDROPDOWN field.
+description: 'Aspose::Words::Fields::FieldFormDropDown class. Implements the FORMDROPDOWN field in C++.'
 type: docs
-weight: 599
+weight: 4700
 url: /cpp/aspose.words.fields/fieldformdropdown/
 ---
 ## FieldFormDropDown class
@@ -66,4 +67,4 @@ ASSERT_EQ(u" FORMTEXT \u0001", fieldFormText->GetFieldCode());
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

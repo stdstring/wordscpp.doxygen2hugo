@@ -1,9 +1,10 @@
 ---
-title: get_InsertParagraphNumber
+title: Aspose::Words::Fields::FieldRef::get_InsertParagraphNumber method
+linktitle: get_InsertParagraphNumber
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert the paragraph number of the referenced paragraph exactly as it appears in the document.
+description: 'Aspose::Words::Fields::FieldRef::get_InsertParagraphNumber method. Gets or sets whether to insert the paragraph number of the referenced paragraph exactly as it appears in the document in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/fieldref/get_insertparagraphnumber/
 ---
 ## FieldRef::get_InsertParagraphNumber method
@@ -105,4 +106,4 @@ static SharedPtr<FieldRef> InsertFieldRef(SharedPtr<DocumentBuilder> builder, St
 
 * Class [FieldRef](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

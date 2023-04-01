@@ -1,9 +1,10 @@
 ---
-title: get_Heading
+title: Aspose::Words::Fields::FieldIndex::get_Heading method
+linktitle: get_Heading
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets a heading that appears at the start of each set of entries for any given letter.
+description: 'Aspose::Words::Fields::FieldIndex::get_Heading method. Gets or sets a heading that appears at the start of each set of entries for any given letter in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.fields/fieldindex/get_heading/
 ---
 ## FieldIndex::get_Heading method
@@ -89,4 +90,4 @@ doc->Save(ArtifactsDir + u"Field.INDEX.XE.Formatting.docx");
 
 * Class [FieldIndex](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

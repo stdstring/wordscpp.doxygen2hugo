@@ -1,9 +1,10 @@
 ---
-title: RevisionCollection
+title: Aspose::Words::RevisionCollection class
+linktitle: RevisionCollection
 second_title: Aspose.Words for C++ API Reference
-description: A collection of Revision objects that represent revisions in the document.
+description: 'Aspose::Words::RevisionCollection class. A collection of Revision objects that represent revisions in the document in C++.'
 type: docs
-weight: 677
+weight: 5300
 url: /cpp/aspose.words/revisioncollection/
 ---
 ## RevisionCollection class
@@ -114,4 +115,4 @@ ASSERT_EQ(u"This is revision #1. \rThis is revision #2.", doc->GetText().Trim())
 ## See Also
 
 * Namespace [Aspose::Words](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

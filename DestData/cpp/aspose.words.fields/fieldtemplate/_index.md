@@ -1,9 +1,10 @@
 ---
-title: FieldTemplate
+title: Aspose::Words::Fields::FieldTemplate class
+linktitle: FieldTemplate
 second_title: Aspose.Words for C++ API Reference
-description: Implements the TEMPLATE field.
+description: 'Aspose::Words::Fields::FieldTemplate class. Implements the TEMPLATE field in C++.'
 type: docs
-weight: 1301
+weight: 10100
 url: /cpp/aspose.words.fields/fieldtemplate/
 ---
 ## FieldTemplate class
@@ -75,4 +76,4 @@ doc->Save(ArtifactsDir + u"Field.TEMPLATE.docx");
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

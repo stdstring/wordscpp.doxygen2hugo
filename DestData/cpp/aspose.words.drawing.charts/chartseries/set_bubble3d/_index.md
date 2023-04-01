@@ -1,9 +1,10 @@
 ---
-title: set_Bubble3D
+title: Aspose::Words::Drawing::Charts::ChartSeries::set_Bubble3D method
+linktitle: set_Bubble3D
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D.'
+description: 'Aspose::Words::Drawing::Charts::ChartSeries::set_Bubble3D method. Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D in C++.'
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.drawing.charts/chartseries/set_bubble3d/
 ---
 ## ChartSeries::set_Bubble3D method
@@ -19,4 +20,4 @@ void Aspose::Words::Drawing::Charts::ChartSeries::set_Bubble3D(bool value) overr
 
 * Class [ChartSeries](../)
 * Namespace [Aspose::Words::Drawing::Charts](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

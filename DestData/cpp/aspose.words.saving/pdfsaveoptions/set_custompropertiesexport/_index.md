@@ -1,9 +1,10 @@
 ---
-title: set_CustomPropertiesExport
+title: Aspose::Words::Saving::PdfSaveOptions::set_CustomPropertiesExport method
+linktitle: set_CustomPropertiesExport
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Saving::PdfSaveOptions::get_CustomPropertiesExport.'
+description: 'Aspose::Words::Saving::PdfSaveOptions::set_CustomPropertiesExport method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_CustomPropertiesExport in C++.'
 type: docs
-weight: 469
+weight: 3700
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_custompropertiesexport/
 ---
 ## PdfSaveOptions::set_CustomPropertiesExport method
@@ -20,4 +21,4 @@ void Aspose::Words::Saving::PdfSaveOptions::set_CustomPropertiesExport(Aspose::W
 * Enum [PdfCustomPropertiesExport](../../pdfcustompropertiesexport/)
 * Class [PdfSaveOptions](../)
 * Namespace [Aspose::Words::Saving](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

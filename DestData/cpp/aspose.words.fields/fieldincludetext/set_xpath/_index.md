@@ -1,9 +1,10 @@
 ---
-title: set_XPath
+title: Aspose::Words::Fields::FieldIncludeText::set_XPath method
+linktitle: set_XPath
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Fields::FieldIncludeText::get_XPath.'
+description: 'Aspose::Words::Fields::FieldIncludeText::set_XPath method. Setter for Aspose::Words::Fields::FieldIncludeText::get_XPath in C++.'
 type: docs
-weight: 209
+weight: 1700
 url: /cpp/aspose.words.fields/fieldincludetext/set_xpath/
 ---
 ## FieldIncludeText::set_XPath method
@@ -19,4 +20,4 @@ void Aspose::Words::Fields::FieldIncludeText::set_XPath(const System::String &va
 
 * Class [FieldIncludeText](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

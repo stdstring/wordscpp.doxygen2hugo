@@ -1,9 +1,10 @@
 ---
-title: ViewOptions
+title: Aspose::Words::Settings::ViewOptions class
+linktitle: ViewOptions
 second_title: Aspose.Words for C++ API Reference
-description: Provides various options that control how a document is shown in Microsoft Word.
+description: 'Aspose::Words::Settings::ViewOptions class. Provides various options that control how a document is shown in Microsoft Word in C++.'
 type: docs
-weight: 105
+weight: 900
 url: /cpp/aspose.words.settings/viewoptions/
 ---
 ## ViewOptions class
@@ -72,4 +73,4 @@ doc->Save(ArtifactsDir + u"ViewOptions.SetZoomType.doc");
 ## See Also
 
 * Namespace [Aspose::Words::Settings](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: get_Id
+title: Aspose::Words::WebExtensions::WebExtensionReference::get_Id method
+linktitle: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Identifier associated with the web extension within a catalog provider.
+description: 'Aspose::Words::WebExtensions::WebExtensionReference::get_Id method. Identifier associated with the web extension within a catalog provider in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.webextensions/webextensionreference/get_id/
 ---
 ## WebExtensionReference::get_Id method
@@ -63,4 +64,4 @@ ASSERT_EQ(0, doc->get_WebExtensionTaskPanes()->get_Count());
 
 * Class [WebExtensionReference](../)
 * Namespace [Aspose::Words::WebExtensions](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

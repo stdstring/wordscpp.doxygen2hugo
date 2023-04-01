@@ -1,9 +1,10 @@
 ---
-title: PdfDigitalSignatureTimestampSettings
+title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings class
+linktitle: PdfDigitalSignatureTimestampSettings
 second_title: Aspose.Words for C++ API Reference
-description: Contains settings of the digital signature timestamp.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings class. Contains settings of the digital signature timestamp in C++.'
 type: docs
-weight: 287
+weight: 2300
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/
 ---
 ## PdfDigitalSignatureTimestampSettings class
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"PdfSaveOptions.PdfDigitalSignatureTimestamp.pdf", opt
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: FieldDatabase
+title: Aspose::Words::Fields::FieldDatabase class
+linktitle: FieldDatabase
 second_title: Aspose.Words for C++ API Reference
-description: Implements the DATABASE field.
+description: 'Aspose::Words::Fields::FieldDatabase class. Implements the DATABASE field in C++.'
 type: docs
-weight: 352
+weight: 2800
 url: /cpp/aspose.words.fields/fielddatabase/
 ---
 ## FieldDatabase class
@@ -65,4 +66,4 @@ class FieldDatabase : public Aspose::Words::Fields::Field,
 
 * Class [Field](../field/)
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

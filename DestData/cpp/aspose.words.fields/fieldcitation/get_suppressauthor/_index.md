@@ -1,9 +1,10 @@
 ---
-title: get_SuppressAuthor
+title: Aspose::Words::Fields::FieldCitation::get_SuppressAuthor method
+linktitle: get_SuppressAuthor
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether the author information is suppressed from the citation.
+description: 'Aspose::Words::Fields::FieldCitation::get_SuppressAuthor method. Gets or sets whether the author information is suppressed from the citation in C++.'
 type: docs
-weight: 79
+weight: 700
 url: /cpp/aspose.words.fields/fieldcitation/get_suppressauthor/
 ---
 ## FieldCitation::get_SuppressAuthor method
@@ -73,4 +74,4 @@ doc->Save(ArtifactsDir + u"Field.CITATION.docx");
 
 * Class [FieldCitation](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

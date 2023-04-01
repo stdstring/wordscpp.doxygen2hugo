@@ -1,9 +1,10 @@
 ---
-title: PdfLoadOptions
+title: Aspose::Words::Loading::PdfLoadOptions class
+linktitle: PdfLoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Allows to specify additional options when loading Pdf document into a Document object.
+description: 'Aspose::Words::Loading::PdfLoadOptions class. Allows to specify additional options when loading Pdf document into a Document object in C++.'
 type: docs
-weight: 66
+weight: 600
 url: /cpp/aspose.words.loading/pdfloadoptions/
 ---
 ## PdfLoadOptions class
@@ -62,4 +63,4 @@ class PdfLoadOptions : public Aspose::Words::Loading::LoadOptions
 
 * Class [LoadOptions](../loadoptions/)
 * Namespace [Aspose::Words::Loading](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,9 +1,10 @@
 ---
-title: Delete
+title: Aspose::Words::Range::Delete method
+linktitle: Delete
 second_title: Aspose.Words for C++ API Reference
-description: Deletes all characters of the range.
+description: 'Aspose::Words::Range::Delete method. Deletes all characters of the range in C++.'
 type: docs
-weight: 1
+weight: 100
 url: /cpp/aspose.words/range/delete/
 ---
 ## Range::Delete method
@@ -44,4 +45,4 @@ ASSERT_EQ(u"Section 2.", doc->GetText().Trim());
 
 * Class [Range](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

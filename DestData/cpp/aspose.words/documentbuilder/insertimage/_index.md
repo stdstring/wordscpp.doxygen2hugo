@@ -1,9 +1,10 @@
 ---
-title: InsertImage
+title: Aspose::Words::DocumentBuilder::InsertImage method
+linktitle: InsertImage
 second_title: Aspose.Words for C++ API Reference
-description: Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale.
+description: 'Aspose::Words::DocumentBuilder::InsertImage method. Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale in C++.'
 type: docs
-weight: 469
+weight: 3700
 url: /cpp/aspose.words/documentbuilder/insertimage/
 ---
 ## DocumentBuilder::InsertImage(const System::ArrayPtr\<uint8_t\>\&) method
@@ -68,7 +69,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx")
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::ArrayPtr\<uint8_t\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -141,7 +142,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx")
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::ArrayPtr\<uint8_t\>\&, double, double) method
 
 
@@ -206,7 +207,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromByteArray.docx")
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&) method
 
 
@@ -262,7 +263,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -328,7 +329,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::SharedPtr\<System::Drawing::Image\>\&, double, double) method
 
 
@@ -386,7 +387,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromImageObject.docx
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
@@ -458,7 +459,7 @@ doc->Save(ArtifactsDir + u"Image.FromStream.docx");
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -525,7 +526,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromStream.docx");
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::SharedPtr\<System::IO::Stream\>\&, double, double) method
 
 
@@ -584,7 +585,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromStream.docx");
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::String\&) method
 
 
@@ -716,7 +717,7 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::String\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -817,7 +818,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(const System::String\&, double, double) method
 
 
@@ -874,7 +875,7 @@ doc->Save(ArtifactsDir + u"DocumentBuilderImages.InsertImageFromFilename.docx");
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(std::basic_istream\<CharType, Traits\>\&) method
 
 
@@ -889,7 +890,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(std::basic_istream\<CharType, Traits\>\&, Aspose::Words::Drawing::RelativeHorizontalPosition, double, Aspose::Words::Drawing::RelativeVerticalPosition, double, double, double, Aspose::Words::Drawing::WrapType) method
 
 
@@ -907,7 +908,7 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 * Enum [WrapType](../../../aspose.words.drawing/wraptype/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)
 ## DocumentBuilder::InsertImage(std::basic_istream\<CharType, Traits\>\&, double, double) method
 
 
@@ -922,4 +923,4 @@ template<typename CharType,typename Traits> System::SharedPtr<Aspose::Words::Dra
 * Class [Shape](../../../aspose.words.drawing/shape/)
 * Class [DocumentBuilder](../)
 * Namespace [Aspose::Words](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

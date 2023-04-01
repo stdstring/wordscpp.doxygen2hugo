@@ -1,9 +1,10 @@
 ---
-title: set_IgnoreFormatting
+title: Aspose::Words::Comparing::CompareOptions::set_IgnoreFormatting method
+linktitle: set_IgnoreFormatting
 second_title: Aspose.Words for C++ API Reference
-description: 'Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting.'
+description: 'Aspose::Words::Comparing::CompareOptions::set_IgnoreFormatting method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFormatting in C++.'
 type: docs
-weight: 235
+weight: 1900
 url: /cpp/aspose.words.comparing/compareoptions/set_ignoreformatting/
 ---
 ## CompareOptions::set_IgnoreFormatting method
@@ -19,4 +20,4 @@ void Aspose::Words::Comparing::CompareOptions::set_IgnoreFormatting(bool value)
 
 * Class [CompareOptions](../)
 * Namespace [Aspose::Words::Comparing](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

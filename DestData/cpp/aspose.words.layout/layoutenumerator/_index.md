@@ -1,9 +1,10 @@
 ---
-title: LayoutEnumerator
+title: Aspose::Words::Layout::LayoutEnumerator class
+linktitle: LayoutEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Enumerates page layout entities of a document. You can use this class to walk over the page layout model. Available properties are type, geometry, text and page index where entity is rendered, as well as overall structure and relationships. Use combination of GetEntity() and Current move to the entity which corresponds to a document node.
+description: 'Aspose::Words::Layout::LayoutEnumerator class. Enumerates page layout entities of a document. You can use this class to walk over the page layout model. Available properties are type, geometry, text and page index where entity is rendered, as well as overall structure and relationships. Use combination of GetEntity() and Current move to the entity which corresponds to a document node in C++.'
 type: docs
-weight: 14
+weight: 200
 url: /cpp/aspose.words.layout/layoutenumerator/
 ---
 ## LayoutEnumerator class
@@ -170,4 +171,4 @@ static void PrintCurrentEntity(SharedPtr<LayoutEnumerator> layoutEnumerator, int
 ## See Also
 
 * Namespace [Aspose::Words::Layout](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

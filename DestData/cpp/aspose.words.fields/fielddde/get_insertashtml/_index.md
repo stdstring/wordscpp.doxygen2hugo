@@ -1,9 +1,10 @@
 ---
-title: get_InsertAsHtml
+title: Aspose::Words::Fields::FieldDde::get_InsertAsHtml method
+linktitle: get_InsertAsHtml
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets whether to insert the linked object as HTML format text.
+description: 'Aspose::Words::Fields::FieldDde::get_InsertAsHtml method. Gets or sets whether to insert the linked object as HTML format text in C++.'
 type: docs
-weight: 27
+weight: 300
 url: /cpp/aspose.words.fields/fielddde/get_insertashtml/
 ---
 ## FieldDde::get_InsertAsHtml method
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldDde](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

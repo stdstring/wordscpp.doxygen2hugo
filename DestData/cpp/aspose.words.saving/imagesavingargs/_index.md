@@ -1,9 +1,10 @@
 ---
-title: ImageSavingArgs
+title: Aspose::Words::Saving::ImageSavingArgs class
+linktitle: ImageSavingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Provides data for the ImageSaving() event.
+description: 'Aspose::Words::Saving::ImageSavingArgs class. Provides data for the ImageSaving() event in C++.'
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.saving/imagesavingargs/
 ---
 ## ImageSavingArgs class
@@ -165,4 +166,4 @@ private:
 ## See Also
 
 * Namespace [Aspose::Words::Saving](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

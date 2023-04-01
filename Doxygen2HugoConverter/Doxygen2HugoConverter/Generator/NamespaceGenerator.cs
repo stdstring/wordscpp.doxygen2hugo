@@ -1,18 +1,13 @@
 ﻿using System.Text;
 using Doxygen2HugoConverter.Entities;
+using Doxygen2HugoConverter.Lookup;
 
 namespace Doxygen2HugoConverter.Generator
 {
     internal static class NamespaceGenerator
     {
-        public static void GenerateForNamespace(this EntityDef.NamespaceEntity entity, GenerateState state)
+        public static void GenerateForNamespace(this EntityDef.NamespaceEntity entity, GenerateState state, LookupFrame currentFrame)
         {
-            Boolean isEmptyNamespaces = entity.Enums.IsEmpty() &&
-                                        entity.Typedefs.IsEmpty() &&
-                                        entity.Classes.IsEmpty() &&
-                                        entity.Interfaces.IsEmpty();
-            if (isEmptyNamespaces)
-                return;
             String folderName = NameUtils.CreateNamespaceFolderName(entity.Name);
             String namespaceDirectory = Path.Combine(state.Directory, folderName);
             Directory.CreateDirectory(namespaceDirectory);
@@ -20,17 +15,24 @@ namespace Doxygen2HugoConverter.Generator
             GenerateState currentState = new GenerateState(namespaceDirectory, namespaceUrl, state.ConvertData);
             String? CreateUrl(String entityId) => UrlGenerator.CreateRelativeUrlForEntity(entityId, currentState);
             StringBuilder builder = new StringBuilder();
-            String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle();
-            GeneratorUtils.GenerateDefPageHeader(entity.Name, descriptionForTitle, namespaceUrl, state.Weight, state.ConvertData.SpecificInfo, builder);
-            state.IncreaseWeight();
+            String defaultTitleDescription = entity.CreateDefaultHeaderDescription(state.ConvertData);
+            String descriptionForTitle = entity.BriefDescription.CreateBriefDescriptionForTitle($"{entity.Name} namespace", defaultTitleDescription);
+            GeneratorUtils.GenerateDefPageHeader($"{entity.Name} namespace", entity.Name, descriptionForTitle, namespaceUrl, currentFrame.CurrentWeight, state.ConvertData, builder);
             String briefDescription = entity.BriefDescription.CreateSimpleMarkup(CreateUrl, currentState.ConvertData.Logger);
             builder.AppendLine();
             builder.AppendLine(briefDescription);
             builder.AppendLine();
-            entity.Classes.ProcessClassType(currentState, ClassKind.Class, builder);
-            entity.Interfaces.ProcessClassType(currentState, ClassKind.Interface, builder);
-            entity.Enums.ProcessEnums(currentState, builder);
-            entity.Typedefs.ProcessTypedefs(currentState, builder);
+            IList<EntityDef> entities = entity.Classes
+                .Cast<EntityDef>()
+                .Union(entity.Interfaces)
+                .Union(entity.Enums)
+                .Union(entity.Typedefs)
+                .ToList();
+            currentFrame.FillKnownChildren(entities);
+            entity.Classes.ProcessClassType(currentState, currentFrame, ClassKind.Class, builder);
+            entity.Interfaces.ProcessClassType(currentState, currentFrame, ClassKind.Interface, builder);
+            entity.Enums.ProcessEnums(currentState, currentFrame, builder);
+            entity.Typedefs.ProcessTypedefs(currentState, currentFrame, builder);
             File.AppendAllText(Path.Combine(namespaceDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
@@ -53,7 +55,7 @@ namespace Doxygen2HugoConverter.Generator
             return entities.Choose(CreateEntry).ToList();
         }
 
-        private static void ProcessClassType(this IList<EntityDef.ClassEntity> classEntities, GenerateState state, ClassKind kind, StringBuilder dest)
+        private static void ProcessClassType(this IList<EntityDef.ClassEntity> classEntities, GenerateState state, LookupFrame currentFrame, ClassKind kind, StringBuilder dest)
         {
             if (classEntities.IsEmpty())
                 return;
@@ -71,27 +73,27 @@ namespace Doxygen2HugoConverter.Generator
             };
             GeneratorUtils.GenerateHeader(kindPlural, 2, dest);
             GeneratorUtils.GenerateTableHeader(new[] {kindSingular, "Description"}, dest);
-            classEntities.Iterate(entity => entity.GenerateForClass(state));
+            classEntities.GenerateForChildren(currentFrame, (classEntity, childFrame) => classEntity.GenerateForClass(state, childFrame));
             classEntities.CreateClassEntries(state).Iterate(entry => { dest.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
         }
 
-        private static void ProcessTypedefs(this IList<EntityDef.TypedefEntity> typedefEntities, GenerateState state, StringBuilder dest)
+        private static void ProcessTypedefs(this IList<EntityDef.TypedefEntity> typedefEntities, GenerateState state, LookupFrame currentFrame, StringBuilder dest)
         {
             if (typedefEntities.IsEmpty())
                 return;
             GeneratorUtils.GenerateHeader("Typedefs", 2, dest);
             GeneratorUtils.GenerateTableHeader(new[] {"Typedef", "Description"}, dest);
-            typedefEntities.Iterate(entity => entity.GenerateForTypedef(state));
+            typedefEntities.GenerateForChildren(currentFrame, (typedefEntity, childFrame) => typedefEntity.GenerateForTypedef(state, childFrame));
             typedefEntities.GetTypedefEntries(state).Iterate(entry => { dest.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
         }
 
-        private static void ProcessEnums(this IList<EntityDef.EnumEntity> enumEntities, GenerateState state, StringBuilder dest)
+        private static void ProcessEnums(this IList<EntityDef.EnumEntity> enumEntities, GenerateState state, LookupFrame currentFrame, StringBuilder dest)
         {
             if (enumEntities.IsEmpty())
                 return;
             GeneratorUtils.GenerateHeader("Enums", 2, dest);
             GeneratorUtils.GenerateTableHeader(new[] {"Enum", "Description"}, dest);
-            enumEntities.Iterate(entity => entity.GenerateForEnum(state));
+            enumEntities.GenerateForChildren(currentFrame, (enumEntity, childFrame) => enumEntity.GenerateForEnum(state, childFrame));
             enumEntities.CreateEnumEntries(state).Iterate(entry => { dest.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
         }
     }

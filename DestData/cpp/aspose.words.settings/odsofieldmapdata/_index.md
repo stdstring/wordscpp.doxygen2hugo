@@ -1,9 +1,10 @@
 ---
-title: OdsoFieldMapData
+title: Aspose::Words::Settings::OdsoFieldMapData class
+linktitle: OdsoFieldMapData
 second_title: Aspose.Words for C++ API Reference
-description: Specifies how a column in the external data source shall be mapped to the predefined merge fields within the document.
+description: 'Aspose::Words::Settings::OdsoFieldMapData class. Specifies how a column in the external data source shall be mapped to the predefined merge fields within the document in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.settings/odsofieldmapdata/
 ---
 ## OdsoFieldMapData class
@@ -37,4 +38,4 @@ Microsoft Word provides some predefined merge field names that it allows to inse
 ## See Also
 
 * Namespace [Aspose::Words::Settings](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

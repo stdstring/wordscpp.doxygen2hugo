@@ -1,9 +1,10 @@
 ---
-title: Field
+title: Aspose::Words::Fields::Field class
+linktitle: Field
 second_title: Aspose.Words for C++ API Reference
-description: Represents a Microsoft Word document field. To learn more, visit the documentation article.
+description: 'Aspose::Words::Fields::Field class. Represents a Microsoft Word document field. To learn more, visit the documentation article in C++.'
 type: docs
-weight: 53
+weight: 500
 url: /cpp/aspose.words.fields/field/
 ---
 ## Field class
@@ -77,4 +78,4 @@ ASSERT_LE(System::Math::Abs((System::DateTime::Parse(field->get_Result()) - Syst
 ## See Also
 
 * Namespace [Aspose::Words::Fields](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)

@@ -1,22 +1,25 @@
 ﻿using Doxygen2HugoConverter.Config;
 using Doxygen2HugoConverter.Entities;
 using System.Text;
+using Doxygen2HugoConverter.Lookup;
 
 namespace Doxygen2HugoConverter.Generator
 {
     internal static class RootGenerator
     {
-        internal static void GenerateForNamespaces(this IList<EntityDef.NamespaceEntity> entities, ConvertData convertData)
+        internal static void GenerateForNamespaces(this IList<EntityDef.NamespaceEntity> entities, ConvertData convertData, LookupFrame rootFrame)
         {
             String rootDirectory = PrepareDirectory(convertData.ConfigData);
             IList<String> rootUrl = new List<String>{Common.RootDirectory};
             GenerateState state = new GenerateState(rootDirectory, rootUrl, convertData);
             StringBuilder builder = new StringBuilder();
-            GenerateRootPageHeader(convertData.SpecificInfo, rootUrl, builder);
+            builder.AppendLine(convertData.RootPageHeader);
             GeneratorUtils.GenerateHeader("Namespaces", 2, builder);
             GeneratorUtils.GenerateTableHeader(new[] {"Namespace", "Description"}, builder);
-            entities.Iterate(entity => { entity.GenerateForNamespace(state); });
-            entities.CreateNamespaceEntries(state).Iterate(entry => { builder.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
+            IList<EntityDef.NamespaceEntity> nonEmptyEntities = entities.Where(entity => !entity.IsEmpty()).ToList();
+            rootFrame.FillKnownChildren(nonEmptyEntities);
+            nonEmptyEntities.GenerateForChildren(rootFrame, (entity, childFrame) => entity.GenerateForNamespace(state, childFrame));
+            nonEmptyEntities.CreateNamespaceEntries(state).Iterate(entry => { builder.AppendLine($"| {entry.Title} | {entry.BriefDescription} |"); });
             File.AppendAllText(Path.Combine(rootDirectory, Common.MarkdownFilename), builder.ToString());
         }
 
@@ -27,21 +30,6 @@ namespace Doxygen2HugoConverter.Generator
                 Directory.Delete(rootDirectory, true);
             Directory.CreateDirectory(rootDirectory);
             return rootDirectory;
-        }
-
-        public static void GenerateRootPageHeader(SpecificInfo specificInfo, IList<String> url, StringBuilder dest)
-        {
-            KeyValuePair<String, String>[] data =
-            {
-                KeyValuePair.Create("title", specificInfo.RootPageTitle),
-                KeyValuePair.Create("type", "docs"),
-                KeyValuePair.Create("weight", "666"),
-                KeyValuePair.Create("url", UrlGenerator.CreateUrl(url, false)),
-                KeyValuePair.Create("keywords", specificInfo.RootPageKeywords),
-                KeyValuePair.Create("description",specificInfo.RootPageDescription),
-                KeyValuePair.Create("is_root", "true")
-            };
-            GeneratorUtils.GeneratePageHeader(data, dest);
         }
     }
 }

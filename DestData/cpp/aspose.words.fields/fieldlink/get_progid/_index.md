@@ -1,9 +1,10 @@
 ---
-title: get_ProgId
+title: Aspose::Words::Fields::FieldLink::get_ProgId method
+linktitle: get_ProgId
 second_title: Aspose.Words for C++ API Reference
-description: Gets or sets the application type of the link information.
+description: 'Aspose::Words::Fields::FieldLink::get_ProgId method. Gets or sets the application type of the link information in C++.'
 type: docs
-weight: 118
+weight: 1000
 url: /cpp/aspose.words.fields/fieldlink/get_progid/
 ---
 ## FieldLink::get_ProgId method
@@ -199,4 +200,4 @@ static void InsertFieldDdeAuto(SharedPtr<DocumentBuilder> builder, ExField::Inse
 
 * Class [FieldLink](../)
 * Namespace [Aspose::Words::Fields](../../)
-* Library [Aspose.Words](../../../)
+* Library [Aspose.Words for C++](../../../)

@@ -1,9 +1,10 @@
 ---
-title: ShapeBase
+title: Aspose::Words::Drawing::ShapeBase class
+linktitle: ShapeBase
 second_title: Aspose.Words for C++ API Reference
-description: Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture.
+description: 'Aspose::Words::Drawing::ShapeBase class. Base class for objects in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture in C++.'
 type: docs
-weight: 144
+weight: 1200
 url: /cpp/aspose.words.drawing/shapebase/
 ---
 ## ShapeBase class
@@ -195,4 +196,4 @@ doc->Save(ArtifactsDir + u"Image.CreateFloatingPageCenter.docx");
 
 * Class [CompositeNode](../../aspose.words/compositenode/)
 * Namespace [Aspose::Words::Drawing](../)
-* Library [Aspose.Words](../../)
+* Library [Aspose.Words for C++](../../)
