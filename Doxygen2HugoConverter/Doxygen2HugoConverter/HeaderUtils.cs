@@ -66,12 +66,17 @@ namespace Doxygen2HugoConverter
             String template = dest.ToString();
             String GetResult(IDictionary<String, String> data)
             {
+                const String descriptionKey = "description";
                 Object[] args = new Object[parameters.Count];
                 for (Int32 index = 0; index < parameters.Count; ++index)
                 {
                     if (!data.ContainsKey(parameters[index]))
                         throw new InvalidOperationException("Bad data");
-                    args[index] = data[parameters[index]];
+                    args[index] = parameters[index] switch
+                    {
+                        descriptionKey => data[parameters[index]].Replace("'", "''"),
+                        _ => data[parameters[index]]
+                    };
                 }
                 return String.Format(template, args);
             }
