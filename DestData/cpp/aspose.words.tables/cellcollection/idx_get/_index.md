@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellCollection::idx_get method. Retrieves a Cell at the given index in C++.
+description: 'Aspose::Words::Tables::CellCollection::idx_get method. Retrieves a Cell at the given index in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.tables/cellcollection/idx_get/

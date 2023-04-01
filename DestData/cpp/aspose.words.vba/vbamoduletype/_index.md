@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaModuleType enum
 linktitle: VbaModuleType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Vba::VbaModuleType enum. Specifies the type of a model in a VBA project in C++.
+description: 'Aspose::Words::Vba::VbaModuleType enum. Specifies the type of a model in a VBA project in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.vba/vbamoduletype/

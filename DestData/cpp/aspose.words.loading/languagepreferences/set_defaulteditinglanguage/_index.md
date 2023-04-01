@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::LanguagePreferences::set_DefaultEditingLanguage method
 linktitle: set_DefaultEditingLanguage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::LanguagePreferences::set_DefaultEditingLanguage method. Setter for Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage in C++.
+description: 'Aspose::Words::Loading::LanguagePreferences::set_DefaultEditingLanguage method. Setter for Aspose::Words::Loading::LanguagePreferences::get_DefaultEditingLanguage in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.loading/languagepreferences/set_defaulteditinglanguage/

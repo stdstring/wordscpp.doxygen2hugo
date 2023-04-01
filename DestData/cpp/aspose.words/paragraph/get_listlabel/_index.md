@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph::get_ListLabel method
 linktitle: get_ListLabel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph::get_ListLabel method. Gets a ListLabel object that provides access to list numbering value and formatting for this paragraph in C++.
+description: 'Aspose::Words::Paragraph::get_ListLabel method. Gets a ListLabel object that provides access to list numbering value and formatting for this paragraph in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words/paragraph/get_listlabel/

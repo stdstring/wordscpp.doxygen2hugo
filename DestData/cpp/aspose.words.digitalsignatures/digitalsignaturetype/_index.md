@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignatureType enum
 linktitle: DigitalSignatureType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::DigitalSignatureType enum. Specifies the type of a digital signature in C++.
+description: 'Aspose::Words::DigitalSignatures::DigitalSignatureType enum. Specifies the type of a digital signature in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturetype/

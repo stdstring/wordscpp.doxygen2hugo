@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::TxtSaveOptions::set_SimplifyListLabels method
 linktitle: set_SimplifyListLabels
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::TxtSaveOptions::set_SimplifyListLabels method. Setter for Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels in C++.
+description: 'Aspose::Words::Saving::TxtSaveOptions::set_SimplifyListLabels method. Setter for Aspose::Words::Saving::TxtSaveOptions::get_SimplifyListLabels in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.saving/txtsaveoptions/set_simplifylistlabels/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldGoToButton::get_DisplayText method
 linktitle: get_DisplayText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldGoToButton::get_DisplayText method. Gets or sets the text of the "button" that appears in the document, such that it can be selected to activate the jump in C++.
+description: 'Aspose::Words::Fields::FieldGoToButton::get_DisplayText method. Gets or sets the text of the "button" that appears in the document, such that it can be selected to activate the jump in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldgotobutton/get_displaytext/

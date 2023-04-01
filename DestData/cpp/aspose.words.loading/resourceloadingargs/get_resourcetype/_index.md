@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::ResourceLoadingArgs::get_ResourceType method
 linktitle: get_ResourceType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::ResourceLoadingArgs::get_ResourceType method. Type of resource in C++.
+description: 'Aspose::Words::Loading::ResourceLoadingArgs::get_ResourceType method. Type of resource in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.loading/resourceloadingargs/get_resourcetype/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_NameBi method
 linktitle: get_NameBi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_NameBi method. Returns or sets the name of the font in a right-to-left language document in C++.
+description: 'Aspose::Words::Font::get_NameBi method. Returns or sets the name of the font in a right-to-left language document in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words/font/get_namebi/

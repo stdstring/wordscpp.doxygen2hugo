@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::Field::get_IsDirty method
 linktitle: get_IsDirty
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::Field::get_IsDirty method. Gets or sets whether the current result of the field is no longer correct (stale) due to other modifications made to the document in C++.
+description: 'Aspose::Words::Fields::Field::get_IsDirty method. Gets or sets whether the current result of the field is no longer correct (stale) due to other modifications made to the document in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/field/get_isdirty/

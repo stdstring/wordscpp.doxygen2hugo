@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer method
 linktitle: get_UseGdiEmfRenderer
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer method. Gets or sets a value determining whether to use GDI+ or Aspose.Words metafile renderer when saving to EMF in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer method. Gets or sets a value determining whether to use GDI+ or Aspose.Words metafile renderer when saving to EMF in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.saving/imagesaveoptions/get_usegdiemfrenderer/

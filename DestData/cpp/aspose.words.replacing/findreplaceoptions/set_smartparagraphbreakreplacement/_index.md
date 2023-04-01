@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::set_SmartParagraphBreakReplacement method
 linktitle: set_SmartParagraphBreakReplacement
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::set_SmartParagraphBreakReplacement method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::set_SmartParagraphBreakReplacement method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_SmartParagraphBreakReplacement in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_smartparagraphbreakreplacement/

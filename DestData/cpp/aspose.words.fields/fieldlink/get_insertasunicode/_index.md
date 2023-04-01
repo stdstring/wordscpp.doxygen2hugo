@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldLink::get_InsertAsUnicode method
 linktitle: get_InsertAsUnicode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldLink::get_InsertAsUnicode method. Gets or sets whether to insert the linked object as Unicode text in C++.
+description: 'Aspose::Words::Fields::FieldLink::get_InsertAsUnicode method. Gets or sets whether to insert the linked object as Unicode text in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.fields/fieldlink/get_insertasunicode/

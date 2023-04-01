@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaReferenceCollection::cend method
 linktitle: cend
 second_title: Aspose.Words for C++ API Reference
-description: How to use cend method of Aspose::Words::Vba::VbaReferenceCollection class in C++.
+description: 'How to use cend method of Aspose::Words::Vba::VbaReferenceCollection class in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.vba/vbareferencecollection/cend/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::ViewOptions::set_DisplayBackgroundShape method
 linktitle: set_DisplayBackgroundShape
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::ViewOptions::set_DisplayBackgroundShape method. Setter for Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape in C++.
+description: 'Aspose::Words::Settings::ViewOptions::set_DisplayBackgroundShape method. Setter for Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.settings/viewoptions/set_displaybackgroundshape/

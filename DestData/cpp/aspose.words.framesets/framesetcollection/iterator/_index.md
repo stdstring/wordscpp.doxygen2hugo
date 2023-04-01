@@ -2,7 +2,7 @@
 title: Aspose::Words::Framesets::FramesetCollection::iterator typedef
 linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Framesets::FramesetCollection::iterator typedef of Aspose::Words::Framesets::FramesetCollection class in C++.
+description: 'How to use Aspose::Words::Framesets::FramesetCollection::iterator typedef of Aspose::Words::Framesets::FramesetCollection class in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.framesets/framesetcollection/iterator/

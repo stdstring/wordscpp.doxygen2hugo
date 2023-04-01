@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_FontsFolder method
 linktitle: set_FontsFolder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_FontsFolder method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_FontsFolder method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder in C++.'
 type: docs
 weight: 7700
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_fontsfolder/

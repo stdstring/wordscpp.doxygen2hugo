@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFormCheckBox class
 linktitle: FieldFormCheckBox
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFormCheckBox class. Implements the FORMCHECKBOX field in C++.
+description: 'Aspose::Words::Fields::FieldFormCheckBox class. Implements the FORMCHECKBOX field in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words.fields/fieldformcheckbox/

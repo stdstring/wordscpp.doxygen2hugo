@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::set_Description method
 linktitle: set_Description
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::set_Description method. Setter for Aspose::Words::Tables::Table::get_Description in C++.
+description: 'Aspose::Words::Tables::Table::set_Description method. Setter for Aspose::Words::Tables::Table::get_Description in C++.'
 type: docs
 weight: 4900
 url: /cpp/aspose.words.tables/table/set_description/

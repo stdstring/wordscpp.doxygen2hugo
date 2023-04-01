@@ -2,7 +2,7 @@
 title: Aspose::Words::TextColumnCollection::get_EvenlySpaced method
 linktitle: get_EvenlySpaced
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextColumnCollection::get_EvenlySpaced method. True if text columns are of equal width and evenly spaced in C++.
+description: 'Aspose::Words::TextColumnCollection::get_EvenlySpaced method. True if text columns are of equal width and evenly spaced in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/textcolumncollection/get_evenlyspaced/

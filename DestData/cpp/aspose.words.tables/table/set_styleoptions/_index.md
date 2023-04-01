@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::set_StyleOptions method
 linktitle: set_StyleOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::set_StyleOptions method. Setter for Aspose::Words::Tables::Table::get_StyleOptions in C++.
+description: 'Aspose::Words::Tables::Table::set_StyleOptions method. Setter for Aspose::Words::Tables::Table::get_StyleOptions in C++.'
 type: docs
 weight: 6000
 url: /cpp/aspose.words.tables/table/set_styleoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAdvance::set_LeftOffset method
 linktitle: set_LeftOffset
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAdvance::set_LeftOffset method. Setter for Aspose::Words::Fields::FieldAdvance::get_LeftOffset in C++.
+description: 'Aspose::Words::Fields::FieldAdvance::set_LeftOffset method. Setter for Aspose::Words::Fields::FieldAdvance::get_LeftOffset in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fields/fieldadvance/set_leftoffset/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisTimeUnit enum
 linktitle: AxisTimeUnit
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisTimeUnit enum. Specifies the unit of time for axes in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisTimeUnit enum. Specifies the unit of time for axes in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.drawing.charts/axistimeunit/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::Odso::get_ColumnDelimiter method
 linktitle: get_ColumnDelimiter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::Odso::get_ColumnDelimiter method. Specifies the character which shall be interpreted as the column delimiter used to separate columns within external data sources. The default value is 0 which means there is no column delimiter defined in C++.
+description: 'Aspose::Words::Settings::Odso::get_ColumnDelimiter method. Specifies the character which shall be interpreted as the column delimiter used to separate columns within external data sources. The default value is 0 which means there is no column delimiter defined in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.settings/odso/get_columndelimiter/

@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignature::ToString method
 linktitle: ToString
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::DigitalSignature::ToString method. Returns a user-friendly string that displays the value of this object in C++.
+description: 'Aspose::Words::DigitalSignatures::DigitalSignature::ToString method. Returns a user-friendly string that displays the value of this object in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/tostring/

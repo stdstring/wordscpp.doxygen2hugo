@@ -2,7 +2,7 @@
 title: Aspose::Words::VariableCollection class
 linktitle: VariableCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::VariableCollection class. A collection of document variables in C++.
+description: 'Aspose::Words::VariableCollection class. A collection of document variables in C++.'
 type: docs
 weight: 7300
 url: /cpp/aspose.words/variablecollection/

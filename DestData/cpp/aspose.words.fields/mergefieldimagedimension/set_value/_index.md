@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::MergeFieldImageDimension::set_Value method
 linktitle: set_Value
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::MergeFieldImageDimension::set_Value method. The value in C++.
+description: 'Aspose::Words::Fields::MergeFieldImageDimension::set_Value method. The value in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/mergefieldimagedimension/set_value/

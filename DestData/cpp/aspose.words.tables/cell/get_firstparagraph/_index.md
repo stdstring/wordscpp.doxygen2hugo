@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Cell::get_FirstParagraph method
 linktitle: get_FirstParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Cell::get_FirstParagraph method. Gets the first paragraph among the immediate children in C++.
+description: 'Aspose::Words::Tables::Cell::get_FirstParagraph method. Gets the first paragraph among the immediate children in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.tables/cell/get_firstparagraph/

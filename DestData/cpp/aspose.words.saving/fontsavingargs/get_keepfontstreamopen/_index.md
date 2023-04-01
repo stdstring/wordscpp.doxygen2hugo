@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen method
 linktitle: get_KeepFontStreamOpen
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving a font in C++.
+description: 'Aspose::Words::Saving::FontSavingArgs::get_KeepFontStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving a font in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.saving/fontsavingargs/get_keepfontstreamopen/

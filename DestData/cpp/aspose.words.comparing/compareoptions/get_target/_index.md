@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::get_Target method
 linktitle: get_Target
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::get_Target method. Specifies which document shall be used as a target during comparison in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::get_Target method. Specifies which document shall be used as a target during comparison in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.comparing/compareoptions/get_target/

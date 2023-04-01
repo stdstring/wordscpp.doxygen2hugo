@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionGroupCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::RevisionGroupCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::RevisionGroupCollection class in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/revisiongroupcollection/cbegin/

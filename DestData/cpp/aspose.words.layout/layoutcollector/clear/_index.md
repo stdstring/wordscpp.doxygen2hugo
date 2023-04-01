@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutCollector::Clear method
 linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutCollector::Clear method. Clears all collected layout data. Call this method after document was manually updated, or layout was rebuilt in C++.
+description: 'Aspose::Words::Layout::LayoutCollector::Clear method. Clears all collected layout data. Call this method after document was manually updated, or layout was rebuilt in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.layout/layoutcollector/clear/

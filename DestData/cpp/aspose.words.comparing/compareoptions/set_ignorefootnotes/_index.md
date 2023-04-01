@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::set_IgnoreFootnotes method
 linktitle: set_IgnoreFootnotes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::set_IgnoreFootnotes method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::set_IgnoreFootnotes method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFootnotes in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.comparing/compareoptions/set_ignorefootnotes/

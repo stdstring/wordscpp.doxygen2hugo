@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::set_IgnoreCaseChanges method
 linktitle: set_IgnoreCaseChanges
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::set_IgnoreCaseChanges method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::set_IgnoreCaseChanges method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreCaseChanges in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.comparing/compareoptions/set_ignorecasechanges/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_WPJustification method
 linktitle: get_WPJustification
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_WPJustification method. Emulate WordPerfect 6.x Paragraph Justification in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_WPJustification method. Emulate WordPerfect 6.x Paragraph Justification in C++.'
 type: docs
 weight: 6900
 url: /cpp/aspose.words.settings/compatibilityoptions/get_wpjustification/

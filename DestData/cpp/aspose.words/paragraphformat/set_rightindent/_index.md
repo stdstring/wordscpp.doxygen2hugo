@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_RightIndent method
 linktitle: set_RightIndent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_RightIndent method. Setter for Aspose::Words::ParagraphFormat::get_RightIndent in C++.
+description: 'Aspose::Words::ParagraphFormat::set_RightIndent method. Setter for Aspose::Words::ParagraphFormat::get_RightIndent in C++.'
 type: docs
 weight: 6400
 url: /cpp/aspose.words/paragraphformat/set_rightindent/

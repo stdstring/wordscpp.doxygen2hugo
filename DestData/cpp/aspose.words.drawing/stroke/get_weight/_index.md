@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Stroke::get_Weight method
 linktitle: get_Weight
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Stroke::get_Weight method. Defines the brush thickness that strokes the path of a shape in points in C++.
+description: 'Aspose::Words::Drawing::Stroke::get_Weight method. Defines the brush thickness that strokes the path of a shape in points in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.drawing/stroke/get_weight/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ImageSize::get_WidthPixels method
 linktitle: get_WidthPixels
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ImageSize::get_WidthPixels method. Gets the width of the image in pixels in C++.
+description: 'Aspose::Words::Drawing::ImageSize::get_WidthPixels method. Gets the width of the image in pixels in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.drawing/imagesize/get_widthpixels/

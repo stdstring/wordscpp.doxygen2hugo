@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutOptions::LayoutOptions constructor
 linktitle: LayoutOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use LayoutOptions constructor of Aspose::Words::Layout::LayoutOptions class in C++.
+description: 'How to use LayoutOptions constructor of Aspose::Words::Layout::LayoutOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.layout/layoutoptions/layoutoptions/

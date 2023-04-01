@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::HasDmlEffect method
 linktitle: HasDmlEffect
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::HasDmlEffect method. Checks if particular DrawingML text effect is applied in C++.
+description: 'Aspose::Words::Font::HasDmlEffect method. Checks if particular DrawingML text effect is applied in C++.'
 type: docs
 weight: 5600
 url: /cpp/aspose.words/font/hasdmleffect/

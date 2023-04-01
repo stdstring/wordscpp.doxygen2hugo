@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails method
 linktitle: get_EncryptionDetails
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails method. Gets or sets the details for encrypting the output PDF document in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails method. Gets or sets the details for encrypting the output PDF document in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_encryptiondetails/

@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::BuildingBlock::set_Type method
 linktitle: set_Type
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::BuildingBlock::set_Type method. Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Type in C++.
+description: 'Aspose::Words::BuildingBlocks::BuildingBlock::set_Type method. Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Type in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_type/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::set_LegacyMode method
 linktitle: set_LegacyMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::set_LegacyMode method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::set_LegacyMode method. Setter for Aspose::Words::Replacing::FindReplaceOptions::get_LegacyMode in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.replacing/findreplaceoptions/set_legacymode/

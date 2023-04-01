@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldArgumentBuilder::AddText method
 linktitle: AddText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldArgumentBuilder::AddText method. Adds a plain text to the argument in C++.
+description: 'Aspose::Words::Fields::FieldArgumentBuilder::AddText method. Adds a plain text to the argument in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldargumentbuilder/addtext/

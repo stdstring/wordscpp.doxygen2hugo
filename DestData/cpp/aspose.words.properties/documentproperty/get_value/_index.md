@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentProperty::get_Value method
 linktitle: get_Value
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentProperty::get_Value method. Gets or sets the value of the property in C++.
+description: 'Aspose::Words::Properties::DocumentProperty::get_Value method. Gets or sets the value of the property in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.properties/documentproperty/get_value/

@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_CurrentNode method
 linktitle: get_CurrentNode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_CurrentNode method. Gets the node that is currently selected in this DocumentBuilder in C++.
+description: 'Aspose::Words::DocumentBuilder::get_CurrentNode method. Gets the node that is currently selected in this DocumentBuilder in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/documentbuilder/get_currentnode/

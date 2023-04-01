@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::set_Color method
 linktitle: set_Color
 second_title: Aspose.Words for C++ API Reference
-description: How to use set_Color method of Aspose::Words::Drawing::Fill class in C++.
+description: 'How to use set_Color method of Aspose::Words::Drawing::Fill class in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.drawing/fill/set_color/

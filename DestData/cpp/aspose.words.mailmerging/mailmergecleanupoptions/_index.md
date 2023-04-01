@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMergeCleanupOptions enum
 linktitle: MailMergeCleanupOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMergeCleanupOptions enum. Specifies options that determine what items are removed during mail merge in C++.
+description: 'Aspose::Words::MailMerging::MailMergeCleanupOptions enum. Specifies options that determine what items are removed during mail merge in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.mailmerging/mailmergecleanupoptions/

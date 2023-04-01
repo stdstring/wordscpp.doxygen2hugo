@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen method
 linktitle: get_KeepPageStreamOpen
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving a document page in C++.
+description: 'Aspose::Words::Saving::PageSavingArgs::get_KeepPageStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving a document page in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.saving/pagesavingargs/get_keeppagestreamopen/

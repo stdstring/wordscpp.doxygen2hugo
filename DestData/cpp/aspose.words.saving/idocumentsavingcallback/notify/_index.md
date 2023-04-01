@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::IDocumentSavingCallback::Notify method
 linktitle: Notify
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::IDocumentSavingCallback::Notify method. This is called to notify of document saving progress in C++.
+description: 'Aspose::Words::Saving::IDocumentSavingCallback::Notify method. This is called to notify of document saving progress in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/idocumentsavingcallback/notify/

@@ -2,7 +2,7 @@
 title: Aspose::Words::SectionCollection class
 linktitle: SectionCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::SectionCollection class. A collection of Section objects in the document in C++.
+description: 'Aspose::Words::SectionCollection class. A collection of Section objects in the document in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words/sectioncollection/

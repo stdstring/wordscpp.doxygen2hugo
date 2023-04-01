@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::IStructuredDocumentTag::get_Level method
 linktitle: get_Level
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::IStructuredDocumentTag::get_Level method. Gets the level at which this SDT occurs in the document tree in C++.
+description: 'Aspose::Words::Markup::IStructuredDocumentTag::get_Level method. Gets the level at which this SDT occurs in the document tree in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_level/

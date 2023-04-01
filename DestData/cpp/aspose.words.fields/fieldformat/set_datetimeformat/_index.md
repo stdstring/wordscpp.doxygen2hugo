@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFormat::set_DateTimeFormat method
 linktitle: set_DateTimeFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFormat::set_DateTimeFormat method. Setter for Aspose::Words::Fields::FieldFormat::get_DateTimeFormat in C++.
+description: 'Aspose::Words::Fields::FieldFormat::set_DateTimeFormat method. Setter for Aspose::Words::Fields::FieldFormat::get_DateTimeFormat in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldformat/set_datetimeformat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType method
 linktitle: set_StoreType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType method. Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType method. Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.webextensions/webextensionreference/set_storetype/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword method
 linktitle: get_UserPassword
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword method. Specifies the user password required for opening the encrypted PDF document in C++.
+description: 'Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword method. Specifies the user password required for opening the encrypted PDF document in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/pdfencryptiondetails/get_userpassword/

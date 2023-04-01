@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart::set_Name method
 linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart::set_Name method. Setter for Aspose::Words::Markup::CustomPart::get_Name in C++.
+description: 'Aspose::Words::Markup::CustomPart::set_Name method. Setter for Aspose::Words::Markup::CustomPart::get_Name in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.markup/custompart/set_name/

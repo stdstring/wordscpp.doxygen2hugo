@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::set_StrikeThrough method
 linktitle: set_StrikeThrough
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::set_StrikeThrough method. Setter for Aspose::Words::Drawing::TextPath::get_StrikeThrough in C++.
+description: 'Aspose::Words::Drawing::TextPath::set_StrikeThrough method. Setter for Aspose::Words::Drawing::TextPath::get_StrikeThrough in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words.drawing/textpath/set_strikethrough/

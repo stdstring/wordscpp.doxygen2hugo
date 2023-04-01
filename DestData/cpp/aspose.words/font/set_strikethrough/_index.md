@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_StrikeThrough method
 linktitle: set_StrikeThrough
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_StrikeThrough method. Setter for Aspose::Words::Font::get_StrikeThrough in C++.
+description: 'Aspose::Words::Font::set_StrikeThrough method. Setter for Aspose::Words::Font::get_StrikeThrough in C++.'
 type: docs
 weight: 9000
 url: /cpp/aspose.words/font/set_strikethrough/

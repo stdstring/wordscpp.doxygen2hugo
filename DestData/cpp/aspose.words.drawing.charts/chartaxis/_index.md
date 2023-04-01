@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis class
 linktitle: ChartAxis
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis class. Represents the axis options of the chart in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis class. Represents the axis options of the chart in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.drawing.charts/chartaxis/

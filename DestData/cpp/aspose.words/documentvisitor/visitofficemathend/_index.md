@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitOfficeMathEnd method
 linktitle: VisitOfficeMathEnd
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitOfficeMathEnd method. Called when enumeration of a Office Math object has ended in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitOfficeMathEnd method. Called when enumeration of a Office Math object has ended in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words/documentvisitor/visitofficemathend/

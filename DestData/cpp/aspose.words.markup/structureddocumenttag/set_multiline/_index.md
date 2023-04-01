@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::set_Multiline method
 linktitle: set_Multiline
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::set_Multiline method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Multiline in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::set_Multiline method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Multiline in C++.'
 type: docs
 weight: 4900
 url: /cpp/aspose.words.markup/structureddocumenttag/set_multiline/

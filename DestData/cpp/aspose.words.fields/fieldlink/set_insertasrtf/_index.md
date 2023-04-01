@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldLink::set_InsertAsRtf method
 linktitle: set_InsertAsRtf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldLink::set_InsertAsRtf method. Setter for Aspose::Words::Fields::FieldLink::get_InsertAsRtf in C++.
+description: 'Aspose::Words::Fields::FieldLink::set_InsertAsRtf method. Setter for Aspose::Words::Fields::FieldLink::get_InsertAsRtf in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/fieldlink/set_insertasrtf/

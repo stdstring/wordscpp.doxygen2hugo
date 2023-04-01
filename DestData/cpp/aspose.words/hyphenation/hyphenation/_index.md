@@ -2,7 +2,7 @@
 title: Aspose::Words::Hyphenation::Hyphenation constructor
 linktitle: Hyphenation
 second_title: Aspose.Words for C++ API Reference
-description: How to use Hyphenation constructor of Aspose::Words::Hyphenation class in C++.
+description: 'How to use Hyphenation constructor of Aspose::Words::Hyphenation class in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words/hyphenation/hyphenation/

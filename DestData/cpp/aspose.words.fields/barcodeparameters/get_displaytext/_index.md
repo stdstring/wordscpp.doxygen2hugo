@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::BarcodeParameters::get_DisplayText method
 linktitle: get_DisplayText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::BarcodeParameters::get_DisplayText method. Whether to display barcode data (text) along with image in C++.
+description: 'Aspose::Words::Fields::BarcodeParameters::get_DisplayText method. Whether to display barcode data (text) along with image in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/barcodeparameters/get_displaytext/

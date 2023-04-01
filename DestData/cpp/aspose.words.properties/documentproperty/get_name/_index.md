@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentProperty::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentProperty::get_Name method. Returns the name of the property in C++.
+description: 'Aspose::Words::Properties::DocumentProperty::get_Name method. Returns the name of the property in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.properties/documentproperty/get_name/

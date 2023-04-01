@@ -2,7 +2,7 @@
 title: Aspose::Words::WarningInfoCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::WarningInfoCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::WarningInfoCollection class in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/warninginfocollection/cbegin/

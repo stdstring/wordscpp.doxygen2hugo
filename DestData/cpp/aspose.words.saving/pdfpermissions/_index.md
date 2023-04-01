@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfPermissions enum
 linktitle: PdfPermissions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfPermissions enum. Specifies the operations that are allowed to a user on an encrypted PDF document in C++.
+description: 'Aspose::Words::Saving::PdfPermissions enum. Specifies the operations that are allowed to a user on an encrypted PDF document in C++.'
 type: docs
 weight: 7800
 url: /cpp/aspose.words.saving/pdfpermissions/

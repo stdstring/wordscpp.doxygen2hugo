@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldInclude class
 linktitle: FieldInclude
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldInclude class. Implements the INCLUDE field in C++.
+description: 'Aspose::Words::Fields::FieldInclude class. Implements the INCLUDE field in C++.'
 type: docs
 weight: 5600
 url: /cpp/aspose.words.fields/fieldinclude/

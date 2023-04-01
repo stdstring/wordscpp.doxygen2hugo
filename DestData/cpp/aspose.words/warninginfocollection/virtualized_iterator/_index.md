@@ -2,7 +2,7 @@
 title: Aspose::Words::WarningInfoCollection::virtualized_iterator typedef
 linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::WarningInfoCollection::virtualized_iterator typedef of Aspose::Words::WarningInfoCollection class in C++.
+description: 'How to use Aspose::Words::WarningInfoCollection::virtualized_iterator typedef of Aspose::Words::WarningInfoCollection class in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words/warninginfocollection/virtualized_iterator/

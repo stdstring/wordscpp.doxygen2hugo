@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_ExportXhtmlTransitional method
 linktitle: set_ExportXhtmlTransitional
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportXhtmlTransitional method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_ExportXhtmlTransitional method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportXhtmlTransitional in C++.'
 type: docs
 weight: 7400
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportxhtmltransitional/

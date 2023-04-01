@@ -2,7 +2,7 @@
 title: Aspose::Words::BookmarkStart::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BookmarkStart::get_Name method. Gets or sets the bookmark name in C++.
+description: 'Aspose::Words::BookmarkStart::get_Name method. Gets or sets the bookmark name in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/bookmarkstart/get_name/

@@ -2,7 +2,7 @@
 title: Aspose::Words::BookmarkCollection::RemoveAt method
 linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BookmarkCollection::RemoveAt method. Removes a bookmark at the specified index in C++.
+description: 'Aspose::Words::BookmarkCollection::RemoveAt method. Removes a bookmark at the specified index in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/bookmarkcollection/removeat/

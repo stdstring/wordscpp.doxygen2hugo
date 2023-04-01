@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages method
 linktitle: set_ExportEmbeddedImages
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages method. Setter for Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages in C++.
+description: 'Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages method. Setter for Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.saving/svgsaveoptions/set_exportembeddedimages/

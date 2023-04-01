@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::get_StrikeThrough method
 linktitle: get_StrikeThrough
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::get_StrikeThrough method. True if the font is formatted as strikethrough text in C++.
+description: 'Aspose::Words::Drawing::TextPath::get_StrikeThrough method. True if the font is formatted as strikethrough text in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.drawing/textpath/get_strikethrough/

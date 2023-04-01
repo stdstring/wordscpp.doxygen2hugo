@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_DoNotWrapTextWithPunct method
 linktitle: set_DoNotWrapTextWithPunct
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_DoNotWrapTextWithPunct method. Do Not Allow Hanging Punctuation With Character Grid in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_DoNotWrapTextWithPunct method. Do Not Allow Hanging Punctuation With Character Grid in C++.'
 type: docs
 weight: 9700
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotwraptextwithpunct/

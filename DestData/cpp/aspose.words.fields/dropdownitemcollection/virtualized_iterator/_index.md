@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator typedef
 linktitle: virtualized_iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator typedef of Aspose::Words::Fields::DropDownItemCollection class in C++.
+description: 'How to use Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator typedef of Aspose::Words::Fields::DropDownItemCollection class in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.fields/dropdownitemcollection/virtualized_iterator/

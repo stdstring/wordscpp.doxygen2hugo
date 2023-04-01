@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_Bidi method
 linktitle: set_Bidi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_Bidi method. Setter for Aspose::Words::PageSetup::get_Bidi in C++.
+description: 'Aspose::Words::PageSetup::set_Bidi method. Setter for Aspose::Words::PageSetup::get_Bidi in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words/pagesetup/set_bidi/

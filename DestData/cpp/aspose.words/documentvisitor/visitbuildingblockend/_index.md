@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitBuildingBlockEnd method
 linktitle: VisitBuildingBlockEnd
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitBuildingBlockEnd method. Called when enumeration of a building block has ended in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitBuildingBlockEnd method. Called when enumeration of a building block has ended in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/documentvisitor/visitbuildingblockend/

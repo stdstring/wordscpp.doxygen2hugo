@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeCollection::ToArray method
 linktitle: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::NodeCollection::ToArray method. Copies all nodes from the collection to a new array of nodes in C++.
+description: 'Aspose::Words::NodeCollection::ToArray method. Copies all nodes from the collection to a new array of nodes in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words/nodecollection/toarray/

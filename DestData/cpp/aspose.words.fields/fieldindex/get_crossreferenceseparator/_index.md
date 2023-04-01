@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator method
 linktitle: get_CrossReferenceSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator method. Gets or sets the character sequence that is used to separate cross references and other entries in C++.
+description: 'Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator method. Gets or sets the character sequence that is used to separate cross references and other entries in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldindex/get_crossreferenceseparator/

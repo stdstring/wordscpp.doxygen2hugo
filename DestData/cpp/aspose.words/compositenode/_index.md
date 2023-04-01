@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode class
 linktitle: CompositeNode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode class. Base class for nodes that can contain other nodes in C++.
+description: 'Aspose::Words::CompositeNode class. Base class for nodes that can contain other nodes in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words/compositenode/

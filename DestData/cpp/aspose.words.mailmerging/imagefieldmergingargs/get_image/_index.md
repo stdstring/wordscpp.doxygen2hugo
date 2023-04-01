@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Image method
 linktitle: get_Image
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Image method. Specifies the image that the mail merge engine must insert into the document in C++.
+description: 'Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Image method. Specifies the image that the mail merge engine must insert into the document in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_image/

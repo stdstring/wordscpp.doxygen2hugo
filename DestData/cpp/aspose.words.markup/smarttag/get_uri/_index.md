@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::SmartTag::get_Uri method
 linktitle: get_Uri
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::SmartTag::get_Uri method. Specifies the namespace URI of the smart tag in C++.
+description: 'Aspose::Words::Markup::SmartTag::get_Uri method. Specifies the namespace URI of the smart tag in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.markup/smarttag/get_uri/

@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::FieldMergingArgsBase::get_RecordIndex method
 linktitle: get_RecordIndex
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::FieldMergingArgsBase::get_RecordIndex method. Gets the zero based index of the record that is being merged in C++.
+description: 'Aspose::Words::MailMerging::FieldMergingArgsBase::get_RecordIndex method. Gets the zero based index of the record that is being merged in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_recordindex/

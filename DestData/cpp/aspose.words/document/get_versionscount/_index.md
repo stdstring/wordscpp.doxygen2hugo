@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_VersionsCount method
 linktitle: get_VersionsCount
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_VersionsCount method. Gets the number of document versions that was stored in the DOC document in C++.
+description: 'Aspose::Words::Document::get_VersionsCount method. Gets the number of document versions that was stored in the DOC document in C++.'
 type: docs
 weight: 5400
 url: /cpp/aspose.words/document/get_versionscount/

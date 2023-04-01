@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing namespace
 linktitle: Aspose::Words::Comparing
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing namespace. The Aspose.Words.Comparing namespace provides classes and enumerations that allow to specify additional options when comparing documents in C++.
+description: 'Aspose::Words::Comparing namespace. The Aspose.Words.Comparing namespace provides classes and enumerations that allow to specify additional options when comparing documents in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.comparing/

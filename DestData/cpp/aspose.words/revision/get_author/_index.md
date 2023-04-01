@@ -2,7 +2,7 @@
 title: Aspose::Words::Revision::get_Author method
 linktitle: get_Author
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Revision::get_Author method. Gets or sets the author of this revision. Can not be empty string or null in C++.
+description: 'Aspose::Words::Revision::get_Author method. Gets or sets the author of this revision. Can not be empty string or null in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/revision/get_author/

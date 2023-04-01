@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MappedDataFieldCollection::iterator typedef
 linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::MailMerging::MappedDataFieldCollection::iterator typedef of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
+description: 'How to use Aspose::Words::MailMerging::MappedDataFieldCollection::iterator typedef of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/iterator/

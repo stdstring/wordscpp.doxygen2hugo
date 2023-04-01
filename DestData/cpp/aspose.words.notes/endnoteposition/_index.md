@@ -2,7 +2,7 @@
 title: Aspose::Words::Notes::EndnotePosition enum
 linktitle: EndnotePosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Notes::EndnotePosition enum. Defines the endnote position in C++.
+description: 'Aspose::Words::Notes::EndnotePosition enum. Defines the endnote position in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.notes/endnoteposition/

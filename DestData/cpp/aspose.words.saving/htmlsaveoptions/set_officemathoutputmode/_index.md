@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_OfficeMathOutputMode method
 linktitle: set_OfficeMathOutputMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_OfficeMathOutputMode method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_OfficeMathOutputMode in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_OfficeMathOutputMode method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_OfficeMathOutputMode in C++.'
 type: docs
 weight: 8500
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_officemathoutputmode/

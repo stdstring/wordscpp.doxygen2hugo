@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort method
 linktitle: get_FitToViewPort
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort method. Specifies if the output SVG should fill the available viewport area (browser window or container). When set to true width and height of output SVG are set to 100%. The default value is false in C++.
+description: 'Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort method. Specifies if the output SVG should fill the available viewport area (browser window or container). When set to true width and height of output SVG are set to 100%. The default value is false in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/svgsaveoptions/get_fittoviewport/

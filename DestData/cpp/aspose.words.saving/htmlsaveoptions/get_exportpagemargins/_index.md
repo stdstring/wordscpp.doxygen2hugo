@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins method
 linktitle: get_ExportPageMargins
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins method. Specifies whether page margins is exported to HTML, MHTML or EPUB. Default is false in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageMargins method. Specifies whether page margins is exported to HTML, MHTML or EPUB. Default is false in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportpagemargins/

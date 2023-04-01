@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_CustomXmlParts method
 linktitle: set_CustomXmlParts
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_CustomXmlParts method. Setter for Aspose::Words::Document::get_CustomXmlParts in C++.
+description: 'Aspose::Words::Document::set_CustomXmlParts method. Setter for Aspose::Words::Document::get_CustomXmlParts in C++.'
 type: docs
 weight: 7000
 url: /cpp/aspose.words/document/set_customxmlparts/

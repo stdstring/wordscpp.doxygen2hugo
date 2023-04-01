@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::set_SaveFormat method
 linktitle: set_SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_SaveFormat in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_SaveFormat in C++.'
 type: docs
 weight: 5600
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_saveformat/

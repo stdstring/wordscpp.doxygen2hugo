@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldPrint::set_PostScriptGroup method
 linktitle: set_PostScriptGroup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldPrint::set_PostScriptGroup method. Setter for Aspose::Words::Fields::FieldPrint::get_PostScriptGroup in C++.
+description: 'Aspose::Words::Fields::FieldPrint::set_PostScriptGroup method. Setter for Aspose::Words::Fields::FieldPrint::get_PostScriptGroup in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldprint/set_postscriptgroup/

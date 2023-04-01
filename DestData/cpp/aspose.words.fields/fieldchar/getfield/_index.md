@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldChar::GetField method
 linktitle: GetField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldChar::GetField method. Returns a field for the field char in C++.
+description: 'Aspose::Words::Fields::FieldChar::GetField method. Returns a field for the field char in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldchar/getfield/

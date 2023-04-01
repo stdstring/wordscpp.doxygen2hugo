@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::ResourceLoadingArgs class
 linktitle: ResourceLoadingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::ResourceLoadingArgs class. Provides data for the ResourceLoading() method in C++.
+description: 'Aspose::Words::Loading::ResourceLoadingArgs class. Provides data for the ResourceLoading() method in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.loading/resourceloadingargs/

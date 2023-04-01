@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::TxtSaveOptions::TxtSaveOptions constructor
 linktitle: TxtSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use TxtSaveOptions constructor of Aspose::Words::Saving::TxtSaveOptions class in C++.
+description: 'How to use TxtSaveOptions constructor of Aspose::Words::Saving::TxtSaveOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/txtsaveoptions/txtsaveoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::HeaderFooter::get_IsHeader method
 linktitle: get_IsHeader
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::HeaderFooter::get_IsHeader method. True if this HeaderFooter object is a header in C++.
+description: 'Aspose::Words::HeaderFooter::get_IsHeader method. True if this HeaderFooter object is a header in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/headerfooter/get_isheader/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDdeAuto::set_ProgId method
 linktitle: set_ProgId
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDdeAuto::set_ProgId method. Setter for Aspose::Words::Fields::FieldDdeAuto::get_ProgId in C++.
+description: 'Aspose::Words::Fields::FieldDdeAuto::set_ProgId method. Setter for Aspose::Words::Fields::FieldDdeAuto::get_ProgId in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/fieldddeauto/set_progid/

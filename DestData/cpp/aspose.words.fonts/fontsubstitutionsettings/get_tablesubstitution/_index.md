@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSubstitutionSettings::get_TableSubstitution method
 linktitle: get_TableSubstitution
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSubstitutionSettings::get_TableSubstitution method. Settings related to table substitution rule in C++.
+description: 'Aspose::Words::Fonts::FontSubstitutionSettings::get_TableSubstitution method. Settings related to table substitution rule in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_tablesubstitution/

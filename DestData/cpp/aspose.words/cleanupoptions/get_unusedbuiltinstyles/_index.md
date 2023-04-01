@@ -2,7 +2,7 @@
 title: Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles method
 linktitle: get_UnusedBuiltinStyles
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles method. Specifies that unused BuiltIn styles should be removed from document in C++.
+description: 'Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles method. Specifies that unused BuiltIn styles should be removed from document in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/cleanupoptions/get_unusedbuiltinstyles/

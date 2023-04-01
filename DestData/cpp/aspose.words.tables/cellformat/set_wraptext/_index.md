@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::set_WrapText method
 linktitle: set_WrapText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::set_WrapText method. Setter for Aspose::Words::Tables::CellFormat::get_WrapText in C++.
+description: 'Aspose::Words::Tables::CellFormat::set_WrapText method. Setter for Aspose::Words::Tables::CellFormat::get_WrapText in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.words.tables/cellformat/set_wraptext/

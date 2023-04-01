@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRangeEnd::Accept method
 linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRangeEnd::Accept method. Accepts a visitor in C++.
+description: 'Aspose::Words::EditableRangeEnd::Accept method. Accepts a visitor in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/editablerangeend/accept/

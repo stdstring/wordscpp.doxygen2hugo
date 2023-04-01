@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::get_Count method
 linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode::get_Count method. Gets the number of immediate children of this node in C++.
+description: 'Aspose::Words::CompositeNode::get_Count method. Gets the number of immediate children of this node in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/compositenode/get_count/

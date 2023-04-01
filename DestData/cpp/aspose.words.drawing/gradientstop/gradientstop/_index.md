@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::GradientStop::GradientStop constructor
 linktitle: GradientStop
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::GradientStop::GradientStop constructor. Initializes a new instance of the GradientStop class in C++.
+description: 'Aspose::Words::Drawing::GradientStop::GradientStop constructor. Initializes a new instance of the GradientStop class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing/gradientstop/gradientstop/

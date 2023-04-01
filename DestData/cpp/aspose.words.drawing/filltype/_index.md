@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::FillType enum
 linktitle: FillType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::FillType enum. Specifies fill type for a fillable object in C++.
+description: 'Aspose::Words::Drawing::FillType enum. Specifies fill type for a fillable object in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.drawing/filltype/

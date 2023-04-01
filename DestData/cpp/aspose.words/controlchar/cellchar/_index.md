@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::CellChar field
 linktitle: CellChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::CellChar field. End of a table cell or end of a table row character: (char)7 or "\a" in C++.
+description: 'Aspose::Words::ControlChar::CellChar field. End of a table cell or end of a table row character: (char)7 or "\a" in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words/controlchar/cellchar/

@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionGroup class
 linktitle: RevisionGroup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RevisionGroup class. Represents a group of sequential Revision objects in C++.
+description: 'Aspose::Words::RevisionGroup class. Represents a group of sequential Revision objects in C++.'
 type: docs
 weight: 5400
 url: /cpp/aspose.words/revisiongroup/

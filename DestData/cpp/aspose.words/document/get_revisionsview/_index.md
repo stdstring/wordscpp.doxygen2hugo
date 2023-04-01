@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_RevisionsView method
 linktitle: get_RevisionsView
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_RevisionsView method. Gets or sets a value indicating whether to work with the original or revised version of a document in C++.
+description: 'Aspose::Words::Document::get_RevisionsView method. Gets or sets a value indicating whether to work with the original or revised version of a document in C++.'
 type: docs
 weight: 4400
 url: /cpp/aspose.words/document/get_revisionsview/

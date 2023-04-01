@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::set_IgnoreDmlUniqueId method
 linktitle: set_IgnoreDmlUniqueId
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::set_IgnoreDmlUniqueId method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreDmlUniqueId in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::set_IgnoreDmlUniqueId method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreDmlUniqueId in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.comparing/compareoptions/set_ignoredmluniqueid/

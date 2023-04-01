@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_HyphenationOptions method
 linktitle: get_HyphenationOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_HyphenationOptions method. Provides access to document hyphenation options in C++.
+description: 'Aspose::Words::Document::get_HyphenationOptions method. Provides access to document hyphenation options in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words/document/get_hyphenationoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup class
 linktitle: PageSetup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup class. Represents the page setup properties of a section in C++.
+description: 'Aspose::Words::PageSetup class. Represents the page setup properties of a section in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words/pagesetup/

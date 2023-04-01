@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_Alignment method
 linktitle: get_Alignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_Alignment method. Specifies how an inline table is aligned in the document in C++.
+description: 'Aspose::Words::Tables::Table::get_Alignment method. Specifies how an inline table is aligned in the document in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.tables/table/get_alignment/

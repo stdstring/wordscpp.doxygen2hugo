@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat class
 linktitle: CellFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat class. Represents all formatting for a table cell in C++.
+description: 'Aspose::Words::Tables::CellFormat class. Represents all formatting for a table cell in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.tables/cellformat/

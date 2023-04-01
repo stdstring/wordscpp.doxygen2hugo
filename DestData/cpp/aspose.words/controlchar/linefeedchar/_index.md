@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::LineFeedChar field
 linktitle: LineFeedChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::LineFeedChar field. Line feed character: (char)10 or "\n" in C++.
+description: 'Aspose::Words::ControlChar::LineFeedChar field. Line feed character: (char)10 or "\n" in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words/controlchar/linefeedchar/

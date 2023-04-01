@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_NoLeading method
 linktitle: get_NoLeading
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_NoLeading method. Do Not Add Leading Between Lines of Text in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_NoLeading method. Do Not Add Leading Between Lines of Text in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words.settings/compatibilityoptions/get_noleading/

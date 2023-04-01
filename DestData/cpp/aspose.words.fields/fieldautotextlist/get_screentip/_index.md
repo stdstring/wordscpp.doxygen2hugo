@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip method
 linktitle: get_ScreenTip
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip method. Gets or sets the text of the ScreenTip to show in C++.
+description: 'Aspose::Words::Fields::FieldAutoTextList::get_ScreenTip method. Gets or sets the text of the ScreenTip to show in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldautotextlist/get_screentip/

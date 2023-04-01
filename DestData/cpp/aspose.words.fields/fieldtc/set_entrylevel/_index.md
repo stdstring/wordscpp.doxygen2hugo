@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTC::set_EntryLevel method
 linktitle: set_EntryLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTC::set_EntryLevel method. Setter for Aspose::Words::Fields::FieldTC::get_EntryLevel in C++.
+description: 'Aspose::Words::Fields::FieldTC::set_EntryLevel method. Setter for Aspose::Words::Fields::FieldTC::get_EntryLevel in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/fieldtc/set_entrylevel/

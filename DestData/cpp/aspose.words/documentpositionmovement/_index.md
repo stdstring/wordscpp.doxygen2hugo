@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentPositionMovement enum
 linktitle: DocumentPositionMovement
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentPositionMovement enum. DocumentPositionMovement enumeration in C++.
+description: 'Aspose::Words::DocumentPositionMovement enum. DocumentPositionMovement enumeration in C++.'
 type: docs
 weight: 8600
 url: /cpp/aspose.words/documentpositionmovement/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::MemoryFontSource class
 linktitle: MemoryFontSource
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::MemoryFontSource class. Represents the single TrueType font file stored in memory in C++.
+description: 'Aspose::Words::Fonts::MemoryFontSource class. Represents the single TrueType font file stored in memory in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fonts/memoryfontsource/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Paragraphs method
 linktitle: get_Paragraphs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Paragraphs method. Represents an estimate of the number of paragraphs in the document in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_Paragraphs method. Represents an estimate of the number of paragraphs in the document in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_paragraphs/

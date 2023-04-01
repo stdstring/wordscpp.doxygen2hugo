@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::StreamFontSource::OpenFontDataStream method
 linktitle: OpenFontDataStream
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::StreamFontSource::OpenFontDataStream method. This method should open the stream with font data on demand in C++.
+description: 'Aspose::Words::Fonts::StreamFontSource::OpenFontDataStream method. This method should open the stream with font data on demand in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fonts/streamfontsource/openfontdatastream/

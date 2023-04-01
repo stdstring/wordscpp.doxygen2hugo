@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitRowStart method
 linktitle: VisitRowStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitRowStart method. Called when enumeration of a table row has started in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitRowStart method. Called when enumeration of a table row has started in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words/documentvisitor/visitrowstart/

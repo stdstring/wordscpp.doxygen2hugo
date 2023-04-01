@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::DocumentSavingArgs::get_EstimatedProgress method
 linktitle: get_EstimatedProgress
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::DocumentSavingArgs::get_EstimatedProgress method. Overall estimated percentage progress in C++.
+description: 'Aspose::Words::Saving::DocumentSavingArgs::get_EstimatedProgress method. Overall estimated percentage progress in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/documentsavingargs/get_estimatedprogress/

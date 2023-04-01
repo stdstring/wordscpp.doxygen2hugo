@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::MarkupLevel enum
 linktitle: MarkupLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::MarkupLevel enum. Specifies the level in the document tree where a particular StructuredDocumentTag can occur in C++.
+description: 'Aspose::Words::Markup::MarkupLevel enum. Specifies the level in the document tree where a particular StructuredDocumentTag can occur in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.markup/markuplevel/

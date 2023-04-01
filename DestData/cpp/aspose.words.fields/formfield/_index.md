@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField class
 linktitle: FormField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField class. Represents a single form field in C++.
+description: 'Aspose::Words::Fields::FormField class. Represents a single form field in C++.'
 type: docs
 weight: 11100
 url: /cpp/aspose.words.fields/formfield/

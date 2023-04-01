@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionCollection::get_Count method
 linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RevisionCollection::get_Count method. Returns the number of revisions in the collection in C++.
+description: 'Aspose::Words::RevisionCollection::get_Count method. Returns the number of revisions in the collection in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/revisioncollection/get_count/

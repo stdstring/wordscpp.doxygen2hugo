@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaProject::VbaProject constructor
 linktitle: VbaProject
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Vba::VbaProject::VbaProject constructor. Creates a blank VbaProject in C++.
+description: 'Aspose::Words::Vba::VbaProject::VbaProject constructor. Creates a blank VbaProject in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.vba/vbaproject/vbaproject/

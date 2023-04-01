@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_BalanceSingleByteDoubleByteWidth method
 linktitle: set_BalanceSingleByteDoubleByteWidth
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_BalanceSingleByteDoubleByteWidth method. Balance Single Byte and Double Byte Characters in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_BalanceSingleByteDoubleByteWidth method. Balance Single Byte and Double Byte Characters in C++.'
 type: docs
 weight: 7900
 url: /cpp/aspose.words.settings/compatibilityoptions/set_balancesinglebytedoublebytewidth/

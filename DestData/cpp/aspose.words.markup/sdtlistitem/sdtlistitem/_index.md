@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::SdtListItem::SdtListItem constructor
 linktitle: SdtListItem
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::SdtListItem::SdtListItem constructor. Initializes a new instance of this class in C++.
+description: 'Aspose::Words::Markup::SdtListItem::SdtListItem constructor. Initializes a new instance of this class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.markup/sdtlistitem/sdtlistitem/

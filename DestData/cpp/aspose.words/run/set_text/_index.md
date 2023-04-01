@@ -2,7 +2,7 @@
 title: Aspose::Words::Run::set_Text method
 linktitle: set_Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Run::set_Text method. Setter for Aspose::Words::Run::get_Text in C++.
+description: 'Aspose::Words::Run::set_Text method. Setter for Aspose::Words::Run::get_Text in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/run/set_text/

@@ -2,7 +2,7 @@
 title: Aspose::Words::TextureIndex enum
 linktitle: TextureIndex
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextureIndex enum. Specifies shading texture in C++.
+description: 'Aspose::Words::TextureIndex enum. Specifies shading texture in C++.'
 type: docs
 weight: 12500
 url: /cpp/aspose.words/textureindex/

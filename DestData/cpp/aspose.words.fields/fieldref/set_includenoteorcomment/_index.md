@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldRef::set_IncludeNoteOrComment method
 linktitle: set_IncludeNoteOrComment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldRef::set_IncludeNoteOrComment method. Setter for Aspose::Words::Fields::FieldRef::get_IncludeNoteOrComment in C++.
+description: 'Aspose::Words::Fields::FieldRef::set_IncludeNoteOrComment method. Setter for Aspose::Words::Fields::FieldRef::get_IncludeNoteOrComment in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/fieldref/set_includenoteorcomment/

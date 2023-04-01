@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSection class
 linktitle: FieldSection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSection class. Implements the SECTION field in C++.
+description: 'Aspose::Words::Fields::FieldSection class. Implements the SECTION field in C++.'
 type: docs
 weight: 8800
 url: /cpp/aspose.words.fields/fieldsection/

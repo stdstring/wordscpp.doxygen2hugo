@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_DocumentPartSavingCallback method
 linktitle: set_DocumentPartSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_DocumentPartSavingCallback method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_DocumentPartSavingCallback method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentPartSavingCallback in C++.'
 type: docs
 weight: 5200
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentpartsavingcallback/

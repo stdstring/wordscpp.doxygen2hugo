@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_TitlesOfParts method
 linktitle: set_TitlesOfParts
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_TitlesOfParts method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_TitlesOfParts method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_TitlesOfParts in C++.'
 type: docs
 weight: 6200
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_titlesofparts/

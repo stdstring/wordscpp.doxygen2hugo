@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_DoubleStrikeThrough method
 linktitle: get_DoubleStrikeThrough
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_DoubleStrikeThrough method. True if the font is formatted as double strikethrough text in C++.
+description: 'Aspose::Words::Font::get_DoubleStrikeThrough method. True if the font is formatted as double strikethrough text in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/font/get_doublestrikethrough/

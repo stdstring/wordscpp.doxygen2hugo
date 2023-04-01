@@ -2,7 +2,7 @@
 title: Aspose::Words::FileFormatInfo::get_HasDigitalSignature method
 linktitle: get_HasDigitalSignature
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::FileFormatInfo::get_HasDigitalSignature method. Returns true if this document contains a digital signature. This property merely informs that a digital signature is present on a document, but it does not specify whether the signature is valid or not in C++.
+description: 'Aspose::Words::FileFormatInfo::get_HasDigitalSignature method. Returns true if this document contains a digital signature. This property merely informs that a digital signature is present on a document, but it does not specify whether the signature is valid or not in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/fileformatinfo/get_hasdigitalsignature/

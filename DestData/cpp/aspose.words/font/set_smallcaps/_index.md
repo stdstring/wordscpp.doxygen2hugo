@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_SmallCaps method
 linktitle: set_SmallCaps
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_SmallCaps method. Setter for Aspose::Words::Font::get_SmallCaps in C++.
+description: 'Aspose::Words::Font::set_SmallCaps method. Setter for Aspose::Words::Font::get_SmallCaps in C++.'
 type: docs
 weight: 8700
 url: /cpp/aspose.words/font/set_smallcaps/

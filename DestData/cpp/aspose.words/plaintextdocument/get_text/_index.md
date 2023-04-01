@@ -2,7 +2,7 @@
 title: Aspose::Words::PlainTextDocument::get_Text method
 linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PlainTextDocument::get_Text method. Gets textual content of the document concatenated as a string in C++.
+description: 'Aspose::Words::PlainTextDocument::get_Text method. Gets textual content of the document concatenated as a string in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/plaintextdocument/get_text/

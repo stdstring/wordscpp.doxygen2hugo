@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::set_RotateLetters method
 linktitle: set_RotateLetters
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::set_RotateLetters method. Setter for Aspose::Words::Drawing::TextPath::get_RotateLetters in C++.
+description: 'Aspose::Words::Drawing::TextPath::set_RotateLetters method. Setter for Aspose::Words::Drawing::TextPath::get_RotateLetters in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.drawing/textpath/set_rotateletters/

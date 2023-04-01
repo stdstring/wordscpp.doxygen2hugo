@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPartCollection::virtualizeEndConstIterator method
 linktitle: virtualizeEndConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeEndConstIterator method of Aspose::Words::Markup::CustomPartCollection class in C++.
+description: 'How to use virtualizeEndConstIterator method of Aspose::Words::Markup::CustomPartCollection class in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.markup/custompartcollection/virtualizeendconstiterator/

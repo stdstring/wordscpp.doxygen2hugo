@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::EditingLanguage enum
 linktitle: EditingLanguage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::EditingLanguage enum. Specifies the editing language in C++.
+description: 'Aspose::Words::Loading::EditingLanguage enum. Specifies the editing language in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.loading/editinglanguage/

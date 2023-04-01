@@ -2,7 +2,7 @@
 title: Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties method
 linktitle: get_BuiltInDocumentProperties
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties method. Gets BuiltInDocumentProperties of the document in C++.
+description: 'Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties method. Gets BuiltInDocumentProperties of the document in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/plaintextdocument/get_builtindocumentproperties/

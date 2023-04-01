@@ -2,7 +2,7 @@
 title: Aspose::Words::BookmarkCollection::Remove method
 linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BookmarkCollection::Remove method. Removes the specified bookmark from the document in C++.
+description: 'Aspose::Words::BookmarkCollection::Remove method. Removes the specified bookmark from the document in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/bookmarkcollection/remove/

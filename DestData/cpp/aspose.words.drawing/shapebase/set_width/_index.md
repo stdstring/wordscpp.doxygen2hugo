@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_Width method
 linktitle: set_Width
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_Width method. Setter for Aspose::Words::Drawing::ShapeBase::get_Width in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_Width method. Setter for Aspose::Words::Drawing::ShapeBase::get_Width in C++.'
 type: docs
 weight: 8700
 url: /cpp/aspose.words.drawing/shapebase/set_width/

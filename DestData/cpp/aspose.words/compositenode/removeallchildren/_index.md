@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::RemoveAllChildren method
 linktitle: RemoveAllChildren
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode::RemoveAllChildren method. Removes all the child nodes of the current node in C++.
+description: 'Aspose::Words::CompositeNode::RemoveAllChildren method. Removes all the child nodes of the current node in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words/compositenode/removeallchildren/

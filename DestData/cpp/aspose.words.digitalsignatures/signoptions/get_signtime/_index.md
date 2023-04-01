@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::SignOptions::get_SignTime method
 linktitle: get_SignTime
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::SignOptions::get_SignTime method. The date of signing. Default value is current time (Now) in C++.
+description: 'Aspose::Words::DigitalSignatures::SignOptions::get_SignTime method. The date of signing. Default value is current time (Now) in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.digitalsignatures/signoptions/get_signtime/

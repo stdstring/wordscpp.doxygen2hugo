@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldUnknown class
 linktitle: FieldUnknown
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldUnknown class. Implements an unknown or unrecognized field in C++.
+description: 'Aspose::Words::Fields::FieldUnknown class. Implements an unknown or unrecognized field in C++.'
 type: docs
 weight: 10600
 url: /cpp/aspose.words.fields/fieldunknown/

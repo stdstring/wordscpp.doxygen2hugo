@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartNumberFormat::set_IsLinkedToSource method
 linktitle: set_IsLinkedToSource
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartNumberFormat::set_IsLinkedToSource method. Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartNumberFormat::set_IsLinkedToSource method. Setter for Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/set_islinkedtosource/

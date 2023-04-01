@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::HorizontalRuleFormat::get_Height method
 linktitle: get_Height
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::HorizontalRuleFormat::get_Height method. Gets or sets the height of the horizontal rule in C++.
+description: 'Aspose::Words::Drawing::HorizontalRuleFormat::get_Height method. Gets or sets the height of the horizontal rule in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/horizontalruleformat/get_height/

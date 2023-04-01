@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_AutoSpaceLikeWord95 method
 linktitle: set_AutoSpaceLikeWord95
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_AutoSpaceLikeWord95 method. Emulate Word 95 Full-Width Character Spacing in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_AutoSpaceLikeWord95 method. Emulate Word 95 Full-Width Character Spacing in C++.'
 type: docs
 weight: 7800
 url: /cpp/aspose.words.settings/compatibilityoptions/set_autospacelikeword95/

@@ -2,7 +2,7 @@
 title: Aspose::Words::SpecialChar::Accept method
 linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::SpecialChar::Accept method. Accepts a visitor in C++.
+description: 'Aspose::Words::SpecialChar::Accept method. Accepts a visitor in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/specialchar/accept/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIf::EvaluateCondition method
 linktitle: EvaluateCondition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIf::EvaluateCondition method. Evaluates the condition in C++.
+description: 'Aspose::Words::Fields::FieldIf::EvaluateCondition method. Evaluates the condition in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldif/evaluatecondition/

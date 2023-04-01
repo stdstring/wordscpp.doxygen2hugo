@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::TextWrapping enum
 linktitle: TextWrapping
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::TextWrapping enum. Specifies how text is wrapped around the table in C++.
+description: 'Aspose::Words::Tables::TextWrapping enum. Specifies how text is wrapped around the table in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.tables/textwrapping/

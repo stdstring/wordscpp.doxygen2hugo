@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_EmphasisMark method
 linktitle: get_EmphasisMark
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_EmphasisMark method. Gets or sets the emphasis mark applied to this formatting in C++.
+description: 'Aspose::Words::Font::get_EmphasisMark method. Gets or sets the emphasis mark applied to this formatting in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words/font/get_emphasismark/

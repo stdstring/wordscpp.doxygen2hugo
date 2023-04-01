@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_ViewOptions method
 linktitle: get_ViewOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_ViewOptions method. Provides options to control how the document is displayed in Microsoft Word in C++.
+description: 'Aspose::Words::Document::get_ViewOptions method. Provides options to control how the document is displayed in Microsoft Word in C++.'
 type: docs
 weight: 5500
 url: /cpp/aspose.words/document/get_viewoptions/

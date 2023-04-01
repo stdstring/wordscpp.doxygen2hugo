@@ -2,7 +2,7 @@
 title: Aspose::Words::Hyphenation::UnregisterDictionary method
 linktitle: UnregisterDictionary
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Hyphenation::UnregisterDictionary method. Unregisters a hyphenation dictionary for the specified language. This is different from registering Null dictionary. Unregistering a dictionary enables callback for the specified language in C++.
+description: 'Aspose::Words::Hyphenation::UnregisterDictionary method. Unregisters a hyphenation dictionary for the specified language. This is different from registering Null dictionary. Unregistering a dictionary enables callback for the specified language in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/hyphenation/unregisterdictionary/

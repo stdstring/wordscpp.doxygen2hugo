@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_CurrentParagraph method
 linktitle: get_CurrentParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_CurrentParagraph method. Gets the paragraph that is currently selected in this DocumentBuilder in C++.
+description: 'Aspose::Words::DocumentBuilder::get_CurrentParagraph method. Gets the paragraph that is currently selected in this DocumentBuilder in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words/documentbuilder/get_currentparagraph/

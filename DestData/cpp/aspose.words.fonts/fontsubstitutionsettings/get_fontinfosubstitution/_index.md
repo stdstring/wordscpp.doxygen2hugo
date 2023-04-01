@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSubstitutionSettings::get_FontInfoSubstitution method
 linktitle: get_FontInfoSubstitution
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSubstitutionSettings::get_FontInfoSubstitution method. Settings related to font info substitution rule in C++.
+description: 'Aspose::Words::Fonts::FontSubstitutionSettings::get_FontInfoSubstitution method. Settings related to font info substitution rule in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fonts/fontsubstitutionsettings/get_fontinfosubstitution/

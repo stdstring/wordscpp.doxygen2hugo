@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::RemoveField method
 linktitle: RemoveField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::RemoveField method. Removes the complete form field, not just the form field special character in C++.
+description: 'Aspose::Words::Fields::FormField::RemoveField method. Removes the complete form field, not just the form field special character in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.fields/formfield/removefield/

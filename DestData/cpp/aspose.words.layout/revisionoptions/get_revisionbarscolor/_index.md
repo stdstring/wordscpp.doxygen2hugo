@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionOptions::get_RevisionBarsColor method
 linktitle: get_RevisionBarsColor
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionOptions::get_RevisionBarsColor method. Allows to specify the color to be used for side bars that identify document lines containing revised information. Default value is Red in C++.
+description: 'Aspose::Words::Layout::RevisionOptions::get_RevisionBarsColor method. Allows to specify the color to be used for side bars that identify document lines containing revised information. Default value is Red in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.layout/revisionoptions/get_revisionbarscolor/

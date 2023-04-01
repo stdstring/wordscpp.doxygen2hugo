@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::ThemeColors::get_Hyperlink method
 linktitle: get_Hyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::ThemeColors::get_Hyperlink method. Specifies color for a hyperlink in C++.
+description: 'Aspose::Words::Themes::ThemeColors::get_Hyperlink method. Specifies color for a hyperlink in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.themes/themecolors/get_hyperlink/

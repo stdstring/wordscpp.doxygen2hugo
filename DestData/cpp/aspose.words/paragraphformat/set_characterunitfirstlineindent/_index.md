@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_CharacterUnitFirstLineIndent method
 linktitle: set_CharacterUnitFirstLineIndent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_CharacterUnitFirstLineIndent method. Setter for Aspose::Words::ParagraphFormat::get_CharacterUnitFirstLineIndent in C++.
+description: 'Aspose::Words::ParagraphFormat::set_CharacterUnitFirstLineIndent method. Setter for Aspose::Words::ParagraphFormat::get_CharacterUnitFirstLineIndent in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words/paragraphformat/set_characterunitfirstlineindent/

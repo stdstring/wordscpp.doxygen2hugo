@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::MarkdownSaveOptions::set_ExportImagesAsBase64 method
 linktitle: set_ExportImagesAsBase64
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::MarkdownSaveOptions::set_ExportImagesAsBase64 method. Setter for Aspose::Words::Saving::MarkdownSaveOptions::get_ExportImagesAsBase64 in C++.
+description: 'Aspose::Words::Saving::MarkdownSaveOptions::set_ExportImagesAsBase64 method. Setter for Aspose::Words::Saving::MarkdownSaveOptions::get_ExportImagesAsBase64 in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.saving/markdownsaveoptions/set_exportimagesasbase64/

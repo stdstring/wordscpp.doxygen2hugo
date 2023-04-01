@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_RtlGutter method
 linktitle: get_RtlGutter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_RtlGutter method. Gets or sets whether Microsoft Word uses gutters for the section based on a right-to-left language or a left-to-right language in C++.
+description: 'Aspose::Words::PageSetup::get_RtlGutter method. Gets or sets whether Microsoft Word uses gutters for the section based on a right-to-left language or a left-to-right language in C++.'
 type: docs
 weight: 3800
 url: /cpp/aspose.words/pagesetup/get_rtlgutter/

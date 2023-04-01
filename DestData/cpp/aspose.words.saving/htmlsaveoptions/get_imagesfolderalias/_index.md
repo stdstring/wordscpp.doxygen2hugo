@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias method
 linktitle: get_ImagesFolderAlias
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias method. Specifies the name of the folder used to construct image URIs written into an HTML document. Default is an empty string in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias method. Specifies the name of the folder used to construct image URIs written into an HTML document. Default is an empty string in C++.'
 type: docs
 weight: 3800
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_imagesfolderalias/

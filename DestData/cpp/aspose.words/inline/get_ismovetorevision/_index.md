@@ -2,7 +2,7 @@
 title: Aspose::Words::Inline::get_IsMoveToRevision method
 linktitle: get_IsMoveToRevision
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Inline::get_IsMoveToRevision method. Returns true if this object was moved (inserted) in Microsoft Word while change tracking was enabled in C++.
+description: 'Aspose::Words::Inline::get_IsMoveToRevision method. Returns true if this object was moved (inserted) in Microsoft Word while change tracking was enabled in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/inline/get_ismovetorevision/

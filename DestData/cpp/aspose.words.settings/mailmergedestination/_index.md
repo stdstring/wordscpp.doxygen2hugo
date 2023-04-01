@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::MailMergeDestination enum
 linktitle: MailMergeDestination
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::MailMergeDestination enum. Specifies the possible results which may be generated when a mail merge is carried out on a document in C++.
+description: 'Aspose::Words::Settings::MailMergeDestination enum. Specifies the possible results which may be generated when a mail merge is carried out on a document in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.settings/mailmergedestination/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAdvance::get_LeftOffset method
 linktitle: get_LeftOffset
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAdvance::get_LeftOffset method. Gets or sets the number of points by which the text that follows the field should be moved left in C++.
+description: 'Aspose::Words::Fields::FieldAdvance::get_LeftOffset method. Gets or sets the number of points by which the text that follows the field should be moved left in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldadvance/get_leftoffset/

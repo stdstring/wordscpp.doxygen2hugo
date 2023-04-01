@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlSchemaCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.markup/customxmlschemacollection/cbegin/

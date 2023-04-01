@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_ScreenTip method
 linktitle: get_ScreenTip
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_ScreenTip method. Defines the text displayed when the mouse pointer moves over the shape in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_ScreenTip method. Defines the text displayed when the mouse pointer moves over the shape in C++.'
 type: docs
 weight: 4500
 url: /cpp/aspose.words.drawing/shapebase/get_screentip/

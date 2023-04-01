@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::RemoveChild method
 linktitle: RemoveChild
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode::RemoveChild method. Removes the specified child node in C++.
+description: 'Aspose::Words::CompositeNode::RemoveChild method. Removes the specified child node in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words/compositenode/removechild/

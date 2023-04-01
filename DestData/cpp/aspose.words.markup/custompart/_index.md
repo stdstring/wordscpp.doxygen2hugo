@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart class
 linktitle: CustomPart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart class. Represents a custom (arbitrary content) part, that is not defined by the ISO/IEC 29500 standard in C++.
+description: 'Aspose::Words::Markup::CustomPart class. Represents a custom (arbitrary content) part, that is not defined by the ISO/IEC 29500 standard in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.markup/custompart/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::ExpandTableStylesToDirectFormatting method
 linktitle: ExpandTableStylesToDirectFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::ExpandTableStylesToDirectFormatting method. Converts formatting specified in table styles into direct formatting on tables in the document in C++.
+description: 'Aspose::Words::Document::ExpandTableStylesToDirectFormatting method. Converts formatting specified in table styles into direct formatting on tables in the document in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/document/expandtablestylestodirectformatting/

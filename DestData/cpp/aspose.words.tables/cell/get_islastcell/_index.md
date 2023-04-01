@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Cell::get_IsLastCell method
 linktitle: get_IsLastCell
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Cell::get_IsLastCell method. True if this is the last cell inside a row; false otherwise in C++.
+description: 'Aspose::Words::Tables::Cell::get_IsLastCell method. True if this is the last cell inside a row; false otherwise in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.tables/cell/get_islastcell/

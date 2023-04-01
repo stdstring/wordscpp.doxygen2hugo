@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_Lines method
 linktitle: set_Lines
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Lines method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_Lines method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Lines in C++.'
 type: docs
 weight: 5000
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_lines/

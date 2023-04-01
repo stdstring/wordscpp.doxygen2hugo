@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfoSubstitutionRule class
 linktitle: FontInfoSubstitutionRule
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontInfoSubstitutionRule class. Font info substitution rule in C++.
+description: 'Aspose::Words::Fonts::FontInfoSubstitutionRule class. Font info substitution rule in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.fonts/fontinfosubstitutionrule/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_TextEffect method
 linktitle: get_TextEffect
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_TextEffect method. Gets or sets the font animation effect in C++.
+description: 'Aspose::Words::Font::get_TextEffect method. Gets or sets the font animation effect in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words/font/get_texteffect/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf method
 linktitle: get_ConvertSvgToEmf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf method. Gets or sets a value indicating whether to convert loaded SVG images to the EMF format. Default value is false and, if possible, loaded SVG images are stored as is without conversion in C++.
+description: 'Aspose::Words::Loading::HtmlLoadOptions::get_ConvertSvgToEmf method. Gets or sets a value indicating whether to convert loaded SVG images to the EMF format. Default value is false and, if possible, loaded SVG images are stored as is without conversion in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.loading/htmlloadoptions/get_convertsvgtoemf/

@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::TaskPane class
 linktitle: TaskPane
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::TaskPane class. Represents an add-in task pane object in C++.
+description: 'Aspose::Words::WebExtensions::TaskPane class. Represents an add-in task pane object in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.webextensions/taskpane/

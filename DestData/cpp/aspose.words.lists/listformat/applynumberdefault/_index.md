@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListFormat::ApplyNumberDefault method
 linktitle: ApplyNumberDefault
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListFormat::ApplyNumberDefault method. Starts a new default numbered list and applies it to the paragraph in C++.
+description: 'Aspose::Words::Lists::ListFormat::ApplyNumberDefault method. Starts a new default numbered list and applies it to the paragraph in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.lists/listformat/applynumberdefault/

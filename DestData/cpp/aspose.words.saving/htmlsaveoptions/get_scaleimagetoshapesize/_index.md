@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize method
 linktitle: get_ScaleImageToShapeSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize method. Specifies whether images are scaled by Aspose.Words to the bounding shape size when exporting to HTML, MHTML or EPUB. Default value is true in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize method. Specifies whether images are scaled by Aspose.Words to the bounding shape size when exporting to HTML, MHTML or EPUB. Default value is true in C++.'
 type: docs
 weight: 4500
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_scaleimagetoshapesize/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::IReplacingCallback interface
 linktitle: IReplacingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::IReplacingCallback interface. Implement this interface if you want to have your own custom method called during a find and replace operation in C++.
+description: 'Aspose::Words::Replacing::IReplacingCallback interface. Implement this interface if you want to have your own custom method called during a find and replace operation in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.replacing/ireplacingcallback/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List::get_IsListStyleDefinition method
 linktitle: get_IsListStyleDefinition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List::get_IsListStyleDefinition method. Returns true if this list is a definition of a list style in C++.
+description: 'Aspose::Words::Lists::List::get_IsListStyleDefinition method. Returns true if this list is a definition of a list style in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.lists/list/get_isliststyledefinition/

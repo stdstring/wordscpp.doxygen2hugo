@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDisplayBarcode::set_ErrorCorrectionLevel method
 linktitle: set_ErrorCorrectionLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDisplayBarcode::set_ErrorCorrectionLevel method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel in C++.
+description: 'Aspose::Words::Fields::FieldDisplayBarcode::set_ErrorCorrectionLevel method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_errorcorrectionlevel/

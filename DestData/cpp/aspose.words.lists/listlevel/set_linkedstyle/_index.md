@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevel::set_LinkedStyle method
 linktitle: set_LinkedStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListLevel::set_LinkedStyle method. Setter for Aspose::Words::Lists::ListLevel::get_LinkedStyle in C++.
+description: 'Aspose::Words::Lists::ListLevel::set_LinkedStyle method. Setter for Aspose::Words::Lists::ListLevel::get_LinkedStyle in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.lists/listlevel/set_linkedstyle/

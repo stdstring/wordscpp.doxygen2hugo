@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisBound::ToString method
 linktitle: ToString
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisBound::ToString method. Returns a user-friendly string that displays the value of this object in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisBound::ToString method. Returns a user-friendly string that displays the value of this object in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.drawing.charts/axisbound/tostring/

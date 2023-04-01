@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlVersion enum
 linktitle: HtmlVersion
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlVersion enum. Indicates the version of HTML is used when saving the document to Html and Mhtml formats in C++.
+description: 'Aspose::Words::Saving::HtmlVersion enum. Indicates the version of HTML is used when saving the document to Html and Mhtml formats in C++.'
 type: docs
 weight: 6200
 url: /cpp/aspose.words.saving/htmlversion/

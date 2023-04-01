@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::HorizontalRuleFormat::set_Height method
 linktitle: set_Height
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::HorizontalRuleFormat::set_Height method. Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_Height in C++.
+description: 'Aspose::Words::Drawing::HorizontalRuleFormat::set_Height method. Setter for Aspose::Words::Drawing::HorizontalRuleFormat::get_Height in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.drawing/horizontalruleformat/set_height/

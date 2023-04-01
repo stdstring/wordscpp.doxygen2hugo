@@ -2,7 +2,7 @@
 title: Aspose::Words::Rendering::ThumbnailGeneratingOptions::ThumbnailGeneratingOptions constructor
 linktitle: ThumbnailGeneratingOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use ThumbnailGeneratingOptions constructor of Aspose::Words::Rendering::ThumbnailGeneratingOptions class in C++.
+description: 'How to use ThumbnailGeneratingOptions constructor of Aspose::Words::Rendering::ThumbnailGeneratingOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/thumbnailgeneratingoptions/

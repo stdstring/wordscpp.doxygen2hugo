@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_FirstRow method
 linktitle: get_FirstRow
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_FirstRow method. Returns the first Row node in the table in C++.
+description: 'Aspose::Words::Tables::Table::get_FirstRow method. Returns the first Row node in the table in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.tables/table/get_firstrow/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources method
 linktitle: get_ExportCidUrlsForMhtmlResources
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources method. Specifies whether to use CID (Content-ID) URLs to reference resources (images, fonts, CSS) included in MHTML documents. Default value is false in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ExportCidUrlsForMhtmlResources method. Specifies whether to use CID (Content-ID) URLs to reference resources (images, fonts, CSS) included in MHTML documents. Default value is false in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportcidurlsformhtmlresources/

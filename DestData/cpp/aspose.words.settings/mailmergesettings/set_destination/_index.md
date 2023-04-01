@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::MailMergeSettings::set_Destination method
 linktitle: set_Destination
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::MailMergeSettings::set_Destination method. Specifies how Microsoft Word will output the results of a mail merge. The default value is Default in C++.
+description: 'Aspose::Words::Settings::MailMergeSettings::set_Destination method. Specifies how Microsoft Word will output the results of a mail merge. The default value is Default in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.settings/mailmergesettings/set_destination/

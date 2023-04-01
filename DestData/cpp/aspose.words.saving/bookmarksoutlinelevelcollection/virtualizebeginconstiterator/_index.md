@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/virtualizebeginconstiterator/

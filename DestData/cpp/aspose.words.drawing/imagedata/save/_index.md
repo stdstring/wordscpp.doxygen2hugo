@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ImageData::Save method
 linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ImageData::Save method. Saves the image into the specified stream in C++.
+description: 'Aspose::Words::Drawing::ImageData::Save method. Saves the image into the specified stream in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.drawing/imagedata/save/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitIsAuto method
 linktitle: set_MinorUnitIsAuto
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitIsAuto method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitIsAuto in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::set_MinorUnitIsAuto method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_MinorUnitIsAuto in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_minorunitisauto/

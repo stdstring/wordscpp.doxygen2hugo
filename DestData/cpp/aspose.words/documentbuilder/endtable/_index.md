@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::EndTable method
 linktitle: EndTable
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::EndTable method. Ends a table in the document in C++.
+description: 'Aspose::Words::DocumentBuilder::EndTable method. Ends a table in the document in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/documentbuilder/endtable/

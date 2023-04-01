@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::get_PageNumberOmittingLevelRange method
 linktitle: get_PageNumberOmittingLevelRange
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::get_PageNumberOmittingLevelRange method. Gets or sets a range of levels of the table of contents entries from which to omits page numbers in C++.
+description: 'Aspose::Words::Fields::FieldToc::get_PageNumberOmittingLevelRange method. Gets or sets a range of levels of the table of contents entries from which to omits page numbers in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.fields/fieldtoc/get_pagenumberomittinglevelrange/

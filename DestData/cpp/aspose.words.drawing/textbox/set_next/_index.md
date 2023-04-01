@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::set_Next method
 linktitle: set_Next
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::set_Next method. Setter for Aspose::Words::Drawing::TextBox::get_Next in C++.
+description: 'Aspose::Words::Drawing::TextBox::set_Next method. Setter for Aspose::Words::Drawing::TextBox::get_Next in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.drawing/textbox/set_next/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolder method
 linktitle: set_ResourcesFolder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolder method. Setter for Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder in C++.
+description: 'Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolder method. Setter for Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/set_resourcesfolder/

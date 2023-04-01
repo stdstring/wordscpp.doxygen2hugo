@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::get_Stroked method
 linktitle: get_Stroked
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::get_Stroked method. Defines whether the path will be stroked in C++.
+description: 'Aspose::Words::Drawing::Shape::get_Stroked method. Defines whether the path will be stroked in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.drawing/shape/get_stroked/

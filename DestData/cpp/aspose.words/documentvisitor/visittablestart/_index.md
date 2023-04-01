@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitTableStart method
 linktitle: VisitTableStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitTableStart method. Called when enumeration of a table has started in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitTableStart method. Called when enumeration of a table has started in C++.'
 type: docs
 weight: 5000
 url: /cpp/aspose.words/documentvisitor/visittablestart/

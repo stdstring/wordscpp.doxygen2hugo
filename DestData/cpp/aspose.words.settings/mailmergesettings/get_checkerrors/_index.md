@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::MailMergeSettings::get_CheckErrors method
 linktitle: get_CheckErrors
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::MailMergeSettings::get_CheckErrors method. Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is Default in C++.
+description: 'Aspose::Words::Settings::MailMergeSettings::get_CheckErrors method. Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is Default in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.settings/mailmergesettings/get_checkerrors/

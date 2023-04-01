@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::SetTemplateWeakPtr method
 linktitle: SetTemplateWeakPtr
 second_title: Aspose.Words for C++ API Reference
-description: How to use SetTemplateWeakPtr method of Aspose::Words::CompositeNode class in C++.
+description: 'How to use SetTemplateWeakPtr method of Aspose::Words::CompositeNode class in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words/compositenode/settemplateweakptr/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFileSize class
 linktitle: FieldFileSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFileSize class. Implements the FILESIZE field in C++.
+description: 'Aspose::Words::Fields::FieldFileSize class. Implements the FILESIZE field in C++.'
 type: docs
 weight: 4200
 url: /cpp/aspose.words.fields/fieldfilesize/

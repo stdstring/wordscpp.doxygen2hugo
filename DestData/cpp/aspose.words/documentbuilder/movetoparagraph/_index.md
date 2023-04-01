@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::MoveToParagraph method
 linktitle: MoveToParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::MoveToParagraph method. Moves the cursor to a paragraph in the current section in C++.
+description: 'Aspose::Words::DocumentBuilder::MoveToParagraph method. Moves the cursor to a paragraph in the current section in C++.'
 type: docs
 weight: 5600
 url: /cpp/aspose.words/documentbuilder/movetoparagraph/

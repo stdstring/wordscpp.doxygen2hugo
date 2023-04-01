@@ -2,7 +2,7 @@
 title: Aspose::Words::AbsolutePositionTab class
 linktitle: AbsolutePositionTab
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::AbsolutePositionTab class. An absolute position tab is a character which is used to advance the position on the current line of text when displaying this WordprocessingML content in C++.
+description: 'Aspose::Words::AbsolutePositionTab class. An absolute position tab is a character which is used to advance the position on the current line of text when displaying this WordprocessingML content in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/absolutepositiontab/

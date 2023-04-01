@@ -2,7 +2,7 @@
 title: Aspose::Words::License class
 linktitle: License
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::License class. Provides methods to license the component in C++.
+description: 'Aspose::Words::License class. Provides methods to license the component in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.words/license/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_IsTopLevel method
 linktitle: get_IsTopLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_IsTopLevel method. Returns true if this shape is not a child of a group shape in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_IsTopLevel method. Returns true if this shape is not a child of a group shape in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words.drawing/shapebase/get_istoplevel/

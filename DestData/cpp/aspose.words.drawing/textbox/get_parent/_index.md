@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::get_Parent method
 linktitle: get_Parent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::get_Parent method. Gets a parent shape for the TextBox in C++.
+description: 'Aspose::Words::Drawing::TextBox::get_Parent method. Gets a parent shape for the TextBox in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.drawing/textbox/get_parent/

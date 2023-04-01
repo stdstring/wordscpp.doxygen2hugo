@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::get_Trim method
 linktitle: get_Trim
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::get_Trim method. Determines whether extra space is removed above and below the text in C++.
+description: 'Aspose::Words::Drawing::TextPath::get_Trim method. Determines whether extra space is removed above and below the text in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.drawing/textpath/get_trim/

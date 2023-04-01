@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Stroke::get_Visible method
 linktitle: get_Visible
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Stroke::get_Visible method. Gets or sets a flag indicating whether the stroke is visible in C++.
+description: 'Aspose::Words::Drawing::Stroke::get_Visible method. Gets or sets a flag indicating whether the stroke is visible in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.drawing/stroke/get_visible/

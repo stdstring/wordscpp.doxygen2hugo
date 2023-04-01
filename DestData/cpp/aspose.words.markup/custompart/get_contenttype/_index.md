@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart::get_ContentType method
 linktitle: get_ContentType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart::get_ContentType method. Specifies the content type of this custom part in C++.
+description: 'Aspose::Words::Markup::CustomPart::get_ContentType method. Specifies the content type of this custom part in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.markup/custompart/get_contenttype/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentProperty::get_IsLinkToContent method
 linktitle: get_IsLinkToContent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentProperty::get_IsLinkToContent method. Shows whether this property is linked to content or not in C++.
+description: 'Aspose::Words::Properties::DocumentProperty::get_IsLinkToContent method. Shows whether this property is linked to content or not in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.properties/documentproperty/get_islinktocontent/

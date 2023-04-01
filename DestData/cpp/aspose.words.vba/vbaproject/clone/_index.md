@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaProject::Clone method
 linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Vba::VbaProject::Clone method. Performs a copy of the VbaProject in C++.
+description: 'Aspose::Words::Vba::VbaProject::Clone method. Performs a copy of the VbaProject in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.vba/vbaproject/clone/

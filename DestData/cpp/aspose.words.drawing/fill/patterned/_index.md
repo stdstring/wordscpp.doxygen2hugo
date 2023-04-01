@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::Patterned method
 linktitle: Patterned
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::Patterned method. Sets the specified fill to a pattern in C++.
+description: 'Aspose::Words::Drawing::Fill::Patterned method. Sets the specified fill to a pattern in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.drawing/fill/patterned/

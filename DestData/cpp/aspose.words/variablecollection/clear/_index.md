@@ -2,7 +2,7 @@
 title: Aspose::Words::VariableCollection::Clear method
 linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::VariableCollection::Clear method. Removes all elements from the collection in C++.
+description: 'Aspose::Words::VariableCollection::Clear method. Removes all elements from the collection in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/variablecollection/clear/

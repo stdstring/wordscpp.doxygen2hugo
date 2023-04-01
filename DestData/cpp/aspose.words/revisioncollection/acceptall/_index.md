@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionCollection::AcceptAll method
 linktitle: AcceptAll
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RevisionCollection::AcceptAll method. Accepts all revisions in this collection in C++.
+description: 'Aspose::Words::RevisionCollection::AcceptAll method. Accepts all revisions in this collection in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/revisioncollection/acceptall/

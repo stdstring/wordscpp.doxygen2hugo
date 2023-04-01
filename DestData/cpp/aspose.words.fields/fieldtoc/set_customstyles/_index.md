@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::set_CustomStyles method
 linktitle: set_CustomStyles
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::set_CustomStyles method. Setter for Aspose::Words::Fields::FieldToc::get_CustomStyles in C++.
+description: 'Aspose::Words::Fields::FieldToc::set_CustomStyles method. Setter for Aspose::Words::Fields::FieldToc::get_CustomStyles in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.fields/fieldtoc/set_customstyles/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowCategoryName method
 linktitle: get_ShowCategoryName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowCategoryName method. Allows to specify whether category name is to be displayed for the data labels of the entire series. Default value is false in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataLabelCollection::get_ShowCategoryName method. Allows to specify whether category name is to be displayed for the data labels of the entire series. Default value is false in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.drawing.charts/chartdatalabelcollection/get_showcategoryname/

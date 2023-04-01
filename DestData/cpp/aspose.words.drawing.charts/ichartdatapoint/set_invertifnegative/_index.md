@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::IChartDataPoint::set_InvertIfNegative method
 linktitle: set_InvertIfNegative
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::IChartDataPoint::set_InvertIfNegative method. Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative in C++.
+description: 'Aspose::Words::Drawing::Charts::IChartDataPoint::set_InvertIfNegative method. Setter for Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.drawing.charts/ichartdatapoint/set_invertifnegative/

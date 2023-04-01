@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::set_BottomPadding method
 linktitle: set_BottomPadding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::set_BottomPadding method. Setter for Aspose::Words::Tables::CellFormat::get_BottomPadding in C++.
+description: 'Aspose::Words::Tables::CellFormat::set_BottomPadding method. Setter for Aspose::Words::Tables::CellFormat::get_BottomPadding in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.tables/cellformat/set_bottompadding/

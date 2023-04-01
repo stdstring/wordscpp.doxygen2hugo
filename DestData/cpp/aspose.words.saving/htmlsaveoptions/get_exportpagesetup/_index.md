@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup method
 linktitle: get_ExportPageSetup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup method. Specifies whether page setup is exported to HTML, MHTML or EPUB. Default is false in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ExportPageSetup method. Specifies whether page setup is exported to HTML, MHTML or EPUB. Default is false in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportpagesetup/

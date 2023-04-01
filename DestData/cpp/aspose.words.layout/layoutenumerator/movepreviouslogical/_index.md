@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutEnumerator::MovePreviousLogical method
 linktitle: MovePreviousLogical
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutEnumerator::MovePreviousLogical method. Moves to the previous sibling entity in a logical order. When iterating lines of a paragraph broken across pages this method will move to the previous line even if it resides on another page in C++.
+description: 'Aspose::Words::Layout::LayoutEnumerator::MovePreviousLogical method. Moves to the previous sibling entity in a logical order. When iterating lines of a paragraph broken across pages this method will move to the previous line even if it resides on another page in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.layout/layoutenumerator/movepreviouslogical/

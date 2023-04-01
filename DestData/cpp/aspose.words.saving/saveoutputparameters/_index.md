@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SaveOutputParameters class
 linktitle: SaveOutputParameters
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SaveOutputParameters class. This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object in C++.
+description: 'Aspose::Words::Saving::SaveOutputParameters class. This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.saving/saveoutputparameters/

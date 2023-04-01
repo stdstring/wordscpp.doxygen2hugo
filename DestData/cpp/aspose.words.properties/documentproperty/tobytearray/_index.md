@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentProperty::ToByteArray method
 linktitle: ToByteArray
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentProperty::ToByteArray method. Returns the property value as byte array in C++.
+description: 'Aspose::Words::Properties::DocumentProperty::ToByteArray method. Returns the property value as byte array in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.properties/documentproperty/tobytearray/

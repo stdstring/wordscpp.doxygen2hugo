@@ -2,7 +2,7 @@
 title: Aspose::Words::BorderCollection::Equals method
 linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BorderCollection::Equals method. Compares collections of borders in C++.
+description: 'Aspose::Words::BorderCollection::Equals method. Compares collections of borders in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/bordercollection/equals/

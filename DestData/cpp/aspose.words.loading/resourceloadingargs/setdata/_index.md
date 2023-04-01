@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::ResourceLoadingArgs::SetData method
 linktitle: SetData
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::ResourceLoadingArgs::SetData method. Sets user provided data of the resource which is used if ResourceLoading() returns UserProvided in C++.
+description: 'Aspose::Words::Loading::ResourceLoadingArgs::SetData method. Sets user provided data of the resource which is used if ResourceLoading() returns UserProvided in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.loading/resourceloadingargs/setdata/

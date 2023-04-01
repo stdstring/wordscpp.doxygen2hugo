@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSourceBase::GetAvailableFonts method
 linktitle: GetAvailableFonts
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSourceBase::GetAvailableFonts method. Returns list of fonts available via this source in C++.
+description: 'Aspose::Words::Fonts::FontSourceBase::GetAvailableFonts method. Returns list of fonts available via this source in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fonts/fontsourcebase/getavailablefonts/

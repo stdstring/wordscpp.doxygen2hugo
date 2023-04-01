@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_DifferentFirstPageHeaderFooter method
 linktitle: set_DifferentFirstPageHeaderFooter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_DifferentFirstPageHeaderFooter method. Setter for Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter in C++.
+description: 'Aspose::Words::PageSetup::set_DifferentFirstPageHeaderFooter method. Setter for Aspose::Words::PageSetup::get_DifferentFirstPageHeaderFooter in C++.'
 type: docs
 weight: 5500
 url: /cpp/aspose.words/pagesetup/set_differentfirstpageheaderfooter/

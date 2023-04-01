@@ -2,7 +2,7 @@
 title: Aspose::Words::Notes::EndnoteOptions::set_RestartRule method
 linktitle: set_RestartRule
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Notes::EndnoteOptions::set_RestartRule method. Setter for Aspose::Words::Notes::EndnoteOptions::get_RestartRule in C++.
+description: 'Aspose::Words::Notes::EndnoteOptions::set_RestartRule method. Setter for Aspose::Words::Notes::EndnoteOptions::get_RestartRule in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.notes/endnoteoptions/set_restartrule/

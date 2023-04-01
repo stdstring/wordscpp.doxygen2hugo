@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlPart::get_DataChecksum method
 linktitle: get_DataChecksum
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomXmlPart::get_DataChecksum method. Specifies a cyclic redundancy check (CRC) checksum of the Data content in C++.
+description: 'Aspose::Words::Markup::CustomXmlPart::get_DataChecksum method. Specifies a cyclic redundancy check (CRC) checksum of the Data content in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.markup/customxmlpart/get_datachecksum/

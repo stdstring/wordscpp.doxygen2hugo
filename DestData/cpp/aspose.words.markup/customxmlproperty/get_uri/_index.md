@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlProperty::get_Uri method
 linktitle: get_Uri
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomXmlProperty::get_Uri method. Gets or sets the namespace URI of the custom XML attribute or smart tag property in C++.
+description: 'Aspose::Words::Markup::CustomXmlProperty::get_Uri method. Gets or sets the namespace URI of the custom XML attribute or smart tag property in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.markup/customxmlproperty/get_uri/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormFieldCollection::Clear method
 linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormFieldCollection::Clear method. Removes all form fields from this collection and from the document in C++.
+description: 'Aspose::Words::Fields::FormFieldCollection::Clear method. Removes all form fields from this collection and from the document in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/formfieldcollection/clear/

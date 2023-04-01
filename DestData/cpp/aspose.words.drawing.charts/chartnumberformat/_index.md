@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartNumberFormat class
 linktitle: ChartNumberFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartNumberFormat class. Represents number formatting of the parent element in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartNumberFormat class. Represents number formatting of the parent element in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/

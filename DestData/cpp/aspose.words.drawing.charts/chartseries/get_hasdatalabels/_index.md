@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartSeries::get_HasDataLabels method
 linktitle: get_HasDataLabels
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartSeries::get_HasDataLabels method. Gets a flag indicating whether data labels are displayed for the series in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartSeries::get_HasDataLabels method. Gets a flag indicating whether data labels are displayed for the series in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.drawing.charts/chartseries/get_hasdatalabels/

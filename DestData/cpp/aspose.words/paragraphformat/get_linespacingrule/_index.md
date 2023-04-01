@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_LineSpacingRule method
 linktitle: get_LineSpacingRule
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_LineSpacingRule method. Gets or sets the line spacing for the paragraph in C++.
+description: 'Aspose::Words::ParagraphFormat::get_LineSpacingRule method. Gets or sets the line spacing for the paragraph in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words/paragraphformat/get_linespacingrule/

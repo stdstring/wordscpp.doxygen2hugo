@@ -2,7 +2,7 @@
 title: Aspose::Words::TabStop::Equals method
 linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TabStop::Equals method. Compares with the specified TabStop in C++.
+description: 'Aspose::Words::TabStop::Equals method. Compares with the specified TabStop in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/tabstop/equals/

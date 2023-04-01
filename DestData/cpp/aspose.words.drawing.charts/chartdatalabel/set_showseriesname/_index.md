@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowSeriesName method
 linktitle: set_ShowSeriesName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowSeriesName method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowSeriesName in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowSeriesName method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowSeriesName in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showseriesname/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIncludeText::set_SourceFullName method
 linktitle: set_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIncludeText::set_SourceFullName method. Setter for Aspose::Words::Fields::FieldIncludeText::get_SourceFullName in C++.
+description: 'Aspose::Words::Fields::FieldIncludeText::set_SourceFullName method. Setter for Aspose::Words::Fields::FieldIncludeText::get_SourceFullName in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.fields/fieldincludetext/set_sourcefullname/

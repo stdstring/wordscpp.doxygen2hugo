@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_TabStops method
 linktitle: get_TabStops
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_TabStops method. Gets the collection of custom tab stops defined for this object in C++.
+description: 'Aspose::Words::ParagraphFormat::get_TabStops method. Gets the collection of custom tab stops defined for this object in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.words/paragraphformat/get_tabstops/

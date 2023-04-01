@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::BuildingBlock class
 linktitle: BuildingBlock
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::BuildingBlock class. Represents a glossary document entry such as a Building Block, AutoText or an AutoCorrect entry in C++.
+description: 'Aspose::Words::BuildingBlocks::BuildingBlock class. Represents a glossary document entry such as a Building Block, AutoText or an AutoCorrect entry in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.buildingblocks/buildingblock/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::Chart class
 linktitle: Chart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::Chart class. Provides access to the chart shape properties in C++.
+description: 'Aspose::Words::Drawing::Charts::Chart class. Provides access to the chart shape properties in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.drawing.charts/chart/

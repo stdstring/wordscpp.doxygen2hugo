@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_SnapToGrid method
 linktitle: get_SnapToGrid
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_SnapToGrid method. Specifies whether the current paragraph should use the document grid lines per page settings when laying out the contents in the paragraph in C++.
+description: 'Aspose::Words::ParagraphFormat::get_SnapToGrid method. Specifies whether the current paragraph should use the document grid lines per page settings when laying out the contents in the paragraph in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words/paragraphformat/get_snaptogrid/

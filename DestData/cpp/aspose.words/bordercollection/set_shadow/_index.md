@@ -2,7 +2,7 @@
 title: Aspose::Words::BorderCollection::set_Shadow method
 linktitle: set_Shadow
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BorderCollection::set_Shadow method. Setter for Aspose::Words::BorderCollection::get_Shadow in C++.
+description: 'Aspose::Words::BorderCollection::set_Shadow method. Setter for Aspose::Words::BorderCollection::get_Shadow in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words/bordercollection/set_shadow/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::Chart::get_AxisZ method
 linktitle: get_AxisZ
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::Chart::get_AxisZ method. Provides access to properties of the Z axis of the chart in C++.
+description: 'Aspose::Words::Drawing::Charts::Chart::get_AxisZ method. Provides access to properties of the Z axis of the chart in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing.charts/chart/get_axisz/

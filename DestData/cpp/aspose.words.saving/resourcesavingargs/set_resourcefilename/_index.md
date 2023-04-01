@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName method
 linktitle: set_ResourceFileName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName method. Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName in C++.
+description: 'Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName method. Setter for Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.saving/resourcesavingargs/set_resourcefilename/

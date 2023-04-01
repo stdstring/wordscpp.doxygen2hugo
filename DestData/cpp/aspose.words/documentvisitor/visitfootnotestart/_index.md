@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitFootnoteStart method
 linktitle: VisitFootnoteStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitFootnoteStart method. Called when enumeration of a footnote or endnote text has started in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitFootnoteStart method. Called when enumeration of a footnote or endnote text has started in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words/documentvisitor/visitfootnotestart/

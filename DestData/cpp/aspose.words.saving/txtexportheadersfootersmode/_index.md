@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::TxtExportHeadersFootersMode enum
 linktitle: TxtExportHeadersFootersMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::TxtExportHeadersFootersMode enum. Specifies the way headers and footers are exported to plain text format in C++.
+description: 'Aspose::Words::Saving::TxtExportHeadersFootersMode enum. Specifies the way headers and footers are exported to plain text format in C++.'
 type: docs
 weight: 8400
 url: /cpp/aspose.words.saving/txtexportheadersfootersmode/

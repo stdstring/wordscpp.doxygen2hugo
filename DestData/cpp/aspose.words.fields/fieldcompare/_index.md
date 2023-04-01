@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldCompare class
 linktitle: FieldCompare
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldCompare class. Implements the COMPARE field in C++.
+description: 'Aspose::Words::Fields::FieldCompare class. Implements the COMPARE field in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.fields/fieldcompare/

@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtension::set_Id method
 linktitle: set_Id
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtension::set_Id method. Uniquely identifies the web extension instance in the current document in C++.
+description: 'Aspose::Words::WebExtensions::WebExtension::set_Id method. Uniquely identifies the web extension instance in the current document in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.webextensions/webextension/set_id/

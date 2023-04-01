@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_SpaceForUL method
 linktitle: get_SpaceForUL
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_SpaceForUL method. Add Additional Space Below Baseline For Underlined East Asian Text in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_SpaceForUL method. Add Additional Space Below Baseline For Underlined East Asian Text in C++.'
 type: docs
 weight: 4400
 url: /cpp/aspose.words.settings/compatibilityoptions/get_spaceforul/

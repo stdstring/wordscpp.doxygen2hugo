@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::CustomDocumentProperties::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::CustomDocumentProperties::Add method. Creates a new custom document property of the PropertyType.Boolean data type in C++.
+description: 'Aspose::Words::Properties::CustomDocumentProperties::Add method. Creates a new custom document property of the PropertyType.Boolean data type in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.properties/customdocumentproperties/add/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldGlossary::set_EntryName method
 linktitle: set_EntryName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldGlossary::set_EntryName method. Setter for Aspose::Words::Fields::FieldGlossary::get_EntryName in C++.
+description: 'Aspose::Words::Fields::FieldGlossary::set_EntryName method. Setter for Aspose::Words::Fields::FieldGlossary::get_EntryName in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldglossary/set_entryname/

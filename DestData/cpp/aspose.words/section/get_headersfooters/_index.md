@@ -2,7 +2,7 @@
 title: Aspose::Words::Section::get_HeadersFooters method
 linktitle: get_HeadersFooters
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Section::get_HeadersFooters method. Provides access to the headers and footers nodes of the section in C++.
+description: 'Aspose::Words::Section::get_HeadersFooters method. Provides access to the headers and footers nodes of the section in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/section/get_headersfooters/

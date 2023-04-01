@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::ConvertToHorizontallyMergedCells method
 linktitle: ConvertToHorizontallyMergedCells
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::ConvertToHorizontallyMergedCells method. Converts cells horizontally merged by width to cells merged by HorizontalMerge in C++.
+description: 'Aspose::Words::Tables::Table::ConvertToHorizontallyMergedCells method. Converts cells horizontally merged by width to cells merged by HorizontalMerge in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.tables/table/converttohorizontallymergedcells/

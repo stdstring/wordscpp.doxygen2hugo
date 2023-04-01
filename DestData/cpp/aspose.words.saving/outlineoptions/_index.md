@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::OutlineOptions class
 linktitle: OutlineOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::OutlineOptions class. Allows to specify outline options in C++.
+description: 'Aspose::Words::Saving::OutlineOptions class. Allows to specify outline options in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.saving/outlineoptions/

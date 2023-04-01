@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldMacroButton class
 linktitle: FieldMacroButton
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldMacroButton class. Implements the MACROBUTTON field in C++.
+description: 'Aspose::Words::Fields::FieldMacroButton class. Implements the MACROBUTTON field in C++.'
 type: docs
 weight: 6500
 url: /cpp/aspose.words.fields/fieldmacrobutton/

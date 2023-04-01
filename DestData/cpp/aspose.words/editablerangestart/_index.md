@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRangeStart class
 linktitle: EditableRangeStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRangeStart class. Represents a start of an editable range in a Word document in C++.
+description: 'Aspose::Words::EditableRangeStart class. Represents a start of an editable range in a Word document in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words/editablerangestart/

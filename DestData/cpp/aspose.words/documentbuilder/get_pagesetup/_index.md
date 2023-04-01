@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_PageSetup method
 linktitle: get_PageSetup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_PageSetup method. Returns an object that represents current page setup and section properties in C++.
+description: 'Aspose::Words::DocumentBuilder::get_PageSetup method. Returns an object that represents current page setup and section properties in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words/documentbuilder/get_pagesetup/

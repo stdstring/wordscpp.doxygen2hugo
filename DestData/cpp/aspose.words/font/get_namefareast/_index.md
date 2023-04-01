@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_NameFarEast method
 linktitle: get_NameFarEast
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_NameFarEast method. Returns or sets an East Asian font name in C++.
+description: 'Aspose::Words::Font::get_NameFarEast method. Returns or sets an East Asian font name in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.words/font/get_namefareast/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::set_Width method
 linktitle: set_Width
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::set_Width method. Setter for Aspose::Words::Tables::CellFormat::get_Width in C++.
+description: 'Aspose::Words::Tables::CellFormat::set_Width method. Setter for Aspose::Words::Tables::CellFormat::get_Width in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.tables/cellformat/set_width/

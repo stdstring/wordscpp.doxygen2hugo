@@ -2,7 +2,7 @@
 title: Aspose::Words::Math namespace
 linktitle: Aspose::Words::Math
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Math namespace. The Aspose.Words.Math namespace contains classes that represent Office Math elements in C++.
+description: 'Aspose::Words::Math namespace. The Aspose.Words.Math namespace contains classes that represent Office Math elements in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.math/

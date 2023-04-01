@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_SuppressBottomSpacing method
 linktitle: get_SuppressBottomSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_SuppressBottomSpacing method. Ignore Exact Line Height for Last Line on Page in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_SuppressBottomSpacing method. Ignore Exact Line Height for Last Line on Page in C++.'
 type: docs
 weight: 4800
 url: /cpp/aspose.words.settings/compatibilityoptions/get_suppressbottomspacing/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::ComparisonExpression class
 linktitle: ComparisonExpression
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::ComparisonExpression class. The comparison expression in C++.
+description: 'Aspose::Words::Fields::ComparisonExpression class. The comparison expression in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/comparisonexpression/

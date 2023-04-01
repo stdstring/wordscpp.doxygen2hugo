@@ -2,7 +2,7 @@
 title: Aspose::Words::TextEffect enum
 linktitle: TextEffect
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextEffect enum. Animation effect for text runs in C++.
+description: 'Aspose::Words::TextEffect enum. Animation effect for text runs in C++.'
 type: docs
 weight: 12300
 url: /cpp/aspose.words/texteffect/

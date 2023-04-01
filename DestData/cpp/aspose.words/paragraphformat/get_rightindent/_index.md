@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_RightIndent method
 linktitle: get_RightIndent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_RightIndent method. Gets or sets the value (in points) that represents the right indent for paragraph in C++.
+description: 'Aspose::Words::ParagraphFormat::get_RightIndent method. Gets or sets the value (in points) that represents the right indent for paragraph in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.words/paragraphformat/get_rightindent/

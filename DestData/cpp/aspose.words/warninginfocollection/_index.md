@@ -2,7 +2,7 @@
 title: Aspose::Words::WarningInfoCollection class
 linktitle: WarningInfoCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WarningInfoCollection class. Represents a typed collection of WarningInfo objects in C++.
+description: 'Aspose::Words::WarningInfoCollection class. Represents a typed collection of WarningInfo objects in C++.'
 type: docs
 weight: 7500
 url: /cpp/aspose.words/warninginfocollection/

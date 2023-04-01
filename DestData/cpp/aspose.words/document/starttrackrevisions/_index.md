@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::StartTrackRevisions method
 linktitle: StartTrackRevisions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::StartTrackRevisions method. Starts automatically marking all further changes you make to the document programmatically as revision changes in C++.
+description: 'Aspose::Words::Document::StartTrackRevisions method. Starts automatically marking all further changes you make to the document programmatically as revision changes in C++.'
 type: docs
 weight: 8500
 url: /cpp/aspose.words/document/starttrackrevisions/

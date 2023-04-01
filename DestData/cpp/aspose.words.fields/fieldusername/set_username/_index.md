@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldUserName::set_UserName method
 linktitle: set_UserName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldUserName::set_UserName method. Setter for Aspose::Words::Fields::FieldUserName::get_UserName in C++.
+description: 'Aspose::Words::Fields::FieldUserName::set_UserName method. Setter for Aspose::Words::Fields::FieldUserName::get_UserName in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldusername/set_username/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources method
 linktitle: get_ExportFontResources
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources method. Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is false in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontResources method. Specifies whether font resources should be exported to HTML, MHTML or EPUB. Default is false in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportfontresources/

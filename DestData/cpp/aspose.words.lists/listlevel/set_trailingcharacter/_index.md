@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevel::set_TrailingCharacter method
 linktitle: set_TrailingCharacter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListLevel::set_TrailingCharacter method. Setter for Aspose::Words::Lists::ListLevel::get_TrailingCharacter in C++.
+description: 'Aspose::Words::Lists::ListLevel::set_TrailingCharacter method. Setter for Aspose::Words::Lists::ListLevel::get_TrailingCharacter in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.lists/listlevel/set_trailingcharacter/

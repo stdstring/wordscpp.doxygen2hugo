@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::set_Underline method
 linktitle: set_Underline
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::set_Underline method. Setter for Aspose::Words::DocumentBuilder::get_Underline in C++.
+description: 'Aspose::Words::DocumentBuilder::set_Underline method. Setter for Aspose::Words::DocumentBuilder::get_Underline in C++.'
 type: docs
 weight: 6400
 url: /cpp/aspose.words/documentbuilder/set_underline/

@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBase class
 linktitle: DocumentBase
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBase class. Provides the abstract base class for a main document and a glossary document of a Word document in C++.
+description: 'Aspose::Words::DocumentBase class. Provides the abstract base class for a main document and a glossary document of a Word document in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words/documentbase/

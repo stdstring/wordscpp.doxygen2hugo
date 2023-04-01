@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::ViewType enum
 linktitle: ViewType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::ViewType enum. Possible values for the view mode in Microsoft Word in C++.
+description: 'Aspose::Words::Settings::ViewType enum. Possible values for the view mode in Microsoft Word in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.settings/viewtype/

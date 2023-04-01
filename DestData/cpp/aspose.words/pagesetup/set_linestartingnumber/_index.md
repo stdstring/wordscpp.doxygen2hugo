@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_LineStartingNumber method
 linktitle: set_LineStartingNumber
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_LineStartingNumber method. Setter for Aspose::Words::PageSetup::get_LineStartingNumber in C++.
+description: 'Aspose::Words::PageSetup::set_LineStartingNumber method. Setter for Aspose::Words::PageSetup::get_LineStartingNumber in C++.'
 type: docs
 weight: 6700
 url: /cpp/aspose.words/pagesetup/set_linestartingnumber/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::get_NumberFormat method
 linktitle: get_NumberFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::get_NumberFormat method. Returns a ChartNumberFormat object that allows defining number formats for the axis in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::get_NumberFormat method. Returns a ChartNumberFormat object that allows defining number formats for the axis in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_numberformat/

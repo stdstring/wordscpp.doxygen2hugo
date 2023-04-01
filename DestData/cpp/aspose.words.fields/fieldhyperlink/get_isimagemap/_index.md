@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldHyperlink::get_IsImageMap method
 linktitle: get_IsImageMap
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldHyperlink::get_IsImageMap method. Gets or sets whether to append coordinates to the hyperlink for a server-side image map in C++.
+description: 'Aspose::Words::Fields::FieldHyperlink::get_IsImageMap method. Gets or sets whether to append coordinates to the hyperlink for a server-side image map in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldhyperlink/get_isimagemap/

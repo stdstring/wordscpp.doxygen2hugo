@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::IFieldUpdateCultureProvider interface
 linktitle: IFieldUpdateCultureProvider
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::IFieldUpdateCultureProvider interface. When implemented, provides a CultureInfo object that should be used during the update of a particular field in C++.
+description: 'Aspose::Words::Fields::IFieldUpdateCultureProvider interface. When implemented, provides a CultureInfo object that should be used during the update of a particular field in C++.'
 type: docs
 weight: 12100
 url: /cpp/aspose.words.fields/ifieldupdatecultureprovider/

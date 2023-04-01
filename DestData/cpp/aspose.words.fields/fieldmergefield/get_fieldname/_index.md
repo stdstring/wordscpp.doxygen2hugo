@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldMergeField::get_FieldName method
 linktitle: get_FieldName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldMergeField::get_FieldName method. Gets the name of a data field in C++.
+description: 'Aspose::Words::Fields::FieldMergeField::get_FieldName method. Gets the name of a data field in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldmergefield/get_fieldname/

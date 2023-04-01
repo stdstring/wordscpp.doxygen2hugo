@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::set_PrefixedSequenceIdentifier method
 linktitle: set_PrefixedSequenceIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::set_PrefixedSequenceIdentifier method. Setter for Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier in C++.
+description: 'Aspose::Words::Fields::FieldToc::set_PrefixedSequenceIdentifier method. Setter for Aspose::Words::Fields::FieldToc::get_PrefixedSequenceIdentifier in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.fields/fieldtoc/set_prefixedsequenceidentifier/

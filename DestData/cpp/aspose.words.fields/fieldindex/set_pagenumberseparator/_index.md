@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIndex::set_PageNumberSeparator method
 linktitle: set_PageNumberSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIndex::set_PageNumberSeparator method. Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator in C++.
+description: 'Aspose::Words::Fields::FieldIndex::set_PageNumberSeparator method. Setter for Aspose::Words::Fields::FieldIndex::get_PageNumberSeparator in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.fields/fieldindex/set_pagenumberseparator/

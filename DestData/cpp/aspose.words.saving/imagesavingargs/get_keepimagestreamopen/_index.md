@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen method
 linktitle: get_KeepImageStreamOpen
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving an image in C++.
+description: 'Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving an image in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.saving/imagesavingargs/get_keepimagestreamopen/

@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_SuppressLineNumbers method
 linktitle: get_SuppressLineNumbers
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_SuppressLineNumbers method. Specifies whether the current paragraph's lines should be exempted from line numbering which is applied in the parent section in C++.
+description: 'Aspose::Words::ParagraphFormat::get_SuppressLineNumbers method. Specifies whether the current paragraph''s lines should be exempted from line numbering which is applied in the parent section in C++.'
 type: docs
 weight: 3800
 url: /cpp/aspose.words/paragraphformat/get_suppresslinenumbers/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::FindReplaceOptions constructor
 linktitle: FindReplaceOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use FindReplaceOptions constructor of Aspose::Words::Replacing::FindReplaceOptions class in C++.
+description: 'How to use FindReplaceOptions constructor of Aspose::Words::Replacing::FindReplaceOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.replacing/findreplaceoptions/findreplaceoptions/

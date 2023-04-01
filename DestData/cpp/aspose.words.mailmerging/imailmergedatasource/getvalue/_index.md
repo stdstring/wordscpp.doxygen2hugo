@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::IMailMergeDataSource::GetValue method
 linktitle: GetValue
 second_title: Aspose.Words for C++ API Reference
-description: How to use GetValue method of Aspose::Words::MailMerging::IMailMergeDataSource class in C++.
+description: 'How to use GetValue method of Aspose::Words::MailMerging::IMailMergeDataSource class in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.mailmerging/imailmergedatasource/getvalue/

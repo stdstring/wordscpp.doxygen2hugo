@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::get_EntryLevelRange method
 linktitle: get_EntryLevelRange
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::get_EntryLevelRange method. Gets or sets a range of levels of the table of contents entries to be included in C++.
+description: 'Aspose::Words::Fields::FieldToc::get_EntryLevelRange method. Gets or sets a range of levels of the table of contents entries to be included in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldtoc/get_entrylevelrange/

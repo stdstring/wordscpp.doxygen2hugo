@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPartCollection::RemoveAt method
 linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPartCollection::RemoveAt method. Removes an item at the specified index in C++.
+description: 'Aspose::Words::Markup::CustomPartCollection::RemoveAt method. Removes an item at the specified index in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.markup/custompartcollection/removeat/

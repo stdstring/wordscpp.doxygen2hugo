@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::IDocumentLoadingCallback::Notify method
 linktitle: Notify
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::IDocumentLoadingCallback::Notify method. This is called to notify of document loading progress in C++.
+description: 'Aspose::Words::Loading::IDocumentLoadingCallback::Notify method. This is called to notify of document loading progress in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.loading/idocumentloadingcallback/notify/

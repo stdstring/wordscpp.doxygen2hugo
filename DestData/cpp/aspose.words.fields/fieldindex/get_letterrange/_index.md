@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIndex::get_LetterRange method
 linktitle: get_LetterRange
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIndex::get_LetterRange method. Gets or sets a range of letters to which limit the index in C++.
+description: 'Aspose::Words::Fields::FieldIndex::get_LetterRange method. Gets or sets a range of letters to which limit the index in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.fields/fieldindex/get_letterrange/

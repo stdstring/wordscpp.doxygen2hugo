@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaReferenceCollection::Remove method
 linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Vba::VbaReferenceCollection::Remove method. Removes the first occurrence of a specified VbaReference item from the collection in C++.
+description: 'Aspose::Words::Vba::VbaReferenceCollection::Remove method. Removes the first occurrence of a specified VbaReference item from the collection in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.vba/vbareferencecollection/remove/

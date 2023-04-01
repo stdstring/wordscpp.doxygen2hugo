@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List class
 linktitle: List
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List class. Represents formatting of a list in C++.
+description: 'Aspose::Words::Lists::List class. Represents formatting of a list in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.lists/list/

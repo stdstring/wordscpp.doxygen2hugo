@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback method
 linktitle: get_ReplacingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback method. The user-defined method which is called before every replace occurrence in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::get_ReplacingCallback method. The user-defined method which is called before every replace occurrence in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_replacingcallback/

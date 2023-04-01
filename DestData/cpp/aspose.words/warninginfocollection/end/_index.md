@@ -2,7 +2,7 @@
 title: Aspose::Words::WarningInfoCollection::end method
 linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: How to use end method of Aspose::Words::WarningInfoCollection class in C++.
+description: 'How to use end method of Aspose::Words::WarningInfoCollection class in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/warninginfocollection/end/

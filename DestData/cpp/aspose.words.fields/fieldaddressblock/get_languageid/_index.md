@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAddressBlock::get_LanguageId method
 linktitle: get_LanguageId
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAddressBlock::get_LanguageId method. Gets or sets the language ID used to format the address in C++.
+description: 'Aspose::Words::Fields::FieldAddressBlock::get_LanguageId method. Gets or sets the language ID used to format the address in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldaddressblock/get_languageid/

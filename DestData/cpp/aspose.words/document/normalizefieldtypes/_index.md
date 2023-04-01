@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::NormalizeFieldTypes method
 linktitle: NormalizeFieldTypes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::NormalizeFieldTypes method. Changes field type values FieldType of FieldStart, FieldSeparator, FieldEnd in the whole document so that they correspond to the field types contained in the field codes in C++.
+description: 'Aspose::Words::Document::NormalizeFieldTypes method. Changes field type values FieldType of FieldStart, FieldSeparator, FieldEnd in the whole document so that they correspond to the field types contained in the field codes in C++.'
 type: docs
 weight: 6100
 url: /cpp/aspose.words/document/normalizefieldtypes/

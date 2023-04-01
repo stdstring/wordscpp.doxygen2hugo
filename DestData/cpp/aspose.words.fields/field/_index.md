@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::Field class
 linktitle: Field
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::Field class. Represents a Microsoft Word document field. To learn more, visit the documentation article in C++.
+description: 'Aspose::Words::Fields::Field class. Represents a Microsoft Word document field. To learn more, visit the documentation article in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/field/

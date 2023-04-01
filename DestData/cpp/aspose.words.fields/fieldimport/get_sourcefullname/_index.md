@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldImport::get_SourceFullName method
 linktitle: get_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldImport::get_SourceFullName method. Gets or sets the location of the picture in C++.
+description: 'Aspose::Words::Fields::FieldImport::get_SourceFullName method. Gets or sets the location of the picture in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldimport/get_sourcefullname/

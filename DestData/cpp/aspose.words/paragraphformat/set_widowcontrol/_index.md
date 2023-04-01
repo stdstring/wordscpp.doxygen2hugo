@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_WidowControl method
 linktitle: set_WidowControl
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_WidowControl method. Setter for Aspose::Words::ParagraphFormat::get_WidowControl in C++.
+description: 'Aspose::Words::ParagraphFormat::set_WidowControl method. Setter for Aspose::Words::ParagraphFormat::get_WidowControl in C++.'
 type: docs
 weight: 7500
 url: /cpp/aspose.words/paragraphformat/set_widowcontrol/

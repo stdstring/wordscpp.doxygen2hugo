@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldGoToButton::get_Location method
 linktitle: get_Location
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldGoToButton::get_Location method. Gets or sets the name of a bookmark, a page number, or some other item to jump to in C++.
+description: 'Aspose::Words::Fields::FieldGoToButton::get_Location method. Gets or sets the name of a bookmark, a page number, or some other item to jump to in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldgotobutton/get_location/

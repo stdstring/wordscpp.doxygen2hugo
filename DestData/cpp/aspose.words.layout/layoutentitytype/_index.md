@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutEntityType enum
 linktitle: LayoutEntityType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutEntityType enum. Types of the layout entities in C++.
+description: 'Aspose::Words::Layout::LayoutEntityType enum. Types of the layout entities in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.layout/layoutentitytype/

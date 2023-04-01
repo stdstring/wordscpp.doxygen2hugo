@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_SplitPgBreakAndParaMark method
 linktitle: get_SplitPgBreakAndParaMark
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_SplitPgBreakAndParaMark method. Always Move Paragraph Mark to Page after a Page Break in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_SplitPgBreakAndParaMark method. Always Move Paragraph Mark to Page after a Page Break in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words.settings/compatibilityoptions/get_splitpgbreakandparamark/

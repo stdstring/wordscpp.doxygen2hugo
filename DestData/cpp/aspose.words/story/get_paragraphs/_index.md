@@ -2,7 +2,7 @@
 title: Aspose::Words::Story::get_Paragraphs method
 linktitle: get_Paragraphs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Story::get_Paragraphs method. Gets a collection of paragraphs that are immediate children of the story in C++.
+description: 'Aspose::Words::Story::get_Paragraphs method. Gets a collection of paragraphs that are immediate children of the story in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/story/get_paragraphs/

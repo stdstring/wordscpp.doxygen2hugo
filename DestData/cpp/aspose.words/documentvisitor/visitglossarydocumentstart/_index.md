@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitGlossaryDocumentStart method
 linktitle: VisitGlossaryDocumentStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitGlossaryDocumentStart method. Called when enumeration of a glossary document has started in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitGlossaryDocumentStart method. Called when enumeration of a glossary document has started in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words/documentvisitor/visitglossarydocumentstart/

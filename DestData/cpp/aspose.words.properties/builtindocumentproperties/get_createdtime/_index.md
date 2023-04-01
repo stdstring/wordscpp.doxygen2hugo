@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime method
 linktitle: get_CreatedTime
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime method. Gets or sets date of the document creation in UTC in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_CreatedTime method. Gets or sets date of the document creation in UTC in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_createdtime/

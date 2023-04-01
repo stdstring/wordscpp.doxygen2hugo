@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey method
 linktitle: ContainsKey
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey method. Determines whether a mapping from the specified field in the document exists in the collection in C++.
+description: 'Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey method. Determines whether a mapping from the specified field in the document exists in the collection in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/containskey/

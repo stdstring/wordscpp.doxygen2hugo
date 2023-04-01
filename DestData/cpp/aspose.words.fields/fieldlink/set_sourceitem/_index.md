@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldLink::set_SourceItem method
 linktitle: set_SourceItem
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldLink::set_SourceItem method. Setter for Aspose::Words::Fields::FieldLink::get_SourceItem in C++.
+description: 'Aspose::Words::Fields::FieldLink::set_SourceItem method. Setter for Aspose::Words::Fields::FieldLink::get_SourceItem in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.fields/fieldlink/set_sourceitem/

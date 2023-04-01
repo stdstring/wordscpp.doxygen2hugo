@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::get_ContentsFont method
 linktitle: get_ContentsFont
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::get_ContentsFont method. Font formatting that will be applied to text entered into SDT in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::get_ContentsFont method. Font formatting that will be applied to text entered into SDT in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.markup/structureddocumenttag/get_contentsfont/

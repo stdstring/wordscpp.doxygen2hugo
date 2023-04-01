@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_ShapeLayoutLikeWW8 method
 linktitle: set_ShapeLayoutLikeWW8
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_ShapeLayoutLikeWW8 method. Emulate Word 97 Text Wrapping Around Floating Objects in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_ShapeLayoutLikeWW8 method. Emulate Word 97 Text Wrapping Around Floating Objects in C++.'
 type: docs
 weight: 11400
 url: /cpp/aspose.words.settings/compatibilityoptions/set_shapelayoutlikeww8/

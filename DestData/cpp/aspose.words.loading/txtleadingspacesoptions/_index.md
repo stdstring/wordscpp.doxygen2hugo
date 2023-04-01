@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::TxtLeadingSpacesOptions enum
 linktitle: TxtLeadingSpacesOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::TxtLeadingSpacesOptions enum. Specifies available options for leading space handling during import from Text file in C++.
+description: 'Aspose::Words::Loading::TxtLeadingSpacesOptions enum. Specifies available options for leading space handling during import from Text file in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.loading/txtleadingspacesoptions/

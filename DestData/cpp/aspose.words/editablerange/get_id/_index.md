@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRange::get_Id method
 linktitle: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRange::get_Id method. Gets the editable range identifier in C++.
+description: 'Aspose::Words::EditableRange::get_Id method. Gets the editable range identifier in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/editablerange/get_id/

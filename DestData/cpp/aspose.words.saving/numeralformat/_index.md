@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::NumeralFormat enum
 linktitle: NumeralFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::NumeralFormat enum. Indicates the symbol set that is used to represent numbers while rendering to fixed page formats in C++.
+description: 'Aspose::Words::Saving::NumeralFormat enum. Indicates the symbol set that is used to represent numbers while rendering to fixed page formats in C++.'
 type: docs
 weight: 6800
 url: /cpp/aspose.words.saving/numeralformat/

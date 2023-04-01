@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName method
 linktitle: get_DocumentPartFileName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName method. Gets or sets the file name (without path) where the document part will be saved to in C++.
+description: 'Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName method. Gets or sets the file name (without path) where the document part will be saved to in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.saving/documentpartsavingargs/get_documentpartfilename/

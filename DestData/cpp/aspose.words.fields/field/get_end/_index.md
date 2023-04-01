@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::Field::get_End method
 linktitle: get_End
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::Field::get_End method. Gets the node that represents the field end in C++.
+description: 'Aspose::Words::Fields::Field::get_End method. Gets the node that represents the field end in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/field/get_end/

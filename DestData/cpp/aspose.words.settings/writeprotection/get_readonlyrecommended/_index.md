@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended method
 linktitle: get_ReadOnlyRecommended
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended method. Specifies whether the document author has recommended that the document be opened as read-only in C++.
+description: 'Aspose::Words::Settings::WriteProtection::get_ReadOnlyRecommended method. Specifies whether the document author has recommended that the document be opened as read-only in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.settings/writeprotection/get_readonlyrecommended/

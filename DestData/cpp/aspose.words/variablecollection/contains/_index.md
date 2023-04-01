@@ -2,7 +2,7 @@
 title: Aspose::Words::VariableCollection::Contains method
 linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::VariableCollection::Contains method. Determines whether the collection contains a document variable with the given name in C++.
+description: 'Aspose::Words::VariableCollection::Contains method. Determines whether the collection contains a document variable with the given name in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/variablecollection/contains/

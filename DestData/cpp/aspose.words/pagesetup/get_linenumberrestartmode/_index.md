@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_LineNumberRestartMode method
 linktitle: get_LineNumberRestartMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_LineNumberRestartMode method. Gets or sets the way line numbering runs that is, whether it starts over at the beginning of a new page or section or runs continuously in C++.
+description: 'Aspose::Words::PageSetup::get_LineNumberRestartMode method. Gets or sets the way line numbering runs that is, whether it starts over at the beginning of a new page or section or runs continuously in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words/pagesetup/get_linenumberrestartmode/

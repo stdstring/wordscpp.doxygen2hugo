@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_LineNumberCountBy method
 linktitle: set_LineNumberCountBy
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_LineNumberCountBy method. Setter for Aspose::Words::PageSetup::get_LineNumberCountBy in C++.
+description: 'Aspose::Words::PageSetup::set_LineNumberCountBy method. Setter for Aspose::Words::PageSetup::get_LineNumberCountBy in C++.'
 type: docs
 weight: 6300
 url: /cpp/aspose.words/pagesetup/set_linenumbercountby/

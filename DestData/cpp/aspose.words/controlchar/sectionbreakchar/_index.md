@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::SectionBreakChar field
 linktitle: SectionBreakChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::SectionBreakChar field. End of section character: (char)12 or "\f" in C++.
+description: 'Aspose::Words::ControlChar::SectionBreakChar field. End of section character: (char)12 or "\f" in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.words/controlchar/sectionbreakchar/

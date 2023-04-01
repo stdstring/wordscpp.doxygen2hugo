@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphCollection::idx_get method. Retrieves a Paragraph at the given index in C++.
+description: 'Aspose::Words::ParagraphCollection::idx_get method. Retrieves a Paragraph at the given index in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/paragraphcollection/idx_get/

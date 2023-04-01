@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::Shape constructor
 linktitle: Shape
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::Shape constructor. Creates a new shape object in C++.
+description: 'Aspose::Words::Drawing::Shape::Shape constructor. Creates a new shape object in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing/shape/shape/

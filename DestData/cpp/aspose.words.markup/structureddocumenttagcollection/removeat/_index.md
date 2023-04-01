@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagCollection::RemoveAt method
 linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagCollection::RemoveAt method. Removes a structured document tag at the specified index in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagCollection::RemoveAt method. Removes a structured document tag at the specified index in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/removeat/

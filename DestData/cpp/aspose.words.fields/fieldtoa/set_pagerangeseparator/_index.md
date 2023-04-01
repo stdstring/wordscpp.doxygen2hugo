@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToa::set_PageRangeSeparator method
 linktitle: set_PageRangeSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToa::set_PageRangeSeparator method. Setter for Aspose::Words::Fields::FieldToa::get_PageRangeSeparator in C++.
+description: 'Aspose::Words::Fields::FieldToa::set_PageRangeSeparator method. Setter for Aspose::Words::Fields::FieldToa::get_PageRangeSeparator in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.fields/fieldtoa/set_pagerangeseparator/

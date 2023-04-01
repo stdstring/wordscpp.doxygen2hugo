@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldRef::get_NumberSeparator method
 linktitle: get_NumberSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldRef::get_NumberSeparator method. Gets or sets the character sequence that is used to separate sequence numbers and page numbers in C++.
+description: 'Aspose::Words::Fields::FieldRef::get_NumberSeparator method. Gets or sets the character sequence that is used to separate sequence numbers and page numbers in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fields/fieldref/get_numberseparator/

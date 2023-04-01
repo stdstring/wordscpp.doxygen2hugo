@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIncludeText::get_SourceFullName method
 linktitle: get_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIncludeText::get_SourceFullName method. Gets or sets the location of the document using an IRI in C++.
+description: 'Aspose::Words::Fields::FieldIncludeText::get_SourceFullName method. Gets or sets the location of the document using an IRI in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/fieldincludetext/get_sourcefullname/

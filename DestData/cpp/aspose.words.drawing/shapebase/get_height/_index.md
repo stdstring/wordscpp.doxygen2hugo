@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_Height method
 linktitle: get_Height
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_Height method. Gets or sets the height of the containing block of the shape in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_Height method. Gets or sets the height of the containing block of the shape in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.drawing/shapebase/get_height/

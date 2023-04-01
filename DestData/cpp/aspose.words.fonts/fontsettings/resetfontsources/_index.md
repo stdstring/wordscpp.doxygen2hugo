@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSettings::ResetFontSources method
 linktitle: ResetFontSources
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSettings::ResetFontSources method. Resets the fonts sources to the system default in C++.
+description: 'Aspose::Words::Fonts::FontSettings::ResetFontSources method. Resets the fonts sources to the system default in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fonts/fontsettings/resetfontsources/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldComments class
 linktitle: FieldComments
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldComments class. Implements the COMMENTS field in C++.
+description: 'Aspose::Words::Fields::FieldComments class. Implements the COMMENTS field in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.fields/fieldcomments/

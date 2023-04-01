@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginIterator method
 linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginIterator method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.
+description: 'How to use virtualizeBeginIterator method of Aspose::Words::Settings::OdsoRecipientDataCollection class in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/virtualizebeginiterator/

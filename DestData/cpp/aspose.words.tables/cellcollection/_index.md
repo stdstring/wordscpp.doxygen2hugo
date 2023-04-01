@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellCollection class
 linktitle: CellCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellCollection class. Provides typed access to a collection of Cell nodes in C++.
+description: 'Aspose::Words::Tables::CellCollection class. Provides typed access to a collection of Cell nodes in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.tables/cellcollection/

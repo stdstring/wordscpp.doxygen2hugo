@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder method
 linktitle: set_ResourcesFolder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder method. Setter for Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder in C++.
+description: 'Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder method. Setter for Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.saving/svgsaveoptions/set_resourcesfolder/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldInclude::get_TextConverter method
 linktitle: get_TextConverter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldInclude::get_TextConverter method. Gets or sets the name of the text converter for the format of the included file in C++.
+description: 'Aspose::Words::Fields::FieldInclude::get_TextConverter method. Gets or sets the name of the text converter for the format of the included file in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldinclude/get_textconverter/

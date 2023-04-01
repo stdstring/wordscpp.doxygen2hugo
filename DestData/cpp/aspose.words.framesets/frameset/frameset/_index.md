@@ -2,7 +2,7 @@
 title: Aspose::Words::Framesets::Frameset::Frameset constructor
 linktitle: Frameset
 second_title: Aspose.Words for C++ API Reference
-description: How to use Frameset constructor of Aspose::Words::Framesets::Frameset class in C++.
+description: 'How to use Frameset constructor of Aspose::Words::Framesets::Frameset class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.framesets/frameset/frameset/

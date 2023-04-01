@@ -2,7 +2,7 @@
 title: Aspose::Words::ConditionalStyle::get_BottomPadding method
 linktitle: get_BottomPadding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ConditionalStyle::get_BottomPadding method. Gets or sets the amount of space (in points) to add below the contents of table cells in C++.
+description: 'Aspose::Words::ConditionalStyle::get_BottomPadding method. Gets or sets the amount of space (in points) to add below the contents of table cells in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/conditionalstyle/get_bottompadding/

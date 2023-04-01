@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat class
 linktitle: ParagraphFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat class. Represents all the formatting for a paragraph in C++.
+description: 'Aspose::Words::ParagraphFormat class. Represents all the formatting for a paragraph in C++.'
 type: docs
 weight: 4900
 url: /cpp/aspose.words/paragraphformat/

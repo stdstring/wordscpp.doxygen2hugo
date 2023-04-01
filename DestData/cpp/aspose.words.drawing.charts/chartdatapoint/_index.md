@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataPoint class
 linktitle: ChartDataPoint
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataPoint class. Allows to specify formatting of a single data point on the chart in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataPoint class. Allows to specify formatting of a single data point on the chart in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/

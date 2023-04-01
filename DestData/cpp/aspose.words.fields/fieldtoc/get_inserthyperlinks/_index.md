@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::get_InsertHyperlinks method
 linktitle: get_InsertHyperlinks
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::get_InsertHyperlinks method. Gets or sets whether to make the table of contents entries hyperlinks in C++.
+description: 'Aspose::Words::Fields::FieldToc::get_InsertHyperlinks method. Gets or sets whether to make the table of contents entries hyperlinks in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.fields/fieldtoc/get_inserthyperlinks/

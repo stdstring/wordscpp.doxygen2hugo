@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MappedDataFieldCollection::end method
 linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: How to use end method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
+description: 'How to use end method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/end/

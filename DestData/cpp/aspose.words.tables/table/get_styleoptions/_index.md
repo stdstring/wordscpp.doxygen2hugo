@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_StyleOptions method
 linktitle: get_StyleOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_StyleOptions method. Gets or sets bit flags that specify how a table style is applied to this table in C++.
+description: 'Aspose::Words::Tables::Table::get_StyleOptions method. Gets or sets bit flags that specify how a table style is applied to this table in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words.tables/table/get_styleoptions/

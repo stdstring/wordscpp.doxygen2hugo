@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::HyphenationOptions::HyphenationOptions constructor
 linktitle: HyphenationOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use HyphenationOptions constructor of Aspose::Words::Settings::HyphenationOptions class in C++.
+description: 'How to use HyphenationOptions constructor of Aspose::Words::Settings::HyphenationOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.settings/hyphenationoptions/hyphenationoptions/

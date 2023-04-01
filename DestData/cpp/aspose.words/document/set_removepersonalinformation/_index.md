@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_RemovePersonalInformation method
 linktitle: set_RemovePersonalInformation
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_RemovePersonalInformation method. Setter for Aspose::Words::Document::get_RemovePersonalInformation in C++.
+description: 'Aspose::Words::Document::set_RemovePersonalInformation method. Setter for Aspose::Words::Document::get_RemovePersonalInformation in C++.'
 type: docs
 weight: 7700
 url: /cpp/aspose.words/document/set_removepersonalinformation/

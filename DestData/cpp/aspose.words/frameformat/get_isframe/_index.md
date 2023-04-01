@@ -2,7 +2,7 @@
 title: Aspose::Words::FrameFormat::get_IsFrame method
 linktitle: get_IsFrame
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::FrameFormat::get_IsFrame method. Returns true if the paragraph is a frame in C++.
+description: 'Aspose::Words::FrameFormat::get_IsFrame method. Returns true if the paragraph is a frame in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/frameformat/get_isframe/

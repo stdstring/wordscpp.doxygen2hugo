@@ -2,7 +2,7 @@
 title: Aspose::Words::SignatureLineOptions::SignatureLineOptions constructor
 linktitle: SignatureLineOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use SignatureLineOptions constructor of Aspose::Words::SignatureLineOptions class in C++.
+description: 'How to use SignatureLineOptions constructor of Aspose::Words::SignatureLineOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/signaturelineoptions/signaturelineoptions/

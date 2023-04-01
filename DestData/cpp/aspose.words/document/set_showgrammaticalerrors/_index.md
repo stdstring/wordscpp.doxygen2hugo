@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_ShowGrammaticalErrors method
 linktitle: set_ShowGrammaticalErrors
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_ShowGrammaticalErrors method. Setter for Aspose::Words::Document::get_ShowGrammaticalErrors in C++.
+description: 'Aspose::Words::Document::set_ShowGrammaticalErrors method. Setter for Aspose::Words::Document::get_ShowGrammaticalErrors in C++.'
 type: docs
 weight: 8000
 url: /cpp/aspose.words/document/set_showgrammaticalerrors/

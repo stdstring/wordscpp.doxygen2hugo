@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartSeriesCollection::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartSeriesCollection::Add method. Adds new ChartSeries to this collection. Use this method to add series to any type of Scatter charts in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartSeriesCollection::Add method. Adds new ChartSeries to this collection. Use this method to add series to any type of Scatter charts in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/add/

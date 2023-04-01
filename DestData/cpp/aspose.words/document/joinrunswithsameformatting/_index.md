@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::JoinRunsWithSameFormatting method
 linktitle: JoinRunsWithSameFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::JoinRunsWithSameFormatting method. Joins runs with same formatting in all paragraphs of the document in C++.
+description: 'Aspose::Words::Document::JoinRunsWithSameFormatting method. Joins runs with same formatting in all paragraphs of the document in C++.'
 type: docs
 weight: 6000
 url: /cpp/aspose.words/document/joinrunswithsameformatting/

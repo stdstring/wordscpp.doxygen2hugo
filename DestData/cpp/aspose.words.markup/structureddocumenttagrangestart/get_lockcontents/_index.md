@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContents method
 linktitle: get_LockContents
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContents method. When set to true, this property will prohibit a user from editing the contents of this structured document tag in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_LockContents method. When set to true, this property will prohibit a user from editing the contents of this structured document tag in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_lockcontents/

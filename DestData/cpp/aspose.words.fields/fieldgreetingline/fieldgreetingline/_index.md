@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldGreetingLine::FieldGreetingLine constructor
 linktitle: FieldGreetingLine
 second_title: Aspose.Words for C++ API Reference
-description: How to use FieldGreetingLine constructor of Aspose::Words::Fields::FieldGreetingLine class in C++.
+description: 'How to use FieldGreetingLine constructor of Aspose::Words::Fields::FieldGreetingLine class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldgreetingline/fieldgreetingline/

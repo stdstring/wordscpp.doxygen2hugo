@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_Bounds method
 linktitle: set_Bounds
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_Bounds method. Setter for Aspose::Words::Drawing::ShapeBase::get_Bounds in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_Bounds method. Setter for Aspose::Words::Drawing::ShapeBase::get_Bounds in C++.'
 type: docs
 weight: 6400
 url: /cpp/aspose.words.drawing/shapebase/set_bounds/

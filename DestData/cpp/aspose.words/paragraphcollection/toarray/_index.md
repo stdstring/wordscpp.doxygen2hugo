@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphCollection::ToArray method
 linktitle: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphCollection::ToArray method. Copies all paragraphs from the collection to a new array of paragraphs in C++.
+description: 'Aspose::Words::ParagraphCollection::ToArray method. Copies all paragraphs from the collection to a new array of paragraphs in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/paragraphcollection/toarray/

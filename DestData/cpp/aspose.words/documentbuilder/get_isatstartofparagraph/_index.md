@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_IsAtStartOfParagraph method
 linktitle: get_IsAtStartOfParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_IsAtStartOfParagraph method. Returns true if the cursor is at the beginning of the current paragraph (no text before the cursor) in C++.
+description: 'Aspose::Words::DocumentBuilder::get_IsAtStartOfParagraph method. Returns true if the cursor is at the beginning of the current paragraph (no text before the cursor) in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words/documentbuilder/get_isatstartofparagraph/

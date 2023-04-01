@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::TaskPane::get_DockState method
 linktitle: get_DockState
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::TaskPane::get_DockState method. Specifies the last-docked location of this task pane object in C++.
+description: 'Aspose::Words::WebExtensions::TaskPane::get_DockState method. Specifies the last-docked location of this task pane object in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.webextensions/taskpane/get_dockstate/

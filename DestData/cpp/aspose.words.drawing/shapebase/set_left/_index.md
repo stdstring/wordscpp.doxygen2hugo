@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_Left method
 linktitle: set_Left
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_Left method. Setter for Aspose::Words::Drawing::ShapeBase::get_Left in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_Left method. Setter for Aspose::Words::Drawing::ShapeBase::get_Left in C++.'
 type: docs
 weight: 7700
 url: /cpp/aspose.words.drawing/shapebase/set_left/

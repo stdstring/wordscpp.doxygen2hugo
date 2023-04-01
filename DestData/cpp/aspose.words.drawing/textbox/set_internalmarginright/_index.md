@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::set_InternalMarginRight method
 linktitle: set_InternalMarginRight
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::set_InternalMarginRight method. Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginRight in C++.
+description: 'Aspose::Words::Drawing::TextBox::set_InternalMarginRight method. Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginRight in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.drawing/textbox/set_internalmarginright/

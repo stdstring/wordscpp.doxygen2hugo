@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignature::get_SubjectName method
 linktitle: get_SubjectName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::DigitalSignature::get_SubjectName method. Returns the subject distinguished name of the certificate that was used to sign the document in C++.
+description: 'Aspose::Words::DigitalSignatures::DigitalSignature::get_SubjectName method. Returns the subject distinguished name of the certificate that was used to sign the document in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_subjectname/

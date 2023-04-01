@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_HeadingLevelForChapter method
 linktitle: set_HeadingLevelForChapter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_HeadingLevelForChapter method. Setter for Aspose::Words::PageSetup::get_HeadingLevelForChapter in C++.
+description: 'Aspose::Words::PageSetup::set_HeadingLevelForChapter method. Setter for Aspose::Words::PageSetup::get_HeadingLevelForChapter in C++.'
 type: docs
 weight: 6000
 url: /cpp/aspose.words/pagesetup/set_headinglevelforchapter/

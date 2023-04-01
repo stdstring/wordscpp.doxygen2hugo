@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart::Clone method
 linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart::Clone method. Makes a "deep enough" copy of the object. Does not duplicate the bytes of the Data value in C++.
+description: 'Aspose::Words::Markup::CustomPart::Clone method. Makes a "deep enough" copy of the object. Does not duplicate the bytes of the Data value in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.markup/custompart/clone/

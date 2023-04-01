@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldBarcode::set_IsBookmark method
 linktitle: set_IsBookmark
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldBarcode::set_IsBookmark method. Setter for Aspose::Words::Fields::FieldBarcode::get_IsBookmark in C++.
+description: 'Aspose::Words::Fields::FieldBarcode::set_IsBookmark method. Setter for Aspose::Words::Fields::FieldBarcode::get_IsBookmark in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/fieldbarcode/set_isbookmark/

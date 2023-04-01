@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph::GetText method
 linktitle: GetText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph::GetText method. Gets the text of this paragraph including the end of paragraph character in C++.
+description: 'Aspose::Words::Paragraph::GetText method. Gets the text of this paragraph including the end of paragraph character in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words/paragraph/gettext/

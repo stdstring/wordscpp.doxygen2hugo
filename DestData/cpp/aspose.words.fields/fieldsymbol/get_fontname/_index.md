@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSymbol::get_FontName method
 linktitle: get_FontName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSymbol::get_FontName method. Gets or sets the name of the font of the character retrieved by the field in C++.
+description: 'Aspose::Words::Fields::FieldSymbol::get_FontName method. Gets or sets the name of the font of the character retrieved by the field in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldsymbol/get_fontname/

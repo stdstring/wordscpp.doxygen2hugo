@@ -2,7 +2,7 @@
 title: Aspose::Words::Font class
 linktitle: Font
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font class. Contains font attributes (font name, font size, color, and so on) for an object in C++.
+description: 'Aspose::Words::Font class. Contains font attributes (font name, font size, color, and so on) for an object in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words/font/

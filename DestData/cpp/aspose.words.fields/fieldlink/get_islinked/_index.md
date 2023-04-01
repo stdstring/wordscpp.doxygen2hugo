@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldLink::get_IsLinked method
 linktitle: get_IsLinked
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldLink::get_IsLinked method. Gets or sets whether to reduce the file size by not storing graphics data with the document in C++.
+description: 'Aspose::Words::Fields::FieldLink::get_IsLinked method. Gets or sets whether to reduce the file size by not storing graphics data with the document in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fields/fieldlink/get_islinked/

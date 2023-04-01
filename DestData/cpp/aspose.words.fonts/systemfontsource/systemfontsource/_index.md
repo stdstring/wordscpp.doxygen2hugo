@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::SystemFontSource::SystemFontSource constructor
 linktitle: SystemFontSource
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::SystemFontSource::SystemFontSource constructor. Ctor in C++.
+description: 'Aspose::Words::Fonts::SystemFontSource::SystemFontSource constructor. Ctor in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fonts/systemfontsource/systemfontsource/

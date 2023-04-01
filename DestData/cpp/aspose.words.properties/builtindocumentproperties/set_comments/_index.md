@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_Comments method
 linktitle: set_Comments
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Comments method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_Comments method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Comments in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_comments/

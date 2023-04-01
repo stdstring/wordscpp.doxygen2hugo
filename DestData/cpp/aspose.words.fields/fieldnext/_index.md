@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldNext class
 linktitle: FieldNext
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldNext class. Implements the NEXT field in C++.
+description: 'Aspose::Words::Fields::FieldNext class. Implements the NEXT field in C++.'
 type: docs
 weight: 7000
 url: /cpp/aspose.words.fields/fieldnext/

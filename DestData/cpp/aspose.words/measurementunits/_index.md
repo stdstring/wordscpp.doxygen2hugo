@@ -2,7 +2,7 @@
 title: Aspose::Words::MeasurementUnits enum
 linktitle: MeasurementUnits
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MeasurementUnits enum. Specifies the unit of measurement in C++.
+description: 'Aspose::Words::MeasurementUnits enum. Specifies the unit of measurement in C++.'
 type: docs
 weight: 10000
 url: /cpp/aspose.words/measurementunits/

@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMerge::ExecuteWithRegions method
 linktitle: ExecuteWithRegions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMerge::ExecuteWithRegions method. Performs a mail merge from a custom data source with mail merge regions in C++.
+description: 'Aspose::Words::MailMerging::MailMerge::ExecuteWithRegions method. Performs a mail merge from a custom data source with mail merge regions in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.mailmerging/mailmerge/executewithregions/

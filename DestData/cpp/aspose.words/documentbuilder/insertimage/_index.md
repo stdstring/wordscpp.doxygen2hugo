@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertImage method
 linktitle: InsertImage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertImage method. Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertImage method. Inserts an image from a byte array into the document. The image is inserted inline and at 100% scale in C++.'
 type: docs
 weight: 3700
 url: /cpp/aspose.words/documentbuilder/insertimage/

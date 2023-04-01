@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions class
 linktitle: FieldOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions class. Represents options to control field handling in a document in C++.
+description: 'Aspose::Words::Fields::FieldOptions class. Represents options to control field handling in a document in C++.'
 type: docs
 weight: 7700
 url: /cpp/aspose.words.fields/fieldoptions/

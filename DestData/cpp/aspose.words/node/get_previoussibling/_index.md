@@ -2,7 +2,7 @@
 title: Aspose::Words::Node::get_PreviousSibling method
 linktitle: get_PreviousSibling
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Node::get_PreviousSibling method. Gets the node immediately preceding this node in C++.
+description: 'Aspose::Words::Node::get_PreviousSibling method. Gets the node immediately preceding this node in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words/node/get_previoussibling/

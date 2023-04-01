@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List::GetHashCode method
 linktitle: GetHashCode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List::GetHashCode method. Calculates hash code for this list object in C++.
+description: 'Aspose::Words::Lists::List::GetHashCode method. Calculates hash code for this list object in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.lists/list/gethashcode/

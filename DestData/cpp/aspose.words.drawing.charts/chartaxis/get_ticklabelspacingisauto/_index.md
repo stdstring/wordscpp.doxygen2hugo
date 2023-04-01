@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelSpacingIsAuto method
 linktitle: get_TickLabelSpacingIsAuto
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelSpacingIsAuto method. Gets or sets a flag indicating whether automatic interval of drawing tick labels shall be used in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelSpacingIsAuto method. Gets or sets a flag indicating whether automatic interval of drawing tick labels shall be used in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelspacingisauto/

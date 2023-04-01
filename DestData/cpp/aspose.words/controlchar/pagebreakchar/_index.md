@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::PageBreakChar field
 linktitle: PageBreakChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::PageBreakChar field. Page break character: (char)12 or "\f" in C++.
+description: 'Aspose::Words::ControlChar::PageBreakChar field. Page break character: (char)12 or "\f" in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words/controlchar/pagebreakchar/

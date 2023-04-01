@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabaseDataTable::get_ColumnNames method
 linktitle: get_ColumnNames
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabaseDataTable::get_ColumnNames method. Gets columns that belong to this table in C++.
+description: 'Aspose::Words::Fields::FieldDatabaseDataTable::get_ColumnNames method. Gets columns that belong to this table in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fielddatabasedatatable/get_columnnames/

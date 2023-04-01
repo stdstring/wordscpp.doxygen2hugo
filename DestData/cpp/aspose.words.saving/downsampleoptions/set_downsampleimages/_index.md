@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::DownsampleOptions::set_DownsampleImages method
 linktitle: set_DownsampleImages
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::DownsampleOptions::set_DownsampleImages method. Setter for Aspose::Words::Saving::DownsampleOptions::get_DownsampleImages in C++.
+description: 'Aspose::Words::Saving::DownsampleOptions::set_DownsampleImages method. Setter for Aspose::Words::Saving::DownsampleOptions::get_DownsampleImages in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.saving/downsampleoptions/set_downsampleimages/

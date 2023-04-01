@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_AutomaticallyUpdateStyles method
 linktitle: set_AutomaticallyUpdateStyles
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_AutomaticallyUpdateStyles method. Setter for Aspose::Words::Document::get_AutomaticallyUpdateStyles in C++.
+description: 'Aspose::Words::Document::set_AutomaticallyUpdateStyles method. Setter for Aspose::Words::Document::get_AutomaticallyUpdateStyles in C++.'
 type: docs
 weight: 6900
 url: /cpp/aspose.words/document/set_automaticallyupdatestyles/

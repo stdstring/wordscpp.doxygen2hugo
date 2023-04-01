@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::Protect method
 linktitle: Protect
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::Protect method. Protects the document from changes without changing the existing password or assigns a random password in C++.
+description: 'Aspose::Words::Document::Protect method. Protects the document from changes without changing the existing password or assigns a random password in C++.'
 type: docs
 weight: 6200
 url: /cpp/aspose.words/document/protect/

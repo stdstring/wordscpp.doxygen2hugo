@@ -2,7 +2,7 @@
 title: Aspose::Words::Revision::Reject method
 linktitle: Reject
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Revision::Reject method. Reject this revision in C++.
+description: 'Aspose::Words::Revision::Reject method. Reject this revision in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words/revision/reject/

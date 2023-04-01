@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_ShowSpellingErrors method
 linktitle: set_ShowSpellingErrors
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_ShowSpellingErrors method. Setter for Aspose::Words::Document::get_ShowSpellingErrors in C++.
+description: 'Aspose::Words::Document::set_ShowSpellingErrors method. Setter for Aspose::Words::Document::get_ShowSpellingErrors in C++.'
 type: docs
 weight: 8100
 url: /cpp/aspose.words/document/set_showspellingerrors/

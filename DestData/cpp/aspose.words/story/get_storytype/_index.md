@@ -2,7 +2,7 @@
 title: Aspose::Words::Story::get_StoryType method
 linktitle: get_StoryType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Story::get_StoryType method. Gets the type of this story in C++.
+description: 'Aspose::Words::Story::get_StoryType method. Gets the type of this story in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/story/get_storytype/

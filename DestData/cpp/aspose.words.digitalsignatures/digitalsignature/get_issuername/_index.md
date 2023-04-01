@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignature::get_IssuerName method
 linktitle: get_IssuerName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::DigitalSignature::get_IssuerName method. Returns the subject distinguished name of the certificate isuuer in C++.
+description: 'Aspose::Words::DigitalSignatures::DigitalSignature::get_IssuerName method. Returns the subject distinguished name of the certificate isuuer in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_issuername/

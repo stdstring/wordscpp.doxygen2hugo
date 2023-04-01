@@ -2,7 +2,7 @@
 title: Aspose::Words::TextColumnCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextColumnCollection::idx_get method. Returns a text column at the specified index in C++.
+description: 'Aspose::Words::TextColumnCollection::idx_get method. Returns a text column at the specified index in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/textcolumncollection/idx_get/

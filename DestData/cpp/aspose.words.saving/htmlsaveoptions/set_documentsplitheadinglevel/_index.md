@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitHeadingLevel method
 linktitle: set_DocumentSplitHeadingLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitHeadingLevel method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_DocumentSplitHeadingLevel method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_DocumentSplitHeadingLevel in C++.'
 type: docs
 weight: 5400
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_documentsplitheadinglevel/

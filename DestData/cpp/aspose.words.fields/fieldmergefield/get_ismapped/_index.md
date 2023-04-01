@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldMergeField::get_IsMapped method
 linktitle: get_IsMapped
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldMergeField::get_IsMapped method. Gets whether this field is a mapped field in C++.
+description: 'Aspose::Words::Fields::FieldMergeField::get_IsMapped method. Gets whether this field is a mapped field in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldmergefield/get_ismapped/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::PdfLoadOptions::set_PageCount method
 linktitle: set_PageCount
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::PdfLoadOptions::set_PageCount method. Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read in C++.
+description: 'Aspose::Words::Loading::PdfLoadOptions::set_PageCount method. Sets the number of pages to read. Default is MaxValue which means all pages of the document will be read in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.loading/pdfloadoptions/set_pagecount/

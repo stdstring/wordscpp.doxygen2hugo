@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::HtmlSaveOptions constructor
 linktitle: HtmlSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::HtmlSaveOptions constructor. Initializes a new instance of this class that can be used to save a document in the Html format in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::HtmlSaveOptions constructor. Initializes a new instance of this class that can be used to save a document in the Html format in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/htmlsaveoptions/htmlsaveoptions/

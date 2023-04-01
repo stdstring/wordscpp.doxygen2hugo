@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentPropertyCollection::Remove method
 linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentPropertyCollection::Remove method. Removes a property with the specified name from the collection in C++.
+description: 'Aspose::Words::Properties::DocumentPropertyCollection::Remove method. Removes a property with the specified name from the collection in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.properties/documentpropertycollection/remove/

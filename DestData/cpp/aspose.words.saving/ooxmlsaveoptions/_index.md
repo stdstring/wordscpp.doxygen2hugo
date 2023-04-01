@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::OoxmlSaveOptions class
 linktitle: OoxmlSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::OoxmlSaveOptions class. Can be used to specify additional options when saving a document into the Docx, Docm, Dotx, Dotm or FlatOpc format in C++.
+description: 'Aspose::Words::Saving::OoxmlSaveOptions class. Can be used to specify additional options when saving a document into the Docx, Docm, Dotx, Dotm or FlatOpc format in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/

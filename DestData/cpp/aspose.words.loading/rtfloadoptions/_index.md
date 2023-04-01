@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::RtfLoadOptions class
 linktitle: RtfLoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::RtfLoadOptions class. Allows to specify additional options when loading Rtf document into a Document object in C++.
+description: 'Aspose::Words::Loading::RtfLoadOptions class. Allows to specify additional options when loading Rtf document into a Document object in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.loading/rtfloadoptions/

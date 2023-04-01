@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisScaleType enum
 linktitle: AxisScaleType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisScaleType enum. Specifies the possible scale types for an axis in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisScaleType enum. Specifies the possible scale types for an axis in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.drawing.charts/axisscaletype/

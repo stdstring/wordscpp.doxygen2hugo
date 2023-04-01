@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisBound::AxisBound constructor
 linktitle: AxisBound
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisBound::AxisBound constructor. Creates a new instance indicating that axis bound should be determined automatically by a word-processing application in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisBound::AxisBound constructor. Creates a new instance indicating that axis bound should be determined automatically by a word-processing application in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing.charts/axisbound/axisbound/

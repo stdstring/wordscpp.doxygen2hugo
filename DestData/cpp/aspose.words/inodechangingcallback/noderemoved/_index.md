@@ -2,7 +2,7 @@
 title: Aspose::Words::INodeChangingCallback::NodeRemoved method
 linktitle: NodeRemoved
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::INodeChangingCallback::NodeRemoved method. Called when a node belonging to this document has been removed from its parent in C++.
+description: 'Aspose::Words::INodeChangingCallback::NodeRemoved method. Called when a node belonging to this document has been removed from its parent in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/inodechangingcallback/noderemoved/

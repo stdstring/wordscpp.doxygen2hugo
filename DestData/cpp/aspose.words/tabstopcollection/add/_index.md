@@ -2,7 +2,7 @@
 title: Aspose::Words::TabStopCollection::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TabStopCollection::Add method. Adds or replaces a tab stop in the collection in C++.
+description: 'Aspose::Words::TabStopCollection::Add method. Adds or replaces a tab stop in the collection in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/tabstopcollection/add/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTitle class
 linktitle: FieldTitle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTitle class. Implements the TITLE field in C++.
+description: 'Aspose::Words::Fields::FieldTitle class. Implements the TITLE field in C++.'
 type: docs
 weight: 10300
 url: /cpp/aspose.words.fields/fieldtitle/

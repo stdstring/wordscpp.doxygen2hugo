@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::XamlFlowSaveOptions::set_ImageSavingCallback method
 linktitle: set_ImageSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::XamlFlowSaveOptions::set_ImageSavingCallback method. Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_ImageSavingCallback in C++.
+description: 'Aspose::Words::Saving::XamlFlowSaveOptions::set_ImageSavingCallback method. Setter for Aspose::Words::Saving::XamlFlowSaveOptions::get_ImageSavingCallback in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/set_imagesavingcallback/

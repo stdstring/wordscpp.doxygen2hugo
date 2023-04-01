@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::ThemeColors::set_Accent5 method
 linktitle: set_Accent5
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::ThemeColors::set_Accent5 method. Setter for Aspose::Words::Themes::ThemeColors::get_Accent5 in C++.
+description: 'Aspose::Words::Themes::ThemeColors::set_Accent5 method. Setter for Aspose::Words::Themes::ThemeColors::get_Accent5 in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.themes/themecolors/set_accent5/

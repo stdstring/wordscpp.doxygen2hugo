@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::TxtSaveOptionsBase::set_ForcePageBreaks method
 linktitle: set_ForcePageBreaks
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::TxtSaveOptionsBase::set_ForcePageBreaks method. Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks in C++.
+description: 'Aspose::Words::Saving::TxtSaveOptionsBase::set_ForcePageBreaks method. Setter for Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.saving/txtsaveoptionsbase/set_forcepagebreaks/

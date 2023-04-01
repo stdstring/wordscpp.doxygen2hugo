@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::MemoryFontSource::get_FontData method
 linktitle: get_FontData
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::MemoryFontSource::get_FontData method. Binary font data in C++.
+description: 'Aspose::Words::Fonts::MemoryFontSource::get_FontData method. Binary font data in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fonts/memoryfontsource/get_fontdata/

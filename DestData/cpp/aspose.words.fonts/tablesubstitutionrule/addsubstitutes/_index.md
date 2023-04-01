@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes method
 linktitle: AddSubstitutes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes method. Adds substitute font names for given original font name in C++.
+description: 'Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes method. Adds substitute font names for given original font name in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/addsubstitutes/

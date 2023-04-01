@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SaveOptions::set_UpdateLastPrintedProperty method
 linktitle: set_UpdateLastPrintedProperty
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SaveOptions::set_UpdateLastPrintedProperty method. Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty in C++.
+description: 'Aspose::Words::Saving::SaveOptions::set_UpdateLastPrintedProperty method. Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastPrintedProperty in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words.saving/saveoptions/set_updatelastprintedproperty/

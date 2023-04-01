@@ -2,7 +2,7 @@
 title: Aspose::Words::CommentRangeStart::CommentRangeStart constructor
 linktitle: CommentRangeStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CommentRangeStart::CommentRangeStart constructor. Initializes a new instance of this class in C++.
+description: 'Aspose::Words::CommentRangeStart::CommentRangeStart constructor. Initializes a new instance of this class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/commentrangestart/commentrangestart/

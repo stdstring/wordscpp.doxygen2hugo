@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::set_Target method
 linktitle: set_Target
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::set_Target method. Setter for Aspose::Words::Comparing::CompareOptions::get_Target in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::set_Target method. Setter for Aspose::Words::Comparing::CompareOptions::get_Target in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.comparing/compareoptions/set_target/

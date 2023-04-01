@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType method
 linktitle: get_CssStyleSheetType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType method. Specifies how CSS (Cascading Style Sheet) styles are exported to HTML, MHTML or EPUB. Default value is Inline for HTML/MHTML and External for EPUB in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_CssStyleSheetType method. Specifies how CSS (Cascading Style Sheet) styles are exported to HTML, MHTML or EPUB. Default value is Inline for HTML/MHTML and External for EPUB in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_cssstylesheettype/

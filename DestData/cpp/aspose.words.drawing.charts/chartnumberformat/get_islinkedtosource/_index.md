@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource method
 linktitle: get_IsLinkedToSource
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource method. Specifies whether the format code is linked to a source cell. Default is true in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartNumberFormat::get_IsLinkedToSource method. Specifies whether the format code is linked to a source cell. Default is true in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/get_islinkedtosource/

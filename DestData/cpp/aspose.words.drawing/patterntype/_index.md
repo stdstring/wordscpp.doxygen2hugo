@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::PatternType enum
 linktitle: PatternType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::PatternType enum. Specifies the fill pattern to be used to fill a shape in C++.
+description: 'Aspose::Words::Drawing::PatternType enum. Specifies the fill pattern to be used to fill a shape in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.drawing/patterntype/

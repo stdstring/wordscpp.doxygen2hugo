@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::get_Text method
 linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::get_Text method. Defines the text of the text path in C++.
+description: 'Aspose::Words::Drawing::TextPath::get_Text method. Defines the text of the text path in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.drawing/textpath/get_text/

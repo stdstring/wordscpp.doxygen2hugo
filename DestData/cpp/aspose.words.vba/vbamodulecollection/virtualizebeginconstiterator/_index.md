@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaModuleCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::Vba::VbaModuleCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::Vba::VbaModuleCollection class in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.vba/vbamodulecollection/virtualizebeginconstiterator/

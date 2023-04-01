@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisScaling::get_Maximum method
 linktitle: get_Maximum
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisScaling::get_Maximum method. Gets or sets the maximum value of the axis in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisScaling::get_Maximum method. Gets or sets the maximum value of the axis in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing.charts/axisscaling/get_maximum/

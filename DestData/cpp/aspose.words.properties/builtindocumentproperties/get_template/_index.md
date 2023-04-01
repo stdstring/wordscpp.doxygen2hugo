@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Template method
 linktitle: get_Template
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Template method. Gets or sets the informational name of the document template in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_Template method. Gets or sets the informational name of the document template in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_template/

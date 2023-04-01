@@ -2,7 +2,7 @@
 title: Aspose::Words::Notes::EndnoteOptions::get_NumberStyle method
 linktitle: get_NumberStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Notes::EndnoteOptions::get_NumberStyle method. Specifies the number format for automatically numbered endnotes in C++.
+description: 'Aspose::Words::Notes::EndnoteOptions::get_NumberStyle method. Specifies the number format for automatically numbered endnotes in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.notes/endnoteoptions/get_numberstyle/

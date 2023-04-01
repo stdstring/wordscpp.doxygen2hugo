@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::Table constructor
 linktitle: Table
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::Table constructor. Initializes a new instance of the Table class in C++.
+description: 'Aspose::Words::Tables::Table::Table constructor. Initializes a new instance of the Table class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.tables/table/table/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTC class
 linktitle: FieldTC
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTC class. Implements the TC field in C++.
+description: 'Aspose::Words::Fields::FieldTC class. Implements the TC field in C++.'
 type: docs
 weight: 10000
 url: /cpp/aspose.words.fields/fieldtc/

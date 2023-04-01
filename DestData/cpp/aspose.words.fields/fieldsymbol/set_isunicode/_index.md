@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSymbol::set_IsUnicode method
 linktitle: set_IsUnicode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSymbol::set_IsUnicode method. Setter for Aspose::Words::Fields::FieldSymbol::get_IsUnicode in C++.
+description: 'Aspose::Words::Fields::FieldSymbol::set_IsUnicode method. Setter for Aspose::Words::Fields::FieldSymbol::get_IsUnicode in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/fieldsymbol/set_isunicode/

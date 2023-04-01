@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::TxtSaveOptions::get_AddBidiMarks method
 linktitle: get_AddBidiMarks
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::TxtSaveOptions::get_AddBidiMarks method. Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is false in C++.
+description: 'Aspose::Words::Saving::TxtSaveOptions::get_AddBidiMarks method. Specifies whether to add bi-directional marks before each BiDi run when exporting in plain text format. The default value is false in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.saving/txtsaveoptions/get_addbidimarks/

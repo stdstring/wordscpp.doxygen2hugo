@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType method
 linktitle: set_MainDocumentType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType method. Setter for Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType in C++.
+description: 'Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType method. Setter for Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words.settings/mailmergesettings/set_maindocumenttype/

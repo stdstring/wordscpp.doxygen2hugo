@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlPartCollection::const_iterator typedef
 linktitle: const_iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Markup::CustomXmlPartCollection::const_iterator typedef of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
+description: 'How to use Aspose::Words::Markup::CustomXmlPartCollection::const_iterator typedef of Aspose::Words::Markup::CustomXmlPartCollection class in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.markup/customxmlpartcollection/const_iterator/

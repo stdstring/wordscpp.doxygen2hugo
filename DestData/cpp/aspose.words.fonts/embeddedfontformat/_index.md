@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::EmbeddedFontFormat enum
 linktitle: EmbeddedFontFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::EmbeddedFontFormat enum. Specifies format of particular embedded font inside FontInfo object. When saving a document to a file, only embedded fonts of corresponding format are written down in C++.
+description: 'Aspose::Words::Fonts::EmbeddedFontFormat enum. Specifies format of particular embedded font inside FontInfo object. When saving a document to a file, only embedded fonts of corresponding format are written down in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.fonts/embeddedfontformat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldPageRef::set_BookmarkName method
 linktitle: set_BookmarkName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldPageRef::set_BookmarkName method. Setter for Aspose::Words::Fields::FieldPageRef::get_BookmarkName in C++.
+description: 'Aspose::Words::Fields::FieldPageRef::set_BookmarkName method. Setter for Aspose::Words::Fields::FieldPageRef::get_BookmarkName in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldpageref/set_bookmarkname/

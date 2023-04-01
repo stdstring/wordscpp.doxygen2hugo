@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTC::get_EntryLevel method
 linktitle: get_EntryLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTC::get_EntryLevel method. Gets or sets the level of the entry in C++.
+description: 'Aspose::Words::Fields::FieldTC::get_EntryLevel method. Gets or sets the level of the entry in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldtc/get_entrylevel/

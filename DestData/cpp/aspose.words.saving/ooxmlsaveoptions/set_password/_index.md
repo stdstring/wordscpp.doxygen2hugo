@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::OoxmlSaveOptions::set_Password method
 linktitle: set_Password
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::OoxmlSaveOptions::set_Password method. Setter for Aspose::Words::Saving::OoxmlSaveOptions::get_Password in C++.
+description: 'Aspose::Words::Saving::OoxmlSaveOptions::set_Password method. Setter for Aspose::Words::Saving::OoxmlSaveOptions::get_Password in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.saving/ooxmlsaveoptions/set_password/

@@ -2,7 +2,7 @@
 title: Aspose::Words::License::SetLicense method
 linktitle: SetLicense
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::License::SetLicense method. Licenses the component in C++.
+description: 'Aspose::Words::License::SetLicense method. Licenses the component in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/license/setlicense/

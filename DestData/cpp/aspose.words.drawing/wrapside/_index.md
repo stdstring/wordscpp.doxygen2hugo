@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::WrapSide enum
 linktitle: WrapSide
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::WrapSide enum. Specifies what side(s) of the shape or picture the text wraps around in C++.
+description: 'Aspose::Words::Drawing::WrapSide enum. Specifies what side(s) of the shape or picture the text wraps around in C++.'
 type: docs
 weight: 4400
 url: /cpp/aspose.words.drawing/wrapside/

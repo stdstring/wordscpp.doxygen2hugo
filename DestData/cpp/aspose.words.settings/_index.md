@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings namespace
 linktitle: Aspose::Words::Settings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings namespace. The Aspose.Words.Settings namespace contains classes and enums that are used when specifying various settings and options stored in a document. These are mail merge, write protection, compatibility and other settings in C++.
+description: 'Aspose::Words::Settings namespace. The Aspose.Words.Settings namespace contains classes and enums that are used when specifying various settings and options stored in a document. These are mail merge, write protection, compatibility and other settings in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.settings/

@@ -2,7 +2,7 @@
 title: Aspose::Words::RunCollection class
 linktitle: RunCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RunCollection class. Provides typed access to a collection of Run nodes in C++.
+description: 'Aspose::Words::RunCollection class. Provides typed access to a collection of Run nodes in C++.'
 type: docs
 weight: 5700
 url: /cpp/aspose.words/runcollection/

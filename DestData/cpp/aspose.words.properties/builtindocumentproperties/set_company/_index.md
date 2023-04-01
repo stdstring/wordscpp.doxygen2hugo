@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_Company method
 linktitle: set_Company
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Company method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Company in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_Company method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Company in C++.'
 type: docs
 weight: 4000
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_company/

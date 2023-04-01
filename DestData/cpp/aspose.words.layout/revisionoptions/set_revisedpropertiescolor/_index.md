@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionOptions::set_RevisedPropertiesColor method
 linktitle: set_RevisedPropertiesColor
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionOptions::set_RevisedPropertiesColor method. Setter for Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesColor in C++.
+description: 'Aspose::Words::Layout::RevisionOptions::set_RevisedPropertiesColor method. Setter for Aspose::Words::Layout::RevisionOptions::get_RevisedPropertiesColor in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.layout/revisionoptions/set_revisedpropertiescolor/

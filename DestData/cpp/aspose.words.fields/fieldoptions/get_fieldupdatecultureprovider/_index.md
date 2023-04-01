@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider method
 linktitle: get_FieldUpdateCultureProvider
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider method. Gets or sets a provider that returns a culture object specific for each particular field in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureProvider method. Gets or sets a provider that returns a culture object specific for each particular field in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdatecultureprovider/

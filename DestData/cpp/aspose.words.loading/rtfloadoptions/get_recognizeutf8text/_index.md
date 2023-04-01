@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::RtfLoadOptions::get_RecognizeUtf8Text method
 linktitle: get_RecognizeUtf8Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::RtfLoadOptions::get_RecognizeUtf8Text method. When set to true, CharsetDetector will try to detect UTF8 characters, they will be preserved during import. Default value is false in C++.
+description: 'Aspose::Words::Loading::RtfLoadOptions::get_RecognizeUtf8Text method. When set to true, CharsetDetector will try to detect UTF8 characters, they will be preserved during import. Default value is false in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.loading/rtfloadoptions/get_recognizeutf8text/

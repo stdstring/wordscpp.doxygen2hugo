@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::set_EntryIdentifier method
 linktitle: set_EntryIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::set_EntryIdentifier method. Setter for Aspose::Words::Fields::FieldToc::get_EntryIdentifier in C++.
+description: 'Aspose::Words::Fields::FieldToc::set_EntryIdentifier method. Setter for Aspose::Words::Fields::FieldToc::get_EntryIdentifier in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.fields/fieldtoc/set_entryidentifier/

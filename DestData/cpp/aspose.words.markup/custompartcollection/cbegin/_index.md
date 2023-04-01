@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPartCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::Markup::CustomPartCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::Markup::CustomPartCollection class in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.markup/custompartcollection/cbegin/

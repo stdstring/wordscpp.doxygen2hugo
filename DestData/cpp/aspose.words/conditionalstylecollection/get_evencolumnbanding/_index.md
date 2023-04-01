@@ -2,7 +2,7 @@
 title: Aspose::Words::ConditionalStyleCollection::get_EvenColumnBanding method
 linktitle: get_EvenColumnBanding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ConditionalStyleCollection::get_EvenColumnBanding method. Gets the even column banding style in C++.
+description: 'Aspose::Words::ConditionalStyleCollection::get_EvenColumnBanding method. Gets the even column banding style in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/conditionalstylecollection/get_evencolumnbanding/

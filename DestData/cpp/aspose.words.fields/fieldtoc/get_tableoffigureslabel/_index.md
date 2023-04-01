@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel method
 linktitle: get_TableOfFiguresLabel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel method. Gets or sets the name of the sequence identifier used when building a table of figures in C++.
+description: 'Aspose::Words::Fields::FieldToc::get_TableOfFiguresLabel method. Gets or sets the name of the sequence identifier used when building a table of figures in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/fieldtoc/get_tableoffigureslabel/

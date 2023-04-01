@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::PreferredWidth::GetHashCode method
 linktitle: GetHashCode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::PreferredWidth::GetHashCode method. Serves as a hash function for this type in C++.
+description: 'Aspose::Words::Tables::PreferredWidth::GetHashCode method. Serves as a hash function for this type in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.tables/preferredwidth/gethashcode/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Id method
 linktitle: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Id method. Specifies a unique read-only persistent numerical Id for this structured document tag in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Id method. Specifies a unique read-only persistent numerical Id for this structured document tag in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/get_id/

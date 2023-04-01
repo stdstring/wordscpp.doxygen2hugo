@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::BreakForwardLink method
 linktitle: BreakForwardLink
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::BreakForwardLink method. Breaks the link to the next TextBox in C++.
+description: 'Aspose::Words::Drawing::TextBox::BreakForwardLink method. Breaks the link to the next TextBox in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing/textbox/breakforwardlink/

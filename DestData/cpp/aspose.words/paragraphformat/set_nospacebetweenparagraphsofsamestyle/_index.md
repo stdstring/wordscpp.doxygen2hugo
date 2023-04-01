@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_NoSpaceBetweenParagraphsOfSameStyle method
 linktitle: set_NoSpaceBetweenParagraphsOfSameStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_NoSpaceBetweenParagraphsOfSameStyle method. Setter for Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle in C++.
+description: 'Aspose::Words::ParagraphFormat::set_NoSpaceBetweenParagraphsOfSameStyle method. Setter for Aspose::Words::ParagraphFormat::get_NoSpaceBetweenParagraphsOfSameStyle in C++.'
 type: docs
 weight: 6100
 url: /cpp/aspose.words/paragraphformat/set_nospacebetweenparagraphsofsamestyle/

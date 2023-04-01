@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionOptions class
 linktitle: RevisionOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionOptions class. Allows to control how document revisions are handled during layout process in C++.
+description: 'Aspose::Words::Layout::RevisionOptions class. Allows to control how document revisions are handled during layout process in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.layout/revisionoptions/

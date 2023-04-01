@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSymbol::set_IsAnsi method
 linktitle: set_IsAnsi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSymbol::set_IsAnsi method. Setter for Aspose::Words::Fields::FieldSymbol::get_IsAnsi in C++.
+description: 'Aspose::Words::Fields::FieldSymbol::set_IsAnsi method. Setter for Aspose::Words::Fields::FieldSymbol::get_IsAnsi in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.fields/fieldsymbol/set_isansi/

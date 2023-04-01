@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Version method
 linktitle: get_Version
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Version method. Represents the version number of the application that created the document in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_Version method. Represents the version number of the application that created the document in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_version/

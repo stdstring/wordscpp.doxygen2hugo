@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldXE::set_Yomi method
 linktitle: set_Yomi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldXE::set_Yomi method. Setter for Aspose::Words::Fields::FieldXE::get_Yomi in C++.
+description: 'Aspose::Words::Fields::FieldXE::set_Yomi method. Setter for Aspose::Words::Fields::FieldXE::get_Yomi in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/fieldxe/set_yomi/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_CustomDocumentProperties method
 linktitle: get_CustomDocumentProperties
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_CustomDocumentProperties method. Returns a collection that represents all the custom document properties of the document in C++.
+description: 'Aspose::Words::Document::get_CustomDocumentProperties method. Returns a collection that represents all the custom document properties of the document in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words/document/get_customdocumentproperties/

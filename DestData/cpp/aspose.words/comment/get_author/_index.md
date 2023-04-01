@@ -2,7 +2,7 @@
 title: Aspose::Words::Comment::get_Author method
 linktitle: get_Author
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comment::get_Author method. Returns or sets the author name for a comment in C++.
+description: 'Aspose::Words::Comment::get_Author method. Returns or sets the author name for a comment in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/comment/get_author/

@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_Gutter method
 linktitle: set_Gutter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_Gutter method. Setter for Aspose::Words::PageSetup::get_Gutter in C++.
+description: 'Aspose::Words::PageSetup::set_Gutter method. Setter for Aspose::Words::PageSetup::get_Gutter in C++.'
 type: docs
 weight: 5800
 url: /cpp/aspose.words/pagesetup/set_gutter/

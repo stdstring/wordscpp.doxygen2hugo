@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisTickLabelPosition enum
 linktitle: AxisTickLabelPosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisTickLabelPosition enum. Specifies the possible positions for tick labels in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisTickLabelPosition enum. Specifies the possible positions for tick labels in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.drawing.charts/axisticklabelposition/

@@ -2,7 +2,7 @@
 title: Aspose::Words::TabStopCollection::After method
 linktitle: After
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TabStopCollection::After method. Gets a first tab stop to the right of the specified position in C++.
+description: 'Aspose::Words::TabStopCollection::After method. Gets a first tab stop to the right of the specified position in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/tabstopcollection/after/

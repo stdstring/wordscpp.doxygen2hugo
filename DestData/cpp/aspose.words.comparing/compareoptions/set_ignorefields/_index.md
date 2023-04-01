@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::set_IgnoreFields method
 linktitle: set_IgnoreFields
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::set_IgnoreFields method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFields in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::set_IgnoreFields method. Setter for Aspose::Words::Comparing::CompareOptions::get_IgnoreFields in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.comparing/compareoptions/set_ignorefields/

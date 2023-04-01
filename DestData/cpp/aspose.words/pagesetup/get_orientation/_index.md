@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_Orientation method
 linktitle: get_Orientation
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_Orientation method. Returns or sets the orientation of the page in C++.
+description: 'Aspose::Words::PageSetup::get_Orientation method. Returns or sets the orientation of the page in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words/pagesetup/get_orientation/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_GlossaryDocument method
 linktitle: set_GlossaryDocument
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_GlossaryDocument method. Setter for Aspose::Words::Document::get_GlossaryDocument in C++.
+description: 'Aspose::Words::Document::set_GlossaryDocument method. Setter for Aspose::Words::Document::get_GlossaryDocument in C++.'
 type: docs
 weight: 7300
 url: /cpp/aspose.words/document/set_glossarydocument/

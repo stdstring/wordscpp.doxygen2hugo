@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition method
 linktitle: get_RelativeVerticalPosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition method. Specifies relative to what the shape is positioned vertically in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_RelativeVerticalPosition method. Specifies relative to what the shape is positioned vertically in C++.'
 type: docs
 weight: 4200
 url: /cpp/aspose.words.drawing/shapebase/get_relativeverticalposition/

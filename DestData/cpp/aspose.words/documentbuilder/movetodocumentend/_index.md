@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::MoveToDocumentEnd method
 linktitle: MoveToDocumentEnd
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::MoveToDocumentEnd method. Moves the cursor to the end of the document in C++.
+description: 'Aspose::Words::DocumentBuilder::MoveToDocumentEnd method. Moves the cursor to the end of the document in C++.'
 type: docs
 weight: 5100
 url: /cpp/aspose.words/documentbuilder/movetodocumentend/

@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_Italic method
 linktitle: get_Italic
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_Italic method. True if the font is formatted as italic in C++.
+description: 'Aspose::Words::DocumentBuilder::get_Italic method. True if the font is formatted as italic in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words/documentbuilder/get_italic/

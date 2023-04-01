@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream method
 linktitle: get_ImageStream
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream method. Specifies the stream for the mail merge engine to read an image from in C++.
+description: 'Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream method. Specifies the stream for the mail merge engine to read an image from in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.mailmerging/imagefieldmergingargs/get_imagestream/

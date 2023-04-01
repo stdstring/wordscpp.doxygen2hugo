@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::get_TextureAlignment method
 linktitle: get_TextureAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::get_TextureAlignment method. Gets or sets the alignment for tile texture fill in C++.
+description: 'Aspose::Words::Drawing::Fill::get_TextureAlignment method. Gets or sets the alignment for tile texture fill in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.drawing/fill/get_texturealignment/

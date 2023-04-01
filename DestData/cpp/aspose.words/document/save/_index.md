@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::Save method
 linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::Save method. Saves the document to a stream using the specified format in C++.
+description: 'Aspose::Words::Document::Save method. Saves the document to a stream using the specified format in C++.'
 type: docs
 weight: 6700
 url: /cpp/aspose.words/document/save/

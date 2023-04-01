@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDde class
 linktitle: FieldDde
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDde class. Implements the DDE field in C++.
+description: 'Aspose::Words::Fields::FieldDde class. Implements the DDE field in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words.fields/fielddde/

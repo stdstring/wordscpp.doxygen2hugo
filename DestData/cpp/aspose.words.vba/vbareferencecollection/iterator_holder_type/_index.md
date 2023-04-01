@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaReferenceCollection::iterator_holder_type typedef
 linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Vba::VbaReferenceCollection::iterator_holder_type typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.
+description: 'How to use Aspose::Words::Vba::VbaReferenceCollection::iterator_holder_type typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.vba/vbareferencecollection/iterator_holder_type/

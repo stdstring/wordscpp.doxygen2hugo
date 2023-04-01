@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields method
 linktitle: get_UseNonMergeFields
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields method. When true, specifies that in addition to MERGEFIELD fields, mail merge is performed into some other types of fields and also into "{{fieldName}}" tags in C++.
+description: 'Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields method. When true, specifies that in addition to MERGEFIELD fields, mail merge is performed into some other types of fields and also into "{{fieldName}}" tags in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.mailmerging/mailmerge/get_usenonmergefields/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoFieldMapDataCollection::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::OdsoFieldMapDataCollection::Add method. Adds an object to the end of this collection in C++.
+description: 'Aspose::Words::Settings::OdsoFieldMapDataCollection::Add method. Adds an object to the end of this collection in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/add/

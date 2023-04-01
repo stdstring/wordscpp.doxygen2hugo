@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_ItalicBi method
 linktitle: set_ItalicBi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_ItalicBi method. Setter for Aspose::Words::Font::get_ItalicBi in C++.
+description: 'Aspose::Words::Font::set_ItalicBi method. Setter for Aspose::Words::Font::get_ItalicBi in C++.'
 type: docs
 weight: 7000
 url: /cpp/aspose.words/font/set_italicbi/

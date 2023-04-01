@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::get_Borders method
 linktitle: get_Borders
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::get_Borders method. Gets collection of borders of the cell in C++.
+description: 'Aspose::Words::Tables::CellFormat::get_Borders method. Gets collection of borders of the cell in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.tables/cellformat/get_borders/

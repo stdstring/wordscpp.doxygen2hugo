@@ -2,7 +2,7 @@
 title: Aspose::Words::TextWatermarkOptions::get_Color method
 linktitle: get_Color
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextWatermarkOptions::get_Color method. Gets or sets font color. The default value is Color.Silver in C++.
+description: 'Aspose::Words::TextWatermarkOptions::get_Color method. Gets or sets font color. The default value is Color.Silver in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/textwatermarkoptions/get_color/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevel::get_TrailingCharacter method
 linktitle: get_TrailingCharacter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListLevel::get_TrailingCharacter method. Returns or sets the character inserted after the number for the list level in C++.
+description: 'Aspose::Words::Lists::ListLevel::get_TrailingCharacter method. Returns or sets the character inserted after the number for the list level in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.lists/listlevel/get_trailingcharacter/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Revision::Accept method
 linktitle: Accept
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Revision::Accept method. Accepts this revision in C++.
+description: 'Aspose::Words::Revision::Accept method. Accepts this revision in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/revision/accept/

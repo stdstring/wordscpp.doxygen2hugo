@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldData class
 linktitle: FieldData
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldData class. Implements the DATA field in C++.
+description: 'Aspose::Words::Fields::FieldData class. Implements the DATA field in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.words.fields/fielddata/

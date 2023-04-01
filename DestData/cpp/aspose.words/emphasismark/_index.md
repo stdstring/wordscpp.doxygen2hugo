@@ -2,7 +2,7 @@
 title: Aspose::Words::EmphasisMark enum
 linktitle: EmphasisMark
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EmphasisMark enum. Specifies possible types of emphasis mark in C++.
+description: 'Aspose::Words::EmphasisMark enum. Specifies possible types of emphasis mark in C++.'
 type: docs
 weight: 8900
 url: /cpp/aspose.words/emphasismark/

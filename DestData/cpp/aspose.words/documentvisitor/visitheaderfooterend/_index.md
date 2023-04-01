@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitHeaderFooterEnd method
 linktitle: VisitHeaderFooterEnd
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitHeaderFooterEnd method. Called when enumeration of a header or footer in a section has ended in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitHeaderFooterEnd method. Called when enumeration of a header or footer in a section has ended in C++.'
 type: docs
 weight: 2800
 url: /cpp/aspose.words/documentvisitor/visitheaderfooterend/

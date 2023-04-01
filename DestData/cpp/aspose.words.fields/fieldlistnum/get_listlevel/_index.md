@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldListNum::get_ListLevel method
 linktitle: get_ListLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldListNum::get_ListLevel method. Gets or sets the level in the list, overriding the default behavior of the field in C++.
+description: 'Aspose::Words::Fields::FieldListNum::get_ListLevel method. Gets or sets the level in the list, overriding the default behavior of the field in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldlistnum/get_listlevel/

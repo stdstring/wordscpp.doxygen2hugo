@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartSeries::get_Format method
 linktitle: get_Format
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartSeries::get_Format method. Provides access to fill and line formatting of the series in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartSeries::get_Format method. Provides access to fill and line formatting of the series in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.drawing.charts/chartseries/get_format/

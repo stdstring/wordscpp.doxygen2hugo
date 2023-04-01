@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode method
 linktitle: get_TextBoxWrapMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode method. Determines how text wraps inside a shape in C++.
+description: 'Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode method. Determines how text wraps inside a shape in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.drawing/textbox/get_textboxwrapmode/

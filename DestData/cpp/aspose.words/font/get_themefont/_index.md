@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_ThemeFont method
 linktitle: get_ThemeFont
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_ThemeFont method. Gets or sets the theme font in the applied font scheme that is associated with this Font object in C++.
+description: 'Aspose::Words::Font::get_ThemeFont method. Gets or sets the theme font in the applied font scheme that is associated with this Font object in C++.'
 type: docs
 weight: 4800
 url: /cpp/aspose.words/font/get_themefont/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::get_SequenceSeparator method
 linktitle: get_SequenceSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::get_SequenceSeparator method. Gets or sets the character sequence that is used to separate sequence numbers and page numbers in C++.
+description: 'Aspose::Words::Fields::FieldToc::get_SequenceSeparator method. Gets or sets the character sequence that is used to separate sequence numbers and page numbers in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.fields/fieldtoc/get_sequenceseparator/

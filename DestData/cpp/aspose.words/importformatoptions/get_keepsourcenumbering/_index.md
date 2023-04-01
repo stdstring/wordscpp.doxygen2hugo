@@ -2,7 +2,7 @@
 title: Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering method
 linktitle: get_KeepSourceNumbering
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering method. Gets or sets a boolean value that specifies how the numbering will be imported when it clashes in source and destination documents. The default value is false in C++.
+description: 'Aspose::Words::ImportFormatOptions::get_KeepSourceNumbering method. Gets or sets a boolean value that specifies how the numbering will be imported when it clashes in source and destination documents. The default value is false in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/importformatoptions/get_keepsourcenumbering/

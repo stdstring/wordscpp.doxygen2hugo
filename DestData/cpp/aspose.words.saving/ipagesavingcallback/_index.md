@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::IPageSavingCallback interface
 linktitle: IPageSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::IPageSavingCallback interface. Implement this interface if you want to control how Aspose.Words saves separate pages when saving a document to fixed page formats in C++.
+description: 'Aspose::Words::Saving::IPageSavingCallback interface. Implement this interface if you want to control how Aspose.Words saves separate pages when saving a document to fixed page formats in C++.'
 type: docs
 weight: 4400
 url: /cpp/aspose.words.saving/ipagesavingcallback/

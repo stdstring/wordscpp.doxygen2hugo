@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIf class
 linktitle: FieldIf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIf class. Implements the IF field in C++.
+description: 'Aspose::Words::Fields::FieldIf class. Implements the IF field in C++.'
 type: docs
 weight: 5400
 url: /cpp/aspose.words.fields/fieldif/

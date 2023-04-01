@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::set_Crosses method
 linktitle: set_Crosses
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::set_Crosses method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Crosses in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::set_Crosses method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_Crosses in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_crosses/

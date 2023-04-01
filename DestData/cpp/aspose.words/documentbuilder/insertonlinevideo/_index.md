@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertOnlineVideo method
 linktitle: InsertOnlineVideo
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertOnlineVideo method. Inserts an online video object into the document and scales it to the specified size in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertOnlineVideo method. Inserts an online video object into the document and scales it to the specified size in C++.'
 type: docs
 weight: 4100
 url: /cpp/aspose.words/documentbuilder/insertonlinevideo/

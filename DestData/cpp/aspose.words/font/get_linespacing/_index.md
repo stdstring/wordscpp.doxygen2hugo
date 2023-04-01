@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_LineSpacing method
 linktitle: get_LineSpacing
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_LineSpacing method. Returns line spacing of this font (in points) in C++.
+description: 'Aspose::Words::Font::get_LineSpacing method. Returns line spacing of this font (in points) in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words/font/get_linespacing/

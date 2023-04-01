@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_FootnoteLayoutLikeWW8 method
 linktitle: set_FootnoteLayoutLikeWW8
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_FootnoteLayoutLikeWW8 method. Emulate Word 6.x/95/97 Footnote Placement in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_FootnoteLayoutLikeWW8 method. Emulate Word 6.x/95/97 Footnote Placement in C++.'
 type: docs
 weight: 9800
 url: /cpp/aspose.words.settings/compatibilityoptions/set_footnotelayoutlikeww8/

@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_PageHeight method
 linktitle: get_PageHeight
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_PageHeight method. Returns or sets the height of the page in points in C++.
+description: 'Aspose::Words::PageSetup::get_PageHeight method. Returns or sets the height of the page in points in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words/pagesetup/get_pageheight/

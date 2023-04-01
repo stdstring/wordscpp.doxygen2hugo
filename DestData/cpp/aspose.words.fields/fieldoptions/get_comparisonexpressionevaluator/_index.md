@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator method
 linktitle: get_ComparisonExpressionEvaluator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator method. Gets or sets the field comparison expressions evaluator in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator method. Gets or sets the field comparison expressions evaluator in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldoptions/get_comparisonexpressionevaluator/

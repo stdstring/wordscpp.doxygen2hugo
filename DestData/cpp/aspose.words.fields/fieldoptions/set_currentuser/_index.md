@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::set_CurrentUser method
 linktitle: set_CurrentUser
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::set_CurrentUser method. Setter for Aspose::Words::Fields::FieldOptions::get_CurrentUser in C++.
+description: 'Aspose::Words::Fields::FieldOptions::set_CurrentUser method. Setter for Aspose::Words::Fields::FieldOptions::get_CurrentUser in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.fields/fieldoptions/set_currentuser/

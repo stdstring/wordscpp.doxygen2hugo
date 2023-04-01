@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::set_StyleName method
 linktitle: set_StyleName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::set_StyleName method. Setter for Aspose::Words::Tables::Table::get_StyleName in C++.
+description: 'Aspose::Words::Tables::Table::set_StyleName method. Setter for Aspose::Words::Tables::Table::get_StyleName in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words.tables/table/set_stylename/

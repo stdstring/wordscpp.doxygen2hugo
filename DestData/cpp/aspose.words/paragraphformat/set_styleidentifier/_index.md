@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_StyleIdentifier method
 linktitle: set_StyleIdentifier
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_StyleIdentifier method. Setter for Aspose::Words::ParagraphFormat::get_StyleIdentifier in C++.
+description: 'Aspose::Words::ParagraphFormat::set_StyleIdentifier method. Setter for Aspose::Words::ParagraphFormat::get_StyleIdentifier in C++.'
 type: docs
 weight: 7100
 url: /cpp/aspose.words/paragraphformat/set_styleidentifier/

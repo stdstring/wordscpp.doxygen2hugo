@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphCollection class
 linktitle: ParagraphCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphCollection class. Provides typed access to a collection of Paragraph nodes in C++.
+description: 'Aspose::Words::ParagraphCollection class. Provides typed access to a collection of Paragraph nodes in C++.'
 type: docs
 weight: 4800
 url: /cpp/aspose.words/paragraphcollection/

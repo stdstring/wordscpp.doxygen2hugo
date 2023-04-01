@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List::get_IsRestartAtEachSection method
 linktitle: get_IsRestartAtEachSection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List::get_IsRestartAtEachSection method. Specifies whether list should be restarted at each section. Default value is false in C++.
+description: 'Aspose::Words::Lists::List::get_IsRestartAtEachSection method. Specifies whether list should be restarted at each section. Default value is false in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.lists/list/get_isrestartateachsection/

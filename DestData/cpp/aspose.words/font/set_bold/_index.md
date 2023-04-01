@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_Bold method
 linktitle: set_Bold
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_Bold method. Setter for Aspose::Words::Font::get_Bold in C++.
+description: 'Aspose::Words::Font::set_Bold method. Setter for Aspose::Words::Font::get_Bold in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words/font/set_bold/

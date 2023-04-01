@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::XmlMapping::Delete method
 linktitle: Delete
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::XmlMapping::Delete method. Deletes mapping of the parent structured document to XML data in C++.
+description: 'Aspose::Words::Markup::XmlMapping::Delete method. Deletes mapping of the parent structured document to XML data in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.markup/xmlmapping/delete/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::SetBorder method
 linktitle: SetBorder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::SetBorder method. Sets the specified table border to the specified line style, width and color in C++.
+description: 'Aspose::Words::Tables::Table::SetBorder method. Sets the specified table border to the specified line style, width and color in C++.'
 type: docs
 weight: 6500
 url: /cpp/aspose.words.tables/table/setborder/

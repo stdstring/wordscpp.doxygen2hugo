@@ -2,7 +2,7 @@
 title: Aspose::Words::BorderCollection::get_Horizontal method
 linktitle: get_Horizontal
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BorderCollection::get_Horizontal method. Gets the horizontal border that is used between cells or conforming paragraphs in C++.
+description: 'Aspose::Words::BorderCollection::get_Horizontal method. Gets the horizontal border that is used between cells or conforming paragraphs in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/bordercollection/get_horizontal/

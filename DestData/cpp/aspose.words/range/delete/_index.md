@@ -2,7 +2,7 @@
 title: Aspose::Words::Range::Delete method
 linktitle: Delete
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Range::Delete method. Deletes all characters of the range in C++.
+description: 'Aspose::Words::Range::Delete method. Deletes all characters of the range in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/range/delete/

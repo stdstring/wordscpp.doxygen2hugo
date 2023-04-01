@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::PhysicalFontInfo::get_FontFamilyName method
 linktitle: get_FontFamilyName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::PhysicalFontInfo::get_FontFamilyName method. Family name of the font in C++.
+description: 'Aspose::Words::Fonts::PhysicalFontInfo::get_FontFamilyName method. Family name of the font in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fonts/physicalfontinfo/get_fontfamilyname/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode method
 linktitle: set_TextBoxWrapMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode method. Setter for Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode in C++.
+description: 'Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode method. Setter for Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.drawing/textbox/set_textboxwrapmode/

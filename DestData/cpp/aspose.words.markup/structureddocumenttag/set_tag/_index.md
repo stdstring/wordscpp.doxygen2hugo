@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::set_Tag method
 linktitle: set_Tag
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::set_Tag method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Tag in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::set_Tag method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_Tag in C++.'
 type: docs
 weight: 5300
 url: /cpp/aspose.words.markup/structureddocumenttag/set_tag/

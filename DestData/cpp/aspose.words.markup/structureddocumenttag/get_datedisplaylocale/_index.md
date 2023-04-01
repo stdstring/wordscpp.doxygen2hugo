@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale method
 linktitle: get_DateDisplayLocale
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale method. Allows to set/get the language format for the date displayed in this SDT in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::get_DateDisplayLocale method. Allows to set/get the language format for the date displayed in this SDT in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.markup/structureddocumenttag/get_datedisplaylocale/

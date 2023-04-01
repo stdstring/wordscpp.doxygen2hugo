@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SvgSaveOptions class
 linktitle: SvgSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SvgSaveOptions class. Can be used to specify additional options when saving a document into the Svg format in C++.
+description: 'Aspose::Words::Saving::SvgSaveOptions class. Can be used to specify additional options when saving a document into the Svg format in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.saving/svgsaveoptions/

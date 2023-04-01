@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldHyperlink::get_ScreenTip method
 linktitle: get_ScreenTip
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldHyperlink::get_ScreenTip method. Gets or sets the ScreenTip text for the hyperlink in C++.
+description: 'Aspose::Words::Fields::FieldHyperlink::get_ScreenTip method. Gets or sets the ScreenTip text for the hyperlink in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldhyperlink/get_screentip/

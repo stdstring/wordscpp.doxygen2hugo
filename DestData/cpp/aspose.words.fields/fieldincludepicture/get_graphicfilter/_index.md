@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIncludePicture::get_GraphicFilter method
 linktitle: get_GraphicFilter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIncludePicture::get_GraphicFilter method. Gets or sets the name of the filter for the format of the graphic that is to be inserted in C++.
+description: 'Aspose::Words::Fields::FieldIncludePicture::get_GraphicFilter method. Gets or sets the name of the filter for the format of the graphic that is to be inserted in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldincludepicture/get_graphicfilter/

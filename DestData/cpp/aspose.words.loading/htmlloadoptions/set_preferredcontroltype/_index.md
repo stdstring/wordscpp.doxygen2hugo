@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::HtmlLoadOptions::set_PreferredControlType method
 linktitle: set_PreferredControlType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::HtmlLoadOptions::set_PreferredControlType method. Setter for Aspose::Words::Loading::HtmlLoadOptions::get_PreferredControlType in C++.
+description: 'Aspose::Words::Loading::HtmlLoadOptions::set_PreferredControlType method. Setter for Aspose::Words::Loading::HtmlLoadOptions::get_PreferredControlType in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.loading/htmlloadoptions/set_preferredcontroltype/

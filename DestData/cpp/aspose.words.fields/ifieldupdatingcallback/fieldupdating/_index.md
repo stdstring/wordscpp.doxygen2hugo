@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::IFieldUpdatingCallback::FieldUpdating method
 linktitle: FieldUpdating
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::IFieldUpdatingCallback::FieldUpdating method. A user defined method that is called just before a field is updated in C++.
+description: 'Aspose::Words::Fields::IFieldUpdatingCallback::FieldUpdating method. A user defined method that is called just before a field is updated in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/ifieldupdatingcallback/fieldupdating/

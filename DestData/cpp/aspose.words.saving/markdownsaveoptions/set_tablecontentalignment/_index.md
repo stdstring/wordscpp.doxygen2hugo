@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::MarkdownSaveOptions::set_TableContentAlignment method
 linktitle: set_TableContentAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::MarkdownSaveOptions::set_TableContentAlignment method. Sets a value that specifies how to align contents in tables when exporting into the Markdown format. The default value is Auto in C++.
+description: 'Aspose::Words::Saving::MarkdownSaveOptions::set_TableContentAlignment method. Sets a value that specifies how to align contents in tables when exporting into the Markdown format. The default value is Auto in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.saving/markdownsaveoptions/set_tablecontentalignment/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::FontSavingArgs::set_IsSubsettingNeeded method
 linktitle: set_IsSubsettingNeeded
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::FontSavingArgs::set_IsSubsettingNeeded method. Setter for Aspose::Words::Saving::FontSavingArgs::get_IsSubsettingNeeded in C++.
+description: 'Aspose::Words::Saving::FontSavingArgs::set_IsSubsettingNeeded method. Setter for Aspose::Words::Saving::FontSavingArgs::get_IsSubsettingNeeded in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.saving/fontsavingargs/set_issubsettingneeded/

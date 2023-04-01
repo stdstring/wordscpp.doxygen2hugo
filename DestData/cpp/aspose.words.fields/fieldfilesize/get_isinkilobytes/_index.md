@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes method
 linktitle: get_IsInKilobytes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes method. Gets or sets whether to display the file size in kilobytes in C++.
+description: 'Aspose::Words::Fields::FieldFileSize::get_IsInKilobytes method. Gets or sets whether to display the file size in kilobytes in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldfilesize/get_isinkilobytes/

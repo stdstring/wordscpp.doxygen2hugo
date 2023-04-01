@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::get_SignatureLine method
 linktitle: get_SignatureLine
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::get_SignatureLine method. Gets SignatureLine object if the shape is a signature line. Returns null otherwise in C++.
+description: 'Aspose::Words::Drawing::Shape::get_SignatureLine method. Gets SignatureLine object if the shape is a signature line. Returns null otherwise in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.drawing/shape/get_signatureline/

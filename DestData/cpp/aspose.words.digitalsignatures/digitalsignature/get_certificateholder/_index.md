@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignature::get_CertificateHolder method
 linktitle: get_CertificateHolder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::DigitalSignature::get_CertificateHolder method. Returns the certificate holder object that contains the certificate was used to sign the document in C++.
+description: 'Aspose::Words::DigitalSignatures::DigitalSignature::get_CertificateHolder method. Returns the certificate holder object that contains the certificate was used to sign the document in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.digitalsignatures/digitalsignature/get_certificateholder/

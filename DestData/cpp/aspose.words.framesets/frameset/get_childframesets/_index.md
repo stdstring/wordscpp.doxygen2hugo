@@ -2,7 +2,7 @@
 title: Aspose::Words::Framesets::Frameset::get_ChildFramesets method
 linktitle: get_ChildFramesets
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Framesets::Frameset::get_ChildFramesets method. Gets the collection of child frames and frames pages in C++.
+description: 'Aspose::Words::Framesets::Frameset::get_ChildFramesets method. Gets the collection of child frames and frames pages in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.framesets/frameset/get_childframesets/

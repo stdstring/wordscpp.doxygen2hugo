@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SaveOptions::set_UpdateLastSavedTimeProperty method
 linktitle: set_UpdateLastSavedTimeProperty
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SaveOptions::set_UpdateLastSavedTimeProperty method. Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty in C++.
+description: 'Aspose::Words::Saving::SaveOptions::set_UpdateLastSavedTimeProperty method. Setter for Aspose::Words::Saving::SaveOptions::get_UpdateLastSavedTimeProperty in C++.'
 type: docs
 weight: 3700
 url: /cpp/aspose.words.saving/saveoptions/set_updatelastsavedtimeproperty/

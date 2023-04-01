@@ -2,7 +2,7 @@
 title: Aspose::Words::CalendarType enum
 linktitle: CalendarType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CalendarType enum. Specifies the type of a calendar in C++.
+description: 'Aspose::Words::CalendarType enum. Specifies the type of a calendar in C++.'
 type: docs
 weight: 8300
 url: /cpp/aspose.words/calendartype/

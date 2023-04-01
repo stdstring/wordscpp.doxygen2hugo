@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfoCollection::iterator typedef
 linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Fonts::FontInfoCollection::iterator typedef of Aspose::Words::Fonts::FontInfoCollection class in C++.
+description: 'How to use Aspose::Words::Fonts::FontInfoCollection::iterator typedef of Aspose::Words::Fonts::FontInfoCollection class in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.fonts/fontinfocollection/iterator/

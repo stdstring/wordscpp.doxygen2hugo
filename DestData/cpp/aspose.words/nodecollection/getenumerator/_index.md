@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeCollection::GetEnumerator method
 linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::NodeCollection::GetEnumerator method. Provides a simple "foreach" style iteration over the collection of nodes in C++.
+description: 'Aspose::Words::NodeCollection::GetEnumerator method. Provides a simple "foreach" style iteration over the collection of nodes in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/nodecollection/getenumerator/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::set_DefaultDocumentAuthor method
 linktitle: set_DefaultDocumentAuthor
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::set_DefaultDocumentAuthor method. Setter for Aspose::Words::Fields::FieldOptions::get_DefaultDocumentAuthor in C++.
+description: 'Aspose::Words::Fields::FieldOptions::set_DefaultDocumentAuthor method. Setter for Aspose::Words::Fields::FieldOptions::get_DefaultDocumentAuthor in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.fields/fieldoptions/set_defaultdocumentauthor/

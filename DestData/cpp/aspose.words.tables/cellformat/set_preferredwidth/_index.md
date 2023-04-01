@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::set_PreferredWidth method
 linktitle: set_PreferredWidth
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::set_PreferredWidth method. Setter for Aspose::Words::Tables::CellFormat::get_PreferredWidth in C++.
+description: 'Aspose::Words::Tables::CellFormat::set_PreferredWidth method. Setter for Aspose::Words::Tables::CellFormat::get_PreferredWidth in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.tables/cellformat/set_preferredwidth/

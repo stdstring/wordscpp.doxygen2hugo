@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_NameFarEast method
 linktitle: set_NameFarEast
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_NameFarEast method. Setter for Aspose::Words::Font::get_NameFarEast in C++.
+description: 'Aspose::Words::Font::set_NameFarEast method. Setter for Aspose::Words::Font::get_NameFarEast in C++.'
 type: docs
 weight: 7800
 url: /cpp/aspose.words/font/set_namefareast/

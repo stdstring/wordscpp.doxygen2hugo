@@ -2,7 +2,7 @@
 title: Aspose::Words::Math::OfficeMath::set_DisplayType method
 linktitle: set_DisplayType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Math::OfficeMath::set_DisplayType method. Setter for Aspose::Words::Math::OfficeMath::get_DisplayType in C++.
+description: 'Aspose::Words::Math::OfficeMath::set_DisplayType method. Setter for Aspose::Words::Math::OfficeMath::get_DisplayType in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.math/officemath/set_displaytype/

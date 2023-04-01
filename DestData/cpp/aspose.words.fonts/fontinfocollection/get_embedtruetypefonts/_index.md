@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts method
 linktitle: get_EmbedTrueTypeFonts
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts method. Specifies whether or not to embed TrueType fonts in a document when it is saved. Default value for this property is false in C++.
+description: 'Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts method. Specifies whether or not to embed TrueType fonts in a document when it is saved. Default value for this property is false in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.fonts/fontinfocollection/get_embedtruetypefonts/

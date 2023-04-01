@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSubject::get_Text method
 linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSubject::get_Text method. Gets or sets the text of the subject in C++.
+description: 'Aspose::Words::Fields::FieldSubject::get_Text method. Gets or sets the text of the subject in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldsubject/get_text/

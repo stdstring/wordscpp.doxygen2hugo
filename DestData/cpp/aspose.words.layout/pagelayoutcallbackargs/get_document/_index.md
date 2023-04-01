@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::PageLayoutCallbackArgs::get_Document method
 linktitle: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::PageLayoutCallbackArgs::get_Document method. Gets document in C++.
+description: 'Aspose::Words::Layout::PageLayoutCallbackArgs::get_Document method. Gets document in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.layout/pagelayoutcallbackargs/get_document/

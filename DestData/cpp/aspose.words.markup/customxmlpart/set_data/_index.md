@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlPart::set_Data method
 linktitle: set_Data
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomXmlPart::set_Data method. Setter for Aspose::Words::Markup::CustomXmlPart::get_Data in C++.
+description: 'Aspose::Words::Markup::CustomXmlPart::set_Data method. Setter for Aspose::Words::Markup::CustomXmlPart::get_Data in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.markup/customxmlpart/set_data/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress method
 linktitle: get_IsUSPostalAddress
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress method. Gets or sets whether PostalAddress is a U.S. postal address in C++.
+description: 'Aspose::Words::Fields::FieldBarcode::get_IsUSPostalAddress method. Gets or sets whether PostalAddress is a U.S. postal address in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldbarcode/get_isuspostaladdress/

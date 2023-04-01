@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Reason method
 linktitle: set_Reason
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Reason method. Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason in C++.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Reason method. Setter for Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/set_reason/

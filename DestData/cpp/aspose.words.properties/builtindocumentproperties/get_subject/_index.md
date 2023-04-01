@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject method
 linktitle: get_Subject
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject method. Gets or sets the subject of the document in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_Subject method. Gets or sets the subject of the document in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_subject/

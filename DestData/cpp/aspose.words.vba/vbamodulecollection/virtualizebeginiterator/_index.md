@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaModuleCollection::virtualizeBeginIterator method
 linktitle: virtualizeBeginIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginIterator method of Aspose::Words::Vba::VbaModuleCollection class in C++.
+description: 'How to use virtualizeBeginIterator method of Aspose::Words::Vba::VbaModuleCollection class in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.vba/vbamodulecollection/virtualizebeginiterator/

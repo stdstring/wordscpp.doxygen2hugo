@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::LoadOptions::set_FontSettings method
 linktitle: set_FontSettings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::LoadOptions::set_FontSettings method. Setter for Aspose::Words::Loading::LoadOptions::get_FontSettings in C++.
+description: 'Aspose::Words::Loading::LoadOptions::set_FontSettings method. Setter for Aspose::Words::Loading::LoadOptions::get_FontSettings in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.loading/loadoptions/set_fontsettings/

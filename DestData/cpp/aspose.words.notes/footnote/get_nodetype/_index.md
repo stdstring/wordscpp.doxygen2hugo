@@ -2,7 +2,7 @@
 title: Aspose::Words::Notes::Footnote::get_NodeType method
 linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Notes::Footnote::get_NodeType method. Returns NodeType.Footnote in C++.
+description: 'Aspose::Words::Notes::Footnote::get_NodeType method. Returns NodeType.Footnote in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.notes/footnote/get_nodetype/

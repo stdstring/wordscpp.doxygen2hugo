@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_SwapBordersFacingPgs method
 linktitle: set_SwapBordersFacingPgs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_SwapBordersFacingPgs method. Swap Paragraph Borders on Odd Numbered Pages in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_SwapBordersFacingPgs method. Swap Paragraph Borders on Odd Numbered Pages in C++.'
 type: docs
 weight: 12500
 url: /cpp/aspose.words.settings/compatibilityoptions/set_swapbordersfacingpgs/

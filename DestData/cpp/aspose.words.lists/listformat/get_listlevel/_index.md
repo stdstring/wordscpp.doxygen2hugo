@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListFormat::get_ListLevel method
 linktitle: get_ListLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListFormat::get_ListLevel method. Returns the list level formatting plus any formatting overrides applied to the current paragraph in C++.
+description: 'Aspose::Words::Lists::ListFormat::get_ListLevel method. Returns the list level formatting plus any formatting overrides applied to the current paragraph in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.lists/listformat/get_listlevel/

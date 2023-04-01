@@ -2,7 +2,7 @@
 title: Aspose::Words::Math::OfficeMath::get_Justification method
 linktitle: get_Justification
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Math::OfficeMath::get_Justification method. Gets/sets Office Math justification in C++.
+description: 'Aspose::Words::Math::OfficeMath::get_Justification method. Gets/sets Office Math justification in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.math/officemath/get_justification/

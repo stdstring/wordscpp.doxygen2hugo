@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen method
 linktitle: get_KeepCssStreamOpen
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving an CSS information in C++.
+description: 'Aspose::Words::Saving::CssSavingArgs::get_KeepCssStreamOpen method. Specifies whether Aspose.Words should keep the stream open or close it after saving an CSS information in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/csssavingargs/get_keepcssstreamopen/

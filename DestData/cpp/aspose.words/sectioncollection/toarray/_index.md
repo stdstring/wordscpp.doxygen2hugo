@@ -2,7 +2,7 @@
 title: Aspose::Words::SectionCollection::ToArray method
 linktitle: ToArray
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::SectionCollection::ToArray method. Copies all sections from the collection to a new array of sections in C++.
+description: 'Aspose::Words::SectionCollection::ToArray method. Copies all sections from the collection to a new array of sections in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/sectioncollection/toarray/

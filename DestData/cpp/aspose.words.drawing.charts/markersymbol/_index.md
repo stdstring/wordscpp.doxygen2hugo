@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::MarkerSymbol enum
 linktitle: MarkerSymbol
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::MarkerSymbol enum. Specifies marker symbol style in C++.
+description: 'Aspose::Words::Drawing::Charts::MarkerSymbol enum. Specifies marker symbol style in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.drawing.charts/markersymbol/

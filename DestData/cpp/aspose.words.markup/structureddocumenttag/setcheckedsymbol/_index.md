@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::SetCheckedSymbol method
 linktitle: SetCheckedSymbol
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::SetCheckedSymbol method. Sets the symbol used to represent the checked state of a check box content control in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::SetCheckedSymbol method. Sets the symbol used to represent the checked state of a check box content control in C++.'
 type: docs
 weight: 5500
 url: /cpp/aspose.words.markup/structureddocumenttag/setcheckedsymbol/

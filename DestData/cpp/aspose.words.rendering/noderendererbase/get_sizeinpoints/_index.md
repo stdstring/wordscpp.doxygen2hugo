@@ -2,7 +2,7 @@
 title: Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints method
 linktitle: get_SizeInPoints
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints method. Gets the actual size of the shape in points in C++.
+description: 'Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints method. Gets the actual size of the shape in points in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.rendering/noderendererbase/get_sizeinpoints/

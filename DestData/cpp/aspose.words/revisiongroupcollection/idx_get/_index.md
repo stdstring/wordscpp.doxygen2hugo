@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionGroupCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RevisionGroupCollection::idx_get method. Returns a revision group at the specified index in C++.
+description: 'Aspose::Words::RevisionGroupCollection::idx_get method. Returns a revision group at the specified index in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/revisiongroupcollection/idx_get/

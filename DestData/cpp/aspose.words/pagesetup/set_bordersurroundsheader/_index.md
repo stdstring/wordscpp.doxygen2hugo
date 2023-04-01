@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_BorderSurroundsHeader method
 linktitle: set_BorderSurroundsHeader
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_BorderSurroundsHeader method. Setter for Aspose::Words::PageSetup::get_BorderSurroundsHeader in C++.
+description: 'Aspose::Words::PageSetup::set_BorderSurroundsHeader method. Setter for Aspose::Words::PageSetup::get_BorderSurroundsHeader in C++.'
 type: docs
 weight: 5100
 url: /cpp/aspose.words/pagesetup/set_bordersurroundsheader/

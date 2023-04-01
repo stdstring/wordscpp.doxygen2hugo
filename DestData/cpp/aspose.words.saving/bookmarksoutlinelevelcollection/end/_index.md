@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::end method
 linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: How to use end method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
+description: 'How to use end method of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/end/

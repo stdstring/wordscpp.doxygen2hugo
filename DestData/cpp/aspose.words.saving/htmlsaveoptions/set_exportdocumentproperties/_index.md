@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_ExportDocumentProperties method
 linktitle: set_ExportDocumentProperties
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportDocumentProperties method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_ExportDocumentProperties method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportDocumentProperties in C++.'
 type: docs
 weight: 5800
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportdocumentproperties/

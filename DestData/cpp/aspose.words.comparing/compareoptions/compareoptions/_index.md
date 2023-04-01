@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::CompareOptions constructor
 linktitle: CompareOptions
 second_title: Aspose.Words for C++ API Reference
-description: How to use CompareOptions constructor of Aspose::Words::Comparing::CompareOptions class in C++.
+description: 'How to use CompareOptions constructor of Aspose::Words::Comparing::CompareOptions class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.comparing/compareoptions/compareoptions/

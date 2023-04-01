@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_AllowOverlap method
 linktitle: set_AllowOverlap
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_AllowOverlap method. Setter for Aspose::Words::Drawing::ShapeBase::get_AllowOverlap in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_AllowOverlap method. Setter for Aspose::Words::Drawing::ShapeBase::get_AllowOverlap in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words.drawing/shapebase/set_allowoverlap/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::GeneralFormatCollection::RemoveAt method
 linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::GeneralFormatCollection::RemoveAt method. Removes a general format occurrence at the specified index in C++.
+description: 'Aspose::Words::Fields::GeneralFormatCollection::RemoveAt method. Removes a general format occurrence at the specified index in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/generalformatcollection/removeat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings method
 linktitle: get_NamespaceMappings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings method. Gets or sets the namespace mappings for XPath queries in C++.
+description: 'Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings method. Gets or sets the namespace mappings for XPath queries in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldincludetext/get_namespacemappings/

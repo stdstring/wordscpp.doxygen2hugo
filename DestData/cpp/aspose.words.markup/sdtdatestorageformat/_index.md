@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::SdtDateStorageFormat enum
 linktitle: SdtDateStorageFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::SdtDateStorageFormat enum. Specifies how the date for a date SDT is stored/retrieved when the SDT is bound to an XML node in the document's data store in C++.
+description: 'Aspose::Words::Markup::SdtDateStorageFormat enum. Specifies how the date for a date SDT is stored/retrieved when the SDT is bound to an XML node in the document''s data store in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.markup/sdtdatestorageformat/

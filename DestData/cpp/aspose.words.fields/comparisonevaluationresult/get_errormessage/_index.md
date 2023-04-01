@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::ComparisonEvaluationResult::get_ErrorMessage method
 linktitle: get_ErrorMessage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::ComparisonEvaluationResult::get_ErrorMessage method. Gets the failed comparison evaluation result's error message in C++.
+description: 'Aspose::Words::Fields::ComparisonEvaluationResult::get_ErrorMessage method. Gets the failed comparison evaluation result''s error message in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/comparisonevaluationresult/get_errormessage/

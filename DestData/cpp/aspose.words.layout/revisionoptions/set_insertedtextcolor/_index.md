@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionOptions::set_InsertedTextColor method
 linktitle: set_InsertedTextColor
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionOptions::set_InsertedTextColor method. Setter for Aspose::Words::Layout::RevisionOptions::get_InsertedTextColor in C++.
+description: 'Aspose::Words::Layout::RevisionOptions::set_InsertedTextColor method. Setter for Aspose::Words::Layout::RevisionOptions::get_InsertedTextColor in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.layout/revisionoptions/set_insertedtextcolor/

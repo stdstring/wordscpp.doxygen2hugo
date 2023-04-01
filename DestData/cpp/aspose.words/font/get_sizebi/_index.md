@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_SizeBi method
 linktitle: get_SizeBi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_SizeBi method. Gets or sets the font size in points used in a right-to-left document in C++.
+description: 'Aspose::Words::Font::get_SizeBi method. Gets or sets the font size in points used in a right-to-left document in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words/font/get_sizebi/

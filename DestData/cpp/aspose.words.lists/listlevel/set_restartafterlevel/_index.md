@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevel::set_RestartAfterLevel method
 linktitle: set_RestartAfterLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListLevel::set_RestartAfterLevel method. Setter for Aspose::Words::Lists::ListLevel::get_RestartAfterLevel in C++.
+description: 'Aspose::Words::Lists::ListLevel::set_RestartAfterLevel method. Setter for Aspose::Words::Lists::ListLevel::get_RestartAfterLevel in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.lists/listlevel/set_restartafterlevel/

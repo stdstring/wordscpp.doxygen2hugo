@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertDocument method
 linktitle: InsertDocument
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertDocument method. Inserts a document at the cursor position in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertDocument method. Inserts a document at the cursor position in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words/documentbuilder/insertdocument/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisScaling::get_LogBase method
 linktitle: get_LogBase
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisScaling::get_LogBase method. Gets or sets the logarithmic base for a logarithmic axis in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisScaling::get_LogBase method. Gets or sets the logarithmic base for a logarithmic axis in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.drawing.charts/axisscaling/get_logbase/

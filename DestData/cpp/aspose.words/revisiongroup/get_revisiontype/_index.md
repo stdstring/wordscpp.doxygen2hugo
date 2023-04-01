@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionGroup::get_RevisionType method
 linktitle: get_RevisionType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RevisionGroup::get_RevisionType method. Gets the type of revisions included in this group in C++.
+description: 'Aspose::Words::RevisionGroup::get_RevisionType method. Gets the type of revisions included in this group in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/revisiongroup/get_revisiontype/

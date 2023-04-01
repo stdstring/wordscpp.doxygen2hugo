@@ -2,7 +2,7 @@
 title: Aspose::Words::StyleCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::StyleCollection::idx_get method. Gets a built-in style by its locale independent identifier in C++.
+description: 'Aspose::Words::StyleCollection::idx_get method. Gets a built-in style by its locale independent identifier in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words/stylecollection/idx_get/

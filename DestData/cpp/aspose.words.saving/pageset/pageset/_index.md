@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PageSet::PageSet constructor
 linktitle: PageSet
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PageSet::PageSet constructor. Creates a page set based on exact page indices in C++.
+description: 'Aspose::Words::Saving::PageSet::PageSet constructor. Creates a page set based on exact page indices in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/pageset/pageset/

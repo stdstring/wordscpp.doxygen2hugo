@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_Rotation method
 linktitle: get_Rotation
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_Rotation method. Defines the angle (in degrees) that a shape is rotated. Positive value corresponds to clockwise rotation angle in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_Rotation method. Defines the angle (in degrees) that a shape is rotated. Positive value corresponds to clockwise rotation angle in C++.'
 type: docs
 weight: 4400
 url: /cpp/aspose.words.drawing/shapebase/get_rotation/

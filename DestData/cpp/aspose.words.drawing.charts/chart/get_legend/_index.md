@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::Chart::get_Legend method
 linktitle: get_Legend
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::Chart::get_Legend method. Provides access to the chart legend properties in C++.
+description: 'Aspose::Words::Drawing::Charts::Chart::get_Legend method. Provides access to the chart legend properties in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.drawing.charts/chart/get_legend/

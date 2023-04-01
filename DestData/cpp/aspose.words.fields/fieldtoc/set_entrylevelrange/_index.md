@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToc::set_EntryLevelRange method
 linktitle: set_EntryLevelRange
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToc::set_EntryLevelRange method. Setter for Aspose::Words::Fields::FieldToc::get_EntryLevelRange in C++.
+description: 'Aspose::Words::Fields::FieldToc::set_EntryLevelRange method. Setter for Aspose::Words::Fields::FieldToc::get_EntryLevelRange in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.fields/fieldtoc/set_entrylevelrange/

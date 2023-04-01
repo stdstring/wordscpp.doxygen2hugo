@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_UnderlineTabInNumList method
 linktitle: get_UnderlineTabInNumList
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_UnderlineTabInNumList method. Underline Following Character Following Numbering in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_UnderlineTabInNumList method. Underline Following Character Following Numbering in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words.settings/compatibilityoptions/get_underlinetabinnumlist/

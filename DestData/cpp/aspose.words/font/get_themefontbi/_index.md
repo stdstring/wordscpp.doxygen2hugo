@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_ThemeFontBi method
 linktitle: get_ThemeFontBi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_ThemeFontBi method. Gets or sets the theme font in the applied font scheme that is associated with this Font object in a right-to-left language document in C++.
+description: 'Aspose::Words::Font::get_ThemeFontBi method. Gets or sets the theme font in the applied font scheme that is associated with this Font object in a right-to-left language document in C++.'
 type: docs
 weight: 5000
 url: /cpp/aspose.words/font/get_themefontbi/

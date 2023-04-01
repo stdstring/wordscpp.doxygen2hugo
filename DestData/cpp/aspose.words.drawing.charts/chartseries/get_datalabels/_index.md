@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartSeries::get_DataLabels method
 linktitle: get_DataLabels
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartSeries::get_DataLabels method. Specifies the settings for the data labels for the entire series in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartSeries::get_DataLabels method. Specifies the settings for the data labels for the entire series in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.drawing.charts/chartseries/get_datalabels/

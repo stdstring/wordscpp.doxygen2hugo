@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::RtfSaveOptions::set_SaveImagesAsWmf method
 linktitle: set_SaveImagesAsWmf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::RtfSaveOptions::set_SaveImagesAsWmf method. Setter for Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf in C++.
+description: 'Aspose::Words::Saving::RtfSaveOptions::set_SaveImagesAsWmf method. Setter for Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.saving/rtfsaveoptions/set_saveimagesaswmf/

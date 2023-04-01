@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::EndRow method
 linktitle: EndRow
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::EndRow method. Ends a table row in the document in C++.
+description: 'Aspose::Words::DocumentBuilder::EndRow method. Ends a table row in the document in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/documentbuilder/endrow/

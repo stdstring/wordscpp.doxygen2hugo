@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSourceBase::get_Type method
 linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSourceBase::get_Type method. Returns the type of the font source in C++.
+description: 'Aspose::Words::Fonts::FontSourceBase::get_Type method. Returns the type of the font source in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fonts/fontsourcebase/get_type/

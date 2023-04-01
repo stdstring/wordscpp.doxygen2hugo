@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::MetafileRenderingOptions::set_UseEmfEmbeddedToWmf method
 linktitle: set_UseEmfEmbeddedToWmf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::MetafileRenderingOptions::set_UseEmfEmbeddedToWmf method. Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_UseEmfEmbeddedToWmf in C++.
+description: 'Aspose::Words::Saving::MetafileRenderingOptions::set_UseEmfEmbeddedToWmf method. Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_UseEmfEmbeddedToWmf in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.saving/metafilerenderingoptions/set_useemfembeddedtowmf/

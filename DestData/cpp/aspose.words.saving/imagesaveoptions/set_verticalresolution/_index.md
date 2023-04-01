@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::set_VerticalResolution method
 linktitle: set_VerticalResolution
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::set_VerticalResolution method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::set_VerticalResolution method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution in C++.'
 type: docs
 weight: 3400
 url: /cpp/aspose.words.saving/imagesaveoptions/set_verticalresolution/

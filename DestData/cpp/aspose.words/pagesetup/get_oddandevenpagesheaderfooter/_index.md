@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter method
 linktitle: get_OddAndEvenPagesHeaderFooter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter method. True if the document has different headers and footers for odd-numbered and even-numbered pages in C++.
+description: 'Aspose::Words::PageSetup::get_OddAndEvenPagesHeaderFooter method. True if the document has different headers and footers for odd-numbered and even-numbered pages in C++.'
 type: docs
 weight: 2800
 url: /cpp/aspose.words/pagesetup/get_oddandevenpagesheaderfooter/

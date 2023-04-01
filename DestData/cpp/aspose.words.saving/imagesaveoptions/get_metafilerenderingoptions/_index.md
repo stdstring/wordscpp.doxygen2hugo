@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::get_MetafileRenderingOptions method
 linktitle: get_MetafileRenderingOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::get_MetafileRenderingOptions method. Allows to specify how metafiles are treated in the rendered output in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::get_MetafileRenderingOptions method. Allows to specify how metafiles are treated in the rendered output in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.saving/imagesaveoptions/get_metafilerenderingoptions/

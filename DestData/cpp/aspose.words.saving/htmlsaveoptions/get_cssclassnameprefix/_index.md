@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_CssClassNamePrefix method
 linktitle: get_CssClassNamePrefix
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_CssClassNamePrefix method. Specifies a prefix which is added to all CSS class names. Default value is an empty string and generated CSS class names have no common prefix in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_CssClassNamePrefix method. Specifies a prefix which is added to all CSS class names. Default value is an empty string and generated CSS class names have no common prefix in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_cssclassnameprefix/

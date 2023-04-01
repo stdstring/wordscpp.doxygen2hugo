@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::GeneralFormatCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::GeneralFormatCollection::idx_get method. Gets a general format at the specified index in C++.
+description: 'Aspose::Words::Fields::GeneralFormatCollection::idx_get method. Gets a general format at the specified index in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/generalformatcollection/idx_get/

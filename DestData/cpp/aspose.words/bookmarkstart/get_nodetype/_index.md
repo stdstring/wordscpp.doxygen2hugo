@@ -2,7 +2,7 @@
 title: Aspose::Words::BookmarkStart::get_NodeType method
 linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BookmarkStart::get_NodeType method. Returns BookmarkStart in C++.
+description: 'Aspose::Words::BookmarkStart::get_NodeType method. Returns BookmarkStart in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/bookmarkstart/get_nodetype/

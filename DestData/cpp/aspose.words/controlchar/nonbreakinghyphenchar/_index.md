@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::NonBreakingHyphenChar field
 linktitle: NonBreakingHyphenChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::NonBreakingHyphenChar field. Nonbreaking Hyphen in Microsoft Word is (char)30 in C++.
+description: 'Aspose::Words::ControlChar::NonBreakingHyphenChar field. Nonbreaking Hyphen in Microsoft Word is (char)30 in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words/controlchar/nonbreakinghyphenchar/

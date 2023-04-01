@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::FieldMergingArgs::get_Text method
 linktitle: get_Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::FieldMergingArgs::get_Text method. Gets or sets the text that will be inserted into the document for the current merge field in C++.
+description: 'Aspose::Words::MailMerging::FieldMergingArgs::get_Text method. Gets or sets the text that will be inserted into the document for the current merge field in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.mailmerging/fieldmergingargs/get_text/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart::set_ContentType method
 linktitle: set_ContentType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart::set_ContentType method. Setter for Aspose::Words::Markup::CustomPart::get_ContentType in C++.
+description: 'Aspose::Words::Markup::CustomPart::set_ContentType method. Setter for Aspose::Words::Markup::CustomPart::get_ContentType in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.markup/custompart/set_contenttype/

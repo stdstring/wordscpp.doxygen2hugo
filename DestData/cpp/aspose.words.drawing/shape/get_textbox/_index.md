@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::get_TextBox method
 linktitle: get_TextBox
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::get_TextBox method. Defines attributes that specify how text is displayed in a shape in C++.
+description: 'Aspose::Words::Drawing::Shape::get_TextBox method. Defines attributes that specify how text is displayed in a shape in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.drawing/shape/get_textbox/

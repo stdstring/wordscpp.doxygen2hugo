@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::GradientStop class
 linktitle: GradientStop
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::GradientStop class. Represents one gradient stop in C++.
+description: 'Aspose::Words::Drawing::GradientStop class. Represents one gradient stop in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.drawing/gradientstop/

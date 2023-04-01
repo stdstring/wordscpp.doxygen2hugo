@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldBidiOutline class
 linktitle: FieldBidiOutline
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldBidiOutline class. Implements the BIDIOUTLINE field in C++.
+description: 'Aspose::Words::Fields::FieldBidiOutline class. Implements the BIDIOUTLINE field in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.fields/fieldbidioutline/

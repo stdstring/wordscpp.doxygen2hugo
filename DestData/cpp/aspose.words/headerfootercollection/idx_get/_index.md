@@ -2,7 +2,7 @@
 title: Aspose::Words::HeaderFooterCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::HeaderFooterCollection::idx_get method. Retrieves a HeaderFooter of the specified type in C++.
+description: 'Aspose::Words::HeaderFooterCollection::idx_get method. Retrieves a HeaderFooter of the specified type in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/headerfootercollection/idx_get/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ICssSavingCallback::CssSaving method
 linktitle: CssSaving
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ICssSavingCallback::CssSaving method. Called when Aspose.Words saves an CSS (Cascading Style Sheet) in C++.
+description: 'Aspose::Words::Saving::ICssSavingCallback::CssSaving method. Called when Aspose.Words saves an CSS (Cascading Style Sheet) in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/icsssavingcallback/csssaving/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::get_VerticalAlignment method
 linktitle: get_VerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::get_VerticalAlignment method. Returns or sets the vertical alignment of text in the cell in C++.
+description: 'Aspose::Words::Tables::CellFormat::get_VerticalAlignment method. Returns or sets the vertical alignment of text in the cell in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.tables/cellformat/get_verticalalignment/

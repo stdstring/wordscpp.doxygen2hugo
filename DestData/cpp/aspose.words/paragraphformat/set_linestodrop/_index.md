@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_LinesToDrop method
 linktitle: set_LinesToDrop
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_LinesToDrop method. Setter for Aspose::Words::ParagraphFormat::get_LinesToDrop in C++.
+description: 'Aspose::Words::ParagraphFormat::set_LinesToDrop method. Setter for Aspose::Words::ParagraphFormat::get_LinesToDrop in C++.'
 type: docs
 weight: 5800
 url: /cpp/aspose.words/paragraphformat/set_linestodrop/

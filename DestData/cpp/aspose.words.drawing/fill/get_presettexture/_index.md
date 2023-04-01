@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::get_PresetTexture method
 linktitle: get_PresetTexture
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::get_PresetTexture method. Gets a PresetTexture for the fill in C++.
+description: 'Aspose::Words::Drawing::Fill::get_PresetTexture method. Gets a PresetTexture for the fill in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.drawing/fill/get_presettexture/

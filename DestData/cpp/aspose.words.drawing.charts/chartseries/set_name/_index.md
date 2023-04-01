@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartSeries::set_Name method
 linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartSeries::set_Name method. Setter for Aspose::Words::Drawing::Charts::ChartSeries::get_Name in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartSeries::set_Name method. Setter for Aspose::Words::Drawing::Charts::ChartSeries::get_Name in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.drawing.charts/chartseries/set_name/

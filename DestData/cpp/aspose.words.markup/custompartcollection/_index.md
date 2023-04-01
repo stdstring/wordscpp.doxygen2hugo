@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPartCollection class
 linktitle: CustomPartCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPartCollection class. Represents a collection of CustomPart objects in C++.
+description: 'Aspose::Words::Markup::CustomPartCollection class. Represents a collection of CustomPart objects in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.markup/custompartcollection/

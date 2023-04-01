@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode method
 linktitle: get_FormatCode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode method. Gets or sets the format code applied to a data label in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartNumberFormat::get_FormatCode method. Gets or sets the format code applied to a data label in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing.charts/chartnumberformat/get_formatcode/

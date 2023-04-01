@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::PhysicalFontInfo::get_FullFontName method
 linktitle: get_FullFontName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::PhysicalFontInfo::get_FullFontName method. Full name of the font in C++.
+description: 'Aspose::Words::Fonts::PhysicalFontInfo::get_FullFontName method. Full name of the font in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fonts/physicalfontinfo/get_fullfontname/

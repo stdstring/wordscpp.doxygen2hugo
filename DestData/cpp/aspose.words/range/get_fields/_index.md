@@ -2,7 +2,7 @@
 title: Aspose::Words::Range::get_Fields method
 linktitle: get_Fields
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Range::get_Fields method. Returns a Fields collection that represents all fields in the range in C++.
+description: 'Aspose::Words::Range::get_Fields method. Returns a Fields collection that represents all fields in the range in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/range/get_fields/

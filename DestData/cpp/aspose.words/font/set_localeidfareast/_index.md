@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_LocaleIdFarEast method
 linktitle: set_LocaleIdFarEast
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_LocaleIdFarEast method. Setter for Aspose::Words::Font::get_LocaleIdFarEast in C++.
+description: 'Aspose::Words::Font::set_LocaleIdFarEast method. Setter for Aspose::Words::Font::get_LocaleIdFarEast in C++.'
 type: docs
 weight: 7400
 url: /cpp/aspose.words/font/set_localeidfareast/

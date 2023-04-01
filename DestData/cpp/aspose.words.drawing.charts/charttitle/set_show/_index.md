@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartTitle::set_Show method
 linktitle: set_Show
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartTitle::set_Show method. Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Show in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartTitle::set_Show method. Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Show in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.drawing.charts/charttitle/set_show/

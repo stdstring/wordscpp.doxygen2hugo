@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::get_Direction method
 linktitle: get_Direction
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::get_Direction method. Selects direction for replace. Default value is Forward in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::get_Direction method. Selects direction for replace. Default value is Forward in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_direction/

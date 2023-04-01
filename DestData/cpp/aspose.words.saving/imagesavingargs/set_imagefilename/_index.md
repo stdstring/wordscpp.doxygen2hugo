@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSavingArgs::set_ImageFileName method
 linktitle: set_ImageFileName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSavingArgs::set_ImageFileName method. Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName in C++.
+description: 'Aspose::Words::Saving::ImageSavingArgs::set_ImageFileName method. Setter for Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.saving/imagesavingargs/set_imagefilename/

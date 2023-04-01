@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::MarkdownSaveOptions class
 linktitle: MarkdownSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::MarkdownSaveOptions class. Class to specify additional options when saving a document into the Markdown format in C++.
+description: 'Aspose::Words::Saving::MarkdownSaveOptions class. Class to specify additional options when saving a document into the Markdown format in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.saving/markdownsaveoptions/

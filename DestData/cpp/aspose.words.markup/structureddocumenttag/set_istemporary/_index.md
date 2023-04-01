@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::set_IsTemporary method
 linktitle: set_IsTemporary
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::set_IsTemporary method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_IsTemporary in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::set_IsTemporary method. Setter for Aspose::Words::Markup::StructuredDocumentTag::get_IsTemporary in C++.'
 type: docs
 weight: 4600
 url: /cpp/aspose.words.markup/structureddocumenttag/set_istemporary/

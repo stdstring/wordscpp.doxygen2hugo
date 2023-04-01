@@ -2,7 +2,7 @@
 title: Aspose::Words::FileFormatUtil::ContentTypeToSaveFormat method
 linktitle: ContentTypeToSaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::FileFormatUtil::ContentTypeToSaveFormat method. Converts IANA content type into a save format enumerated value in C++.
+description: 'Aspose::Words::FileFormatUtil::ContentTypeToSaveFormat method. Converts IANA content type into a save format enumerated value in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/fileformatutil/contenttypetosaveformat/

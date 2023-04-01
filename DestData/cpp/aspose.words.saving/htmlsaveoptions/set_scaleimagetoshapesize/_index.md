@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_ScaleImageToShapeSize method
 linktitle: set_ScaleImageToShapeSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_ScaleImageToShapeSize method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_ScaleImageToShapeSize method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ScaleImageToShapeSize in C++.'
 type: docs
 weight: 9000
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_scaleimagetoshapesize/

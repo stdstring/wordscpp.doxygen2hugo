@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::set_On method
 linktitle: set_On
 second_title: Aspose.Words for C++ API Reference
-description: How to use set_On method of Aspose::Words::Drawing::Fill class in C++.
+description: 'How to use set_On method of Aspose::Words::Drawing::Fill class in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.drawing/fill/set_on/

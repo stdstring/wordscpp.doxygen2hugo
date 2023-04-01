@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAdvance::set_VerticalPosition method
 linktitle: set_VerticalPosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAdvance::set_VerticalPosition method. Setter for Aspose::Words::Fields::FieldAdvance::get_VerticalPosition in C++.
+description: 'Aspose::Words::Fields::FieldAdvance::set_VerticalPosition method. Setter for Aspose::Words::Fields::FieldAdvance::get_VerticalPosition in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.fields/fieldadvance/set_verticalposition/

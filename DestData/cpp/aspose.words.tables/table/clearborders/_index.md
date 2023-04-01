@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::ClearBorders method
 linktitle: ClearBorders
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::ClearBorders method. Removes all table and cell borders on this table in C++.
+description: 'Aspose::Words::Tables::Table::ClearBorders method. Removes all table and cell borders on this table in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.tables/table/clearborders/

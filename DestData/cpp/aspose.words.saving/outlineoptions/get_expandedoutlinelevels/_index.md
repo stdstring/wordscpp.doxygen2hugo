@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels method
 linktitle: get_ExpandedOutlineLevels
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels method. Specifies how many levels in the document outline to show expanded when the file is viewed in C++.
+description: 'Aspose::Words::Saving::OutlineOptions::get_ExpandedOutlineLevels method. Specifies how many levels in the document outline to show expanded when the file is viewed in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.saving/outlineoptions/get_expandedoutlinelevels/

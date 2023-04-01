@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom method
 linktitle: get_SearchFromBottom
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom method. Gets or sets whether to search from the bottom of the current page, rather from the top in C++.
+description: 'Aspose::Words::Fields::FieldStyleRef::get_SearchFromBottom method. Gets or sets whether to search from the bottom of the current page, rather from the top in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldstyleref/get_searchfrombottom/

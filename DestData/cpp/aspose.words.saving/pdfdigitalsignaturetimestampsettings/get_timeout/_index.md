@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Timeout method
 linktitle: get_Timeout
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Timeout method. Time-out value for accessing timestamp server in C++.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_Timeout method. Time-out value for accessing timestamp server in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_timeout/

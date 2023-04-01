@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ImageData::set_ImageBytes method
 linktitle: set_ImageBytes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ImageData::set_ImageBytes method. Setter for Aspose::Words::Drawing::ImageData::get_ImageBytes in C++.
+description: 'Aspose::Words::Drawing::ImageData::set_ImageBytes method. Setter for Aspose::Words::Drawing::ImageData::get_ImageBytes in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.drawing/imagedata/set_imagebytes/

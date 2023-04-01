@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory method
 linktitle: get_BuildingBlockCategory
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory method. Specifies category of building block for this SDT node. Can not be null in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::get_BuildingBlockCategory method. Specifies category of building block for this SDT node. Can not be null in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.markup/structureddocumenttag/get_buildingblockcategory/

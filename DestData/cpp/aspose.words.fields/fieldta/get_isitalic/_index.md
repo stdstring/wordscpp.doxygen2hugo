@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTA::get_IsItalic method
 linktitle: get_IsItalic
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTA::get_IsItalic method. Gets or sets whether to apply italic formatting to the page number for the entry in C++.
+description: 'Aspose::Words::Fields::FieldTA::get_IsItalic method. Gets or sets whether to apply italic formatting to the page number for the entry in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldta/get_isitalic/

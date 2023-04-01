@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldUserName class
 linktitle: FieldUserName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldUserName class. Implements the USERNAME field in C++.
+description: 'Aspose::Words::Fields::FieldUserName class. Implements the USERNAME field in C++.'
 type: docs
 weight: 10900
 url: /cpp/aspose.words.fields/fieldusername/

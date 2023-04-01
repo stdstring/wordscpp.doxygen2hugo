@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains method
 linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains method. Determines whether the collection contains a bookmark with the given name in C++.
+description: 'Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains method. Determines whether the collection contains a bookmark with the given name in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/contains/

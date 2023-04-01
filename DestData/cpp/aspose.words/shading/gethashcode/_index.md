@@ -2,7 +2,7 @@
 title: Aspose::Words::Shading::GetHashCode method
 linktitle: GetHashCode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Shading::GetHashCode method. Serves as a hash function for this type in C++.
+description: 'Aspose::Words::Shading::GetHashCode method. Serves as a hash function for this type in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/shading/gethashcode/

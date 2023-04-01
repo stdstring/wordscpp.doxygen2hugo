@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::get_LeftPadding method
 linktitle: get_LeftPadding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::get_LeftPadding method. Returns or sets the amount of space (in points) to add to the left of the contents of cell in C++.
+description: 'Aspose::Words::Tables::CellFormat::get_LeftPadding method. Returns or sets the amount of space (in points) to add to the left of the contents of cell in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.tables/cellformat/get_leftpadding/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDisplayBarcode::set_AddStartStopChar method
 linktitle: set_AddStartStopChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDisplayBarcode::set_AddStartStopChar method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_AddStartStopChar in C++.
+description: 'Aspose::Words::Fields::FieldDisplayBarcode::set_AddStartStopChar method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_AddStartStopChar in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_addstartstopchar/

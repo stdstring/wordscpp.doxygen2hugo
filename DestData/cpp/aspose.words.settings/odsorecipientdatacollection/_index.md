@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoRecipientDataCollection class
 linktitle: OdsoRecipientDataCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::OdsoRecipientDataCollection class. A typed collection of OdsoRecipientData in C++.
+description: 'Aspose::Words::Settings::OdsoRecipientDataCollection class. A typed collection of OdsoRecipientData in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.settings/odsorecipientdatacollection/

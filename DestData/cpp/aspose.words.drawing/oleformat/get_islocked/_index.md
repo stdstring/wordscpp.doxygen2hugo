@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::OleFormat::get_IsLocked method
 linktitle: get_IsLocked
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::OleFormat::get_IsLocked method. Specifies whether the link to the OLE object is locked from updates in C++.
+description: 'Aspose::Words::Drawing::OleFormat::get_IsLocked method. Specifies whether the link to the OLE object is locked from updates in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.drawing/oleformat/get_islocked/

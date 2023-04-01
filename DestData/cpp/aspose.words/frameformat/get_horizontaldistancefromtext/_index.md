@@ -2,7 +2,7 @@
 title: Aspose::Words::FrameFormat::get_HorizontalDistanceFromText method
 linktitle: get_HorizontalDistanceFromText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::FrameFormat::get_HorizontalDistanceFromText method. Gets horizontal distance between a frame and the surrounding text, in points in C++.
+description: 'Aspose::Words::FrameFormat::get_HorizontalDistanceFromText method. Gets horizontal distance between a frame and the surrounding text, in points in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/frameformat/get_horizontaldistancefromtext/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Row::get_ParentTable method
 linktitle: get_ParentTable
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Row::get_ParentTable method. Returns the immediate parent table of the row in C++.
+description: 'Aspose::Words::Tables::Row::get_ParentTable method. Returns the immediate parent table of the row in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.tables/row/get_parenttable/

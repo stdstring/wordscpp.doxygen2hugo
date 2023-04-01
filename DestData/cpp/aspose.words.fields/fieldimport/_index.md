@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldImport class
 linktitle: FieldImport
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldImport class. Implements the IMPORT field in C++.
+description: 'Aspose::Words::Fields::FieldImport class. Implements the IMPORT field in C++.'
 type: docs
 weight: 5500
 url: /cpp/aspose.words.fields/fieldimport/

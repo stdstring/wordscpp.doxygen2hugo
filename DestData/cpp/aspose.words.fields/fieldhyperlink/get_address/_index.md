@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldHyperlink::get_Address method
 linktitle: get_Address
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldHyperlink::get_Address method. Gets or sets a location where this hyperlink jumps in C++.
+description: 'Aspose::Words::Fields::FieldHyperlink::get_Address method. Gets or sets a location where this hyperlink jumps in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldhyperlink/get_address/

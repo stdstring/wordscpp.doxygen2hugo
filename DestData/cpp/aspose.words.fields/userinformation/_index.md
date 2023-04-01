@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::UserInformation class
 linktitle: UserInformation
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::UserInformation class. Specifies information about the user in C++.
+description: 'Aspose::Words::Fields::UserInformation class. Specifies information about the user in C++.'
 type: docs
 weight: 11600
 url: /cpp/aspose.words.fields/userinformation/

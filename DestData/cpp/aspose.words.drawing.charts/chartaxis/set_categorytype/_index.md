@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::set_CategoryType method
 linktitle: set_CategoryType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::set_CategoryType method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::set_CategoryType method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_CategoryType in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_categorytype/

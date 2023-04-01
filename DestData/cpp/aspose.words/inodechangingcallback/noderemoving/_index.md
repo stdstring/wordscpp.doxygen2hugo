@@ -2,7 +2,7 @@
 title: Aspose::Words::INodeChangingCallback::NodeRemoving method
 linktitle: NodeRemoving
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::INodeChangingCallback::NodeRemoving method. Called just before a node belonging to this document is about to be removed from the document in C++.
+description: 'Aspose::Words::INodeChangingCallback::NodeRemoving method. Called just before a node belonging to this document is about to be removed from the document in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/inodechangingcallback/noderemoving/

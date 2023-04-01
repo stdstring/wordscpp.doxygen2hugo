@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::set_Checked method
 linktitle: set_Checked
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::set_Checked method. Setter for Aspose::Words::Fields::FormField::get_Checked in C++.
+description: 'Aspose::Words::Fields::FormField::set_Checked method. Setter for Aspose::Words::Fields::FormField::get_Checked in C++.'
 type: docs
 weight: 2700
 url: /cpp/aspose.words.fields/formfield/set_checked/

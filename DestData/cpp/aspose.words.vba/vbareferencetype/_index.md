@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaReferenceType enum
 linktitle: VbaReferenceType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Vba::VbaReferenceType enum. Allows to specify the type of a VbaReference object in C++.
+description: 'Aspose::Words::Vba::VbaReferenceType enum. Allows to specify the type of a VbaReference object in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.vba/vbareferencetype/

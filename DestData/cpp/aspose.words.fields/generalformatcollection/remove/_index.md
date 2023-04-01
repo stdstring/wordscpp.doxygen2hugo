@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::GeneralFormatCollection::Remove method
 linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::GeneralFormatCollection::Remove method. Removes all occurrences of the specified general format from the collection in C++.
+description: 'Aspose::Words::Fields::GeneralFormatCollection::Remove method. Removes all occurrences of the specified general format from the collection in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/generalformatcollection/remove/

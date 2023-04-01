@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartSeriesCollection::RemoveAt method
 linktitle: RemoveAt
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartSeriesCollection::RemoveAt method. Removes a ChartSeries at the specified index in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartSeriesCollection::RemoveAt method. Removes a ChartSeries at the specified index in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.drawing.charts/chartseriescollection/removeat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabase::FieldDatabase constructor
 linktitle: FieldDatabase
 second_title: Aspose.Words for C++ API Reference
-description: How to use FieldDatabase constructor of Aspose::Words::Fields::FieldDatabase class in C++.
+description: 'How to use FieldDatabase constructor of Aspose::Words::Fields::FieldDatabase class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fielddatabase/fielddatabase/

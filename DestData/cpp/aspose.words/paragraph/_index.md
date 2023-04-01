@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph class
 linktitle: Paragraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph class. Represents a paragraph of text in C++.
+description: 'Aspose::Words::Paragraph class. Represents a paragraph of text in C++.'
 type: docs
 weight: 4700
 url: /cpp/aspose.words/paragraph/

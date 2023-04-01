@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlPartCollection::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomXmlPartCollection::Add method. Adds an item to the collection in C++.
+description: 'Aspose::Words::Markup::CustomXmlPartCollection::Add method. Adds an item to the collection in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.markup/customxmlpartcollection/add/

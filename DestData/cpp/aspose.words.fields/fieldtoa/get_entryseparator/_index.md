@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldToa::get_EntrySeparator method
 linktitle: get_EntrySeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldToa::get_EntrySeparator method. Gets or sets the character sequence that is used to separate a table of authorities entry and its page number in C++.
+description: 'Aspose::Words::Fields::FieldToa::get_EntrySeparator method. Gets or sets the character sequence that is used to separate a table of authorities entry and its page number in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldtoa/get_entryseparator/

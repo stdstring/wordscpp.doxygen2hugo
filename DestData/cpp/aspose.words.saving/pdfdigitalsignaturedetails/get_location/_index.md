@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location method
 linktitle: get_Location
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location method. Gets or sets the location of the signing in C++.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location method. Gets or sets the location of the signing in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_location/

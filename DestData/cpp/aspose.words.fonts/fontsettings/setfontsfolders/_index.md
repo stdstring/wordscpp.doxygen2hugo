@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSettings::SetFontsFolders method
 linktitle: SetFontsFolders
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSettings::SetFontsFolders method. Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts in C++.
+description: 'Aspose::Words::Fonts::FontSettings::SetFontsFolders method. Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fonts/fontsettings/setfontsfolders/

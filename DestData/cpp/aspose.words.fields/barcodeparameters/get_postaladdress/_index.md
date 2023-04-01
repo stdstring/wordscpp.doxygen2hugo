@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::BarcodeParameters::get_PostalAddress method
 linktitle: get_PostalAddress
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::BarcodeParameters::get_PostalAddress method. Barcode postal address in C++.
+description: 'Aspose::Words::Fields::BarcodeParameters::get_PostalAddress method. Barcode postal address in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.fields/barcodeparameters/get_postaladdress/

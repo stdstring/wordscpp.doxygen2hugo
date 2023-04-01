@@ -2,7 +2,7 @@
 title: Aspose::Words::InlineStory::get_Font method
 linktitle: get_Font
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::InlineStory::get_Font method. Provides access to the font formatting of the anchor character of this object in C++.
+description: 'Aspose::Words::InlineStory::get_Font method. Provides access to the font formatting of the anchor character of this object in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/inlinestory/get_font/

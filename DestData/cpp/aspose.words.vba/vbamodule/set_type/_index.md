@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaModule::set_Type method
 linktitle: set_Type
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Vba::VbaModule::set_Type method. Setter for Aspose::Words::Vba::VbaModule::get_Type in C++.
+description: 'Aspose::Words::Vba::VbaModule::set_Type method. Setter for Aspose::Words::Vba::VbaModule::get_Type in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.vba/vbamodule/set_type/

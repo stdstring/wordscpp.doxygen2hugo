@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_HasMacros method
 linktitle: get_HasMacros
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_HasMacros method. Returns true if the document has a VBA project (macros) in C++.
+description: 'Aspose::Words::Document::get_HasMacros method. Returns true if the document has a VBA project (macros) in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words/document/get_hasmacros/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIncludeText::get_XPath method
 linktitle: get_XPath
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIncludeText::get_XPath method. Gets or sets XPath for the desired portion of the XML file in C++.
+description: 'Aspose::Words::Fields::FieldIncludeText::get_XPath method. Gets or sets XPath for the desired portion of the XML file in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.fields/fieldincludetext/get_xpath/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Rendering::ThumbnailGeneratingOptions::set_GenerateFromFirstPage method
 linktitle: set_GenerateFromFirstPage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Rendering::ThumbnailGeneratingOptions::set_GenerateFromFirstPage method. Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage in C++.
+description: 'Aspose::Words::Rendering::ThumbnailGeneratingOptions::set_GenerateFromFirstPage method. Setter for Aspose::Words::Rendering::ThumbnailGeneratingOptions::get_GenerateFromFirstPage in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.rendering/thumbnailgeneratingoptions/set_generatefromfirstpage/

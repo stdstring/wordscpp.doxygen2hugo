@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ImageData::set_SourceFullName method
 linktitle: set_SourceFullName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ImageData::set_SourceFullName method. Setter for Aspose::Words::Drawing::ImageData::get_SourceFullName in C++.
+description: 'Aspose::Words::Drawing::ImageData::set_SourceFullName method. Setter for Aspose::Words::Drawing::ImageData::get_SourceFullName in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.drawing/imagedata/set_sourcefullname/

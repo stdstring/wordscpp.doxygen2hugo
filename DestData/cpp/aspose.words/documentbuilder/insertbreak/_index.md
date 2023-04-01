@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertBreak method
 linktitle: InsertBreak
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertBreak method. Inserts a break of the specified type into the document in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertBreak method. Inserts a break of the specified type into the document in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words/documentbuilder/insertbreak/

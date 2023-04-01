@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_ShowBreaksInFrames method
 linktitle: set_ShowBreaksInFrames
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_ShowBreaksInFrames method. Display Page/Column Breaks Present in Frames in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_ShowBreaksInFrames method. Display Page/Column Breaks Present in Frames in C++.'
 type: docs
 weight: 11500
 url: /cpp/aspose.words.settings/compatibilityoptions/set_showbreaksinframes/

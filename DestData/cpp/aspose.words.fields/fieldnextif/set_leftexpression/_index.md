@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldNextIf::set_LeftExpression method
 linktitle: set_LeftExpression
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldNextIf::set_LeftExpression method. Sets the left part of the comparison expression in C++.
+description: 'Aspose::Words::Fields::FieldNextIf::set_LeftExpression method. Sets the left part of the comparison expression in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldnextif/set_leftexpression/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Node::Remove method
 linktitle: Remove
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Node::Remove method. Removes itself from the parent in C++.
+description: 'Aspose::Words::Node::Remove method. Removes itself from the parent in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words/node/remove/

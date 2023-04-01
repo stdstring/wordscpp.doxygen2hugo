@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::OlePackage class
 linktitle: OlePackage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::OlePackage class. Allows to access OLE Package properties in C++.
+description: 'Aspose::Words::Drawing::OlePackage class. Allows to access OLE Package properties in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.drawing/olepackage/

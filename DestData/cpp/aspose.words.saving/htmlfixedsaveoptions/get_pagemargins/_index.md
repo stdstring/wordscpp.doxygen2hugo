@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins method
 linktitle: get_PageMargins
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins method. Specifies the margins around pages in an HTML document. The margins value is measured in points and should be equal to or greater than 0. Default value is 10 points in C++.
+description: 'Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins method. Specifies the margins around pages in an HTML document. The margins value is measured in points and should be equal to or greater than 0. Default value is 10 points in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/get_pagemargins/

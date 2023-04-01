@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType method
 linktitle: get_NodeType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType method. Returns the GlossaryDocument value in C++.
+description: 'Aspose::Words::BuildingBlocks::GlossaryDocument::get_NodeType method. Returns the GlossaryDocument value in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.buildingblocks/glossarydocument/get_nodetype/

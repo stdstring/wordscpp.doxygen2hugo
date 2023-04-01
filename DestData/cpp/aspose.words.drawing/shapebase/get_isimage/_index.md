@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_IsImage method
 linktitle: get_IsImage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_IsImage method. Returns true if this shape is an image shape in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_IsImage method. Returns true if this shape is an image shape in C++.'
 type: docs
 weight: 2800
 url: /cpp/aspose.words.drawing/shapebase/get_isimage/

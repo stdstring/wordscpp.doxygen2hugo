@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldPrint class
 linktitle: FieldPrint
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldPrint class. Implements the PRINT field in C++.
+description: 'Aspose::Words::Fields::FieldPrint class. Implements the PRINT field in C++.'
 type: docs
 weight: 8000
 url: /cpp/aspose.words.fields/fieldprint/

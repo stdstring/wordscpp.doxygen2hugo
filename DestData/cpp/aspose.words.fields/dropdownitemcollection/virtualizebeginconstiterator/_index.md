@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::Fields::DropDownItemCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::Fields::DropDownItemCollection class in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizebeginconstiterator/

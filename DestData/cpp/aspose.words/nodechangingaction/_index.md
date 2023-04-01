@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeChangingAction enum
 linktitle: NodeChangingAction
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::NodeChangingAction enum. Specifies the type of node change in C++.
+description: 'Aspose::Words::NodeChangingAction enum. Specifies the type of node change in C++.'
 type: docs
 weight: 10100
 url: /cpp/aspose.words/nodechangingaction/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::XamlFlowSaveOptions class
 linktitle: XamlFlowSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::XamlFlowSaveOptions class. Can be used to specify additional options when saving a document into the XamlFlow or XamlFlowPack format in C++.
+description: 'Aspose::Words::Saving::XamlFlowSaveOptions class. Can be used to specify additional options when saving a document into the XamlFlow or XamlFlowPack format in C++.'
 type: docs
 weight: 3700
 url: /cpp/aspose.words.saving/xamlflowsaveoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_ComplexScript method
 linktitle: set_ComplexScript
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_ComplexScript method. Setter for Aspose::Words::Font::get_ComplexScript in C++.
+description: 'Aspose::Words::Font::set_ComplexScript method. Setter for Aspose::Words::Font::get_ComplexScript in C++.'
 type: docs
 weight: 6200
 url: /cpp/aspose.words/font/set_complexscript/

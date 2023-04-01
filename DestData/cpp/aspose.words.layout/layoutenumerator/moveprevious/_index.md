@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutEnumerator::MovePrevious method
 linktitle: MovePrevious
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutEnumerator::MovePrevious method. Moves to the previous sibling entity in C++.
+description: 'Aspose::Words::Layout::LayoutEnumerator::MovePrevious method. Moves to the previous sibling entity in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.layout/layoutenumerator/moveprevious/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListCollection::iterator_holder_type typedef
 linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Lists::ListCollection::iterator_holder_type typedef of Aspose::Words::Lists::ListCollection class in C++.
+description: 'How to use Aspose::Words::Lists::ListCollection::iterator_holder_type typedef of Aspose::Words::Lists::ListCollection class in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.lists/listcollection/iterator_holder_type/

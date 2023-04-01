@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden method
 linktitle: get_Hidden
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden method. Gets or sets a flag indicating whether this axis is hidden or not in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::get_Hidden method. Gets or sets a flag indicating whether this axis is hidden or not in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_hidden/

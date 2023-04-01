@@ -2,7 +2,7 @@
 title: Aspose::Words::Comparing::CompareOptions::set_Granularity method
 linktitle: set_Granularity
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comparing::CompareOptions::set_Granularity method. Setter for Aspose::Words::Comparing::CompareOptions::get_Granularity in C++.
+description: 'Aspose::Words::Comparing::CompareOptions::set_Granularity method. Setter for Aspose::Words::Comparing::CompareOptions::get_Granularity in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.comparing/compareoptions/set_granularity/

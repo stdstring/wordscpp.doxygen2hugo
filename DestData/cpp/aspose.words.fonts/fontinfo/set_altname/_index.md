@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfo::set_AltName method
 linktitle: set_AltName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontInfo::set_AltName method. Setter for Aspose::Words::Fonts::FontInfo::get_AltName in C++.
+description: 'Aspose::Words::Fonts::FontInfo::set_AltName method. Setter for Aspose::Words::Fonts::FontInfo::get_AltName in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.fonts/fontinfo/set_altname/

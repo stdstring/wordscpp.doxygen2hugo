@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::set_TickLabelAlignment method
 linktitle: set_TickLabelAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::set_TickLabelAlignment method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::set_TickLabelAlignment method. Setter for Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment in C++.'
 type: docs
 weight: 4200
 url: /cpp/aspose.words.drawing.charts/chartaxis/set_ticklabelalignment/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_DoNotAutofitConstrainedTables method
 linktitle: get_DoNotAutofitConstrainedTables
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_DoNotAutofitConstrainedTables method. Do Not AutoFit Tables To Fit Next To Wrapped Objects in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_DoNotAutofitConstrainedTables method. Do Not AutoFit Tables To Fit Next To Wrapped Objects in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotautofitconstrainedtables/

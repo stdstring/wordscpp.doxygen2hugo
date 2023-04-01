@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImagePixelFormat enum
 linktitle: ImagePixelFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImagePixelFormat enum. Specifies the pixel format for the generated images of document pages in C++.
+description: 'Aspose::Words::Saving::ImagePixelFormat enum. Specifies the pixel format for the generated images of document pages in C++.'
 type: docs
 weight: 6500
 url: /cpp/aspose.words.saving/imagepixelformat/

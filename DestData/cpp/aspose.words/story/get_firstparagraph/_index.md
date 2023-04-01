@@ -2,7 +2,7 @@
 title: Aspose::Words::Story::get_FirstParagraph method
 linktitle: get_FirstParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Story::get_FirstParagraph method. Gets the first paragraph in the story in C++.
+description: 'Aspose::Words::Story::get_FirstParagraph method. Gets the first paragraph in the story in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/story/get_firstparagraph/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_Emboss method
 linktitle: get_Emboss
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_Emboss method. True if the font is formatted as embossed in C++.
+description: 'Aspose::Words::Font::get_Emboss method. True if the font is formatted as embossed in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words/font/get_emboss/

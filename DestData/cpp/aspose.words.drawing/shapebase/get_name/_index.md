@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_Name method. Gets or sets the optional shape name in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_Name method. Gets or sets the optional shape name in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.words.drawing/shapebase/get_name/

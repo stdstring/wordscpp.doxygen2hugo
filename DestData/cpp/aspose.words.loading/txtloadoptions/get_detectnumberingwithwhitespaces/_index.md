@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces method
 linktitle: get_DetectNumberingWithWhitespaces
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces method. Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is true in C++.
+description: 'Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces method. Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is true in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.loading/txtloadoptions/get_detectnumberingwithwhitespaces/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_Watermark method
 linktitle: get_Watermark
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_Watermark method. Provides access to the document watermark in C++.
+description: 'Aspose::Words::Document::get_Watermark method. Provides access to the document watermark in C++.'
 type: docs
 weight: 5600
 url: /cpp/aspose.words/document/get_watermark/

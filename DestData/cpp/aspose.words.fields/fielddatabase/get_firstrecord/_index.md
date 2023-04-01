@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabase::get_FirstRecord method
 linktitle: get_FirstRecord
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabase::get_FirstRecord method. Gets the integral record number of the first data record to insert in C++.
+description: 'Aspose::Words::Fields::FieldDatabase::get_FirstRecord method. Gets the integral record number of the first data record to insert in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fielddatabase/get_firstrecord/

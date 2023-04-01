@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::DocumentLoadingArgs class
 linktitle: DocumentLoadingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::DocumentLoadingArgs class. An argument passed into Notify() in C++.
+description: 'Aspose::Words::Loading::DocumentLoadingArgs class. An argument passed into Notify() in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.loading/documentloadingargs/

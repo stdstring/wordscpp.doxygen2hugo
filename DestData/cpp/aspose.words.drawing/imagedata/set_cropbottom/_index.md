@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ImageData::set_CropBottom method
 linktitle: set_CropBottom
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ImageData::set_CropBottom method. Setter for Aspose::Words::Drawing::ImageData::get_CropBottom in C++.
+description: 'Aspose::Words::Drawing::ImageData::set_CropBottom method. Setter for Aspose::Words::Drawing::ImageData::get_CropBottom in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.drawing/imagedata/set_cropbottom/

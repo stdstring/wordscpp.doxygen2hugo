@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSubject class
 linktitle: FieldSubject
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSubject class. Implements the SUBJECT field in C++.
+description: 'Aspose::Words::Fields::FieldSubject class. Implements the SUBJECT field in C++.'
 type: docs
 weight: 9700
 url: /cpp/aspose.words.fields/fieldsubject/

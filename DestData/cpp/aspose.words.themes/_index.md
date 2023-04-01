@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes namespace
 linktitle: Aspose::Words::Themes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes namespace. The Aspose.Words.Themes namespace provides classes that allow to access theme information in Microsoft Word documents in C++.
+description: 'Aspose::Words::Themes namespace. The Aspose.Words.Themes namespace provides classes that allow to access theme information in Microsoft Word documents in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.themes/

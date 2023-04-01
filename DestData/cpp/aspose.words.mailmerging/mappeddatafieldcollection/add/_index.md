@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MappedDataFieldCollection::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MappedDataFieldCollection::Add method. Adds a new field mapping in C++.
+description: 'Aspose::Words::MailMerging::MappedDataFieldCollection::Add method. Adds a new field mapping in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/add/

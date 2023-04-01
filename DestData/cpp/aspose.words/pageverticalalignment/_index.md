@@ -2,7 +2,7 @@
 title: Aspose::Words::PageVerticalAlignment enum
 linktitle: PageVerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageVerticalAlignment enum. Specifies vertical justification of text on each page in C++.
+description: 'Aspose::Words::PageVerticalAlignment enum. Specifies vertical justification of text on each page in C++.'
 type: docs
 weight: 10800
 url: /cpp/aspose.words/pageverticalalignment/

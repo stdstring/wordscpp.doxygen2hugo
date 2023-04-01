@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::DashStyle enum
 linktitle: DashStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::DashStyle enum. Dashed line style in C++.
+description: 'Aspose::Words::Drawing::DashStyle enum. Dashed line style in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.drawing/dashstyle/

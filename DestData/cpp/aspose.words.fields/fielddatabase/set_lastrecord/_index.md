@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabase::set_LastRecord method
 linktitle: set_LastRecord
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabase::set_LastRecord method. Sets the integral record number of the last data record to insert in C++.
+description: 'Aspose::Words::Fields::FieldDatabase::set_LastRecord method. Sets the integral record number of the last data record to insert in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.fields/fielddatabase/set_lastrecord/

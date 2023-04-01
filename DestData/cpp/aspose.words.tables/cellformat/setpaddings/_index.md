@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::SetPaddings method
 linktitle: SetPaddings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::SetPaddings method. Sets the amount of space (in points) to add to the left/top/right/bottom of the contents of cell in C++.
+description: 'Aspose::Words::Tables::CellFormat::SetPaddings method. Sets the amount of space (in points) to add to the left/top/right/bottom of the contents of cell in C++.'
 type: docs
 weight: 2800
 url: /cpp/aspose.words.tables/cellformat/setpaddings/

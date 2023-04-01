@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::SdtAppearance enum
 linktitle: SdtAppearance
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::SdtAppearance enum. Specifies the appearance of a structured document tag in C++.
+description: 'Aspose::Words::Markup::SdtAppearance enum. Specifies the appearance of a structured document tag in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.markup/sdtappearance/

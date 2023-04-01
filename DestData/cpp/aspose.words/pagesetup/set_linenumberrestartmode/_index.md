@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_LineNumberRestartMode method
 linktitle: set_LineNumberRestartMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_LineNumberRestartMode method. Setter for Aspose::Words::PageSetup::get_LineNumberRestartMode in C++.
+description: 'Aspose::Words::PageSetup::set_LineNumberRestartMode method. Setter for Aspose::Words::PageSetup::get_LineNumberRestartMode in C++.'
 type: docs
 weight: 6500
 url: /cpp/aspose.words/pagesetup/set_linenumberrestartmode/

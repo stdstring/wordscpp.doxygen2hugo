@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin method
 linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: How to use begin method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
+description: 'How to use begin method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/begin/

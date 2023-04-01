@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_IsWordArt method
 linktitle: get_IsWordArt
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_IsWordArt method. Returns true if this shape is a WordArt object in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_IsWordArt method. Returns true if this shape is a WordArt object in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words.drawing/shapebase/get_iswordart/

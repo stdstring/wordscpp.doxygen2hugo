@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::DigitalSignatureCollection constructor
 linktitle: DigitalSignatureCollection
 second_title: Aspose.Words for C++ API Reference
-description: How to use DigitalSignatureCollection constructor of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
+description: 'How to use DigitalSignatureCollection constructor of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/digitalsignaturecollection/

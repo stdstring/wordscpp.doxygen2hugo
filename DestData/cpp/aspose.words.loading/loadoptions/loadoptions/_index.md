@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::LoadOptions::LoadOptions constructor
 linktitle: LoadOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::LoadOptions::LoadOptions constructor. Initializes a new instance of this class with default values in C++.
+description: 'Aspose::Words::Loading::LoadOptions::LoadOptions constructor. Initializes a new instance of this class with default values in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.loading/loadoptions/loadoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_SpacingInWholePoints method
 linktitle: get_SpacingInWholePoints
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_SpacingInWholePoints method. Only Expand/Condense Text By Whole Points in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_SpacingInWholePoints method. Only Expand/Condense Text By Whole Points in C++.'
 type: docs
 weight: 4500
 url: /cpp/aspose.words.settings/compatibilityoptions/get_spacinginwholepoints/

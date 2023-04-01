@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::Compare method
 linktitle: Compare
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::Compare method. Compares this document with another document producing changes as number of edit and format revisions Revision in C++.
+description: 'Aspose::Words::Document::Compare method. Compares this document with another document producing changes as number of edit and format revisions Revision in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/document/compare/

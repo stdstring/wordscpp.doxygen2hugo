@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldStyleRef::set_StyleName method
 linktitle: set_StyleName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldStyleRef::set_StyleName method. Setter for Aspose::Words::Fields::FieldStyleRef::get_StyleName in C++.
+description: 'Aspose::Words::Fields::FieldStyleRef::set_StyleName method. Setter for Aspose::Words::Fields::FieldStyleRef::get_StyleName in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.fields/fieldstyleref/set_stylename/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::ReplacingArgs::get_MatchOffset method
 linktitle: get_MatchOffset
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::ReplacingArgs::get_MatchOffset method. Gets the zero-based starting position of the match from the start of the node that contains the beginning of the match in C++.
+description: 'Aspose::Words::Replacing::ReplacingArgs::get_MatchOffset method. Gets the zero-based starting position of the match from the start of the node that contains the beginning of the match in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.replacing/replacingargs/get_matchoffset/

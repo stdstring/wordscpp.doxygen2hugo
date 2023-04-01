@@ -2,7 +2,7 @@
 title: Aspose::Words::CommentRangeStart::get_Id method
 linktitle: get_Id
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CommentRangeStart::get_Id method. Specifies the identifier of the comment to which this region is linked in C++.
+description: 'Aspose::Words::CommentRangeStart::get_Id method. Specifies the identifier of the comment to which this region is linked in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/commentrangestart/get_id/

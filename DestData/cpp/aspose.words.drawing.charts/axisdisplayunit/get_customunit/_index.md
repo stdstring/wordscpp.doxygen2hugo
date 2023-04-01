@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit method
 linktitle: get_CustomUnit
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit method. Gets or sets a user-defined divisor to scale display units on the value axis in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisDisplayUnit::get_CustomUnit method. Gets or sets a user-defined divisor to scale display units on the value axis in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.drawing.charts/axisdisplayunit/get_customunit/

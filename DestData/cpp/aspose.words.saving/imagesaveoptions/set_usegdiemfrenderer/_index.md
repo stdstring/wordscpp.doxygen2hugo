@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::set_UseGdiEmfRenderer method
 linktitle: set_UseGdiEmfRenderer
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::set_UseGdiEmfRenderer method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::set_UseGdiEmfRenderer method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_UseGdiEmfRenderer in C++.'
 type: docs
 weight: 3300
 url: /cpp/aspose.words.saving/imagesaveoptions/set_usegdiemfrenderer/

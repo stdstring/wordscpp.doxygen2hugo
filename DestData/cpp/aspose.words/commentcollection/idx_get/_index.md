@@ -2,7 +2,7 @@
 title: Aspose::Words::CommentCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CommentCollection::idx_get method. Retrieves a Comment at the given index in C++.
+description: 'Aspose::Words::CommentCollection::idx_get method. Retrieves a Comment at the given index in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/commentcollection/idx_get/

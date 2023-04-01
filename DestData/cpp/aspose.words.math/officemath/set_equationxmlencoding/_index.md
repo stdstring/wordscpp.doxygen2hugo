@@ -2,7 +2,7 @@
 title: Aspose::Words::Math::OfficeMath::set_EquationXmlEncoding method
 linktitle: set_EquationXmlEncoding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Math::OfficeMath::set_EquationXmlEncoding method. Setter for Aspose::Words::Math::OfficeMath::get_EquationXmlEncoding in C++.
+description: 'Aspose::Words::Math::OfficeMath::set_EquationXmlEncoding method. Setter for Aspose::Words::Math::OfficeMath::get_EquationXmlEncoding in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.math/officemath/set_equationxmlencoding/

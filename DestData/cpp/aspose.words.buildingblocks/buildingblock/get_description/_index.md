@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::BuildingBlock::get_Description method
 linktitle: get_Description
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::BuildingBlock::get_Description method. Gets or sets the description associated with this building block in C++.
+description: 'Aspose::Words::BuildingBlocks::BuildingBlock::get_Description method. Gets or sets the description associated with this building block in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_description/

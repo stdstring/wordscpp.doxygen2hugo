@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FileFontSource::get_CacheKey method
 linktitle: get_CacheKey
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FileFontSource::get_CacheKey method. The key of this source in the cache in C++.
+description: 'Aspose::Words::Fonts::FileFontSource::get_CacheKey method. The key of this source in the cache in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fonts/filefontsource/get_cachekey/

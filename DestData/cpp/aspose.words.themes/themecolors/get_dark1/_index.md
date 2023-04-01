@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::ThemeColors::get_Dark1 method
 linktitle: get_Dark1
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::ThemeColors::get_Dark1 method. Specifies color Dark 1 in C++.
+description: 'Aspose::Words::Themes::ThemeColors::get_Dark1 method. Specifies color Dark 1 in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.themes/themecolors/get_dark1/

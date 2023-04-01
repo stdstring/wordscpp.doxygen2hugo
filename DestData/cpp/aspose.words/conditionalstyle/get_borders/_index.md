@@ -2,7 +2,7 @@
 title: Aspose::Words::ConditionalStyle::get_Borders method
 linktitle: get_Borders
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ConditionalStyle::get_Borders method. Gets the collection of default cell borders for the conditional style in C++.
+description: 'Aspose::Words::ConditionalStyle::get_Borders method. Gets the collection of default cell borders for the conditional style in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/conditionalstyle/get_borders/

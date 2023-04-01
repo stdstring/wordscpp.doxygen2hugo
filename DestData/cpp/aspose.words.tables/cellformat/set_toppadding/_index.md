@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::CellFormat::set_TopPadding method
 linktitle: set_TopPadding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::CellFormat::set_TopPadding method. Setter for Aspose::Words::Tables::CellFormat::get_TopPadding in C++.
+description: 'Aspose::Words::Tables::CellFormat::set_TopPadding method. Setter for Aspose::Words::Tables::CellFormat::get_TopPadding in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.tables/cellformat/set_toppadding/

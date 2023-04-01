@@ -2,7 +2,7 @@
 title: Aspose::Words::Comment class
 linktitle: Comment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comment class. Represents a container for text of a comment in C++.
+description: 'Aspose::Words::Comment class. Represents a container for text of a comment in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words/comment/

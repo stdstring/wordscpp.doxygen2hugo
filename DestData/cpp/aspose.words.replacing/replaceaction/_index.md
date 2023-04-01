@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::ReplaceAction enum
 linktitle: ReplaceAction
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::ReplaceAction enum. Allows the user to specify what happens to the current match during a replace operation in C++.
+description: 'Aspose::Words::Replacing::ReplaceAction enum. Allows the user to specify what happens to the current match during a replace operation in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.replacing/replaceaction/

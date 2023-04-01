@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDisplayBarcode::set_DisplayText method
 linktitle: set_DisplayText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDisplayBarcode::set_DisplayText method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText in C++.
+description: 'Aspose::Words::Fields::FieldDisplayBarcode::set_DisplayText method. Setter for Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.fields/fielddisplaybarcode/set_displaytext/

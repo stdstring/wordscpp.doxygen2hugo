@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_BorderSurroundsHeader method
 linktitle: get_BorderSurroundsHeader
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_BorderSurroundsHeader method. Specifies whether the page border includes or excludes the header in C++.
+description: 'Aspose::Words::PageSetup::get_BorderSurroundsHeader method. Specifies whether the page border includes or excludes the header in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words/pagesetup/get_bordersurroundsheader/

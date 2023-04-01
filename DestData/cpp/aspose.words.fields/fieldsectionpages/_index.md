@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSectionPages class
 linktitle: FieldSectionPages
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSectionPages class. Implements the SECTIONPAGES field in C++.
+description: 'Aspose::Words::Fields::FieldSectionPages class. Implements the SECTIONPAGES field in C++.'
 type: docs
 weight: 8900
 url: /cpp/aspose.words.fields/fieldsectionpages/

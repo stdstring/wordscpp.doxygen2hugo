@@ -2,7 +2,7 @@
 title: Aspose::Words::BorderCollection::get_Bottom method
 linktitle: get_Bottom
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BorderCollection::get_Bottom method. Gets the bottom border in C++.
+description: 'Aspose::Words::BorderCollection::get_Bottom method. Gets the bottom border in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/bordercollection/get_bottom/

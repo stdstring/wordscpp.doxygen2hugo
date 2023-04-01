@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevel::get_IsLegal method
 linktitle: get_IsLegal
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListLevel::get_IsLegal method. True if the level turns all inherited numbers to Arabic, false if it preserves their number style in C++.
+description: 'Aspose::Words::Lists::ListLevel::get_IsLegal method. True if the level turns all inherited numbers to Arabic, false if it preserves their number style in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.lists/listlevel/get_islegal/

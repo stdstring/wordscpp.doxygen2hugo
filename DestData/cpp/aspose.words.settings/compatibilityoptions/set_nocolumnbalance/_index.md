@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_NoColumnBalance method
 linktitle: set_NoColumnBalance
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_NoColumnBalance method. Do Not Balance Text Columns within a Section in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_NoColumnBalance method. Do Not Balance Text Columns within a Section in C++.'
 type: docs
 weight: 10500
 url: /cpp/aspose.words.settings/compatibilityoptions/set_nocolumnbalance/

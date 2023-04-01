@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutEnumerator::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutEnumerator::idx_get method. Gets a named property of the entity in C++.
+description: 'Aspose::Words::Layout::LayoutEnumerator::idx_get method. Gets a named property of the entity in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.layout/layoutenumerator/idx_get/

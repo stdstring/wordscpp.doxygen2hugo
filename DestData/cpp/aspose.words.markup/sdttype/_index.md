@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::SdtType enum
 linktitle: SdtType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::SdtType enum. Specifies the type of a structured document tag (SDT) node in C++.
+description: 'Aspose::Words::Markup::SdtType enum. Specifies the type of a structured document tag (SDT) node in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.markup/sdttype/

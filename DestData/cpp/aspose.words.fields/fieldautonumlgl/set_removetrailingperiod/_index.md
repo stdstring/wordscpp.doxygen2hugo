@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod method
 linktitle: set_RemoveTrailingPeriod
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod method. Setter for Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod in C++.
+description: 'Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod method. Setter for Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldautonumlgl/set_removetrailingperiod/

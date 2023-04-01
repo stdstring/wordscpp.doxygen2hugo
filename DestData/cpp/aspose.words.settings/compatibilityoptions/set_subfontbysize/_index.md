@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_SubFontBySize method
 linktitle: set_SubFontBySize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_SubFontBySize method. Increase Priority Of Font Size During Font Substitution in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_SubFontBySize method. Increase Priority Of Font Size During Font Substitution in C++.'
 type: docs
 weight: 11900
 url: /cpp/aspose.words.settings/compatibilityoptions/set_subfontbysize/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Section::Section constructor
 linktitle: Section
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Section::Section constructor. Initializes a new instance of the Section class in C++.
+description: 'Aspose::Words::Section::Section constructor. Initializes a new instance of the Section class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/section/section/

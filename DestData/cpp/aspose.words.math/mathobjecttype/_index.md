@@ -2,7 +2,7 @@
 title: Aspose::Words::Math::MathObjectType enum
 linktitle: MathObjectType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Math::MathObjectType enum. Specifies type of an Office Math object in C++.
+description: 'Aspose::Words::Math::MathObjectType enum. Specifies type of an Office Math object in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.math/mathobjecttype/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfEncryptionDetails::set_UserPassword method
 linktitle: set_UserPassword
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfEncryptionDetails::set_UserPassword method. Setter for Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword in C++.
+description: 'Aspose::Words::Saving::PdfEncryptionDetails::set_UserPassword method. Setter for Aspose::Words::Saving::PdfEncryptionDetails::get_UserPassword in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.saving/pdfencryptiondetails/set_userpassword/

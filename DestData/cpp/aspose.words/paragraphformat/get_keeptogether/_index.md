@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_KeepTogether method
 linktitle: get_KeepTogether
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_KeepTogether method. True if all lines in the paragraph are to remain on the same page in C++.
+description: 'Aspose::Words::ParagraphFormat::get_KeepTogether method. True if all lines in the paragraph are to remain on the same page in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words/paragraphformat/get_keeptogether/

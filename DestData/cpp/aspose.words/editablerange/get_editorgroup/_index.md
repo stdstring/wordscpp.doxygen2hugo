@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRange::get_EditorGroup method
 linktitle: get_EditorGroup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRange::get_EditorGroup method. Returns or sets an alias (or editing group) which shall be used to determine if the current user shall be allowed to edit this editable range in C++.
+description: 'Aspose::Words::EditableRange::get_EditorGroup method. Returns or sets an alias (or editing group) which shall be used to determine if the current user shall be allowed to edit this editable range in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/editablerange/get_editorgroup/

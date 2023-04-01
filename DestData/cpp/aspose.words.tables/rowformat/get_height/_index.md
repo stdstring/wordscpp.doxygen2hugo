@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::RowFormat::get_Height method
 linktitle: get_Height
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::RowFormat::get_Height method. Gets or sets the height of the table row in points in C++.
+description: 'Aspose::Words::Tables::RowFormat::get_Height method. Gets or sets the height of the table row in points in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.tables/rowformat/get_height/

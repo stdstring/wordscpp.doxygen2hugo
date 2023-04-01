@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::set_PreserveFormFields method
 linktitle: set_PreserveFormFields
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::set_PreserveFormFields method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_PreserveFormFields in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::set_PreserveFormFields method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_PreserveFormFields in C++.'
 type: docs
 weight: 5500
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_preserveformfields/

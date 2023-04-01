@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::BuildingBlock::set_Name method
 linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::BuildingBlock::set_Name method. Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Name in C++.
+description: 'Aspose::Words::BuildingBlocks::BuildingBlock::set_Name method. Setter for Aspose::Words::BuildingBlocks::BuildingBlock::get_Name in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.buildingblocks/buildingblock/set_name/

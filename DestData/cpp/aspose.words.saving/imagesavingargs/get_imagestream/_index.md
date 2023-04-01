@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSavingArgs::get_ImageStream method
 linktitle: get_ImageStream
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSavingArgs::get_ImageStream method. Allows to specify the stream where the image will be saved to in C++.
+description: 'Aspose::Words::Saving::ImageSavingArgs::get_ImageStream method. Allows to specify the stream where the image will be saved to in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/imagesavingargs/get_imagestream/

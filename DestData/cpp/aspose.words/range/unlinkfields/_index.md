@@ -2,7 +2,7 @@
 title: Aspose::Words::Range::UnlinkFields method
 linktitle: UnlinkFields
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Range::UnlinkFields method. Unlinks fields in this range in C++.
+description: 'Aspose::Words::Range::UnlinkFields method. Unlinks fields in this range in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/range/unlinkfields/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaReferenceCollection::virtualized_iterator_element typedef
 linktitle: virtualized_iterator_element
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Vba::VbaReferenceCollection::virtualized_iterator_element typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.
+description: 'How to use Aspose::Words::Vba::VbaReferenceCollection::virtualized_iterator_element typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.vba/vbareferencecollection/virtualized_iterator_element/

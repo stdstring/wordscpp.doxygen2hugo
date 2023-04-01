@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldRD class
 linktitle: FieldRD
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldRD class. Implements the RD field in C++.
+description: 'Aspose::Words::Fields::FieldRD class. Implements the RD field in C++.'
 type: docs
 weight: 8400
 url: /cpp/aspose.words.fields/fieldrd/

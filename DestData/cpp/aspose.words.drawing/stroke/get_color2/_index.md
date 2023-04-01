@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Stroke::get_Color2 method
 linktitle: get_Color2
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Stroke::get_Color2 method. Defines a second color for a stroke in C++.
+description: 'Aspose::Words::Drawing::Stroke::get_Color2 method. Defines a second color for a stroke in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/stroke/get_color2/

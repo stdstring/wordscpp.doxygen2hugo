@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator_holder_type typedef
 linktitle: iterator_holder_type
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator_holder_type typedef of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
+description: 'How to use Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator_holder_type typedef of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/iterator_holder_type/

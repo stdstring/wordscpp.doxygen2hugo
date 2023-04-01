@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::OleFormat::GetOleEntry method
 linktitle: GetOleEntry
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::OleFormat::GetOleEntry method. Gets OLE object data entry in C++.
+description: 'Aspose::Words::Drawing::OleFormat::GetOleEntry method. Gets OLE object data entry in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.drawing/oleformat/getoleentry/

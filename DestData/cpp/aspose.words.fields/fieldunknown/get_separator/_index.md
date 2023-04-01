@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldUnknown::get_Separator method
 linktitle: get_Separator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldUnknown::get_Separator method. Gets the node that represents the field separator. Can be null in C++.
+description: 'Aspose::Words::Fields::FieldUnknown::get_Separator method. Gets the node that represents the field separator. Can be null in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldunknown/get_separator/

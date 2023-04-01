@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::get_OutlineOptions method
 linktitle: get_OutlineOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::get_OutlineOptions method. Allows to specify outline options in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::get_OutlineOptions method. Allows to specify outline options in C++.'
 type: docs
 weight: 2300
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_outlineoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_TableWidthOutputMode method
 linktitle: set_TableWidthOutputMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_TableWidthOutputMode method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_TableWidthOutputMode method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_TableWidthOutputMode in C++.'
 type: docs
 weight: 9100
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_tablewidthoutputmode/

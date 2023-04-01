@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::get_StyleName method
 linktitle: get_StyleName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::get_StyleName method. Gets or sets the name of the style applied to the structured document tag in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::get_StyleName method. Gets or sets the name of the style applied to the structured document tag in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.markup/structureddocumenttag/get_stylename/

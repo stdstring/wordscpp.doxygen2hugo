@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSeq::set_InsertNextNumber method
 linktitle: set_InsertNextNumber
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSeq::set_InsertNextNumber method. Setter for Aspose::Words::Fields::FieldSeq::get_InsertNextNumber in C++.
+description: 'Aspose::Words::Fields::FieldSeq::set_InsertNextNumber method. Setter for Aspose::Words::Fields::FieldSeq::get_InsertNextNumber in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldseq/set_insertnextnumber/

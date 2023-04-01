@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SaveOptions::get_DefaultTemplate method
 linktitle: get_DefaultTemplate
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SaveOptions::get_DefaultTemplate method. Gets or sets path to default template (including filename). Default value for this property is empty string in C++.
+description: 'Aspose::Words::Saving::SaveOptions::get_DefaultTemplate method. Gets or sets path to default template (including filename). Default value for this property is empty string in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/saveoptions/get_defaulttemplate/

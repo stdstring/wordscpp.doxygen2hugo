@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::MetafileRenderingOptions::set_ScaleWmfFontsToMetafileSize method
 linktitle: set_ScaleWmfFontsToMetafileSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::MetafileRenderingOptions::set_ScaleWmfFontsToMetafileSize method. Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_ScaleWmfFontsToMetafileSize in C++.
+description: 'Aspose::Words::Saving::MetafileRenderingOptions::set_ScaleWmfFontsToMetafileSize method. Setter for Aspose::Words::Saving::MetafileRenderingOptions::get_ScaleWmfFontsToMetafileSize in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.saving/metafilerenderingoptions/set_scalewmffontstometafilesize/

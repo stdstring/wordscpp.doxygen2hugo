@@ -2,7 +2,7 @@
 title: Aspose::Words::Hyphenation::set_WarningCallback method
 linktitle: set_WarningCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Hyphenation::set_WarningCallback method. Setter for Aspose::Words::Hyphenation::get_WarningCallback in C++.
+description: 'Aspose::Words::Hyphenation::set_WarningCallback method. Setter for Aspose::Words::Hyphenation::get_WarningCallback in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words/hyphenation/set_warningcallback/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabase::get_InsertHeadings method
 linktitle: get_InsertHeadings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabase::get_InsertHeadings method. Gets whether to insert the field names from the database as column headings in the resulting table in C++.
+description: 'Aspose::Words::Fields::FieldDatabase::get_InsertHeadings method. Gets whether to insert the field names from the database as column headings in the resulting table in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/fielddatabase/get_insertheadings/

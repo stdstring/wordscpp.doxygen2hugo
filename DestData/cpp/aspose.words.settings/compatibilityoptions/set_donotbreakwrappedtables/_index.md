@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakWrappedTables method
 linktitle: set_DoNotBreakWrappedTables
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakWrappedTables method. Do Not Allow Floating Tables To Break Across Pages in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakWrappedTables method. Do Not Allow Floating Tables To Break Across Pages in C++.'
 type: docs
 weight: 8600
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotbreakwrappedtables/

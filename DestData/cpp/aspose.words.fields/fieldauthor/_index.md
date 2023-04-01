@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAuthor class
 linktitle: FieldAuthor
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAuthor class. Implements the AUTHOR field in C++.
+description: 'Aspose::Words::Fields::FieldAuthor class. Implements the AUTHOR field in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.fields/fieldauthor/

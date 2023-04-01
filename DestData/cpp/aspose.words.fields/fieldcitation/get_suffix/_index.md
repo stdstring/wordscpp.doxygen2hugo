@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldCitation::get_Suffix method
 linktitle: get_Suffix
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldCitation::get_Suffix method. Gets or sets a suffix that is appended to the citation in C++.
+description: 'Aspose::Words::Fields::FieldCitation::get_Suffix method. Gets or sets a suffix that is appended to the citation in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/fieldcitation/get_suffix/

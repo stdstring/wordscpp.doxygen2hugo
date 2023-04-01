@@ -2,7 +2,7 @@
 title: Aspose::Words::HeaderFooter::get_HeaderFooterType method
 linktitle: get_HeaderFooterType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::HeaderFooter::get_HeaderFooterType method. Gets the type of this header/footer in C++.
+description: 'Aspose::Words::HeaderFooter::get_HeaderFooterType method. Gets the type of this header/footer in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/headerfooter/get_headerfootertype/

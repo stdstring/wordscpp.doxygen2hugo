@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelPosition method
 linktitle: get_TickLabelPosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelPosition method. Returns or sets the position of the tick labels on the axis in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelPosition method. Returns or sets the position of the tick labels on the axis in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelposition/

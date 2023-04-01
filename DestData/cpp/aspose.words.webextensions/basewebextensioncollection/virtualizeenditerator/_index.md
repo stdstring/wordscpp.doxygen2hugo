@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::BaseWebExtensionCollection::virtualizeEndIterator method
 linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeEndIterator method of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.
+description: 'How to use virtualizeEndIterator method of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/virtualizeenditerator/

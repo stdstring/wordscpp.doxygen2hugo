@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName method
 linktitle: get_ExcludedCountryOrRegionName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName method. Gets or sets the excluded country/region name in C++.
+description: 'Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName method. Gets or sets the excluded country/region name in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldaddressblock/get_excludedcountryorregionname/

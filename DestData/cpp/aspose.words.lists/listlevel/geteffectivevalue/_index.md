@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevel::GetEffectiveValue method
 linktitle: GetEffectiveValue
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListLevel::GetEffectiveValue method. Reports the string representation of the ListLevel object for the specified index of the list item. Parameters specify the NumberStyle and an optional format string used when Custom is specified in C++.
+description: 'Aspose::Words::Lists::ListLevel::GetEffectiveValue method. Reports the string representation of the ListLevel object for the specified index of the list item. Parameters specify the NumberStyle and an optional format string used when Custom is specified in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.lists/listlevel/geteffectivevalue/

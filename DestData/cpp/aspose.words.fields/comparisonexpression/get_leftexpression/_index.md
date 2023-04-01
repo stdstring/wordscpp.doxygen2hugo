@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::ComparisonExpression::get_LeftExpression method
 linktitle: get_LeftExpression
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::ComparisonExpression::get_LeftExpression method. Gets the left expression in C++.
+description: 'Aspose::Words::Fields::ComparisonExpression::get_LeftExpression method. Gets the left expression in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/comparisonexpression/get_leftexpression/

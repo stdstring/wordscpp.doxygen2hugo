@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::MailMergeSettings::set_LinkToQuery method
 linktitle: set_LinkToQuery
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::MailMergeSettings::set_LinkToQuery method. Setter for Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery in C++.
+description: 'Aspose::Words::Settings::MailMergeSettings::set_LinkToQuery method. Setter for Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.settings/mailmergesettings/set_linktoquery/

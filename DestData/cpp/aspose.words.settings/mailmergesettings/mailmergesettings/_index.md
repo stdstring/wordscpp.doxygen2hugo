@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::MailMergeSettings::MailMergeSettings constructor
 linktitle: MailMergeSettings
 second_title: Aspose.Words for C++ API Reference
-description: How to use MailMergeSettings constructor of Aspose::Words::Settings::MailMergeSettings class in C++.
+description: 'How to use MailMergeSettings constructor of Aspose::Words::Settings::MailMergeSettings class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.settings/mailmergesettings/mailmergesettings/

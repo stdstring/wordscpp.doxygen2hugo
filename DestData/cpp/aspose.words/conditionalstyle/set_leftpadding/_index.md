@@ -2,7 +2,7 @@
 title: Aspose::Words::ConditionalStyle::set_LeftPadding method
 linktitle: set_LeftPadding
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ConditionalStyle::set_LeftPadding method. Setter for Aspose::Words::ConditionalStyle::get_LeftPadding in C++.
+description: 'Aspose::Words::ConditionalStyle::set_LeftPadding method. Setter for Aspose::Words::ConditionalStyle::get_LeftPadding in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words/conditionalstyle/set_leftpadding/

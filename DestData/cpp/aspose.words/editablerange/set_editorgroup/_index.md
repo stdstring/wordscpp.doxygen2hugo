@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRange::set_EditorGroup method
 linktitle: set_EditorGroup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRange::set_EditorGroup method. Setter for Aspose::Words::EditableRange::get_EditorGroup in C++.
+description: 'Aspose::Words::EditableRange::set_EditorGroup method. Setter for Aspose::Words::EditableRange::get_EditorGroup in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/editablerange/set_editorgroup/

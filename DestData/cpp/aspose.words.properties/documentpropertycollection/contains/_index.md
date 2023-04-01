@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentPropertyCollection::Contains method
 linktitle: Contains
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentPropertyCollection::Contains method. Returns true if a property with the specified name exists in the collection in C++.
+description: 'Aspose::Words::Properties::DocumentPropertyCollection::Contains method. Returns true if a property with the specified name exists in the collection in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.properties/documentpropertycollection/contains/

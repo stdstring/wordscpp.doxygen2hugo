@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoFieldMapDataCollection::end method
 linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: How to use end method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.
+description: 'How to use end method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/end/

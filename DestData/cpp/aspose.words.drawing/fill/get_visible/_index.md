@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::get_Visible method
 linktitle: get_Visible
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::get_Visible method. Gets or sets value that is true if the formatting applied to this instance, is visible in C++.
+description: 'Aspose::Words::Drawing::Fill::get_Visible method. Gets or sets value that is true if the formatting applied to this instance, is visible in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.drawing/fill/get_visible/

@@ -2,7 +2,7 @@
 title: Aspose::Words::RevisionGroup::get_Author method
 linktitle: get_Author
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::RevisionGroup::get_Author method. Gets the author of this revision group in C++.
+description: 'Aspose::Words::RevisionGroup::get_Author method. Gets the author of this revision group in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/revisiongroup/get_author/

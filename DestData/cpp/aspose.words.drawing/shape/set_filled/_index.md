@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::set_Filled method
 linktitle: set_Filled
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::set_Filled method. Setter for Aspose::Words::Drawing::Shape::get_Filled in C++.
+description: 'Aspose::Words::Drawing::Shape::set_Filled method. Setter for Aspose::Words::Drawing::Shape::get_Filled in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.drawing/shape/set_filled/

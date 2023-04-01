@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontPitch enum
 linktitle: FontPitch
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontPitch enum. Represents the font pitch in C++.
+description: 'Aspose::Words::Fonts::FontPitch enum. Represents the font pitch in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.fonts/fontpitch/

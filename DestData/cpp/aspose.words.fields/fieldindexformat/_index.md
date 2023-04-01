@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIndexFormat enum
 linktitle: FieldIndexFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIndexFormat enum. Specifies the formatting for the FieldIndex fields in a document in C++.
+description: 'Aspose::Words::Fields::FieldIndexFormat enum. Specifies the formatting for the FieldIndex fields in a document in C++.'
 type: docs
 weight: 12700
 url: /cpp/aspose.words.fields/fieldindexformat/

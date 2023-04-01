@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::BuildingBlock::get_FirstSection method
 linktitle: get_FirstSection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::BuildingBlock::get_FirstSection method. Gets the first section in the building block in C++.
+description: 'Aspose::Words::BuildingBlocks::BuildingBlock::get_FirstSection method. Gets the first section in the building block in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_firstsection/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_ThemeColor method
 linktitle: get_ThemeColor
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_ThemeColor method. Gets or sets the theme color in the applied color scheme that is associated with this Font object in C++.
+description: 'Aspose::Words::Font::get_ThemeColor method. Gets or sets the theme color in the applied color scheme that is associated with this Font object in C++.'
 type: docs
 weight: 4700
 url: /cpp/aspose.words/font/get_themecolor/

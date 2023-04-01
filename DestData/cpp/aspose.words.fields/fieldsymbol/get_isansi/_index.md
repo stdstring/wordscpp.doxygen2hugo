@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSymbol::get_IsAnsi method
 linktitle: get_IsAnsi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSymbol::get_IsAnsi method. Gets or sets whether the character code is interpreted as the value of an ANSI character in C++.
+description: 'Aspose::Words::Fields::FieldSymbol::get_IsAnsi method. Gets or sets whether the character code is interpreted as the value of an ANSI character in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldsymbol/get_isansi/

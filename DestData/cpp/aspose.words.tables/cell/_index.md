@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Cell class
 linktitle: Cell
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Cell class. Represents a table cell in C++.
+description: 'Aspose::Words::Tables::Cell class. Represents a table cell in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.tables/cell/

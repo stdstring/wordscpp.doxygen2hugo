@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::set_ImageColorMode method
 linktitle: set_ImageColorMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::set_ImageColorMode method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_ImageColorMode in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::set_ImageColorMode method. Setter for Aspose::Words::Saving::ImageSaveOptions::get_ImageColorMode in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.saving/imagesaveoptions/set_imagecolormode/

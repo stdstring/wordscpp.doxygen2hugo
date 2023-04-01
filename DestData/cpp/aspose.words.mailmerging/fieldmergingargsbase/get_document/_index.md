@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::FieldMergingArgsBase::get_Document method
 linktitle: get_Document
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::FieldMergingArgsBase::get_Document method. Returns the Document object for which the mail merge is performed in C++.
+description: 'Aspose::Words::MailMerging::FieldMergingArgsBase::get_Document method. Returns the Document object for which the mail merge is performed in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_document/

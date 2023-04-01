@@ -2,7 +2,7 @@
 title: Aspose::Words::SignatureLineOptions class
 linktitle: SignatureLineOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::SignatureLineOptions class. Allows to specify options for signature line being inserted. Used in DocumentBuilder in C++.
+description: 'Aspose::Words::SignatureLineOptions class. Allows to specify options for signature line being inserted. Used in DocumentBuilder in C++.'
 type: docs
 weight: 6100
 url: /cpp/aspose.words/signaturelineoptions/

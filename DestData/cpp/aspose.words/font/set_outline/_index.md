@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_Outline method
 linktitle: set_Outline
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_Outline method. Setter for Aspose::Words::Font::get_Outline in C++.
+description: 'Aspose::Words::Font::set_Outline method. Setter for Aspose::Words::Font::get_Outline in C++.'
 type: docs
 weight: 8100
 url: /cpp/aspose.words/font/set_outline/

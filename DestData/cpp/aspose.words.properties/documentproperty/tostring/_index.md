@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentProperty::ToString method
 linktitle: ToString
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentProperty::ToString method. Returns the property value as a string formatted according to the current locale in C++.
+description: 'Aspose::Words::Properties::DocumentProperty::ToString method. Returns the property value as a string formatted according to the current locale in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.properties/documentproperty/tostring/

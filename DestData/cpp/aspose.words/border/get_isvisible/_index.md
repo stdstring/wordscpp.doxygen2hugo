@@ -2,7 +2,7 @@
 title: Aspose::Words::Border::get_IsVisible method
 linktitle: get_IsVisible
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Border::get_IsVisible method. Returns true if the LineStyle is not LineStyle.None in C++.
+description: 'Aspose::Words::Border::get_IsVisible method. Returns true if the LineStyle is not LineStyle.None in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/border/get_isvisible/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_DistanceRight method
 linktitle: get_DistanceRight
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_DistanceRight method. Gets distance between table right and the surrounding text, in points in C++.
+description: 'Aspose::Words::Tables::Table::get_DistanceRight method. Gets distance between table right and the surrounding text, in points in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.tables/table/get_distanceright/

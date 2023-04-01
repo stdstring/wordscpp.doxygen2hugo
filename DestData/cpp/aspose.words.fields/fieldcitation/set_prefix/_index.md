@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldCitation::set_Prefix method
 linktitle: set_Prefix
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldCitation::set_Prefix method. Setter for Aspose::Words::Fields::FieldCitation::get_Prefix in C++.
+description: 'Aspose::Words::Fields::FieldCitation::set_Prefix method. Setter for Aspose::Words::Fields::FieldCitation::get_Prefix in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/fieldcitation/set_prefix/

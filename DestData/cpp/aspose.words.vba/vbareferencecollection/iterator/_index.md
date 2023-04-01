@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaReferenceCollection::iterator typedef
 linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Vba::VbaReferenceCollection::iterator typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.
+description: 'How to use Aspose::Words::Vba::VbaReferenceCollection::iterator typedef of Aspose::Words::Vba::VbaReferenceCollection class in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.vba/vbareferencecollection/iterator/

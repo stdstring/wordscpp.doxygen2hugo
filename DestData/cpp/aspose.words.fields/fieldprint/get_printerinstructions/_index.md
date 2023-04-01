@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldPrint::get_PrinterInstructions method
 linktitle: get_PrinterInstructions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldPrint::get_PrinterInstructions method. Gets or sets the printer-specific control code characters or PostScript instructions in C++.
+description: 'Aspose::Words::Fields::FieldPrint::get_PrinterInstructions method. Gets or sets the printer-specific control code characters or PostScript instructions in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldprint/get_printerinstructions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMergeRegionInfo::get_StartField method
 linktitle: get_StartField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMergeRegionInfo::get_StartField method. Returns a start field for the region in C++.
+description: 'Aspose::Words::MailMerging::MailMergeRegionInfo::get_StartField method. Returns a start field for the region in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_startfield/

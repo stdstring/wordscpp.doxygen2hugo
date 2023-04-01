@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionProperty::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionProperty::get_Name method. Specifies a custom property name in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionProperty::get_Name method. Specifies a custom property name in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.webextensions/webextensionproperty/get_name/

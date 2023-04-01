@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths method
 linktitle: get_BuiltInTemplatesPaths
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths method. Gets or sets paths of MS Word built-in templates in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_BuiltInTemplatesPaths method. Gets or sets paths of MS Word built-in templates in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldoptions/get_builtintemplatespaths/

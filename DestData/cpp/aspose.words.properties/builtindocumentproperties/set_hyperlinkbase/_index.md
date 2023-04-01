@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_HyperlinkBase method
 linktitle: set_HyperlinkBase
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_HyperlinkBase method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_HyperlinkBase method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase in C++.'
 type: docs
 weight: 4500
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_hyperlinkbase/

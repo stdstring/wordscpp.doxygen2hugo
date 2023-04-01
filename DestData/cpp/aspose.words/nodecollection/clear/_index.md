@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeCollection::Clear method
 linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::NodeCollection::Clear method. Removes all nodes from this collection and from the document in C++.
+description: 'Aspose::Words::NodeCollection::Clear method. Removes all nodes from this collection and from the document in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/nodecollection/clear/

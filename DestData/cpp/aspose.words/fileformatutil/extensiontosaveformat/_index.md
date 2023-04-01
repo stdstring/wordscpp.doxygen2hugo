@@ -2,7 +2,7 @@
 title: Aspose::Words::FileFormatUtil::ExtensionToSaveFormat method
 linktitle: ExtensionToSaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::FileFormatUtil::ExtensionToSaveFormat method. Converts a file name extension into a SaveFormat value in C++.
+description: 'Aspose::Words::FileFormatUtil::ExtensionToSaveFormat method. Converts a file name extension into a SaveFormat value in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/fileformatutil/extensiontosaveformat/

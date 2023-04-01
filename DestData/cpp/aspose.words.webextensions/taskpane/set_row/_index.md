@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::TaskPane::set_Row method
 linktitle: set_Row
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::TaskPane::set_Row method. Setter for Aspose::Words::WebExtensions::TaskPane::get_Row in C++.
+description: 'Aspose::Words::WebExtensions::TaskPane::set_Row method. Setter for Aspose::Words::WebExtensions::TaskPane::get_Row in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.webextensions/taskpane/set_row/

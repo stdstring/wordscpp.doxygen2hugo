@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsVisible method
 linktitle: get_IsVisible
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsVisible method. Returns true if this data label has something to display in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataLabel::get_IsVisible method. Returns true if this data label has something to display in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/get_isvisible/

@@ -2,7 +2,7 @@
 title: Aspose::Words::ImageWatermarkOptions class
 linktitle: ImageWatermarkOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ImageWatermarkOptions class. Contains options that can be specified when adding a watermark with image in C++.
+description: 'Aspose::Words::ImageWatermarkOptions class. Contains options that can be specified when adding a watermark with image in C++.'
 type: docs
 weight: 3400
 url: /cpp/aspose.words/imagewatermarkoptions/

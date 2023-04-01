@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_HasRevisions method
 linktitle: get_HasRevisions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_HasRevisions method. Returns true if the document has any tracked changes in C++.
+description: 'Aspose::Words::Document::get_HasRevisions method. Returns true if the document has any tracked changes in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words/document/get_hasrevisions/

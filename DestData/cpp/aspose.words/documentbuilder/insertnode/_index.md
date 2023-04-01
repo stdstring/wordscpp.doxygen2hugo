@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertNode method
 linktitle: InsertNode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertNode method. Inserts a node before the cursor in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertNode method. Inserts a node before the cursor in C++.'
 type: docs
 weight: 3800
 url: /cpp/aspose.words/documentbuilder/insertnode/

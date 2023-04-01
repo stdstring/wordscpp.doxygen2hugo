@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::RtfLoadOptions::set_RecognizeUtf8Text method
 linktitle: set_RecognizeUtf8Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::RtfLoadOptions::set_RecognizeUtf8Text method. Setter for Aspose::Words::Loading::RtfLoadOptions::get_RecognizeUtf8Text in C++.
+description: 'Aspose::Words::Loading::RtfLoadOptions::set_RecognizeUtf8Text method. Setter for Aspose::Words::Loading::RtfLoadOptions::get_RecognizeUtf8Text in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.loading/rtfloadoptions/set_recognizeutf8text/

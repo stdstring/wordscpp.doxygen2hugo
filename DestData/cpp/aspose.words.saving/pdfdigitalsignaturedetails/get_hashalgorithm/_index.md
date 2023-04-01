@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm method
 linktitle: get_HashAlgorithm
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm method. Gets or sets the hash algorithm in C++.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm method. Gets or sets the hash algorithm in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/get_hashalgorithm/

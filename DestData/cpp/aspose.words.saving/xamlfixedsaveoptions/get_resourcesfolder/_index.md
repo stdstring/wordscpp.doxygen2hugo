@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder method
 linktitle: get_ResourcesFolder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder method. Specifies the physical folder where resources (images and fonts) are saved when exporting a document to fixed page Xaml format. Default is null in C++.
+description: 'Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder method. Specifies the physical folder where resources (images and fonts) are saved when exporting a document to fixed page Xaml format. Default is null in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.saving/xamlfixedsaveoptions/get_resourcesfolder/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSettings::FontSettings constructor
 linktitle: FontSettings
 second_title: Aspose.Words for C++ API Reference
-description: How to use FontSettings constructor of Aspose::Words::Fonts::FontSettings class in C++.
+description: 'How to use FontSettings constructor of Aspose::Words::Fonts::FontSettings class in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fonts/fontsettings/fontsettings/

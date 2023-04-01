@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldStyleRef::get_InsertRelativePosition method
 linktitle: get_InsertRelativePosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldStyleRef::get_InsertRelativePosition method. Gets or sets whether to insert the relative position of the referenced paragraph in C++.
+description: 'Aspose::Words::Fields::FieldStyleRef::get_InsertRelativePosition method. Gets or sets whether to insert the relative position of the referenced paragraph in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldstyleref/get_insertrelativeposition/

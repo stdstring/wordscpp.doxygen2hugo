@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_LineSpacingRule method
 linktitle: set_LineSpacingRule
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_LineSpacingRule method. Setter for Aspose::Words::ParagraphFormat::get_LineSpacingRule in C++.
+description: 'Aspose::Words::ParagraphFormat::set_LineSpacingRule method. Setter for Aspose::Words::ParagraphFormat::get_LineSpacingRule in C++.'
 type: docs
 weight: 5700
 url: /cpp/aspose.words/paragraphformat/set_linespacingrule/

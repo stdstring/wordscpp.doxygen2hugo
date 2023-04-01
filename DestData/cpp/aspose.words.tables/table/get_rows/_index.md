@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_Rows method
 linktitle: get_Rows
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_Rows method. Provides typed access to the rows of the table in C++.
+description: 'Aspose::Words::Tables::Table::get_Rows method. Provides typed access to the rows of the table in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words.tables/table/get_rows/

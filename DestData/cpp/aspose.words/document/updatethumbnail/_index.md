@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::UpdateThumbnail method
 linktitle: UpdateThumbnail
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::UpdateThumbnail method. Updates Thumbnail of the document using default options in C++.
+description: 'Aspose::Words::Document::UpdateThumbnail method. Updates Thumbnail of the document using default options in C++.'
 type: docs
 weight: 9300
 url: /cpp/aspose.words/document/updatethumbnail/

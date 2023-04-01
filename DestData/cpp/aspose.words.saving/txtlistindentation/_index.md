@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::TxtListIndentation class
 linktitle: TxtListIndentation
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::TxtListIndentation class. Specifies how list levels are indented when document is exporting to Text format in C++.
+description: 'Aspose::Words::Saving::TxtListIndentation class. Specifies how list levels are indented when document is exporting to Text format in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words.saving/txtlistindentation/

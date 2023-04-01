@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFormat::get_GeneralFormats method
 linktitle: get_GeneralFormats
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFormat::get_GeneralFormats method. Gets a collection of general formats that are applied to a numeric, text or any field result. Corresponds to the \* switches in C++.
+description: 'Aspose::Words::Fields::FieldFormat::get_GeneralFormats method. Gets a collection of general formats that are applied to a numeric, text or any field result. Corresponds to the \* switches in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldformat/get_generalformats/

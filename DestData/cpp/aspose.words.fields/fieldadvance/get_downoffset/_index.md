@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAdvance::get_DownOffset method
 linktitle: get_DownOffset
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAdvance::get_DownOffset method. Gets or sets the number of points by which the text that follows the field should be moved down in C++.
+description: 'Aspose::Words::Fields::FieldAdvance::get_DownOffset method. Gets or sets the number of points by which the text that follows the field should be moved down in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldadvance/get_downoffset/

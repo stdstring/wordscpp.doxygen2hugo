@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::get_ImageData method
 linktitle: get_ImageData
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::get_ImageData method. Provides access to the image of the shape. Returns null if the shape cannot have an image in C++.
+description: 'Aspose::Words::Drawing::Shape::get_ImageData method. Provides access to the image of the shape. Returns null if the shape cannot have an image in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.drawing/shape/get_imagedata/

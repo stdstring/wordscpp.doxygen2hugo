@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartFormat::get_Fill method
 linktitle: get_Fill
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartFormat::get_Fill method. Gets fill formatting for the parent chart element in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartFormat::get_Fill method. Gets fill formatting for the parent chart element in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing.charts/chartformat/get_fill/

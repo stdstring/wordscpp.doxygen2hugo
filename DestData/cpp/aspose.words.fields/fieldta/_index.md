@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTA class
 linktitle: FieldTA
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTA class. Implements the TA field in C++.
+description: 'Aspose::Words::Fields::FieldTA class. Implements the TA field in C++.'
 type: docs
 weight: 9900
 url: /cpp/aspose.words.fields/fieldta/

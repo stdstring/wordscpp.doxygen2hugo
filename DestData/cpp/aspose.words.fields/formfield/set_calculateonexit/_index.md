@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::set_CalculateOnExit method
 linktitle: set_CalculateOnExit
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::set_CalculateOnExit method. Setter for Aspose::Words::Fields::FormField::get_CalculateOnExit in C++.
+description: 'Aspose::Words::Fields::FormField::set_CalculateOnExit method. Setter for Aspose::Words::Fields::FormField::get_CalculateOnExit in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.fields/formfield/set_calculateonexit/

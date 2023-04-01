@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::OneColorGradient method
 linktitle: OneColorGradient
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::OneColorGradient method. Sets the specified fill to a one-color gradient in C++.
+description: 'Aspose::Words::Drawing::Fill::OneColorGradient method. Sets the specified fill to a one-color gradient in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.drawing/fill/onecolorgradient/

@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_BorderDistanceFrom method
 linktitle: set_BorderDistanceFrom
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_BorderDistanceFrom method. Setter for Aspose::Words::PageSetup::get_BorderDistanceFrom in C++.
+description: 'Aspose::Words::PageSetup::set_BorderDistanceFrom method. Setter for Aspose::Words::PageSetup::get_BorderDistanceFrom in C++.'
 type: docs
 weight: 4900
 url: /cpp/aspose.words/pagesetup/set_borderdistancefrom/

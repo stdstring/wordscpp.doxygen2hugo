@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::set_EntryMacro method
 linktitle: set_EntryMacro
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::set_EntryMacro method. Setter for Aspose::Words::Fields::FormField::get_EntryMacro in C++.
+description: 'Aspose::Words::Fields::FormField::set_EntryMacro method. Setter for Aspose::Words::Fields::FormField::get_EntryMacro in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.fields/formfield/set_entrymacro/

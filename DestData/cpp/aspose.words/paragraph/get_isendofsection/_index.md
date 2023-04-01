@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph::get_IsEndOfSection method
 linktitle: get_IsEndOfSection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph::get_IsEndOfSection method. True if this paragraph is the last paragraph in the Body (main text story) of a Section; false otherwise in C++.
+description: 'Aspose::Words::Paragraph::get_IsEndOfSection method. True if this paragraph is the last paragraph in the Body (main text story) of a Section; false otherwise in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/paragraph/get_isendofsection/

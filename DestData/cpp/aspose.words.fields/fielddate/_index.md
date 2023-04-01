@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDate class
 linktitle: FieldDate
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDate class. Implements the DATE field in C++.
+description: 'Aspose::Words::Fields::FieldDate class. Implements the DATE field in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.fields/fielddate/

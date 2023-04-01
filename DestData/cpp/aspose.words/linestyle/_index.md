@@ -2,7 +2,7 @@
 title: Aspose::Words::LineStyle enum
 linktitle: LineStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::LineStyle enum. Specifies line style of a Border in C++.
+description: 'Aspose::Words::LineStyle enum. Specifies line style of a Border in C++.'
 type: docs
 weight: 9700
 url: /cpp/aspose.words/linestyle/

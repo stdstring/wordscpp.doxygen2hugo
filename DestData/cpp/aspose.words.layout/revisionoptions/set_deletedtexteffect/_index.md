@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionOptions::set_DeletedTextEffect method
 linktitle: set_DeletedTextEffect
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionOptions::set_DeletedTextEffect method. Setter for Aspose::Words::Layout::RevisionOptions::get_DeletedTextEffect in C++.
+description: 'Aspose::Words::Layout::RevisionOptions::set_DeletedTextEffect method. Setter for Aspose::Words::Layout::RevisionOptions::get_DeletedTextEffect in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.layout/revisionoptions/set_deletedtexteffect/

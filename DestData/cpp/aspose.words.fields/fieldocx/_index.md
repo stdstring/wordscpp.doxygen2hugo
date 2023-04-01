@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOcx class
 linktitle: FieldOcx
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOcx class. Implements the OCX field in C++.
+description: 'Aspose::Words::Fields::FieldOcx class. Implements the OCX field in C++.'
 type: docs
 weight: 7600
 url: /cpp/aspose.words.fields/fieldocx/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_ResultFormatter method
 linktitle: get_ResultFormatter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_ResultFormatter method. Allows to control how the field result is formatted in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_ResultFormatter method. Allows to control how the field result is formatted in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.fields/fieldoptions/get_resultformatter/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_AllowOverlap method
 linktitle: get_AllowOverlap
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_AllowOverlap method. Gets whether a floating table shall allow other floating objects in the document to overlap its extents when displayed. Default value is true in C++.
+description: 'Aspose::Words::Tables::Table::get_AllowOverlap method. Gets whether a floating table shall allow other floating objects in the document to overlap its extents when displayed. Default value is true in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.tables/table/get_allowoverlap/

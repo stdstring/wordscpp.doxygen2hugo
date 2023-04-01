@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_OriginalLoadFormat method
 linktitle: get_OriginalLoadFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_OriginalLoadFormat method. Gets the format of the original document that was loaded into this object in C++.
+description: 'Aspose::Words::Document::get_OriginalLoadFormat method. Gets the format of the original document that was loaded into this object in C++.'
 type: docs
 weight: 3800
 url: /cpp/aspose.words/document/get_originalloadformat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::TabStopCollection::Clear method
 linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TabStopCollection::Clear method. Deletes all tab stop positions in C++.
+description: 'Aspose::Words::TabStopCollection::Clear method. Deletes all tab stop positions in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/tabstopcollection/clear/

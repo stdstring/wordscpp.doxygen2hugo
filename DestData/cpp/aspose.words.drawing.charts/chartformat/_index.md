@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartFormat class
 linktitle: ChartFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartFormat class. Represents the formatting of a chart element in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartFormat class. Represents the formatting of a chart element in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.drawing.charts/chartformat/

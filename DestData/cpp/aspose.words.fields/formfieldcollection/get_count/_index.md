@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormFieldCollection::get_Count method
 linktitle: get_Count
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormFieldCollection::get_Count method. Returns the number of form fields in the collection in C++.
+description: 'Aspose::Words::Fields::FormFieldCollection::get_Count method. Returns the number of form fields in the collection in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/formfieldcollection/get_count/

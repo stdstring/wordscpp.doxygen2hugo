@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_VerticalAlignment method
 linktitle: set_VerticalAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_VerticalAlignment method. Setter for Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_VerticalAlignment method. Setter for Aspose::Words::Drawing::ShapeBase::get_VerticalAlignment in C++.'
 type: docs
 weight: 8600
 url: /cpp/aspose.words.drawing/shapebase/set_verticalalignment/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback method
 linktitle: get_ResourceSavingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback method. Allows to control how resources (images) are saved when a document is exported to SVG format in C++.
+description: 'Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback method. Allows to control how resources (images) are saved when a document is exported to SVG format in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/svgsaveoptions/get_resourcesavingcallback/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::IStructuredDocumentTag::get_PlaceholderName method
 linktitle: get_PlaceholderName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::IStructuredDocumentTag::get_PlaceholderName method. Gets Name of the BuildingBlock containing placeholder text. BuildingBlock with this name Name has to be present in the GlossaryDocument otherwise InvalidOperationException will occur in C++.
+description: 'Aspose::Words::Markup::IStructuredDocumentTag::get_PlaceholderName method. Gets Name of the BuildingBlock containing placeholder text. BuildingBlock with this name Name has to be present in the GlossaryDocument otherwise InvalidOperationException will occur in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.markup/istructureddocumenttag/get_placeholdername/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes method
 linktitle: get_IsInMegabytes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes method. Gets or sets whether to display the file size in megabytes in C++.
+description: 'Aspose::Words::Fields::FieldFileSize::get_IsInMegabytes method. Gets or sets whether to display the file size in megabytes in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldfilesize/get_isinmegabytes/

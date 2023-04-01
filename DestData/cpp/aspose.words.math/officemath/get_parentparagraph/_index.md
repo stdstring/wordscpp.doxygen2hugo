@@ -2,7 +2,7 @@
 title: Aspose::Words::Math::OfficeMath::get_ParentParagraph method
 linktitle: get_ParentParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Math::OfficeMath::get_ParentParagraph method. Retrieves the parent Paragraph of this node in C++.
+description: 'Aspose::Words::Math::OfficeMath::get_ParentParagraph method. Retrieves the parent Paragraph of this node in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.math/officemath/get_parentparagraph/

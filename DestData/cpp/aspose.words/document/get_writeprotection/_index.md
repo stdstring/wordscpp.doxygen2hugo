@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_WriteProtection method
 linktitle: get_WriteProtection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_WriteProtection method. Provides access to the document write protection options in C++.
+description: 'Aspose::Words::Document::get_WriteProtection method. Provides access to the document write protection options in C++.'
 type: docs
 weight: 5800
 url: /cpp/aspose.words/document/get_writeprotection/

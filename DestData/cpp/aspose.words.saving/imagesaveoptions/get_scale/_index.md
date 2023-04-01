@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::get_Scale method
 linktitle: get_Scale
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::get_Scale method. Gets or sets the zoom factor for the generated images in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::get_Scale method. Gets or sets the zoom factor for the generated images in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.saving/imagesaveoptions/get_scale/

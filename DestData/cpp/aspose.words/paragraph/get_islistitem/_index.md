@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph::get_IsListItem method
 linktitle: get_IsListItem
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph::get_IsListItem method. True when the paragraph is an item in a bulleted or numbered list in original revision in C++.
+description: 'Aspose::Words::Paragraph::get_IsListItem method. True when the paragraph is an item in a bulleted or numbered list in original revision in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words/paragraph/get_islistitem/

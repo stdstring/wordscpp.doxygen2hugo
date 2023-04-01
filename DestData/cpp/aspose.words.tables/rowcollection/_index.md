@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::RowCollection class
 linktitle: RowCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::RowCollection class. Provides typed access to a collection of Row nodes in C++.
+description: 'Aspose::Words::Tables::RowCollection class. Provides typed access to a collection of Row nodes in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.tables/rowcollection/

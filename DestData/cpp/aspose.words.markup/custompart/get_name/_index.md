@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart::get_Name method. Gets or sets this part's absolute name within the OOXML package or the target URL in C++.
+description: 'Aspose::Words::Markup::CustomPart::get_Name method. Gets or sets this part''s absolute name within the OOXML package or the target URL in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.markup/custompart/get_name/

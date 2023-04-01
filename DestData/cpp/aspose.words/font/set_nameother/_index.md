@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_NameOther method
 linktitle: set_NameOther
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_NameOther method. Setter for Aspose::Words::Font::get_NameOther in C++.
+description: 'Aspose::Words::Font::set_NameOther method. Setter for Aspose::Words::Font::get_NameOther in C++.'
 type: docs
 weight: 7900
 url: /cpp/aspose.words/font/set_nameother/

@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_PageBreakBefore method
 linktitle: set_PageBreakBefore
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_PageBreakBefore method. Setter for Aspose::Words::ParagraphFormat::get_PageBreakBefore in C++.
+description: 'Aspose::Words::ParagraphFormat::set_PageBreakBefore method. Setter for Aspose::Words::ParagraphFormat::get_PageBreakBefore in C++.'
 type: docs
 weight: 6300
 url: /cpp/aspose.words/paragraphformat/set_pagebreakbefore/

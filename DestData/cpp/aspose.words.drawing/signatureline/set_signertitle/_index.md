@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::SignatureLine::set_SignerTitle method
 linktitle: set_SignerTitle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::SignatureLine::set_SignerTitle method. Setter for Aspose::Words::Drawing::SignatureLine::get_SignerTitle in C++.
+description: 'Aspose::Words::Drawing::SignatureLine::set_SignerTitle method. Setter for Aspose::Words::Drawing::SignatureLine::get_SignerTitle in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.drawing/signatureline/set_signertitle/

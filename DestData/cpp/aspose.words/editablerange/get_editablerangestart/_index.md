@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRange::get_EditableRangeStart method
 linktitle: get_EditableRangeStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRange::get_EditableRangeStart method. Gets the node that represents the start of the editable range in C++.
+description: 'Aspose::Words::EditableRange::get_EditableRangeStart method. Gets the node that represents the start of the editable range in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/editablerange/get_editablerangestart/

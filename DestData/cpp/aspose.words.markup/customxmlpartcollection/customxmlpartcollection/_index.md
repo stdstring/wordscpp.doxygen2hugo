@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlPartCollection::CustomXmlPartCollection constructor
 linktitle: CustomXmlPartCollection
 second_title: Aspose.Words for C++ API Reference
-description: How to use CustomXmlPartCollection constructor of Aspose::Words::Markup::CustomXmlPartCollection class in C++.
+description: 'How to use CustomXmlPartCollection constructor of Aspose::Words::Markup::CustomXmlPartCollection class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.markup/customxmlpartcollection/customxmlpartcollection/

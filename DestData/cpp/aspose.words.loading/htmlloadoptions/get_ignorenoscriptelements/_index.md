@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::HtmlLoadOptions::get_IgnoreNoscriptElements method
 linktitle: get_IgnoreNoscriptElements
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::HtmlLoadOptions::get_IgnoreNoscriptElements method. Gets a value indicating whether to ignore <noscript> HTML elements. Default value is false in C++.
+description: 'Aspose::Words::Loading::HtmlLoadOptions::get_IgnoreNoscriptElements method. Gets a value indicating whether to ignore <noscript> HTML elements. Default value is false in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.loading/htmlloadoptions/get_ignorenoscriptelements/

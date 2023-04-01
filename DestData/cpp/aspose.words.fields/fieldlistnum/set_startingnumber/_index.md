@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldListNum::set_StartingNumber method
 linktitle: set_StartingNumber
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldListNum::set_StartingNumber method. Setter for Aspose::Words::Fields::FieldListNum::get_StartingNumber in C++.
+description: 'Aspose::Words::Fields::FieldListNum::set_StartingNumber method. Setter for Aspose::Words::Fields::FieldListNum::get_StartingNumber in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldlistnum/set_startingnumber/

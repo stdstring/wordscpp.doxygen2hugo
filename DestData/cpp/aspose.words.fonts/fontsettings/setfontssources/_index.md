@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSettings::SetFontsSources method
 linktitle: SetFontsSources
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSettings::SetFontsSources method. Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts in C++.
+description: 'Aspose::Words::Fonts::FontSettings::SetFontsSources method. Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.fonts/fontsettings/setfontssources/

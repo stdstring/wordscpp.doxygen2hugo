@@ -2,7 +2,7 @@
 title: Aspose::Words::Vba::VbaModuleCollection::begin method
 linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: How to use begin method of Aspose::Words::Vba::VbaModuleCollection class in C++.
+description: 'How to use begin method of Aspose::Words::Vba::VbaModuleCollection class in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.vba/vbamodulecollection/begin/

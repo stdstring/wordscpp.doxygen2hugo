@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::Theme::get_MajorFonts method
 linktitle: get_MajorFonts
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::Theme::get_MajorFonts method. Allows to specify the set of major fonts for different languages in C++.
+description: 'Aspose::Words::Themes::Theme::get_MajorFonts method. Allows to specify the set of major fonts for different languages in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.themes/theme/get_majorfonts/

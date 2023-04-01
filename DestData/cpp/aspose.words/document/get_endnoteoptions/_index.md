@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_EndnoteOptions method
 linktitle: get_EndnoteOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_EndnoteOptions method. Provides options that control numbering and positioning of endnotes in this document in C++.
+description: 'Aspose::Words::Document::get_EndnoteOptions method. Provides options that control numbering and positioning of endnotes in this document in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words/document/get_endnoteoptions/

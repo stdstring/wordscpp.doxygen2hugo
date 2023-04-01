@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAuthor::set_AuthorName method
 linktitle: set_AuthorName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAuthor::set_AuthorName method. Setter for Aspose::Words::Fields::FieldAuthor::get_AuthorName in C++.
+description: 'Aspose::Words::Fields::FieldAuthor::set_AuthorName method. Setter for Aspose::Words::Fields::FieldAuthor::get_AuthorName in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldauthor/set_authorname/

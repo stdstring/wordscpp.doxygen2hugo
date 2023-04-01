@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionProperty::set_Name method
 linktitle: set_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionProperty::set_Name method. Specifies a custom property name in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionProperty::set_Name method. Specifies a custom property name in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.webextensions/webextensionproperty/set_name/

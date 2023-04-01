@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::FieldMergingArgsBase::get_Field method
 linktitle: get_Field
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::FieldMergingArgsBase::get_Field method. Gets the object that represents the current merge field in C++.
+description: 'Aspose::Words::MailMerging::FieldMergingArgsBase::get_Field method. Gets the object that represents the current merge field in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.mailmerging/fieldmergingargsbase/get_field/

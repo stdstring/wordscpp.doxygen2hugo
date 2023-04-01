@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDocVariable class
 linktitle: FieldDocVariable
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDocVariable class. Implements DOCVARIABLE field in C++.
+description: 'Aspose::Words::Fields::FieldDocVariable class. Implements DOCVARIABLE field in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words.fields/fielddocvariable/

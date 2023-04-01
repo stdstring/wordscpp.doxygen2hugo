@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoFieldMapData class
 linktitle: OdsoFieldMapData
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::OdsoFieldMapData class. Specifies how a column in the external data source shall be mapped to the predefined merge fields within the document in C++.
+description: 'Aspose::Words::Settings::OdsoFieldMapData class. Specifies how a column in the external data source shall be mapped to the predefined merge fields within the document in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.settings/odsofieldmapdata/

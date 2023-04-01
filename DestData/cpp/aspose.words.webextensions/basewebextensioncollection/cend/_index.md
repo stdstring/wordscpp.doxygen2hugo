@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::BaseWebExtensionCollection::cend method
 linktitle: cend
 second_title: Aspose.Words for C++ API Reference
-description: How to use cend method of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.
+description: 'How to use cend method of Aspose::Words::WebExtensions::BaseWebExtensionCollection class in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.webextensions/basewebextensioncollection/cend/

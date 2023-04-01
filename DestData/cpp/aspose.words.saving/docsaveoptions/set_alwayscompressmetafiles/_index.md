@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::DocSaveOptions::set_AlwaysCompressMetafiles method
 linktitle: set_AlwaysCompressMetafiles
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::DocSaveOptions::set_AlwaysCompressMetafiles method. Setter for Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles in C++.
+description: 'Aspose::Words::Saving::DocSaveOptions::set_AlwaysCompressMetafiles method. Setter for Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.saving/docsaveoptions/set_alwayscompressmetafiles/

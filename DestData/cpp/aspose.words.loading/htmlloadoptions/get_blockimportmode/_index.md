@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::HtmlLoadOptions::get_BlockImportMode method
 linktitle: get_BlockImportMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::HtmlLoadOptions::get_BlockImportMode method. Gets a value that specifies how properties of block-level elements are imported. Default value is Merge in C++.
+description: 'Aspose::Words::Loading::HtmlLoadOptions::get_BlockImportMode method. Gets a value that specifies how properties of block-level elements are imported. Default value is Merge in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.loading/htmlloadoptions/get_blockimportmode/

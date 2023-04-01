@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeChangingArgs::get_Action method
 linktitle: get_Action
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::NodeChangingArgs::get_Action method. Gets a value indicating what type of node change event is occurring in C++.
+description: 'Aspose::Words::NodeChangingArgs::get_Action method. Gets a value indicating what type of node change event is occurring in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/nodechangingargs/get_action/

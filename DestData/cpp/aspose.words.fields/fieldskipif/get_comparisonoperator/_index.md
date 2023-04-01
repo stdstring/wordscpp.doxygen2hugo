@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSkipIf::get_ComparisonOperator method
 linktitle: get_ComparisonOperator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSkipIf::get_ComparisonOperator method. Gets the comparison operator in C++.
+description: 'Aspose::Words::Fields::FieldSkipIf::get_ComparisonOperator method. Gets the comparison operator in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldskipif/get_comparisonoperator/

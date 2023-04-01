@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionReferenceCollection class
 linktitle: WebExtensionReferenceCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionReferenceCollection class. Specifies a list of web extension references in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionReferenceCollection class. Specifies a list of web extension references in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.webextensions/webextensionreferencecollection/

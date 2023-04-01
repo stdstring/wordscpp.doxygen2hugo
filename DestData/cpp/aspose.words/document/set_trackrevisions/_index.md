@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::set_TrackRevisions method
 linktitle: set_TrackRevisions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::set_TrackRevisions method. Setter for Aspose::Words::Document::get_TrackRevisions in C++.
+description: 'Aspose::Words::Document::set_TrackRevisions method. Setter for Aspose::Words::Document::get_TrackRevisions in C++.'
 type: docs
 weight: 8300
 url: /cpp/aspose.words/document/set_trackrevisions/

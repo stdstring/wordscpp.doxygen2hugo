@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::SignOptions::set_Comments method
 linktitle: set_Comments
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::SignOptions::set_Comments method. Setter for Aspose::Words::DigitalSignatures::SignOptions::get_Comments in C++.
+description: 'Aspose::Words::DigitalSignatures::SignOptions::set_Comments method. Setter for Aspose::Words::DigitalSignatures::SignOptions::get_Comments in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.digitalsignatures/signoptions/set_comments/

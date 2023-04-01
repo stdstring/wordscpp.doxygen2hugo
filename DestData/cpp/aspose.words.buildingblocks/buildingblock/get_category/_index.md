@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildingBlocks::BuildingBlock::get_Category method
 linktitle: get_Category
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildingBlocks::BuildingBlock::get_Category method. Specifies the second-level categorization for the building block in C++.
+description: 'Aspose::Words::BuildingBlocks::BuildingBlock::get_Category method. Specifies the second-level categorization for the building block in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.buildingblocks/buildingblock/get_category/

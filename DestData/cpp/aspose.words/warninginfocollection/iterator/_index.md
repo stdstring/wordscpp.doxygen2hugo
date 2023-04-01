@@ -2,7 +2,7 @@
 title: Aspose::Words::WarningInfoCollection::iterator typedef
 linktitle: iterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::WarningInfoCollection::iterator typedef of Aspose::Words::WarningInfoCollection class in C++.
+description: 'How to use Aspose::Words::WarningInfoCollection::iterator typedef of Aspose::Words::WarningInfoCollection class in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words/warninginfocollection/iterator/

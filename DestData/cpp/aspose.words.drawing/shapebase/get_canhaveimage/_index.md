@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::get_CanHaveImage method
 linktitle: get_CanHaveImage
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::get_CanHaveImage method. Returns true if the shape type allows the shape to have an image in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::get_CanHaveImage method. Returns true if the shape type allows the shape to have an image in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.drawing/shapebase/get_canhaveimage/

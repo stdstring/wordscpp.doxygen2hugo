@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_Sections method
 linktitle: get_Sections
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_Sections method. Returns a collection that represents all sections in the document in C++.
+description: 'Aspose::Words::Document::get_Sections method. Returns a collection that represents all sections in the document in C++.'
 type: docs
 weight: 4500
 url: /cpp/aspose.words/document/get_sections/

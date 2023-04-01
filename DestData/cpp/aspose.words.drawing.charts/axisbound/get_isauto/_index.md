@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::AxisBound::get_IsAuto method
 linktitle: get_IsAuto
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::AxisBound::get_IsAuto method. Returns a flag indicating that axis bound should be determined automatically in C++.
+description: 'Aspose::Words::Drawing::Charts::AxisBound::get_IsAuto method. Returns a flag indicating that axis bound should be determined automatically in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing.charts/axisbound/get_isauto/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShadowFormat::get_Visible method
 linktitle: get_Visible
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShadowFormat::get_Visible method. Returns true if the formatting applied to this instance is visible in C++.
+description: 'Aspose::Words::Drawing::ShadowFormat::get_Visible method. Returns true if the formatting applied to this instance is visible in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/shadowformat/get_visible/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Metered::Metered constructor
 linktitle: Metered
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Metered::Metered constructor. Initializes a new instance of this class in C++.
+description: 'Aspose::Words::Metered::Metered constructor. Initializes a new instance of this class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/metered/metered/

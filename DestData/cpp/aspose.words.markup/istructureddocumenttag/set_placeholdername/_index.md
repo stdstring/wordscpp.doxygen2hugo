@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::IStructuredDocumentTag::set_PlaceholderName method
 linktitle: set_PlaceholderName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::IStructuredDocumentTag::set_PlaceholderName method. Sets Name of the BuildingBlock containing placeholder text. BuildingBlock with this name Name has to be present in the GlossaryDocument otherwise InvalidOperationException will occur in C++.
+description: 'Aspose::Words::Markup::IStructuredDocumentTag::set_PlaceholderName method. Sets Name of the BuildingBlock containing placeholder text. BuildingBlock with this name Name has to be present in the GlossaryDocument otherwise InvalidOperationException will occur in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.markup/istructureddocumenttag/set_placeholdername/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly method
 linktitle: get_FindWholeWordsOnly
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly method. True indicates the oldValue must be a standalone word in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::get_FindWholeWordsOnly method. True indicates the oldValue must be a standalone word in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_findwholewordsonly/

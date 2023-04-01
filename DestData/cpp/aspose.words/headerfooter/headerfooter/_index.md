@@ -2,7 +2,7 @@
 title: Aspose::Words::HeaderFooter::HeaderFooter constructor
 linktitle: HeaderFooter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::HeaderFooter::HeaderFooter constructor. Creates a new header or footer of the specified type in C++.
+description: 'Aspose::Words::HeaderFooter::HeaderFooter constructor. Creates a new header or footer of the specified type in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/headerfooter/headerfooter/

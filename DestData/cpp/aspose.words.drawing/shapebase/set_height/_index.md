@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_Height method
 linktitle: set_Height
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_Height method. Setter for Aspose::Words::Drawing::ShapeBase::get_Height in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_Height method. Setter for Aspose::Words::Drawing::ShapeBase::get_Height in C++.'
 type: docs
 weight: 7200
 url: /cpp/aspose.words.drawing/shapebase/set_height/

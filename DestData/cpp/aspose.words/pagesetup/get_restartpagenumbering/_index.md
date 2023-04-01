@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_RestartPageNumbering method
 linktitle: get_RestartPageNumbering
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_RestartPageNumbering method. True if page numbering restarts at the beginning of the section in C++.
+description: 'Aspose::Words::PageSetup::get_RestartPageNumbering method. True if page numbering restarts at the beginning of the section in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words/pagesetup/get_restartpagenumbering/

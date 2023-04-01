@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionReference::set_Version method
 linktitle: set_Version
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionReference::set_Version method. Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Version in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionReference::set_Version method. Setter for Aspose::Words::WebExtensions::WebExtensionReference::get_Version in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.webextensions/webextensionreference/set_version/

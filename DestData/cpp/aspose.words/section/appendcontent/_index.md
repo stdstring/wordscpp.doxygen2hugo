@@ -2,7 +2,7 @@
 title: Aspose::Words::Section::AppendContent method
 linktitle: AppendContent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Section::AppendContent method. Inserts a copy of content of the source section at the end of this section in C++.
+description: 'Aspose::Words::Section::AppendContent method. Inserts a copy of content of the source section at the end of this section in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/section/appendcontent/

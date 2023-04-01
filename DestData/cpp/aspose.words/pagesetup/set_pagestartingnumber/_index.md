@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::set_PageStartingNumber method
 linktitle: set_PageStartingNumber
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::set_PageStartingNumber method. Setter for Aspose::Words::PageSetup::get_PageStartingNumber in C++.
+description: 'Aspose::Words::PageSetup::set_PageStartingNumber method. Setter for Aspose::Words::PageSetup::get_PageStartingNumber in C++.'
 type: docs
 weight: 7400
 url: /cpp/aspose.words/pagesetup/set_pagestartingnumber/

@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::MailMerging::MappedDataFieldCollection class in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.mailmerging/mappeddatafieldcollection/virtualizebeginconstiterator/

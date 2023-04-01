@@ -2,7 +2,7 @@
 title: Aspose::Words::Section::get_ProtectedForForms method
 linktitle: get_ProtectedForForms
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Section::get_ProtectedForForms method. True if the section is protected for forms. When a section is protected for forms, users can select and modify text only in form fields in Microsoft Word in C++.
+description: 'Aspose::Words::Section::get_ProtectedForForms method. True if the section is protected for forms. When a section is protected for forms, users can select and modify text only in form fields in Microsoft Word in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words/section/get_protectedforforms/

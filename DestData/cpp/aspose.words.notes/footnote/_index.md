@@ -2,7 +2,7 @@
 title: Aspose::Words::Notes::Footnote class
 linktitle: Footnote
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Notes::Footnote class. Represents a container for text of a footnote or endnote in C++.
+description: 'Aspose::Words::Notes::Footnote class. Represents a container for text of a footnote or endnote in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.notes/footnote/

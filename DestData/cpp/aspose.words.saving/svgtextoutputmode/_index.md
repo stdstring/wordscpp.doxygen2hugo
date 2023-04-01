@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SvgTextOutputMode enum
 linktitle: SvgTextOutputMode
 second_title: Aspose.Words for C++ API Reference
-description: How to use Aspose::Words::Saving::SvgTextOutputMode enum in C++.
+description: 'How to use Aspose::Words::Saving::SvgTextOutputMode enum in C++.'
 type: docs
 weight: 8100
 url: /cpp/aspose.words.saving/svgtextoutputmode/

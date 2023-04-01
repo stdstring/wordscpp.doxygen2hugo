@@ -2,7 +2,7 @@
 title: Aspose::Words::ImportFormatOptions::set_IgnoreTextBoxes method
 linktitle: set_IgnoreTextBoxes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ImportFormatOptions::set_IgnoreTextBoxes method. Setter for Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes in C++.
+description: 'Aspose::Words::ImportFormatOptions::set_IgnoreTextBoxes method. Setter for Aspose::Words::ImportFormatOptions::get_IgnoreTextBoxes in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/importformatoptions/set_ignoretextboxes/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSettings::GetFontsSources method
 linktitle: GetFontsSources
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSettings::GetFontsSources method. Gets a copy of the array that contains the list of sources where Aspose.Words looks for TrueType fonts in C++.
+description: 'Aspose::Words::Fonts::FontSettings::GetFontsSources method. Gets a copy of the array that contains the list of sources where Aspose.Words looks for TrueType fonts in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fonts/fontsettings/getfontssources/

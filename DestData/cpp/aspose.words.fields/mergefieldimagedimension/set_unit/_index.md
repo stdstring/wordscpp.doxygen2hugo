@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::MergeFieldImageDimension::set_Unit method
 linktitle: set_Unit
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::MergeFieldImageDimension::set_Unit method. The unit in C++.
+description: 'Aspose::Words::Fields::MergeFieldImageDimension::set_Unit method. The unit in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/mergefieldimagedimension/set_unit/

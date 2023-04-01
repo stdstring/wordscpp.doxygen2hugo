@@ -2,7 +2,7 @@
 title: Aspose::Words::StyleCollection::Add method
 linktitle: Add
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::StyleCollection::Add method. Creates a new user defined style and adds it the collection in C++.
+description: 'Aspose::Words::StyleCollection::Add method. Creates a new user defined style and adds it the collection in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/stylecollection/add/

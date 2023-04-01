@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldMergeBarcode::set_FixCheckDigit method
 linktitle: set_FixCheckDigit
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldMergeBarcode::set_FixCheckDigit method. Sets whether to fix the check digit if it’s invalid in C++.
+description: 'Aspose::Words::Fields::FieldMergeBarcode::set_FixCheckDigit method. Sets whether to fix the check digit if it’s invalid in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.fields/fieldmergebarcode/set_fixcheckdigit/

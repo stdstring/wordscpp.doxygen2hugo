@@ -2,7 +2,7 @@
 title: Aspose::Words::IHyphenationCallback interface
 linktitle: IHyphenationCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::IHyphenationCallback interface. Implemented by classes which can register hyphenation dictionaries in C++.
+description: 'Aspose::Words::IHyphenationCallback interface. Implemented by classes which can register hyphenation dictionaries in C++.'
 type: docs
 weight: 7800
 url: /cpp/aspose.words/ihyphenationcallback/

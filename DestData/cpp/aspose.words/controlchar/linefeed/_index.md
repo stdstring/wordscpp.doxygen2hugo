@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::LineFeed method
 linktitle: LineFeed
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::LineFeed method. Line feed character: "\x000a" or "\n". Same as Lf in C++.
+description: 'Aspose::Words::ControlChar::LineFeed method. Line feed character: "\x000a" or "\n". Same as Lf in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/controlchar/linefeed/

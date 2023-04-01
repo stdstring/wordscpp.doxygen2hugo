@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::TwoColorGradient method
 linktitle: TwoColorGradient
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::TwoColorGradient method. Sets the specified fill to a two-color gradient in C++.
+description: 'Aspose::Words::Drawing::Fill::TwoColorGradient method. Sets the specified fill to a two-color gradient in C++.'
 type: docs
 weight: 3300
 url: /cpp/aspose.words.drawing/fill/twocolorgradient/

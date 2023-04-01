@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildVersionInfo::get_Product method
 linktitle: get_Product
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildVersionInfo::get_Product method. Gets the full name of the product in C++.
+description: 'Aspose::Words::BuildVersionInfo::get_Product method. Gets the full name of the product in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/buildversioninfo/get_product/

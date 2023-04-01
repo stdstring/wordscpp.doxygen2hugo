@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertField method
 linktitle: InsertField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertField method. Inserts a Word field into a document and optionally updates the field result in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertField method. Inserts a Word field into a document and optionally updates the field result in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words/documentbuilder/insertfield/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Style::get_ListFormat method
 linktitle: get_ListFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Style::get_ListFormat method. Provides access to the list formatting properties of a paragraph style in C++.
+description: 'Aspose::Words::Style::get_ListFormat method. Provides access to the list formatting properties of a paragraph style in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words/style/get_listformat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy method
 linktitle: get_LastSavedBy
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy method. Gets or sets the name of the last author in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_LastSavedBy method. Gets or sets the name of the last author in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_lastsavedby/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDde::get_InsertAsRtf method
 linktitle: get_InsertAsRtf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDde::get_InsertAsRtf method. Gets or sets whether to insert the linked object in rich-text format (RTF) in C++.
+description: 'Aspose::Words::Fields::FieldDde::get_InsertAsRtf method. Gets or sets whether to insert the linked object in rich-text format (RTF) in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fielddde/get_insertasrtf/

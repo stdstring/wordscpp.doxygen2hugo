@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::get_Checked method
 linktitle: get_Checked
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::get_Checked method. Gets or sets the checked status of the check box form field. Default value for this property is false in C++.
+description: 'Aspose::Words::Fields::FormField::get_Checked method. Gets or sets the checked status of the check box form field. Default value for this property is false in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/formfield/get_checked/

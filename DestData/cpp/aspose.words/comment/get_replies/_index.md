@@ -2,7 +2,7 @@
 title: Aspose::Words::Comment::get_Replies method
 linktitle: get_Replies
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comment::get_Replies method. Returns a collection of Comment objects that are immediate children of the specified comment in C++.
+description: 'Aspose::Words::Comment::get_Replies method. Returns a collection of Comment objects that are immediate children of the specified comment in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words/comment/get_replies/

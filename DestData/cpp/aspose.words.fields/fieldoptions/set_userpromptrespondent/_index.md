@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::set_UserPromptRespondent method
 linktitle: set_UserPromptRespondent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::set_UserPromptRespondent method. Setter for Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent in C++.
+description: 'Aspose::Words::Fields::FieldOptions::set_UserPromptRespondent method. Setter for Aspose::Words::Fields::FieldOptions::get_UserPromptRespondent in C++.'
 type: docs
 weight: 4000
 url: /cpp/aspose.words.fields/fieldoptions/set_userpromptrespondent/

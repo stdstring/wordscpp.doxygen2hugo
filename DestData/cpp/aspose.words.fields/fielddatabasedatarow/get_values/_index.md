@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabaseDataRow::get_Values method
 linktitle: get_Values
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabaseDataRow::get_Values method. Gets values that belong to this row in C++.
+description: 'Aspose::Words::Fields::FieldDatabaseDataRow::get_Values method. Gets values that belong to this row in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fielddatabasedatarow/get_values/

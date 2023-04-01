@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_FieldUpdatingCallback method
 linktitle: get_FieldUpdatingCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_FieldUpdatingCallback method. Gets IFieldUpdatingCallback implementation in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_FieldUpdatingCallback method. Gets IFieldUpdatingCallback implementation in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdatingcallback/

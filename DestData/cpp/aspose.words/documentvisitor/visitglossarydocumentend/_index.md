@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitGlossaryDocumentEnd method
 linktitle: VisitGlossaryDocumentEnd
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitGlossaryDocumentEnd method. Called when enumeration of a glossary document has ended in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitGlossaryDocumentEnd method. Called when enumeration of a glossary document has ended in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words/documentvisitor/visitglossarydocumentend/

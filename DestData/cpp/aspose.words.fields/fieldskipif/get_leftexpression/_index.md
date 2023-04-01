@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSkipIf::get_LeftExpression method
 linktitle: get_LeftExpression
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSkipIf::get_LeftExpression method. Gets the left part of the comparison expression in C++.
+description: 'Aspose::Words::Fields::FieldSkipIf::get_LeftExpression method. Gets the left part of the comparison expression in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.fields/fieldskipif/get_leftexpression/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::DocumentDirection enum
 linktitle: DocumentDirection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::DocumentDirection enum. Allows to specify the direction to flow the text in a document in C++.
+description: 'Aspose::Words::Loading::DocumentDirection enum. Allows to specify the direction to flow the text in a document in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.loading/documentdirection/

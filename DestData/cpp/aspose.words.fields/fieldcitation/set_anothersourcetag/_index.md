@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldCitation::set_AnotherSourceTag method
 linktitle: set_AnotherSourceTag
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldCitation::set_AnotherSourceTag method. Setter for Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag in C++.
+description: 'Aspose::Words::Fields::FieldCitation::set_AnotherSourceTag method. Setter for Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.fields/fieldcitation/set_anothersourcetag/

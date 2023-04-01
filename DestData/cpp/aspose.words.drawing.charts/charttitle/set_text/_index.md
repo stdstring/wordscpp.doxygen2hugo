@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartTitle::set_Text method
 linktitle: set_Text
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartTitle::set_Text method. Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Text in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartTitle::set_Text method. Setter for Aspose::Words::Drawing::Charts::ChartTitle::get_Text in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.drawing.charts/charttitle/set_text/

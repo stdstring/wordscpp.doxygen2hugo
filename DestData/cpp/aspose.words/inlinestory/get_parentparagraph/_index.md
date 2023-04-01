@@ -2,7 +2,7 @@
 title: Aspose::Words::InlineStory::get_ParentParagraph method
 linktitle: get_ParentParagraph
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::InlineStory::get_ParentParagraph method. Retrieves the parent Paragraph of this node in C++.
+description: 'Aspose::Words::InlineStory::get_ParentParagraph method. Retrieves the parent Paragraph of this node in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/inlinestory/get_parentparagraph/

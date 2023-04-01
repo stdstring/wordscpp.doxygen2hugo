@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent method
 linktitle: get_AllowNegativeIndent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent method. Specifies whether negative left and right indents of paragraphs are normalized when saving to HTML, MHTML or EPUB. Default value is false in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_AllowNegativeIndent method. Specifies whether negative left and right indents of paragraphs are normalized when saving to HTML, MHTML or EPUB. Default value is false in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_allownegativeindent/

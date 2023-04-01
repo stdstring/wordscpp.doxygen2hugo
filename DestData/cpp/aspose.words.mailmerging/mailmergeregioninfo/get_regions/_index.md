@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Regions method
 linktitle: get_Regions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Regions method. Returns a list of child regions in C++.
+description: 'Aspose::Words::MailMerging::MailMergeRegionInfo::get_Regions method. Returns a list of child regions in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_regions/

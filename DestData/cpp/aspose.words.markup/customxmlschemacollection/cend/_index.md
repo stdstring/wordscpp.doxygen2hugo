@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomXmlSchemaCollection::cend method
 linktitle: cend
 second_title: Aspose.Words for C++ API Reference
-description: How to use cend method of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.
+description: 'How to use cend method of Aspose::Words::Markup::CustomXmlSchemaCollection class in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.markup/customxmlschemacollection/cend/

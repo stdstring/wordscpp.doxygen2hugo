@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::ThemeFonts::get_Latin method
 linktitle: get_Latin
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::ThemeFonts::get_Latin method. Specifies font name for Latin characters in C++.
+description: 'Aspose::Words::Themes::ThemeFonts::get_Latin method. Specifies font name for Latin characters in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.themes/themefonts/get_latin/

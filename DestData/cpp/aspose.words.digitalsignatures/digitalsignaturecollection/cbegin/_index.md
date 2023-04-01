@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/cbegin/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::GradientStyle enum
 linktitle: GradientStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::GradientStyle enum. Specifies the style for a gradient fill in C++.
+description: 'Aspose::Words::Drawing::GradientStyle enum. Specifies the style for a gradient fill in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.drawing/gradientstyle/

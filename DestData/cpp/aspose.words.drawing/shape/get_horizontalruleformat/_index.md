@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Shape::get_HorizontalRuleFormat method
 linktitle: get_HorizontalRuleFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Shape::get_HorizontalRuleFormat method. Provides access to the properties of the horizontal rule shape. For a shape that is not a horizontal rule, returns null in C++.
+description: 'Aspose::Words::Drawing::Shape::get_HorizontalRuleFormat method. Provides access to the properties of the horizontal rule shape. For a shape that is not a horizontal rule, returns null in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.drawing/shape/get_horizontalruleformat/

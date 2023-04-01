@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTime class
 linktitle: FieldTime
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTime class. Implements the TIME field in C++.
+description: 'Aspose::Words::Fields::FieldTime class. Implements the TIME field in C++.'
 type: docs
 weight: 10200
 url: /cpp/aspose.words.fields/fieldtime/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldInfo::get_InfoType method
 linktitle: get_InfoType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldInfo::get_InfoType method. Gets or sets the type of the document property to insert in C++.
+description: 'Aspose::Words::Fields::FieldInfo::get_InfoType method. Gets or sets the type of the document property to insert in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldinfo/get_infotype/

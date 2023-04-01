@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::Field::set_Result method
 linktitle: set_Result
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::Field::set_Result method. Setter for Aspose::Words::Fields::Field::get_Result in C++.
+description: 'Aspose::Words::Fields::Field::set_Result method. Setter for Aspose::Words::Fields::Field::get_Result in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/field/set_result/

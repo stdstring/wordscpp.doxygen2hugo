@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTitle method
 linktitle: GetByTitle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTitle method. Returns the first structured document tag encountered in the collection with the specified title in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagCollection::GetByTitle method. Returns the first structured document tag encountered in the collection with the specified title in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbytitle/

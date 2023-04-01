@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlFixedSaveOptions::set_PageMargins method
 linktitle: set_PageMargins
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlFixedSaveOptions::set_PageMargins method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins in C++.
+description: 'Aspose::Words::Saving::HtmlFixedSaveOptions::set_PageMargins method. Setter for Aspose::Words::Saving::HtmlFixedSaveOptions::get_PageMargins in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.saving/htmlfixedsaveoptions/set_pagemargins/

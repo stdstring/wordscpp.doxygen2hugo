@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::CommentDisplayMode enum
 linktitle: CommentDisplayMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::CommentDisplayMode enum. Specifies the rendering mode for document comments in C++.
+description: 'Aspose::Words::Layout::CommentDisplayMode enum. Specifies the rendering mode for document comments in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.layout/commentdisplaymode/

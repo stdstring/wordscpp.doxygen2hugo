@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements method
 linktitle: get_RasterizeTransformedElements
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements method. Gets or sets a value determining whether or not complex transformed elements should be rasterized before saving to PCL document. Default is true in C++.
+description: 'Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements method. Gets or sets a value determining whether or not complex transformed elements should be rasterized before saving to PCL document. Default is true in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.saving/pclsaveoptions/get_rasterizetransformedelements/

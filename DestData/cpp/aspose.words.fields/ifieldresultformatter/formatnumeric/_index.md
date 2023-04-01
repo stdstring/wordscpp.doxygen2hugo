@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::IFieldResultFormatter::FormatNumeric method
 linktitle: FormatNumeric
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::IFieldResultFormatter::FormatNumeric method. Called when Aspose.Words applies a numeric format switch, i.e. \# "#.##" in C++.
+description: 'Aspose::Words::Fields::IFieldResultFormatter::FormatNumeric method. Called when Aspose.Words applies a numeric format switch, i.e. \# "#.##" in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/ifieldresultformatter/formatnumeric/

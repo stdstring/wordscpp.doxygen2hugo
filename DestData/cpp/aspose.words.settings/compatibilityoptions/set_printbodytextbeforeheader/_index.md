@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_PrintBodyTextBeforeHeader method
 linktitle: set_PrintBodyTextBeforeHeader
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_PrintBodyTextBeforeHeader method. Print Body Text before Header/Footer Contents in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_PrintBodyTextBeforeHeader method. Print Body Text before Header/Footer Contents in C++.'
 type: docs
 weight: 11100
 url: /cpp/aspose.words.settings/compatibilityoptions/set_printbodytextbeforeheader/

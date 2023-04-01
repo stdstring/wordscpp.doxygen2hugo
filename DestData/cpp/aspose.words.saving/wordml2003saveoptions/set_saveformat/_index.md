@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::WordML2003SaveOptions::set_SaveFormat method
 linktitle: set_SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::WordML2003SaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat in C++.
+description: 'Aspose::Words::Saving::WordML2003SaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.saving/wordml2003saveoptions/set_saveformat/

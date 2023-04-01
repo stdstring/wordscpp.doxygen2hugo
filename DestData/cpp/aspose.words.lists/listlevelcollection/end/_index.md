@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevelCollection::end method
 linktitle: end
 second_title: Aspose.Words for C++ API Reference
-description: How to use end method of Aspose::Words::Lists::ListLevelCollection class in C++.
+description: 'How to use end method of Aspose::Words::Lists::ListLevelCollection class in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.lists/listlevelcollection/end/

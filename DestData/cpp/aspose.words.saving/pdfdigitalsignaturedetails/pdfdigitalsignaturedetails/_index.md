@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails constructor
 linktitle: PdfDigitalSignatureDetails
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails constructor. Initializes an instance of this class in C++.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails constructor. Initializes an instance of this class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/

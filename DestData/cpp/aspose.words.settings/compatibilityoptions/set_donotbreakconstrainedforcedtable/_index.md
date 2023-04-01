@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakConstrainedForcedTable method
 linktitle: set_DoNotBreakConstrainedForcedTable
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakConstrainedForcedTable method. Don't Break Table Rows Around Floating Tables in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_DoNotBreakConstrainedForcedTable method. Don''t Break Table Rows Around Floating Tables in C++.'
 type: docs
 weight: 8500
 url: /cpp/aspose.words.settings/compatibilityoptions/set_donotbreakconstrainedforcedtable/

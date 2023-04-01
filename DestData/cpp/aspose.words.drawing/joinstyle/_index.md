@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::JoinStyle enum
 linktitle: JoinStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::JoinStyle enum. Line join style in C++.
+description: 'Aspose::Words::Drawing::JoinStyle enum. Line join style in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words.drawing/joinstyle/

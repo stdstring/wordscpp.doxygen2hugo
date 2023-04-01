@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::MoveToStructuredDocumentTag method
 linktitle: MoveToStructuredDocumentTag
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::MoveToStructuredDocumentTag method. Moves the cursor to the structured document tag in C++.
+description: 'Aspose::Words::DocumentBuilder::MoveToStructuredDocumentTag method. Moves the cursor to the structured document tag in C++.'
 type: docs
 weight: 5800
 url: /cpp/aspose.words/documentbuilder/movetostructureddocumenttag/

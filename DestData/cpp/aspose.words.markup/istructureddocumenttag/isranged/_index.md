@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::IStructuredDocumentTag::IsRanged method
 linktitle: IsRanged
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::IStructuredDocumentTag::IsRanged method. Returns true if this instance is a ranged structured document tag in C++.
+description: 'Aspose::Words::Markup::IStructuredDocumentTag::IsRanged method. Returns true if this instance is a ranged structured document tag in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.markup/istructureddocumenttag/isranged/

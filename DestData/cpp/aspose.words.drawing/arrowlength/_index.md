@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ArrowLength enum
 linktitle: ArrowLength
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ArrowLength enum. Length of the arrow at the end of a line in C++.
+description: 'Aspose::Words::Drawing::ArrowLength enum. Length of the arrow at the end of a line in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.drawing/arrowlength/

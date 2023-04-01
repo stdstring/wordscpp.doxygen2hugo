@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold method
 linktitle: get_FontResourcesSubsettingSizeThreshold
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold method. Controls which font resources need subsetting when saving to HTML, MHTML or EPUB. Default is %0 in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_FontResourcesSubsettingSizeThreshold method. Controls which font resources need subsetting when saving to HTML, MHTML or EPUB. Default is %0 in C++.'
 type: docs
 weight: 3000
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontresourcessubsettingsizethreshold/

@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMerge::set_TrimWhitespaces method
 linktitle: set_TrimWhitespaces
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMerge::set_TrimWhitespaces method. Setter for Aspose::Words::MailMerging::MailMerge::get_TrimWhitespaces in C++.
+description: 'Aspose::Words::MailMerging::MailMerge::set_TrimWhitespaces method. Setter for Aspose::Words::MailMerging::MailMerge::get_TrimWhitespaces in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words.mailmerging/mailmerge/set_trimwhitespaces/

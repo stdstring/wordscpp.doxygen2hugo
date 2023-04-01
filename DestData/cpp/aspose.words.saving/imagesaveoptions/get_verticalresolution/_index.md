@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution method
 linktitle: get_VerticalResolution
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution method. Gets or sets the vertical resolution for the generated images, in dots per inch in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::get_VerticalResolution method. Gets or sets the vertical resolution for the generated images, in dots per inch in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.saving/imagesaveoptions/get_verticalresolution/

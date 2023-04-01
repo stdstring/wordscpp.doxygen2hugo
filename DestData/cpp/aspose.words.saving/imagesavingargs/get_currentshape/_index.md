@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape method
 linktitle: get_CurrentShape
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape method. Gets the ShapeBase object corresponding to the shape or group shape that is about to be saved in C++.
+description: 'Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape method. Gets the ShapeBase object corresponding to the shape or group shape that is about to be saved in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/imagesavingargs/get_currentshape/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_WrapTrailSpaces method
 linktitle: set_WrapTrailSpaces
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_WrapTrailSpaces method. Line Wrap Trailing Spaces in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_WrapTrailSpaces method. Line Wrap Trailing Spaces in C++.'
 type: docs
 weight: 14300
 url: /cpp/aspose.words.settings/compatibilityoptions/set_wraptrailspaces/

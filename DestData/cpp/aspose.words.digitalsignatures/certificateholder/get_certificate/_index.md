@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::CertificateHolder::get_Certificate method
 linktitle: get_Certificate
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::CertificateHolder::get_Certificate method. Returns the instance of X509Certificate2 which holds private, public keys and certificate chain in C++.
+description: 'Aspose::Words::DigitalSignatures::CertificateHolder::get_Certificate method. Returns the instance of X509Certificate2 which holds private, public keys and certificate chain in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.digitalsignatures/certificateholder/get_certificate/

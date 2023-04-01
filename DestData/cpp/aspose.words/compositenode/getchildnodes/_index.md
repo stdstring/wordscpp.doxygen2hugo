@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::GetChildNodes method
 linktitle: GetChildNodes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode::GetChildNodes method. Returns a live collection of child nodes that match the specified type in C++.
+description: 'Aspose::Words::CompositeNode::GetChildNodes method. Returns a live collection of child nodes that match the specified type in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words/compositenode/getchildnodes/

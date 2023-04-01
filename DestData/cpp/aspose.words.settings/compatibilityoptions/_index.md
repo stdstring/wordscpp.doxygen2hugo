@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions class
 linktitle: CompatibilityOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions class. Contains compatibility options (that is, the user preferences entered on the Compatibility tab of the Options dialog in Microsoft Word) in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions class. Contains compatibility options (that is, the user preferences entered on the Compatibility tab of the Options dialog in Microsoft Word) in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.settings/compatibilityoptions/

@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_FirstPageTray method
 linktitle: get_FirstPageTray
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_FirstPageTray method. Gets the paper tray (bin) to use for the first page of a section. The value is implementation (printer) specific in C++.
+description: 'Aspose::Words::PageSetup::get_FirstPageTray method. Gets the paper tray (bin) to use for the first page of a section. The value is implementation (printer) specific in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words/pagesetup/get_firstpagetray/

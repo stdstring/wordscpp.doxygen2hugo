@@ -2,7 +2,7 @@
 title: Aspose::Words::Style::get_Aliases method
 linktitle: get_Aliases
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Style::get_Aliases method. Gets all aliases of this style. If style has no aliases then empty array of string is returned in C++.
+description: 'Aspose::Words::Style::get_Aliases method. Gets all aliases of this style. If style has no aliases then empty array of string is returned in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/style/get_aliases/

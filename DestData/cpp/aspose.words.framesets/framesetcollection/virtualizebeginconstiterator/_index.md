@@ -2,7 +2,7 @@
 title: Aspose::Words::Framesets::FramesetCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::Framesets::FramesetCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::Framesets::FramesetCollection class in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.framesets/framesetcollection/virtualizebeginconstiterator/

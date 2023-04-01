@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::get_FontEmbeddingMode method
 linktitle: get_FontEmbeddingMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::get_FontEmbeddingMode method. Specifies the font embedding mode in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::get_FontEmbeddingMode method. Specifies the font embedding mode in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_fontembeddingmode/

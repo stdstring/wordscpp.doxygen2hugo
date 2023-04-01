@@ -2,7 +2,7 @@
 title: Aspose::Words::PageSetup::get_BorderAlwaysInFront method
 linktitle: get_BorderAlwaysInFront
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PageSetup::get_BorderAlwaysInFront method. Specifies where the page border is positioned relative to intersecting texts and objects in C++.
+description: 'Aspose::Words::PageSetup::get_BorderAlwaysInFront method. Specifies where the page border is positioned relative to intersecting texts and objects in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/pagesetup/get_borderalwaysinfront/

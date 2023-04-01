@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Stroke::get_EndCap method
 linktitle: get_EndCap
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Stroke::get_EndCap method. Defines the cap style for the end of a stroke in C++.
+description: 'Aspose::Words::Drawing::Stroke::get_EndCap method. Defines the cap style for the end of a stroke in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.drawing/stroke/get_endcap/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::set_InternalMarginLeft method
 linktitle: set_InternalMarginLeft
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::set_InternalMarginLeft method. Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginLeft in C++.
+description: 'Aspose::Words::Drawing::TextBox::set_InternalMarginLeft method. Setter for Aspose::Words::Drawing::TextBox::get_InternalMarginLeft in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.drawing/textbox/set_internalmarginleft/

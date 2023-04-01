@@ -2,7 +2,7 @@
 title: Aspose::Words::HeaderFooterCollection class
 linktitle: HeaderFooterCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::HeaderFooterCollection class. Provides typed access to HeaderFooter nodes of a Section in C++.
+description: 'Aspose::Words::HeaderFooterCollection class. Provides typed access to HeaderFooter nodes of a Section in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words/headerfootercollection/

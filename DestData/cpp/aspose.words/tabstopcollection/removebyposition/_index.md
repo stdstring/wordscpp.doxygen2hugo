@@ -2,7 +2,7 @@
 title: Aspose::Words::TabStopCollection::RemoveByPosition method
 linktitle: RemoveByPosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TabStopCollection::RemoveByPosition method. Removes a tab stop at the specified position from the collection in C++.
+description: 'Aspose::Words::TabStopCollection::RemoveByPosition method. Removes a tab stop at the specified position from the collection in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words/tabstopcollection/removebyposition/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutOptions::set_Callback method
 linktitle: set_Callback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutOptions::set_Callback method. Sets IPageLayoutCallback implementation used by page layout model in C++.
+description: 'Aspose::Words::Layout::LayoutOptions::set_Callback method. Sets IPageLayoutCallback implementation used by page layout model in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.layout/layoutoptions/set_callback/

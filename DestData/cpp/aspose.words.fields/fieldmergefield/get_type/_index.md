@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldMergeField::get_Type method
 linktitle: get_Type
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldMergeField::get_Type method. Gets the Microsoft Word field type in C++.
+description: 'Aspose::Words::Fields::FieldMergeField::get_Type method. Gets the Microsoft Word field type in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldmergefield/get_type/

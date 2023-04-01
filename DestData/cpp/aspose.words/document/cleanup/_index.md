@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::Cleanup method
 linktitle: Cleanup
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::Cleanup method. Cleans unused styles and lists from the document in C++.
+description: 'Aspose::Words::Document::Cleanup method. Cleans unused styles and lists from the document in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/document/cleanup/

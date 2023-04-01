@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTag::Clear method
 linktitle: Clear
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTag::Clear method. Clears contents of this structured document tag and displays a placeholder if it is defined in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTag::Clear method. Clears contents of this structured document tag and displays a placeholder if it is defined in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.markup/structureddocumenttag/clear/

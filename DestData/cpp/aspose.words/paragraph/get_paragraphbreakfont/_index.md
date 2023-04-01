@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph::get_ParagraphBreakFont method
 linktitle: get_ParagraphBreakFont
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph::get_ParagraphBreakFont method. Provides access to the font formatting of the paragraph break character in C++.
+description: 'Aspose::Words::Paragraph::get_ParagraphBreakFont method. Provides access to the font formatting of the paragraph break character in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words/paragraph/get_paragraphbreakfont/

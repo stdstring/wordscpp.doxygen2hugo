@@ -2,7 +2,7 @@
 title: Aspose::Words::Shading::ClearFormatting method
 linktitle: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Shading::ClearFormatting method. Removes shading from the object in C++.
+description: 'Aspose::Words::Shading::ClearFormatting method. Removes shading from the object in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/shading/clearformatting/

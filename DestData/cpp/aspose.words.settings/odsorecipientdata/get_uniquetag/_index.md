@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoRecipientData::get_UniqueTag method
 linktitle: get_UniqueTag
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::OdsoRecipientData::get_UniqueTag method. Specifies the contents of a given record in the column containing unique data. The default value is null in C++.
+description: 'Aspose::Words::Settings::OdsoRecipientData::get_UniqueTag method. Specifies the contents of a given record in the column containing unique data. The default value is null in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.settings/odsorecipientdata/get_uniquetag/

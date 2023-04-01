@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::get_FirstChild method
 linktitle: get_FirstChild
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode::get_FirstChild method. Gets the first child of the node in C++.
+description: 'Aspose::Words::CompositeNode::get_FirstChild method. Gets the first child of the node in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/compositenode/get_firstchild/

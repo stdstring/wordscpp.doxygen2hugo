@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance method
 linktitle: get_AbsoluteHorizontalDistance
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance method. Gets or sets absolute horizontal floating table position specified by the table properties, in points. Default value is 0 in C++.
+description: 'Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance method. Gets or sets absolute horizontal floating table position specified by the table properties, in points. Default value is 0 in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.tables/table/get_absolutehorizontaldistance/

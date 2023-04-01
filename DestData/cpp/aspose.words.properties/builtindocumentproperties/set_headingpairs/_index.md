@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_HeadingPairs method
 linktitle: set_HeadingPairs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_HeadingPairs method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_HeadingPairs method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_HeadingPairs in C++.'
 type: docs
 weight: 4400
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_headingpairs/

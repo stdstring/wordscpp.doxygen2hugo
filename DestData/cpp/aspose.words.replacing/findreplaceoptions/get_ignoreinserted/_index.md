@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreInserted method
 linktitle: get_IgnoreInserted
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreInserted method. Gets or sets a boolean value indicating either to ignore text inside insert revisions. The default value is false in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::get_IgnoreInserted method. Gets or sets a boolean value indicating either to ignore text inside insert revisions. The default value is false in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_ignoreinserted/

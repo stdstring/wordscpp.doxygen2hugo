@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfoCollection::virtualizeEndIterator method
 linktitle: virtualizeEndIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeEndIterator method of Aspose::Words::Fonts::FontInfoCollection class in C++.
+description: 'How to use virtualizeEndIterator method of Aspose::Words::Fonts::FontInfoCollection class in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fonts/fontinfocollection/virtualizeenditerator/

@@ -2,7 +2,7 @@
 title: Aspose::Words::CompositeNode::get_LastChild method
 linktitle: get_LastChild
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CompositeNode::get_LastChild method. Gets the last child of the node in C++.
+description: 'Aspose::Words::CompositeNode::get_LastChild method. Gets the last child of the node in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/compositenode/get_lastchild/

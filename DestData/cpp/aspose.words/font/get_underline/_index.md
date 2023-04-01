@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_Underline method
 linktitle: get_Underline
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_Underline method. Gets or sets the type of underline applied to the font in C++.
+description: 'Aspose::Words::Font::get_Underline method. Gets or sets the type of underline applied to the font in C++.'
 type: docs
 weight: 5400
 url: /cpp/aspose.words/font/get_underline/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowLegendKey method
 linktitle: set_ShowLegendKey
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowLegendKey method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowLegendKey in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataLabel::set_ShowLegendKey method. Setter for Aspose::Words::Drawing::Charts::ChartDataLabel::get_ShowLegendKey in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.drawing.charts/chartdatalabel/set_showlegendkey/

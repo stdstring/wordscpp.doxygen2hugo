@@ -2,7 +2,7 @@
 title: Aspose::Words::TextColumnCollection::get_Spacing method
 linktitle: get_Spacing
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextColumnCollection::get_Spacing method. When columns are evenly spaced, gets or sets the amount of space between each column in points in C++.
+description: 'Aspose::Words::TextColumnCollection::get_Spacing method. When columns are evenly spaced, gets or sets the amount of space between each column in points in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/textcolumncollection/get_spacing/

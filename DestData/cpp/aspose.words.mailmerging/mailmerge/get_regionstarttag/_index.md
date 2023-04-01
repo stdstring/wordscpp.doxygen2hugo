@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMerge::get_RegionStartTag method
 linktitle: get_RegionStartTag
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMerge::get_RegionStartTag method. Gets or sets a mail merge region start tag in C++.
+description: 'Aspose::Words::MailMerging::MailMerge::get_RegionStartTag method. Gets or sets a mail merge region start tag in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.mailmerging/mailmerge/get_regionstarttag/

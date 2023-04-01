@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Security method
 linktitle: get_Security
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Security method. Specifies the security level of a document as a numeric value in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_Security method. Specifies the security level of a document as a numeric value in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_security/

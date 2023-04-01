@@ -2,7 +2,7 @@
 title: Aspose::Words::BorderCollection::ClearFormatting method
 linktitle: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BorderCollection::ClearFormatting method. Removes all borders of an object in C++.
+description: 'Aspose::Words::BorderCollection::ClearFormatting method. Removes all borders of an object in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/bordercollection/clearformatting/

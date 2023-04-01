@@ -2,7 +2,7 @@
 title: Aspose::Words::LoadFormatTest enum
 linktitle: LoadFormatTest
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::LoadFormatTest enum. LoadFormatTest enumeration in C++.
+description: 'Aspose::Words::LoadFormatTest enum. LoadFormatTest enumeration in C++.'
 type: docs
 weight: 9900
 url: /cpp/aspose.words/loadformattest/

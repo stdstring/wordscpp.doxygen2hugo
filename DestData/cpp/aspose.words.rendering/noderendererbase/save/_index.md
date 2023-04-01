@@ -2,7 +2,7 @@
 title: Aspose::Words::Rendering::NodeRendererBase::Save method
 linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Rendering::NodeRendererBase::Save method. Renders the shape into an image and saves into a stream in C++.
+description: 'Aspose::Words::Rendering::NodeRendererBase::Save method. Renders the shape into an image and saves into a stream in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.rendering/noderendererbase/save/

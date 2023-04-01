@@ -2,7 +2,7 @@
 title: Aspose::Words::Comment::Comment constructor
 linktitle: Comment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Comment::Comment constructor. Initializes a new instance of the Comment class in C++.
+description: 'Aspose::Words::Comment::Comment constructor. Initializes a new instance of the Comment class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/comment/comment/

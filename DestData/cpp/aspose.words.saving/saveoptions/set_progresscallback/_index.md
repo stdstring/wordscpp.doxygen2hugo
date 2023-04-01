@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::SaveOptions::set_ProgressCallback method
 linktitle: set_ProgressCallback
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::SaveOptions::set_ProgressCallback method. Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback in C++.
+description: 'Aspose::Words::Saving::SaveOptions::set_ProgressCallback method. Setter for Aspose::Words::Saving::SaveOptions::get_ProgressCallback in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.saving/saveoptions/set_progresscallback/

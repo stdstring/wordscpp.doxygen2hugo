@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning method
 linktitle: get_AdditionalTextPositioning
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning method. A flag specifying whether to write additional text positioning operators or not in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::get_AdditionalTextPositioning method. A flag specifying whether to write additional text positioning operators or not in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.saving/pdfsaveoptions/get_additionaltextpositioning/

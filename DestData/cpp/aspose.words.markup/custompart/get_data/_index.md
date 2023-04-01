@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::CustomPart::get_Data method
 linktitle: get_Data
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::CustomPart::get_Data method. Contains the data of this custom part in C++.
+description: 'Aspose::Words::Markup::CustomPart::get_Data method. Contains the data of this custom part in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.markup/custompart/get_data/

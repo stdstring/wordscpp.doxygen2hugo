@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus method
 linktitle: get_ContentStatus
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus method. Gets or sets the ContentStatus of the document in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_ContentStatus method. Gets or sets the ContentStatus of the document in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_contentstatus/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::set_EncryptionDetails method
 linktitle: set_EncryptionDetails
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::set_EncryptionDetails method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::set_EncryptionDetails method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_EncryptionDetails in C++.'
 type: docs
 weight: 4300
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_encryptiondetails/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::ThemeColors::get_Dark2 method
 linktitle: get_Dark2
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::ThemeColors::get_Dark2 method. Specifies color Dark 2 in C++.
+description: 'Aspose::Words::Themes::ThemeColors::get_Dark2 method. Specifies color Dark 2 in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.themes/themecolors/get_dark2/

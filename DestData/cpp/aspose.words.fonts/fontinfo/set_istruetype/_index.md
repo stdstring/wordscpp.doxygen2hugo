@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfo::set_IsTrueType method
 linktitle: set_IsTrueType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontInfo::set_IsTrueType method. Setter for Aspose::Words::Fonts::FontInfo::get_IsTrueType in C++.
+description: 'Aspose::Words::Fonts::FontInfo::set_IsTrueType method. Setter for Aspose::Words::Fonts::FontInfo::get_IsTrueType in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.fonts/fontinfo/set_istruetype/

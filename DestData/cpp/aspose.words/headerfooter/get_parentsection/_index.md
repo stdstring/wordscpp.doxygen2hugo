@@ -2,7 +2,7 @@
 title: Aspose::Words::HeaderFooter::get_ParentSection method
 linktitle: get_ParentSection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::HeaderFooter::get_ParentSection method. Gets the parent section of this story in C++.
+description: 'Aspose::Words::HeaderFooter::get_ParentSection method. Gets the parent section of this story in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/headerfooter/get_parentsection/

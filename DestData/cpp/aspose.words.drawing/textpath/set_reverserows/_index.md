@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::set_ReverseRows method
 linktitle: set_ReverseRows
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::set_ReverseRows method. Setter for Aspose::Words::Drawing::TextPath::get_ReverseRows in C++.
+description: 'Aspose::Words::Drawing::TextPath::set_ReverseRows method. Setter for Aspose::Words::Drawing::TextPath::get_ReverseRows in C++.'
 type: docs
 weight: 2800
 url: /cpp/aspose.words.drawing/textpath/set_reverserows/

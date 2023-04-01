@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_DropCapPosition method
 linktitle: get_DropCapPosition
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_DropCapPosition method. Gets or sets the position for a drop cap text in C++.
+description: 'Aspose::Words::ParagraphFormat::get_DropCapPosition method. Gets or sets the position for a drop cap text in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/paragraphformat/get_dropcapposition/

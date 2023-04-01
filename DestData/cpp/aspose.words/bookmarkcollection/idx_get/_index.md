@@ -2,7 +2,7 @@
 title: Aspose::Words::BookmarkCollection::idx_get method
 linktitle: idx_get
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BookmarkCollection::idx_get method. Returns a bookmark by name in C++.
+description: 'Aspose::Words::BookmarkCollection::idx_get method. Returns a bookmark by name in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/bookmarkcollection/idx_get/

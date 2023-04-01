@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties class
 linktitle: BuiltInDocumentProperties
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties class. A collection of built-in document properties in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties class. A collection of built-in document properties in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.properties/builtindocumentproperties/

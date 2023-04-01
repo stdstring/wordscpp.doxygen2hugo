@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension constructor
 linktitle: MergeFieldImageDimension
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension constructor. Creates an image dimension instance with the given value in points in C++.
+description: 'Aspose::Words::Fields::MergeFieldImageDimension::MergeFieldImageDimension constructor. Creates an image dimension instance with the given value in points in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/mergefieldimagedimension/mergefieldimagedimension/

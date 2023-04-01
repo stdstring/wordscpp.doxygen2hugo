@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet method
 linktitle: set_PageSet
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet in C++.
+description: 'Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet in C++.'
 type: docs
 weight: 1500
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_pageset/

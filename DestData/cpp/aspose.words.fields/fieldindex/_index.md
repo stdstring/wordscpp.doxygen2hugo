@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIndex class
 linktitle: FieldIndex
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIndex class. Implements the INDEX field in C++.
+description: 'Aspose::Words::Fields::FieldIndex class. Implements the INDEX field in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words.fields/fieldindex/

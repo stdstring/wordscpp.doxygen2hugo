@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::Solid method
 linktitle: Solid
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::Solid method. Sets the fill to a uniform color in C++.
+description: 'Aspose::Words::Drawing::Fill::Solid method. Sets the fill to a uniform color in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words.drawing/fill/solid/

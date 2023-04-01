@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentVisitor::VisitSubDocument method
 linktitle: VisitSubDocument
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentVisitor::VisitSubDocument method. Called when a subDocument is encountered in C++.
+description: 'Aspose::Words::DocumentVisitor::VisitSubDocument method. Called when a subDocument is encountered in C++.'
 type: docs
 weight: 4800
 url: /cpp/aspose.words/documentvisitor/visitsubdocument/

@@ -2,7 +2,7 @@
 title: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name method. Returns the name of region in C++.
+description: 'Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name method. Returns the name of region in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.mailmerging/mailmergeregioninfo/get_name/

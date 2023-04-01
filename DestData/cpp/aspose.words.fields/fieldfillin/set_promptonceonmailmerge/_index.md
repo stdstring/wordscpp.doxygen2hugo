@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFillIn::set_PromptOnceOnMailMerge method
 linktitle: set_PromptOnceOnMailMerge
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFillIn::set_PromptOnceOnMailMerge method. Setter for Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge in C++.
+description: 'Aspose::Words::Fields::FieldFillIn::set_PromptOnceOnMailMerge method. Setter for Aspose::Words::Fields::FieldFillIn::get_PromptOnceOnMailMerge in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldfillin/set_promptonceonmailmerge/

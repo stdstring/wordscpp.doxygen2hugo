@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Stroke::set_LineStyle method
 linktitle: set_LineStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Stroke::set_LineStyle method. Setter for Aspose::Words::Drawing::Stroke::get_LineStyle in C++.
+description: 'Aspose::Words::Drawing::Stroke::set_LineStyle method. Setter for Aspose::Words::Drawing::Stroke::get_LineStyle in C++.'
 type: docs
 weight: 3100
 url: /cpp/aspose.words.drawing/stroke/set_linestyle/

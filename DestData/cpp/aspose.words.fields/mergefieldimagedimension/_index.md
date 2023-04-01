@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::MergeFieldImageDimension class
 linktitle: MergeFieldImageDimension
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::MergeFieldImageDimension class. Represents an image dimension (i.e. the width or the height) used across a mail merge process in C++.
+description: 'Aspose::Words::Fields::MergeFieldImageDimension class. Represents an image dimension (i.e. the width or the height) used across a mail merge process in C++.'
 type: docs
 weight: 11400
 url: /cpp/aspose.words.fields/mergefieldimagedimension/

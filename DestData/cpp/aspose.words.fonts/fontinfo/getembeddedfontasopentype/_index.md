@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenType method
 linktitle: GetEmbeddedFontAsOpenType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenType method. Gets an embedded font file in OpenType format. Fonts in Embedded OpenType format are converted to OpenType in C++.
+description: 'Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenType method. Gets an embedded font file in OpenType format. Fonts in Embedded OpenType format are converted to OpenType in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fonts/fontinfo/getembeddedfontasopentype/

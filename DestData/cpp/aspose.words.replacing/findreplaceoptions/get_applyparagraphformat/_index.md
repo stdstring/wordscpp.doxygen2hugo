@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::FindReplaceOptions::get_ApplyParagraphFormat method
 linktitle: get_ApplyParagraphFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::FindReplaceOptions::get_ApplyParagraphFormat method. Paragraph formatting applied to new content in C++.
+description: 'Aspose::Words::Replacing::FindReplaceOptions::get_ApplyParagraphFormat method. Paragraph formatting applied to new content in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.replacing/findreplaceoptions/get_applyparagraphformat/

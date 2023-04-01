@@ -2,7 +2,7 @@
 title: Aspose::Words::Rendering::NodeRendererBase::RenderToSize method
 linktitle: RenderToSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Rendering::NodeRendererBase::RenderToSize method. Renders the shape into a Graphics object to a specified size in C++.
+description: 'Aspose::Words::Rendering::NodeRendererBase::RenderToSize method. Renders the shape into a Graphics object to a specified size in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.rendering/noderendererbase/rendertosize/

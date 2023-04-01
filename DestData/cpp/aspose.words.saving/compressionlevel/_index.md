@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::CompressionLevel enum
 linktitle: CompressionLevel
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::CompressionLevel enum. Compression level for OOXML files. (DOCX and DOTX files are internally a ZIP-archive, this property controls the compression level of the archive. Note, that FlatOpc file is not a ZIP-archive, therefore, this property does not affect the FlatOpc files.) in C++.
+description: 'Aspose::Words::Saving::CompressionLevel enum. Compression level for OOXML files. (DOCX and DOTX files are internally a ZIP-archive, this property controls the compression level of the archive. Note, that FlatOpc file is not a ZIP-archive, therefore, this property does not affect the FlatOpc files.) in C++.'
 type: docs
 weight: 4700
 url: /cpp/aspose.words.saving/compressionlevel/

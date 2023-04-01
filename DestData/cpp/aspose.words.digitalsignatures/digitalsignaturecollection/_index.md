@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection class
 linktitle: DigitalSignatureCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DigitalSignatures::DigitalSignatureCollection class. Provides a read-only collection of digital signatures attached to a document in C++.
+description: 'Aspose::Words::DigitalSignatures::DigitalSignatureCollection class. Provides a read-only collection of digital signatures attached to a document in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/

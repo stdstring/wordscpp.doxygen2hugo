@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtension class
 linktitle: WebExtension
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtension class. Represents a web extension object in C++.
+description: 'Aspose::Words::WebExtensions::WebExtension class. Represents a web extension object in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.webextensions/webextension/

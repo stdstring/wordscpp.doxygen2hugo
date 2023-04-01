@@ -2,7 +2,7 @@
 title: Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::DigitalSignatures::DigitalSignatureCollection class in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.digitalsignatures/digitalsignaturecollection/virtualizebeginconstiterator/

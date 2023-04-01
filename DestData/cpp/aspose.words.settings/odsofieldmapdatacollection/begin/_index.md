@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoFieldMapDataCollection::begin method
 linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: How to use begin method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.
+description: 'How to use begin method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/begin/

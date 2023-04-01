@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertCheckBox method
 linktitle: InsertCheckBox
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertCheckBox method. Inserts a checkbox form field at the current position in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertCheckBox method. Inserts a checkbox form field at the current position in C++.'
 type: docs
 weight: 2900
 url: /cpp/aspose.words/documentbuilder/insertcheckbox/

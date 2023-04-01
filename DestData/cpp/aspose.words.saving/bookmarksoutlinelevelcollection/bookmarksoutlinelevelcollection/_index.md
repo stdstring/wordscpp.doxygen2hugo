@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::BookmarksOutlineLevelCollection constructor
 linktitle: BookmarksOutlineLevelCollection
 second_title: Aspose.Words for C++ API Reference
-description: How to use BookmarksOutlineLevelCollection constructor of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.
+description: 'How to use BookmarksOutlineLevelCollection constructor of Aspose::Words::Saving::BookmarksOutlineLevelCollection class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/bookmarksoutlinelevelcollection/

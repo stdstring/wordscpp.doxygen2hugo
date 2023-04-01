@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource method
 linktitle: get_FieldUpdateCultureSource
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource method. Specifies what culture to use to format the field result in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_FieldUpdateCultureSource method. Specifies what culture to use to format the field result in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.fields/fieldoptions/get_fieldupdateculturesource/

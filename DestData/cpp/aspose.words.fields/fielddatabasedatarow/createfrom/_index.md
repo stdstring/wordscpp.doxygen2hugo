@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabaseDataRow::CreateFrom method
 linktitle: CreateFrom
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabaseDataRow::CreateFrom method. Initializes a new instance of the FieldDatabaseDataRow class from the DataRow instance in C++.
+description: 'Aspose::Words::Fields::FieldDatabaseDataRow::CreateFrom method. Initializes a new instance of the FieldDatabaseDataRow class from the DataRow instance in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fielddatabasedatarow/createfrom/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::get_FieldDatabaseProvider method
 linktitle: get_FieldDatabaseProvider
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::get_FieldDatabaseProvider method. Gets a provider that returns a query result for the FieldDatabase field in C++.
+description: 'Aspose::Words::Fields::FieldOptions::get_FieldDatabaseProvider method. Gets a provider that returns a query result for the FieldDatabase field in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldoptions/get_fielddatabaseprovider/

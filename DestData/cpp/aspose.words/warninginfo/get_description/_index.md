@@ -2,7 +2,7 @@
 title: Aspose::Words::WarningInfo::get_Description method
 linktitle: get_Description
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WarningInfo::get_Description method. Returns the description of the warning in C++.
+description: 'Aspose::Words::WarningInfo::get_Description method. Returns the description of the warning in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/warninginfo/get_description/

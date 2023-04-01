@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIfComparisonResult enum
 linktitle: FieldIfComparisonResult
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIfComparisonResult enum. Specifies the result of the IF field condition evaluation in C++.
+description: 'Aspose::Words::Fields::FieldIfComparisonResult enum. Specifies the result of the IF field condition evaluation in C++.'
 type: docs
 weight: 12600
 url: /cpp/aspose.words.fields/fieldifcomparisonresult/

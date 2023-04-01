@@ -2,7 +2,7 @@
 title: Aspose::Words::TabStopCollection::Equals method
 linktitle: Equals
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TabStopCollection::Equals method. Determines whether the specified TabStopCollection is equal in value to the current TabStopCollection in C++.
+description: 'Aspose::Words::TabStopCollection::Equals method. Determines whether the specified TabStopCollection is equal in value to the current TabStopCollection in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words/tabstopcollection/equals/

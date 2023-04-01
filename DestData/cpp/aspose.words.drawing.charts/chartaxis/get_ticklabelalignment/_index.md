@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment method
 linktitle: get_TickLabelAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment method. Gets or sets text alignment of axis tick labels in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelAlignment method. Gets or sets text alignment of axis tick labels in C++.'
 type: docs
 weight: 2000
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabelalignment/

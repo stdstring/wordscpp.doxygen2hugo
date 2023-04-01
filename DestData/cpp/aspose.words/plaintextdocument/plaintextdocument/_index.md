@@ -2,7 +2,7 @@
 title: Aspose::Words::PlainTextDocument::PlainTextDocument constructor
 linktitle: PlainTextDocument
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::PlainTextDocument::PlainTextDocument constructor. Creates a plain text document from a stream. Automatically detects the file format in C++.
+description: 'Aspose::Words::PlainTextDocument::PlainTextDocument constructor. Creates a plain text document from a stream. Automatically detects the file format in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/plaintextdocument/plaintextdocument/

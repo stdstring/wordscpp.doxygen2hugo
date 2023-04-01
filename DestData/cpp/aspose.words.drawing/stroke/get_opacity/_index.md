@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Stroke::get_Opacity method
 linktitle: get_Opacity
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Stroke::get_Opacity method. Defines the amount of transparency of a stroke. Valid range is from 0 to 1 in C++.
+description: 'Aspose::Words::Drawing::Stroke::get_Opacity method. Defines the amount of transparency of a stroke. Valid range is from 0 to 1 in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.drawing/stroke/get_opacity/

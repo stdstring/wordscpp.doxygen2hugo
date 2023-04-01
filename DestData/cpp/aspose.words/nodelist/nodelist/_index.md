@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeList::NodeList constructor
 linktitle: NodeList
 second_title: Aspose.Words for C++ API Reference
-description: How to use NodeList constructor of Aspose::Words::NodeList class in C++.
+description: 'How to use NodeList constructor of Aspose::Words::NodeList class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/nodelist/nodelist/

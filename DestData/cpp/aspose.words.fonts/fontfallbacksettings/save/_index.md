@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontFallbackSettings::Save method
 linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontFallbackSettings::Save method. Saves the current fallback settings to stream in C++.
+description: 'Aspose::Words::Fonts::FontFallbackSettings::Save method. Saves the current fallback settings to stream in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fonts/fontfallbacksettings/save/

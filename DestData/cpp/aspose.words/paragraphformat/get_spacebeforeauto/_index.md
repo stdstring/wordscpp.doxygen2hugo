@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto method
 linktitle: get_SpaceBeforeAuto
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto method. True if the amount of spacing before the paragraph is set automatically in C++.
+description: 'Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto method. True if the amount of spacing before the paragraph is set automatically in C++.'
 type: docs
 weight: 3300
 url: /cpp/aspose.words/paragraphformat/get_spacebeforeauto/

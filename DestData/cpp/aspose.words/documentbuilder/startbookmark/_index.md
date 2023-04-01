@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::StartBookmark method
 linktitle: StartBookmark
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::StartBookmark method. Marks the current position in the document as a bookmark start in C++.
+description: 'Aspose::Words::DocumentBuilder::StartBookmark method. Marks the current position in the document as a bookmark start in C++.'
 type: docs
 weight: 6500
 url: /cpp/aspose.words/documentbuilder/startbookmark/

@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBase::get_BackgroundShape method
 linktitle: get_BackgroundShape
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBase::get_BackgroundShape method. Gets or sets the background shape of the document. Can be null in C++.
+description: 'Aspose::Words::DocumentBase::get_BackgroundShape method. Gets or sets the background shape of the document. Can be null in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/documentbase/get_backgroundshape/

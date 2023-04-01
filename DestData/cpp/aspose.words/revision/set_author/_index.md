@@ -2,7 +2,7 @@
 title: Aspose::Words::Revision::set_Author method
 linktitle: set_Author
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Revision::set_Author method. Setter for Aspose::Words::Revision::get_Author in C++.
+description: 'Aspose::Words::Revision::set_Author method. Setter for Aspose::Words::Revision::get_Author in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words/revision/set_author/

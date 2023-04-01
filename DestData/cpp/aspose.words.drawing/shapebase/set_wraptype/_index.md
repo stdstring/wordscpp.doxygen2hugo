@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_WrapType method
 linktitle: set_WrapType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_WrapType method. Setter for Aspose::Words::Drawing::ShapeBase::get_WrapType in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_WrapType method. Setter for Aspose::Words::Drawing::ShapeBase::get_WrapType in C++.'
 type: docs
 weight: 8900
 url: /cpp/aspose.words.drawing/shapebase/set_wraptype/

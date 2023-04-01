@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::MoveToField method
 linktitle: MoveToField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::MoveToField method. Moves the cursor to a field in the document in C++.
+description: 'Aspose::Words::DocumentBuilder::MoveToField method. Moves the cursor to a field in the document in C++.'
 type: docs
 weight: 5300
 url: /cpp/aspose.words/documentbuilder/movetofield/

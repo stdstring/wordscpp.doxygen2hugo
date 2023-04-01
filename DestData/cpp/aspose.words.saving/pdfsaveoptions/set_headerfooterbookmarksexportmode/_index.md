@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::set_HeaderFooterBookmarksExportMode method
 linktitle: set_HeaderFooterBookmarksExportMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::set_HeaderFooterBookmarksExportMode method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_HeaderFooterBookmarksExportMode in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::set_HeaderFooterBookmarksExportMode method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_HeaderFooterBookmarksExportMode in C++.'
 type: docs
 weight: 4700
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_headerfooterbookmarksexportmode/

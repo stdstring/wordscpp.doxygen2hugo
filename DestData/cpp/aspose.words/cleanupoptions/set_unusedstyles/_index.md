@@ -2,7 +2,7 @@
 title: Aspose::Words::CleanupOptions::set_UnusedStyles method
 linktitle: set_UnusedStyles
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::CleanupOptions::set_UnusedStyles method. Setter for Aspose::Words::CleanupOptions::get_UnusedStyles in C++.
+description: 'Aspose::Words::CleanupOptions::set_UnusedStyles method. Setter for Aspose::Words::CleanupOptions::get_UnusedStyles in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words/cleanupoptions/set_unusedstyles/

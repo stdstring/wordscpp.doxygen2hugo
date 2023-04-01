@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::get_Kerning method
 linktitle: get_Kerning
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::get_Kerning method. Gets or sets the font size at which kerning starts in C++.
+description: 'Aspose::Words::Font::get_Kerning method. Gets or sets the font size at which kerning starts in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words/font/get_kerning/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Revision class
 linktitle: Revision
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Revision class. Represents a revision (tracked change) in a document node or style. Use RevisionType to check the type of this revision in C++.
+description: 'Aspose::Words::Revision class. Represents a revision (tracked change) in a document node or style. Use RevisionType to check the type of this revision in C++.'
 type: docs
 weight: 5200
 url: /cpp/aspose.words/revision/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Node::NextPreOrder method
 linktitle: NextPreOrder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Node::NextPreOrder method. Gets next node according to the pre-order tree traversal algorithm in C++.
+description: 'Aspose::Words::Node::NextPreOrder method. Gets next node according to the pre-order tree traversal algorithm in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words/node/nextpreorder/

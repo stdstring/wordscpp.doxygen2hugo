@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextPath::get_Spacing method
 linktitle: get_Spacing
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextPath::get_Spacing method. Defines the amount of spacing for text. 1 means 100% in C++.
+description: 'Aspose::Words::Drawing::TextPath::get_Spacing method. Defines the amount of spacing for text. 1 means 100% in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.drawing/textpath/get_spacing/

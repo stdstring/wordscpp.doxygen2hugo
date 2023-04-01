@@ -2,7 +2,7 @@
 title: Aspose::Words::Framesets::FramesetCollection::GetEnumerator method
 linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: How to use GetEnumerator method of Aspose::Words::Framesets::FramesetCollection class in C++.
+description: 'How to use GetEnumerator method of Aspose::Words::Framesets::FramesetCollection class in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.framesets/framesetcollection/getenumerator/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionTextEffect enum
 linktitle: RevisionTextEffect
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionTextEffect enum. Allows to specify decoration effect for revisions of document text in C++.
+description: 'Aspose::Words::Layout::RevisionTextEffect enum. Allows to specify decoration effect for revisions of document text in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.layout/revisiontexteffect/

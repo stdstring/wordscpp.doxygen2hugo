@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_ForgetLastTabAlignment method
 linktitle: set_ForgetLastTabAlignment
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_ForgetLastTabAlignment method. Ignore Width of Last Tab Stop When Aligning Paragraph If It Is Not Left Aligned in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_ForgetLastTabAlignment method. Ignore Width of Last Tab Stop When Aligning Paragraph If It Is Not Left Aligned in C++.'
 type: docs
 weight: 9900
 url: /cpp/aspose.words.settings/compatibilityoptions/set_forgetlasttabalignment/

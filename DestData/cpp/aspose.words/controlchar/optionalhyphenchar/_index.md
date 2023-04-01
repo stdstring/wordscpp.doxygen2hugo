@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::OptionalHyphenChar field
 linktitle: OptionalHyphenChar
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::OptionalHyphenChar field. Optional Hyphen in Microsoft Word is (char)31 in C++.
+description: 'Aspose::Words::ControlChar::OptionalHyphenChar field. Optional Hyphen in Microsoft Word is (char)31 in C++.'
 type: docs
 weight: 2400
 url: /cpp/aspose.words/controlchar/optionalhyphenchar/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAutoTextList::set_ListStyle method
 linktitle: set_ListStyle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAutoTextList::set_ListStyle method. Setter for Aspose::Words::Fields::FieldAutoTextList::get_ListStyle in C++.
+description: 'Aspose::Words::Fields::FieldAutoTextList::set_ListStyle method. Setter for Aspose::Words::Fields::FieldAutoTextList::get_ListStyle in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldautotextlist/set_liststyle/

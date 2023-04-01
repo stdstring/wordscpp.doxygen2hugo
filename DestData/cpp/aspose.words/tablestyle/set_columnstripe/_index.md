@@ -2,7 +2,7 @@
 title: Aspose::Words::TableStyle::set_ColumnStripe method
 linktitle: set_ColumnStripe
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TableStyle::set_ColumnStripe method. Setter for Aspose::Words::TableStyle::get_ColumnStripe in C++.
+description: 'Aspose::Words::TableStyle::set_ColumnStripe method. Setter for Aspose::Words::TableStyle::get_ColumnStripe in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words/tablestyle/set_columnstripe/

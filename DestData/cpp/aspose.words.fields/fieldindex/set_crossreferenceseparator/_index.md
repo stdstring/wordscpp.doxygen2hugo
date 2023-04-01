@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldIndex::set_CrossReferenceSeparator method
 linktitle: set_CrossReferenceSeparator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldIndex::set_CrossReferenceSeparator method. Setter for Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator in C++.
+description: 'Aspose::Words::Fields::FieldIndex::set_CrossReferenceSeparator method. Setter for Aspose::Words::Fields::FieldIndex::get_CrossReferenceSeparator in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/fieldindex/set_crossreferenceseparator/

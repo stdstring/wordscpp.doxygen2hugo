@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_Font method
 linktitle: get_Font
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_Font method. Returns an object that represents current font formatting properties in C++.
+description: 'Aspose::Words::DocumentBuilder::get_Font method. Returns an object that represents current font formatting properties in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words/documentbuilder/get_font/

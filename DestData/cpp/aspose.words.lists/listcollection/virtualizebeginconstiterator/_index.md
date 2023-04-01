@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListCollection::virtualizeBeginConstIterator method
 linktitle: virtualizeBeginConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeBeginConstIterator method of Aspose::Words::Lists::ListCollection class in C++.
+description: 'How to use virtualizeBeginConstIterator method of Aspose::Words::Lists::ListCollection class in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.lists/listcollection/virtualizebeginconstiterator/

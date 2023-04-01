@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartLegend::get_LegendEntries method
 linktitle: get_LegendEntries
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartLegend::get_LegendEntries method. Returns a collection of legend entries for all series and trendlines of the parent chart in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartLegend::get_LegendEntries method. Returns a collection of legend entries for all series and trendlines of the parent chart in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.drawing.charts/chartlegend/get_legendentries/

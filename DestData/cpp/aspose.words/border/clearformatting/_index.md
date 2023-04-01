@@ -2,7 +2,7 @@
 title: Aspose::Words::Border::ClearFormatting method
 linktitle: ClearFormatting
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Border::ClearFormatting method. Resets border properties to default values in C++.
+description: 'Aspose::Words::Border::ClearFormatting method. Resets border properties to default values in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/border/clearformatting/

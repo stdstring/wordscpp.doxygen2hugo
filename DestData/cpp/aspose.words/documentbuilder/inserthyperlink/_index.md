@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertHyperlink method
 linktitle: InsertHyperlink
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertHyperlink method. Inserts a hyperlink into the document in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertHyperlink method. Inserts a hyperlink into the document in C++.'
 type: docs
 weight: 3600
 url: /cpp/aspose.words/documentbuilder/inserthyperlink/

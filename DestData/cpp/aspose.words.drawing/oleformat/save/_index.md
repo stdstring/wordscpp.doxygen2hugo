@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::OleFormat::Save method
 linktitle: Save
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::OleFormat::Save method. Saves the data of the embedded object into the specified stream in C++.
+description: 'Aspose::Words::Drawing::OleFormat::Save method. Saves the data of the embedded object into the specified stream in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.drawing/oleformat/save/

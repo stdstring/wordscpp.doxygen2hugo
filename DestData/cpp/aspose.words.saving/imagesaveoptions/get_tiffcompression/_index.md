@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::ImageSaveOptions::get_TiffCompression method
 linktitle: get_TiffCompression
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::ImageSaveOptions::get_TiffCompression method. Gets or sets the type of compression to apply when saving generated images to the TIFF format in C++.
+description: 'Aspose::Words::Saving::ImageSaveOptions::get_TiffCompression method. Gets or sets the type of compression to apply when saving generated images to the TIFF format in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.saving/imagesaveoptions/get_tiffcompression/

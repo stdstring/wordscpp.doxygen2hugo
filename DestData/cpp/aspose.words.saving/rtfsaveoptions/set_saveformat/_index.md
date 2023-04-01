@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::RtfSaveOptions::set_SaveFormat method
 linktitle: set_SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::RtfSaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat in C++.
+description: 'Aspose::Words::Saving::RtfSaveOptions::set_SaveFormat method. Setter for Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.saving/rtfsaveoptions/set_saveformat/

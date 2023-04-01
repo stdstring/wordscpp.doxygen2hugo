@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAddIn class
 linktitle: FieldAddIn
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAddIn class. Implements the ADDIN field in C++.
+description: 'Aspose::Words::Fields::FieldAddIn class. Implements the ADDIN field in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/fieldaddin/

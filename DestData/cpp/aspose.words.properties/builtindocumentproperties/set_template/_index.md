@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_Template method
 linktitle: set_Template
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Template method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Template in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_Template method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Template in C++.'
 type: docs
 weight: 5900
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_template/

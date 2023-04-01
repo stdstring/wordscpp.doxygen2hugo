@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::get_Result method
 linktitle: get_Result
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::get_Result method. Gets or sets a string that represents the result of this form field in C++.
+description: 'Aspose::Words::Fields::FormField::get_Result method. Gets or sets a string that represents the result of this form field in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/formfield/get_result/

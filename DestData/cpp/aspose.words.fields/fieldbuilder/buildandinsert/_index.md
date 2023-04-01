@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldBuilder::BuildAndInsert method
 linktitle: BuildAndInsert
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldBuilder::BuildAndInsert method. Builds and inserts a field into the document before the specified inline node in C++.
+description: 'Aspose::Words::Fields::FieldBuilder::BuildAndInsert method. Builds and inserts a field into the document before the specified inline node in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldbuilder/buildandinsert/

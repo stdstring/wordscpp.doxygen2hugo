@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionProperty class
 linktitle: WebExtensionProperty
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionProperty class. Specifies a web extension custom property in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionProperty class. Specifies a web extension custom property in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.webextensions/webextensionproperty/

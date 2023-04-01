@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldEditTime class
 linktitle: FieldEditTime
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldEditTime class. Implements the EDITTIME field in C++.
+description: 'Aspose::Words::Fields::FieldEditTime class. Implements the EDITTIME field in C++.'
 type: docs
 weight: 3700
 url: /cpp/aspose.words.fields/fieldedittime/

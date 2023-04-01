@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::AdjustWithEffects method
 linktitle: AdjustWithEffects
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::AdjustWithEffects method. Adds to the source rectangle values of the effect extent and returns the final rectangle in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::AdjustWithEffects method. Adds to the source rectangle values of the effect extent and returns the final rectangle in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing/shapebase/adjustwitheffects/

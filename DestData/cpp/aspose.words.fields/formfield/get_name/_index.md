@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::get_Name method
 linktitle: get_Name
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::get_Name method. Gets or sets the form field name in C++.
+description: 'Aspose::Words::Fields::FormField::get_Name method. Gets or sets the form field name in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/formfield/get_name/

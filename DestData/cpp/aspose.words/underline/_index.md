@@ -2,7 +2,7 @@
 title: Aspose::Words::Underline enum
 linktitle: Underline
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Underline enum. Indicates type of the underline applied to a font in C++.
+description: 'Aspose::Words::Underline enum. Indicates type of the underline applied to a font in C++.'
 type: docs
 weight: 12600
 url: /cpp/aspose.words/underline/

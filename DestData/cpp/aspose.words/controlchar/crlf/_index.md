@@ -2,7 +2,7 @@
 title: Aspose::Words::ControlChar::CrLf method
 linktitle: CrLf
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ControlChar::CrLf method. Carriage return followed by line feed character: "\x000d\x000a" or "\r\n". Not used as such in Microsoft Word documents, but commonly used in text files for paragraph breaks in C++.
+description: 'Aspose::Words::ControlChar::CrLf method. Carriage return followed by line feed character: "\x000d\x000a" or "\r\n". Not used as such in Microsoft Word documents, but commonly used in text files for paragraph breaks in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/controlchar/crlf/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::set_Thumbnail method
 linktitle: set_Thumbnail
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::set_Thumbnail method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::set_Thumbnail method. Setter for Aspose::Words::Properties::BuiltInDocumentProperties::get_Thumbnail in C++.'
 type: docs
 weight: 6000
 url: /cpp/aspose.words.properties/builtindocumentproperties/set_thumbnail/

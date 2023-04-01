@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_AlignTablesRowByRow method
 linktitle: get_AlignTablesRowByRow
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_AlignTablesRowByRow method. Align Table Rows Independently in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_AlignTablesRowByRow method. Align Table Rows Independently in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.settings/compatibilityoptions/get_aligntablesrowbyrow/

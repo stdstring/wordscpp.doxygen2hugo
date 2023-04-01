@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldSymbol::get_CharacterCode method
 linktitle: get_CharacterCode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldSymbol::get_CharacterCode method. Gets or sets the character's code point value in decimal or hexadecimal in C++.
+description: 'Aspose::Words::Fields::FieldSymbol::get_CharacterCode method. Gets or sets the character''s code point value in decimal or hexadecimal in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldsymbol/get_charactercode/

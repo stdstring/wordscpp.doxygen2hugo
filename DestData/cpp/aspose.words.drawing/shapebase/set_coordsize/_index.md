@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::set_CoordSize method
 linktitle: set_CoordSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::set_CoordSize method. Setter for Aspose::Words::Drawing::ShapeBase::get_CoordSize in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::set_CoordSize method. Setter for Aspose::Words::Drawing::ShapeBase::get_CoordSize in C++.'
 type: docs
 weight: 6600
 url: /cpp/aspose.words.drawing/shapebase/set_coordsize/

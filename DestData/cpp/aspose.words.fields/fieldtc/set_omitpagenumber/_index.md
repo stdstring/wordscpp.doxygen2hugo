@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldTC::set_OmitPageNumber method
 linktitle: set_OmitPageNumber
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldTC::set_OmitPageNumber method. Setter for Aspose::Words::Fields::FieldTC::get_OmitPageNumber in C++.
+description: 'Aspose::Words::Fields::FieldTC::set_OmitPageNumber method. Setter for Aspose::Words::Fields::FieldTC::get_OmitPageNumber in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldtc/set_omitpagenumber/

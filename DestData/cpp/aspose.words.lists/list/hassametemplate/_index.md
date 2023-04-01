@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List::HasSameTemplate method
 linktitle: HasSameTemplate
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List::HasSameTemplate method. Returns true if the current list and the given list are created from the same template in C++.
+description: 'Aspose::Words::Lists::List::HasSameTemplate method. Returns true if the current list and the given list are created from the same template in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.lists/list/hassametemplate/

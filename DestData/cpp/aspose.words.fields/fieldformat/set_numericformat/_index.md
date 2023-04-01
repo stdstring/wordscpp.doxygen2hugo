@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFormat::set_NumericFormat method
 linktitle: set_NumericFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFormat::set_NumericFormat method. Setter for Aspose::Words::Fields::FieldFormat::get_NumericFormat in C++.
+description: 'Aspose::Words::Fields::FieldFormat::set_NumericFormat method. Setter for Aspose::Words::Fields::FieldFormat::get_NumericFormat in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fields/fieldformat/set_numericformat/

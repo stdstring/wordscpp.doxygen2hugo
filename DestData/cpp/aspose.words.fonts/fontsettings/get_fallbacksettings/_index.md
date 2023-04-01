@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontSettings::get_FallbackSettings method
 linktitle: get_FallbackSettings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontSettings::get_FallbackSettings method. Settings related to font fallback mechanism in C++.
+description: 'Aspose::Words::Fonts::FontSettings::get_FallbackSettings method. Settings related to font fallback mechanism in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fonts/fontsettings/get_fallbacksettings/

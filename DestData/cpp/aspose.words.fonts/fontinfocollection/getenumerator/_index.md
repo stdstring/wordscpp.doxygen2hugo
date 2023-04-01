@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontInfoCollection::GetEnumerator method
 linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontInfoCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all items in the collection in C++.
+description: 'Aspose::Words::Fonts::FontInfoCollection::GetEnumerator method. Returns an enumerator object that can be used to iterate over all items in the collection in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.fonts/fontinfocollection/getenumerator/

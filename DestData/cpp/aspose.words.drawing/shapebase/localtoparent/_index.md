@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::ShapeBase::LocalToParent method
 linktitle: LocalToParent
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::ShapeBase::LocalToParent method. Converts a value from the local coordinate space into the coordinate space of the parent shape in C++.
+description: 'Aspose::Words::Drawing::ShapeBase::LocalToParent method. Converts a value from the local coordinate space into the coordinate space of the parent shape in C++.'
 type: docs
 weight: 5800
 url: /cpp/aspose.words.drawing/shapebase/localtoparent/

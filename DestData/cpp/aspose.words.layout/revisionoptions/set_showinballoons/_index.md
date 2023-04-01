@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::RevisionOptions::set_ShowInBalloons method
 linktitle: set_ShowInBalloons
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::RevisionOptions::set_ShowInBalloons method. Setter for Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons in C++.
+description: 'Aspose::Words::Layout::RevisionOptions::set_ShowInBalloons method. Setter for Aspose::Words::Layout::RevisionOptions::get_ShowInBalloons in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words.layout/revisionoptions/set_showinballoons/

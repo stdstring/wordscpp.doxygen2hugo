@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::LoadOptions::set_LoadFormat method
 linktitle: set_LoadFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::LoadOptions::set_LoadFormat method. Setter for Aspose::Words::Loading::LoadOptions::get_LoadFormat in C++.
+description: 'Aspose::Words::Loading::LoadOptions::set_LoadFormat method. Setter for Aspose::Words::Loading::LoadOptions::get_LoadFormat in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.loading/loadoptions/set_loadformat/

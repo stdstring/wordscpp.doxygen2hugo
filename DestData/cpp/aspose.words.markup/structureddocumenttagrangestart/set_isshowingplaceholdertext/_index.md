@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_IsShowingPlaceholderText method
 linktitle: set_IsShowingPlaceholderText
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_IsShowingPlaceholderText method. Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_IsShowingPlaceholderText in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_IsShowingPlaceholderText method. Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_IsShowingPlaceholderText in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_isshowingplaceholdertext/

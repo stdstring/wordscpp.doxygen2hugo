@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfSaveOptions::set_PreblendImages method
 linktitle: set_PreblendImages
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfSaveOptions::set_PreblendImages method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages in C++.
+description: 'Aspose::Words::Saving::PdfSaveOptions::set_PreblendImages method. Setter for Aspose::Words::Saving::PdfSaveOptions::get_PreblendImages in C++.'
 type: docs
 weight: 5400
 url: /cpp/aspose.words.saving/pdfsaveoptions/set_preblendimages/

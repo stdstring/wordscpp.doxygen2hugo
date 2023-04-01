@@ -2,7 +2,7 @@
 title: Aspose::Words::WebExtensions::WebExtensionBindingCollection class
 linktitle: WebExtensionBindingCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::WebExtensions::WebExtensionBindingCollection class. Specifies a list of web extension bindings in C++.
+description: 'Aspose::Words::WebExtensions::WebExtensionBindingCollection class. Specifies a list of web extension bindings in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.webextensions/webextensionbindingcollection/

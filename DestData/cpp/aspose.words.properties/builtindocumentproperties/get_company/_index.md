@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_Company method
 linktitle: get_Company
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_Company method. Gets or sets the company property in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_Company method. Gets or sets the company property in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_company/

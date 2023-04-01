@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldKeywords class
 linktitle: FieldKeywords
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldKeywords class. Implements the KEYWORDS field in C++.
+description: 'Aspose::Words::Fields::FieldKeywords class. Implements the KEYWORDS field in C++.'
 type: docs
 weight: 6100
 url: /cpp/aspose.words.fields/fieldkeywords/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::AutoFit method
 linktitle: AutoFit
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::AutoFit method. Resizes the table and cells according to the specified auto fit behavior in C++.
+description: 'Aspose::Words::Tables::Table::AutoFit method. Resizes the table and cells according to the specified auto fit behavior in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.tables/table/autofit/

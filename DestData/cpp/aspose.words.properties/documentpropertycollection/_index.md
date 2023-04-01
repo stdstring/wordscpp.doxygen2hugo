@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::DocumentPropertyCollection class
 linktitle: DocumentPropertyCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::DocumentPropertyCollection class. Base class for BuiltInDocumentProperties and CustomDocumentProperties collections in C++.
+description: 'Aspose::Words::Properties::DocumentPropertyCollection class. Base class for BuiltInDocumentProperties and CustomDocumentProperties collections in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.properties/documentpropertycollection/

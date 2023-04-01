@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldListNum::get_ListName method
 linktitle: get_ListName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldListNum::get_ListName method. Gets or sets the name of the abstract numbering definition used for the numbering in C++.
+description: 'Aspose::Words::Fields::FieldListNum::get_ListName method. Gets or sets the name of the abstract numbering definition used for the numbering in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.fields/fieldlistnum/get_listname/

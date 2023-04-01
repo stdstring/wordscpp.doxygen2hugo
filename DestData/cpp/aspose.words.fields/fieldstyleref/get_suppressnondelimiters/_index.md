@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldStyleRef::get_SuppressNonDelimiters method
 linktitle: get_SuppressNonDelimiters
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldStyleRef::get_SuppressNonDelimiters method. Gets or sets whether to suppress non-delimiter characters in C++.
+description: 'Aspose::Words::Fields::FieldStyleRef::get_SuppressNonDelimiters method. Gets or sets whether to suppress non-delimiter characters in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words.fields/fieldstyleref/get_suppressnondelimiters/

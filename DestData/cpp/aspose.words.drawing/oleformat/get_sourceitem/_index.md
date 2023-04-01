@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::OleFormat::get_SourceItem method
 linktitle: get_SourceItem
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::OleFormat::get_SourceItem method. Gets or sets a string that is used to identify the portion of the source file that is being linked in C++.
+description: 'Aspose::Words::Drawing::OleFormat::get_SourceItem method. Gets or sets a string that is used to identify the portion of the source file that is being linked in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.drawing/oleformat/get_sourceitem/

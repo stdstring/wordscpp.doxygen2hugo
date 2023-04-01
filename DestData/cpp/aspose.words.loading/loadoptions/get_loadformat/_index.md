@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::LoadOptions::get_LoadFormat method
 linktitle: get_LoadFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::LoadOptions::get_LoadFormat method. Specifies the format of the document to be loaded. Default is Auto in C++.
+description: 'Aspose::Words::Loading::LoadOptions::get_LoadFormat method. Specifies the format of the document to be loaded. Default is Auto in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.loading/loadoptions/get_loadformat/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder method
 linktitle: get_FontsFolder
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder method. Specifies the physical folder where fonts are saved when exporting a document to HTML. Default is an empty string in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_FontsFolder method. Specifies the physical folder where fonts are saved when exporting a document to HTML. Default is an empty string in C++.'
 type: docs
 weight: 3200
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_fontsfolder/

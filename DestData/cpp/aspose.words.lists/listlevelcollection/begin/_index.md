@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevelCollection::begin method
 linktitle: begin
 second_title: Aspose.Words for C++ API Reference
-description: How to use begin method of Aspose::Words::Lists::ListLevelCollection class in C++.
+description: 'How to use begin method of Aspose::Words::Lists::ListLevelCollection class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.lists/listlevelcollection/begin/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagCollection::GetById method
 linktitle: GetById
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagCollection::GetById method. Returns the structured document tag by identifier in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagCollection::GetById method. Returns the structured document tag by identifier in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.markup/structureddocumenttagcollection/getbyid/

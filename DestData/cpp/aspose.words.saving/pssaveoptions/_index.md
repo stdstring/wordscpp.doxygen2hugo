@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PsSaveOptions class
 linktitle: PsSaveOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PsSaveOptions class. Can be used to specify additional options when saving a document into the Ps format in C++.
+description: 'Aspose::Words::Saving::PsSaveOptions class. Can be used to specify additional options when saving a document into the Ps format in C++.'
 type: docs
 weight: 2600
 url: /cpp/aspose.words.saving/pssaveoptions/

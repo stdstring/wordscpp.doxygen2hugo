@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List::get_IsListStyleReference method
 linktitle: get_IsListStyleReference
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List::get_IsListStyleReference method. Returns true if this list is a reference to a list style in C++.
+description: 'Aspose::Words::Lists::List::get_IsListStyleReference method. Returns true if this list is a reference to a list style in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.lists/list/get_isliststylereference/

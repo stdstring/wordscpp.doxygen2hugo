@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::Odso::set_DataSource method
 linktitle: set_DataSource
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::Odso::set_DataSource method. Specifies the location of the external data source to be connected to a document to perform the mail merge. The default value is an empty string in C++.
+description: 'Aspose::Words::Settings::Odso::set_DataSource method. Specifies the location of the external data source to be connected to a document to perform the mail merge. The default value is an empty string in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.settings/odso/set_datasource/

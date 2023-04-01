@@ -2,7 +2,7 @@
 title: Aspose::Words::NodeImporter::NodeImporter constructor
 linktitle: NodeImporter
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::NodeImporter::NodeImporter constructor. Initializes a new instance of the NodeImporter class in C++.
+description: 'Aspose::Words::NodeImporter::NodeImporter constructor. Initializes a new instance of the NodeImporter class in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words/nodeimporter/nodeimporter/

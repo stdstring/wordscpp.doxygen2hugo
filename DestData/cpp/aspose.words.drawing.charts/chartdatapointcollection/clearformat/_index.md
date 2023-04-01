@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataPointCollection::ClearFormat method
 linktitle: ClearFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataPointCollection::ClearFormat method. Clears format of all ChartDataPoint in this collection in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataPointCollection::ClearFormat method. Clears format of all ChartDataPoint in this collection in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.drawing.charts/chartdatapointcollection/clearformat/

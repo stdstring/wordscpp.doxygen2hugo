@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutEnumerator::MoveFirstChild method
 linktitle: MoveFirstChild
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutEnumerator::MoveFirstChild method. Moves to the first child entity in C++.
+description: 'Aspose::Words::Layout::LayoutEnumerator::MoveFirstChild method. Moves to the first child entity in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words.layout/layoutenumerator/movefirstchild/

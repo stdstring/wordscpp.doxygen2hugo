@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::get_Bold method
 linktitle: get_Bold
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::get_Bold method. True if the font is formatted as bold in C++.
+description: 'Aspose::Words::DocumentBuilder::get_Bold method. True if the font is formatted as bold in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words/documentbuilder/get_bold/

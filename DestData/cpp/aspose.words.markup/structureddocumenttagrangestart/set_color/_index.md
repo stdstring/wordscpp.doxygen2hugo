@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Color method
 linktitle: set_Color
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Color method. Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Color in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeStart::set_Color method. Setter for Aspose::Words::Markup::StructuredDocumentTagRangeStart::get_Color in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words.markup/structureddocumenttagrangestart/set_color/

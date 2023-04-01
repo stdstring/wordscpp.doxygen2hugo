@@ -2,7 +2,7 @@
 title: Aspose::Words::TableStyle::get_RowStripe method
 linktitle: get_RowStripe
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TableStyle::get_RowStripe method. Gets or sets a number of rows to include in the banding when the style specifies odd/even row banding in C++.
+description: 'Aspose::Words::TableStyle::get_RowStripe method. Gets or sets a number of rows to include in the banding when the style specifies odd/even row banding in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words/tablestyle/get_rowstripe/

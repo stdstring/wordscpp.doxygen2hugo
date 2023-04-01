@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeValue method
 linktitle: get_BarcodeValue
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeValue method. Gets the barcode value in C++.
+description: 'Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeValue method. Gets the barcode value in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.fields/fieldmergebarcode/get_barcodevalue/

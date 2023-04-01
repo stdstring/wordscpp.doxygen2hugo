@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListCollection::AddCopy method
 linktitle: AddCopy
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::ListCollection::AddCopy method. Creates a new list by copying the specified list and adding it to the collection of lists in the document in C++.
+description: 'Aspose::Words::Lists::ListCollection::AddCopy method. Creates a new list by copying the specified list and adding it to the collection of lists in the document in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.lists/listcollection/addcopy/

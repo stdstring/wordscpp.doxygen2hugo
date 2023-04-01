@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Cell::get_IsFirstCell method
 linktitle: get_IsFirstCell
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Cell::get_IsFirstCell method. True if this is the first cell inside a row; false otherwise in C++.
+description: 'Aspose::Words::Tables::Cell::get_IsFirstCell method. True if this is the first cell inside a row; false otherwise in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.tables/cell/get_isfirstcell/

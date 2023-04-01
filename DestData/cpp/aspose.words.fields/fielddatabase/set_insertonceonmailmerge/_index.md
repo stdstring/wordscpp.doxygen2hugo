@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabase::set_InsertOnceOnMailMerge method
 linktitle: set_InsertOnceOnMailMerge
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabase::set_InsertOnceOnMailMerge method. Sets whether to insert data at the beginning of a merge in C++.
+description: 'Aspose::Words::Fields::FieldDatabase::set_InsertOnceOnMailMerge method. Sets whether to insert data at the beginning of a merge in C++.'
 type: docs
 weight: 1600
 url: /cpp/aspose.words.fields/fielddatabase/set_insertonceonmailmerge/

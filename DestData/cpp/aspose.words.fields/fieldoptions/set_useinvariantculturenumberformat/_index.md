@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldOptions::set_UseInvariantCultureNumberFormat method
 linktitle: set_UseInvariantCultureNumberFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldOptions::set_UseInvariantCultureNumberFormat method. Setter for Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat in C++.
+description: 'Aspose::Words::Fields::FieldOptions::set_UseInvariantCultureNumberFormat method. Setter for Aspose::Words::Fields::FieldOptions::get_UseInvariantCultureNumberFormat in C++.'
 type: docs
 weight: 3900
 url: /cpp/aspose.words.fields/fieldoptions/set_useinvariantculturenumberformat/

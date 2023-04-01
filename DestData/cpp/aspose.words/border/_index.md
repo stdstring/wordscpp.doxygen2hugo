@@ -2,7 +2,7 @@
 title: Aspose::Words::Border class
 linktitle: Border
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Border class. Represents a border of an object in C++.
+description: 'Aspose::Words::Border class. Represents a border of an object in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/border/

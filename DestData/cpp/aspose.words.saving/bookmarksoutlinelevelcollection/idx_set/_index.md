@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set method
 linktitle: idx_set
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set method. Gets or a sets a bookmark outline level by the bookmark name in C++.
+description: 'Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set method. Gets or a sets a bookmark outline level by the bookmark name in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.saving/bookmarksoutlinelevelcollection/idx_set/

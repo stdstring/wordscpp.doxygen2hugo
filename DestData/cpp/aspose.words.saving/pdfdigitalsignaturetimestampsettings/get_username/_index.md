@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_UserName method
 linktitle: get_UserName
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_UserName method. Timestamp server user name in C++.
+description: 'Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings::get_UserName method. Timestamp server user name in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.saving/pdfdigitalsignaturetimestampsettings/get_username/

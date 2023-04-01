@@ -2,7 +2,7 @@
 title: Aspose::Words::DocumentBuilder::InsertHtml method
 linktitle: InsertHtml
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::DocumentBuilder::InsertHtml method. Inserts an HTML string into the document in C++.
+description: 'Aspose::Words::DocumentBuilder::InsertHtml method. Inserts an HTML string into the document in C++.'
 type: docs
 weight: 3500
 url: /cpp/aspose.words/documentbuilder/inserthtml/

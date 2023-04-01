@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartDataPoint::get_Format method
 linktitle: get_Format
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartDataPoint::get_Format method. Provides access to fill and line formatting of this data point in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartDataPoint::get_Format method. Provides access to fill and line formatting of this data point in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.drawing.charts/chartdatapoint/get_format/

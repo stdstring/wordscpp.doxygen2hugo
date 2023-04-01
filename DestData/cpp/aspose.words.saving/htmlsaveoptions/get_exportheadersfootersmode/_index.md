@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode method
 linktitle: get_ExportHeadersFootersMode
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode method. Specifies how headers and footers are output to HTML, MHTML or EPUB. Default value is PerSection for HTML/MHTML and None for EPUB in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::get_ExportHeadersFootersMode method. Specifies how headers and footers are output to HTML, MHTML or EPUB. Default value is PerSection for HTML/MHTML and None for EPUB in C++.'
 type: docs
 weight: 1700
 url: /cpp/aspose.words.saving/htmlsaveoptions/get_exportheadersfootersmode/

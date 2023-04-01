@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::TableCollection class
 linktitle: TableCollection
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::TableCollection class. Provides typed access to a collection of Table nodes in C++.
+description: 'Aspose::Words::Tables::TableCollection class. Provides typed access to a collection of Table nodes in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.tables/tablecollection/

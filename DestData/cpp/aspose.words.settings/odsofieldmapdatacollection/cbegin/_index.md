@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoFieldMapDataCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::Settings::OdsoFieldMapDataCollection class in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words.settings/odsofieldmapdatacollection/cbegin/

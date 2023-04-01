@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::GradientStopCollection::GetEnumerator method
 linktitle: GetEnumerator
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::GradientStopCollection::GetEnumerator method. Returns an enumerator that iterates through the collection in C++.
+description: 'Aspose::Words::Drawing::GradientStopCollection::GetEnumerator method. Returns an enumerator that iterates through the collection in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words.drawing/gradientstopcollection/getenumerator/

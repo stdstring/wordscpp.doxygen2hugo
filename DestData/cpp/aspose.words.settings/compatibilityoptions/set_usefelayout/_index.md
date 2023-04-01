@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::set_UseFELayout method
 linktitle: set_UseFELayout
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::set_UseFELayout method. Do Not Bypass East Asian/Complex Script Layout Code in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::set_UseFELayout method. Do Not Bypass East Asian/Complex Script Layout Code in C++.'
 type: docs
 weight: 13400
 url: /cpp/aspose.words.settings/compatibilityoptions/set_usefelayout/

@@ -2,7 +2,7 @@
 title: Aspose::Words::BuildVersionInfo::get_Version method
 linktitle: get_Version
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BuildVersionInfo::get_Version method. Gets the product version in C++.
+description: 'Aspose::Words::BuildVersionInfo::get_Version method. Gets the product version in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/buildversioninfo/get_version/

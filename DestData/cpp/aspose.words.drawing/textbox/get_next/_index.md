@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::TextBox::get_Next method
 linktitle: get_Next
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::TextBox::get_Next method. Returns or sets a TextBox that represents the next TextBox in a sequence of shapes in C++.
+description: 'Aspose::Words::Drawing::TextBox::get_Next method. Returns or sets a TextBox that represents the next TextBox in a sequence of shapes in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.drawing/textbox/get_next/

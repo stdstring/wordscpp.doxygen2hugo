@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseIndentAsNumberingTabStop method
 linktitle: get_DoNotUseIndentAsNumberingTabStop
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseIndentAsNumberingTabStop method. Ignore Hanging Indent When Creating Tab Stop After Numbering in C++.
+description: 'Aspose::Words::Settings::CompatibilityOptions::get_DoNotUseIndentAsNumberingTabStop method. Ignore Hanging Indent When Creating Tab Stop After Numbering in C++.'
 type: docs
 weight: 2200
 url: /cpp/aspose.words.settings/compatibilityoptions/get_donotuseindentasnumberingtabstop/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart method
 linktitle: set_ContinuousSectionPageNumberingRestart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart method. Setter for Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart in C++.
+description: 'Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart method. Setter for Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.layout/layoutoptions/set_continuoussectionpagenumberingrestart/

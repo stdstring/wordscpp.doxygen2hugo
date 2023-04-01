@@ -2,7 +2,7 @@
 title: Aspose::Words::FileFormatInfo::get_LoadFormat method
 linktitle: get_LoadFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::FileFormatInfo::get_LoadFormat method. Gets the detected document format in C++.
+description: 'Aspose::Words::FileFormatInfo::get_LoadFormat method. Gets the detected document format in C++.'
 type: docs
 weight: 400
 url: /cpp/aspose.words/fileformatinfo/get_loadformat/

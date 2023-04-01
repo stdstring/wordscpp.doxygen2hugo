@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAddressBlock::set_FormatAddressOnCountryOrRegion method
 linktitle: set_FormatAddressOnCountryOrRegion
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAddressBlock::set_FormatAddressOnCountryOrRegion method. Setter for Aspose::Words::Fields::FieldAddressBlock::get_FormatAddressOnCountryOrRegion in C++.
+description: 'Aspose::Words::Fields::FieldAddressBlock::set_FormatAddressOnCountryOrRegion method. Setter for Aspose::Words::Fields::FieldAddressBlock::get_FormatAddressOnCountryOrRegion in C++.'
 type: docs
 weight: 900
 url: /cpp/aspose.words.fields/fieldaddressblock/set_formataddressoncountryorregion/

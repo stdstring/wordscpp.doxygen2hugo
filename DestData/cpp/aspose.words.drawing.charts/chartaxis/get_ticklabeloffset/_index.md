@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelOffset method
 linktitle: get_TickLabelOffset
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelOffset method. Gets or sets the distance of labels from the axis in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartAxis::get_TickLabelOffset method. Gets or sets the distance of labels from the axis in C++.'
 type: docs
 weight: 2100
 url: /cpp/aspose.words.drawing.charts/chartaxis/get_ticklabeloffset/

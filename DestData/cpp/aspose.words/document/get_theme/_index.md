@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_Theme method
 linktitle: get_Theme
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_Theme method. Gets the Theme object for this document in C++.
+description: 'Aspose::Words::Document::get_Theme method. Gets the Theme object for this document in C++.'
 type: docs
 weight: 5000
 url: /cpp/aspose.words/document/get_theme/

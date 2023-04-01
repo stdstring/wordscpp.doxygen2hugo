@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::DropDownItemCollection::virtualizeEndConstIterator method
 linktitle: virtualizeEndConstIterator
 second_title: Aspose.Words for C++ API Reference
-description: How to use virtualizeEndConstIterator method of Aspose::Words::Fields::DropDownItemCollection class in C++.
+description: 'How to use virtualizeEndConstIterator method of Aspose::Words::Fields::DropDownItemCollection class in C++.'
 type: docs
 weight: 1800
 url: /cpp/aspose.words.fields/dropdownitemcollection/virtualizeendconstiterator/

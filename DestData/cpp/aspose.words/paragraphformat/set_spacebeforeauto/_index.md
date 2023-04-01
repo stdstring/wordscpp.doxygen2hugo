@@ -2,7 +2,7 @@
 title: Aspose::Words::ParagraphFormat::set_SpaceBeforeAuto method
 linktitle: set_SpaceBeforeAuto
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::ParagraphFormat::set_SpaceBeforeAuto method. Setter for Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto in C++.
+description: 'Aspose::Words::ParagraphFormat::set_SpaceBeforeAuto method. Setter for Aspose::Words::ParagraphFormat::get_SpaceBeforeAuto in C++.'
 type: docs
 weight: 6900
 url: /cpp/aspose.words/paragraphformat/set_spacebeforeauto/

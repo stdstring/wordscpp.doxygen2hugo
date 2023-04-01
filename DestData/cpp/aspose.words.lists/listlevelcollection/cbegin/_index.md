@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::ListLevelCollection::cbegin method
 linktitle: cbegin
 second_title: Aspose.Words for C++ API Reference
-description: How to use cbegin method of Aspose::Words::Lists::ListLevelCollection class in C++.
+description: 'How to use cbegin method of Aspose::Words::Lists::ListLevelCollection class in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.lists/listlevelcollection/cbegin/

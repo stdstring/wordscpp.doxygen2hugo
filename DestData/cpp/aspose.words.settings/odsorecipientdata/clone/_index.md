@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::OdsoRecipientData::Clone method
 linktitle: Clone
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::OdsoRecipientData::Clone method. Returns a deep clone of this object in C++.
+description: 'Aspose::Words::Settings::OdsoRecipientData::Clone method. Returns a deep clone of this object in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.settings/odsorecipientdata/clone/

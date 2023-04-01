@@ -2,7 +2,7 @@
 title: Aspose::Words::Loading::LoadOptions::get_FontSettings method
 linktitle: get_FontSettings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Loading::LoadOptions::get_FontSettings method. Allows to specify document font settings in C++.
+description: 'Aspose::Words::Loading::LoadOptions::get_FontSettings method. Allows to specify document font settings in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.loading/loadoptions/get_fontsettings/

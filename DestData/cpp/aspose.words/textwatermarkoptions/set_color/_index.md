@@ -2,7 +2,7 @@
 title: Aspose::Words::TextWatermarkOptions::set_Color method
 linktitle: set_Color
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::TextWatermarkOptions::set_Color method. Setter for Aspose::Words::TextWatermarkOptions::get_Color in C++.
+description: 'Aspose::Words::TextWatermarkOptions::set_Color method. Setter for Aspose::Words::TextWatermarkOptions::get_Color in C++.'
 type: docs
 weight: 700
 url: /cpp/aspose.words/textwatermarkoptions/set_color/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Font::set_LocaleIdBi method
 linktitle: set_LocaleIdBi
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Font::set_LocaleIdBi method. Setter for Aspose::Words::Font::get_LocaleIdBi in C++.
+description: 'Aspose::Words::Font::set_LocaleIdBi method. Setter for Aspose::Words::Font::get_LocaleIdBi in C++.'
 type: docs
 weight: 7300
 url: /cpp/aspose.words/font/set_localeidbi/

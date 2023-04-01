@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::get_FootnoteOptions method
 linktitle: get_FootnoteOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::get_FootnoteOptions method. Provides options that control numbering and positioning of footnotes in this document in C++.
+description: 'Aspose::Words::Document::get_FootnoteOptions method. Provides options that control numbering and positioning of footnotes in this document in C++.'
 type: docs
 weight: 2500
 url: /cpp/aspose.words/document/get_footnoteoptions/

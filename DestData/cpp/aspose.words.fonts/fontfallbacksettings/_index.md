@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::FontFallbackSettings class
 linktitle: FontFallbackSettings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::FontFallbackSettings class. Specifies font fallback mechanism settings in C++.
+description: 'Aspose::Words::Fonts::FontFallbackSettings class. Specifies font fallback mechanism settings in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fonts/fontfallbacksettings/

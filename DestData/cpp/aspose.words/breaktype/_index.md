@@ -2,7 +2,7 @@
 title: Aspose::Words::BreakType enum
 linktitle: BreakType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::BreakType enum. Specifies type of a break inside a document in C++.
+description: 'Aspose::Words::BreakType enum. Specifies type of a break inside a document in C++.'
 type: docs
 weight: 8200
 url: /cpp/aspose.words/breaktype/

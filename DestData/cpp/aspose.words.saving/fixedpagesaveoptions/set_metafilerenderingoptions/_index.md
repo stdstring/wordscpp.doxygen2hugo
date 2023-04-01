@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions method
 linktitle: set_MetafileRenderingOptions
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions in C++.
+description: 'Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions method. Setter for Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.saving/fixedpagesaveoptions/set_metafilerenderingoptions/

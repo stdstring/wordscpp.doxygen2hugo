@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Fill::get_GradientAngle method
 linktitle: get_GradientAngle
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Fill::get_GradientAngle method. Gets or sets the angle of the gradient fill in C++.
+description: 'Aspose::Words::Drawing::Fill::get_GradientAngle method. Gets or sets the angle of the gradient fill in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.drawing/fill/get_gradientangle/

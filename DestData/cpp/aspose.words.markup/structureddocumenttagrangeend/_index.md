@@ -2,7 +2,7 @@
 title: Aspose::Words::Markup::StructuredDocumentTagRangeEnd class
 linktitle: StructuredDocumentTagRangeEnd
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Markup::StructuredDocumentTagRangeEnd class. Represents an end of ranged structured document tag which accepts multi-sections content. See also StructuredDocumentTagRangeStart node in C++.
+description: 'Aspose::Words::Markup::StructuredDocumentTagRangeEnd class. Represents an end of ranged structured document tag which accepts multi-sections content. See also StructuredDocumentTagRangeStart node in C++.'
 type: docs
 weight: 1300
 url: /cpp/aspose.words.markup/structureddocumenttagrangeend/

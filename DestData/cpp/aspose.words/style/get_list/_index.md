@@ -2,7 +2,7 @@
 title: Aspose::Words::Style::get_List method
 linktitle: get_List
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Style::get_List method. Gets the list that defines formatting of this list style in C++.
+description: 'Aspose::Words::Style::get_List method. Gets the list that defines formatting of this list style in C++.'
 type: docs
 weight: 1000
 url: /cpp/aspose.words/style/get_list/

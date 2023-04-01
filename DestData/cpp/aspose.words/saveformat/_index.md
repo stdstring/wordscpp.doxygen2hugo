@@ -2,7 +2,7 @@
 title: Aspose::Words::SaveFormat enum
 linktitle: SaveFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::SaveFormat enum. Indicates the format in which the document is saved in C++.
+description: 'Aspose::Words::SaveFormat enum. Indicates the format in which the document is saved in C++.'
 type: docs
 weight: 11400
 url: /cpp/aspose.words/saveformat/

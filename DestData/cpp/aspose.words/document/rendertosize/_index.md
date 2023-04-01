@@ -2,7 +2,7 @@
 title: Aspose::Words::Document::RenderToSize method
 linktitle: RenderToSize
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Document::RenderToSize method. Renders a document page into a object to a specified size in C++.
+description: 'Aspose::Words::Document::RenderToSize method. Renders a document page into a object to a specified size in C++.'
 type: docs
 weight: 6600
 url: /cpp/aspose.words/document/rendertosize/

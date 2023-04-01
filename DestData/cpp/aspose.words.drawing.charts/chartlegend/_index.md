@@ -2,7 +2,7 @@
 title: Aspose::Words::Drawing::Charts::ChartLegend class
 linktitle: ChartLegend
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Drawing::Charts::ChartLegend class. Represents chart legend properties in C++.
+description: 'Aspose::Words::Drawing::Charts::ChartLegend class. Represents chart legend properties in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.drawing.charts/chartlegend/

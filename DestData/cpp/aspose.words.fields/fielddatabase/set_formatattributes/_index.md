@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDatabase::set_FormatAttributes method
 linktitle: set_FormatAttributes
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDatabase::set_FormatAttributes method. Sets which attributes of the format are to be applied to the table in C++.
+description: 'Aspose::Words::Fields::FieldDatabase::set_FormatAttributes method. Sets which attributes of the format are to be applied to the table in C++.'
 type: docs
 weight: 1400
 url: /cpp/aspose.words.fields/fielddatabase/set_formatattributes/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Settings::Odso::get_DataSourceType method
 linktitle: get_DataSourceType
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Settings::Odso::get_DataSourceType method. Specifies the type of the external data source to be connected to as part of the ODSO connection information for this mail merge. The default value is Default in C++.
+description: 'Aspose::Words::Settings::Odso::get_DataSourceType method. Specifies the type of the external data source to be connected to as part of the ODSO connection information for this mail merge. The default value is Default in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.settings/odso/get_datasourcetype/

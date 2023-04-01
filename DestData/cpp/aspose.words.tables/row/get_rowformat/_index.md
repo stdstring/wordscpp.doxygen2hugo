@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Row::get_RowFormat method
 linktitle: get_RowFormat
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Row::get_RowFormat method. Provides access to the formatting properties of the row in C++.
+description: 'Aspose::Words::Tables::Row::get_RowFormat method. Provides access to the formatting properties of the row in C++.'
 type: docs
 weight: 1100
 url: /cpp/aspose.words.tables/row/get_rowformat/

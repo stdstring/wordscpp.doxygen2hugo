@@ -2,7 +2,7 @@
 title: Aspose::Words::Lists::List::get_ListId method
 linktitle: get_ListId
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Lists::List::get_ListId method. Gets the unique identifier of the list in C++.
+description: 'Aspose::Words::Lists::List::get_ListId method. Gets the unique identifier of the list in C++.'
 type: docs
 weight: 800
 url: /cpp/aspose.words.lists/list/get_listid/

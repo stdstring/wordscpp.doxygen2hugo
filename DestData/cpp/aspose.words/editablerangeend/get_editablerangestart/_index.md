@@ -2,7 +2,7 @@
 title: Aspose::Words::EditableRangeEnd::get_EditableRangeStart method
 linktitle: get_EditableRangeStart
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::EditableRangeEnd::get_EditableRangeStart method. Corresponding EditableRangeStart, received by ID in C++.
+description: 'Aspose::Words::EditableRangeEnd::get_EditableRangeStart method. Corresponding EditableRangeStart, received by ID in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words/editablerangeend/get_editablerangestart/

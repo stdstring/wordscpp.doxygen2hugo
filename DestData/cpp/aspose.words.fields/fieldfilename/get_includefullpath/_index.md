@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldFileName::get_IncludeFullPath method
 linktitle: get_IncludeFullPath
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldFileName::get_IncludeFullPath method. Gets or sets whether to include the full file path name in C++.
+description: 'Aspose::Words::Fields::FieldFileName::get_IncludeFullPath method. Gets or sets whether to include the full file path name in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldfilename/get_includefullpath/

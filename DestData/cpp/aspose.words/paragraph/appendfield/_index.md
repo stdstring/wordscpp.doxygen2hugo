@@ -2,7 +2,7 @@
 title: Aspose::Words::Paragraph::AppendField method
 linktitle: AppendField
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Paragraph::AppendField method. Appends a field to this paragraph in C++.
+description: 'Aspose::Words::Paragraph::AppendField method. Appends a field to this paragraph in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.words/paragraph/appendfield/

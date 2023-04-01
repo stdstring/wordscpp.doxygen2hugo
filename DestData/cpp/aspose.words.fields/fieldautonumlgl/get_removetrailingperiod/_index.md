@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod method
 linktitle: get_RemoveTrailingPeriod
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod method. Gets or sets whether to display the number without a trailing period in C++.
+description: 'Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod method. Gets or sets whether to display the number without a trailing period in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.fields/fieldautonumlgl/get_removetrailingperiod/

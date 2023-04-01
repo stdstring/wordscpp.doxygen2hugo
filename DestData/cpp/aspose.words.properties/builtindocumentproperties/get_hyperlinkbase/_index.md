@@ -2,7 +2,7 @@
 title: Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase method
 linktitle: get_HyperlinkBase
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase method. Specifies the base string used for evaluating relative hyperlinks in this document in C++.
+description: 'Aspose::Words::Properties::BuiltInDocumentProperties::get_HyperlinkBase method. Specifies the base string used for evaluating relative hyperlinks in this document in C++.'
 type: docs
 weight: 1200
 url: /cpp/aspose.words.properties/builtindocumentproperties/get_hyperlinkbase/

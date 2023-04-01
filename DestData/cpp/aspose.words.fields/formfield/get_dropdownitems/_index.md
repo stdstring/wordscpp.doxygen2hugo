@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FormField::get_DropDownItems method
 linktitle: get_DropDownItems
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FormField::get_DropDownItems method. Provides access to the items of a dropdown form field in C++.
+description: 'Aspose::Words::Fields::FormField::get_DropDownItems method. Provides access to the items of a dropdown form field in C++.'
 type: docs
 weight: 600
 url: /cpp/aspose.words.fields/formfield/get_dropdownitems/

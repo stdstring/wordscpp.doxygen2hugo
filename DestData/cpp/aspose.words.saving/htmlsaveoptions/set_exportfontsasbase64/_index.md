@@ -2,7 +2,7 @@
 title: Aspose::Words::Saving::HtmlSaveOptions::set_ExportFontsAsBase64 method
 linktitle: set_ExportFontsAsBase64
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Saving::HtmlSaveOptions::set_ExportFontsAsBase64 method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontsAsBase64 in C++.
+description: 'Aspose::Words::Saving::HtmlSaveOptions::set_ExportFontsAsBase64 method. Setter for Aspose::Words::Saving::HtmlSaveOptions::get_ExportFontsAsBase64 in C++.'
 type: docs
 weight: 6100
 url: /cpp/aspose.words.saving/htmlsaveoptions/set_exportfontsasbase64/

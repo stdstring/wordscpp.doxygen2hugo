@@ -2,7 +2,7 @@
 title: Aspose::Words::Fields::FieldDde::set_IsLinked method
 linktitle: set_IsLinked
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fields::FieldDde::set_IsLinked method. Setter for Aspose::Words::Fields::FieldDde::get_IsLinked in C++.
+description: 'Aspose::Words::Fields::FieldDde::set_IsLinked method. Setter for Aspose::Words::Fields::FieldDde::get_IsLinked in C++.'
 type: docs
 weight: 1900
 url: /cpp/aspose.words.fields/fielddde/set_islinked/

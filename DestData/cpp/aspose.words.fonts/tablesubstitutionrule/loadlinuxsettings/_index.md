@@ -2,7 +2,7 @@
 title: Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings method
 linktitle: LoadLinuxSettings
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings method. Loads predefined table substitution settings for Linux platform in C++.
+description: 'Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings method. Loads predefined table substitution settings for Linux platform in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.words.fonts/tablesubstitutionrule/loadlinuxsettings/

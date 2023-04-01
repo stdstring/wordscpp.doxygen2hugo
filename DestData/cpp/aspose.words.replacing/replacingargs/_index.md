@@ -2,7 +2,7 @@
 title: Aspose::Words::Replacing::ReplacingArgs class
 linktitle: ReplacingArgs
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Replacing::ReplacingArgs class. Provides data for a custom replace operation in C++.
+description: 'Aspose::Words::Replacing::ReplacingArgs class. Provides data for a custom replace operation in C++.'
 type: docs
 weight: 200
 url: /cpp/aspose.words.replacing/replacingargs/

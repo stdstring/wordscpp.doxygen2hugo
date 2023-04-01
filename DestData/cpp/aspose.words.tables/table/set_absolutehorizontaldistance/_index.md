@@ -2,7 +2,7 @@
 title: Aspose::Words::Tables::Table::set_AbsoluteHorizontalDistance method
 linktitle: set_AbsoluteHorizontalDistance
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Tables::Table::set_AbsoluteHorizontalDistance method. Setter for Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance in C++.
+description: 'Aspose::Words::Tables::Table::set_AbsoluteHorizontalDistance method. Setter for Aspose::Words::Tables::Table::get_AbsoluteHorizontalDistance in C++.'
 type: docs
 weight: 4100
 url: /cpp/aspose.words.tables/table/set_absolutehorizontaldistance/

@@ -2,7 +2,7 @@
 title: Aspose::Words::Themes::ThemeFonts::get_ComplexScript method
 linktitle: get_ComplexScript
 second_title: Aspose.Words for C++ API Reference
-description: Aspose::Words::Themes::ThemeFonts::get_ComplexScript method. Specifies font name for ComplexScript characters in C++.
+description: 'Aspose::Words::Themes::ThemeFonts::get_ComplexScript method. Specifies font name for ComplexScript characters in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.words.themes/themefonts/get_complexscript/
